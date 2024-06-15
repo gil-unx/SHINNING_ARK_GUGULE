@@ -1,0 +1,1222 @@
+[0314]
+*****************
+[00000000][キルマリア,char_007 Kilmaria]
+A long time ago, while thriving in this world,
+A civilization that suddenly disappeared from the center stage of history.
+Enfield.
+------------------------------------------------
+[00000001][キルマリア,char_007 Kilmaria]
+For many years, the cause of its demise was
+It has been considered a mystery. but……
+------------------------------------------------
+[00000002][キルマリア,char_007 Kilmaria]
+If this island is as I guess,
+The achievements of ancient civilizations and the species that live there
+What if it was an “ark” for preservation!
+------------------------------------------------
+[00000003][ベルベット,char_008 Velvet]
+The mystery of the destruction of ancient civilizations and how to obtain their "power"
+Maybe you can find a clue,
+I see?
+------------------------------------------------
+[00000004][キルマリア,char_007 Kilmaria]
+I can't say anything about power,
+It can be said that there are many possibilities regarding the mystery of destruction.
+------------------------------------------------
+[00000005][リアン,char_514]
+Is it true that Panis-chan is an ancient person?
+------------------------------------------------
+[00000006][キルマリア,char_007 Kilmaria]
+I can't say anything about that either. But everywhere in the ruins
+What are the records of "winged people" left behind and the characteristics of Mr. Panis?
+There are many matching parts.
+------------------------------------------------
+[00000007][アダム,char_006 a-dam]
+According to my analysis,
+Approximately 60% of their physical characteristics appear to be the same.
+------------------------------------------------
+[00000008][リアン,char_514]
+Well...
+What do you mean?
+------------------------------------------------
+[00000009][アダム,char_006 a-dam]
+In other words, Mr. Panis is an ancient person...
+The possibility of being the only survivor cannot be dismissed.
+That's it.
+------------------------------------------------
+[00000010][ジンガ,char_005 zynga]
+The only survivor?
+------------------------------------------------
+[00000011][マイア,char_503]
+Well, Panis-chan's family and relatives are now...
+Are you nowhere?
+------------------------------------------------
+[00000012][アダム,char_006 a-dam]
+As of now, I haven't found it.
+------------------------------------------------
+[00000013][ジンガ,char_005 zynga]
+Really……
+------------------------------------------------
+[00000014][フリード,char_001 Fried]
+Zynga? what happened?
+Is there something on my face?
+------------------------------------------------
+[00000015][ジンガ,char_005 zynga]
+No, that's not the case.
+However, the fact that you found Panis
+I thought it might be some kind of coincidence.
+------------------------------------------------
+[00000016][シャノン,char_004 Shannon]
+...That's right.
+------------------------------------------------
+[00000017][ジンガ,char_005 zynga]
+Freed was also alone when he was a baby.
+Apparently he came to this island.
+------------------------------------------------
+[00000018][シャノン,char_004 Shannon]
+I remember that day very well.
+I received a message from the village chief about a crying baby.
+Freed was entrusted to me...
+------------------------------------------------
+[00000019][シャノン,char_004 Shannon]
+"Please be this child's big sister"
+That's what I was told.
+------------------------------------------------
+[00000020][ガルゼー,char_501]
+Hehe, that happened to me too.
+Freed, who was lonely for the rest of his life, washed up on this island.
+The moment I found his family.
+------------------------------------------------
+[00000021][フリード,char_001 Fried]
+I agree. What was your life like before you came here?
+I don't understand at all...
+------------------------------------------------
+[00000022][フリード,char_001 Fried]
+I came to this island,
+Shannon, uncles, aunts,
+And I'm really glad to have met everyone.
+------------------------------------------------
+[00000023][フリード,char_001 Fried]
+So, regarding Panis,
+I would be happy if you think the same way as me...
+------------------------------------------------
+[00000024][シャノン,char_004 Shannon]
+Oh, then Freed...
+more solid
+I have to be your big brother.
+------------------------------------------------
+[00000025][シャノン,char_004 Shannon]
+Why don't you use me as a role model and do your best?
+Freed brother!
+------------------------------------------------
+[00000026][リアン,char_514]
+Oh my, Shannon is my role model.
+Don't worry a little.
+------------------------------------------------
+[00000027][シャノン,char_004 Shannon]
+Hey mom! What does that mean?
+------------------------------------------------
+[00000028][マイア,char_503]
+Of course, Freed-kun
+Not just Shannon, but everyone in the village.
+I need to take care of Panis-chan.
+------------------------------------------------
+[00000029][マイア,char_503]
+The children of the village are taken care of by everyone in the village.
+That's the way this village works, right?
+------------------------------------------------
+[00000030][ガルゼー,char_501]
+Hmm. That's right. I was confused at first, but
+Panis-chan is now a worthy member of the village.
+------------------------------------------------
+[00000031][ガルゼー,char_501]
+In a circle where everyone helps and supports each other,
+Because it's an important part.
+In fact, this village has been saved by her many times.
+------------------------------------------------
+[00000032][ガルゼー,char_501]
+Moreover, now we are faced with the huge task of reconstruction.
+Working together with new friends more than ever before
+I have to go. It would be so?
+------------------------------------------------
+[00000033][パニス,char_002 Panis]
+picture? Sorry, Panis, I wasn't listening.
+------------------------------------------------
+[00000034][ガルゼー,char_501]
+nothing?
+------------------------------------------------
+[00000035][パニス,char_002 Panis]
+Hey, Panis, you caught a weird bug!
+So I kept watching it.
+------------------------------------------------
+[00000036][ガルゼー,char_501]
+Ah, I see I see. However, if you frighten the insect, it will release a stinky juice.
+It's dangerous, so throw it away.
+------------------------------------------------
+[00000037][パニス,char_002 Panis]
+picture?Panis stinks!
+------------------------------------------------
+[00000038][シャノン,char_004 Shannon]
+It's time for Panis!
+------------------------------------------------
+[00000039][フリード,char_001 Fried]
+Hahahahaha!
+------------------------------------------------
+[00000040][ガルゼー,char_501]
+Wahahahahaha!
+------------------------------------------------
+[00000041][ジンガ,char_005 zynga]
+Hahahahaha!
+------------------------------------------------
+[00000042][リアン,char_514]
+Hahahahaha!
+------------------------------------------------
+[00000043][マイア,char_503]
+Hahahahaha!
+------------------------------------------------
+[00000044][ベルベット,char_008 Velvet]
+Hmm...
+------------------------------------------------
+[00000045][アダム,char_006 a-dam]
+Velvet-san, what happened?
+------------------------------------------------
+[00000046][ベルベット,char_008 Velvet]
+Well, there was some talk about the ruins as well.
+Panis, ancient civilization, and
+The relationship between the monsters attacking the village...
+------------------------------------------------
+[00000047][ベルベット,char_008 Velvet]
+After all, what's going on?
+I don't think it's completely unrelated though.
+------------------------------------------------
+[00000048][キルマリア,char_007 Kilmaria]
+I have no idea.
+That is a challenge for the future.
+In any case, further investigation of the ruins is required.
+------------------------------------------------
+[00000049][ベルベット,char_008 Velvet]
+……Oh so.
+Well, I thought that might be the case.
+------------------------------------------------
+[00000050][キルマリア,char_007 Kilmaria]
+Along with the reconstruction of the village, Mr. Freed and his friends will
+Please continue to help with the investigation.
+I have to ask...
+------------------------------------------------
+[00000051][ベルベット,char_008 Velvet]
+Well, I guess they'll do it even if I don't tell them.
+Those guys...
+------------------------------------------------
+[00000052][キルマリア,char_007 Kilmaria]
+everyone! Let's go!
+------------------------------------------------
+[00000053][シャノン,char_004 Shannon]
+Regarding Kilmaria-san's words and actions,
+I'm getting used to it.
+what? 
+------------------------------------------------
+[00000054][キルマリア,char_007 Kilmaria]
+Yeah. According to the map, most of the northern part of the island is
+It seems to be an unexplored area.
+------------------------------------------------
+[00000055][ジンガ,char_005 zynga]
+The northern part of the island?
+By any chance, are you talking about beyond the Kailash Mountains?
+------------------------------------------------
+[00000056][ジンガ,char_005 zynga]
+I'm sorry, but that's impossible.
+Those mountains are too steep.
+It's not something you can really overcome.
+------------------------------------------------
+[00000057][キルマリア,char_007 Kilmaria]
+What so?
+------------------------------------------------
+[00000058][フリード,char_001 Fried]
+I think Zynga is right.
+I've even been close to it once, but...
+It would be very difficult to climb that way.
+------------------------------------------------
+[00000059][キルマリア,char_007 Kilmaria]
+Up close?
+How close did you get?
+------------------------------------------------
+[00000060][フリード,char_001 Fried]
+As for how far, I haven't gotten very close.
+I didn't have anything else to do,
+There are only monsters around.
+------------------------------------------------
+[00000061][キルマリア,char_007 Kilmaria]
+Hmmmm.
+So, I haven't gone to the foot of the mountain.
+It is that?
+------------------------------------------------
+[00000062][ベルベット,char_008 Velvet]
+That's the way I carry it around. What do you want to say?
+------------------------------------------------
+[00000063][アダム,char_006 a-dam]
+Maybe I've discovered a route that crosses the mountain range.
+Does that mean?
+------------------------------------------------
+[00000064][キルマリア,char_007 Kilmaria]
+Fufufufufu…
+------------------------------------------------
+[00000065][フリード,char_001 Fried]
+Really!? How on earth?
+------------------------------------------------
+[00000066][キルマリア,char_007 Kilmaria]
+The ruins on this island are truly a treasure trove of history.
+The activities of various ancestors,
+They are stored in piles like mountains.
+------------------------------------------------
+[00000067][アダム,char_006 a-dam]
+So what's in that record?
+------------------------------------------------
+[00000068][キルマリア,char_007 Kilmaria]
+yes! When trying to cross the Kailash Range
+I found a note.
+------------------------------------------------
+[00000069][キルマリア,char_007 Kilmaria]
+According to it, it passes through the mountains,
+There is a cave that you can go through to the north...
+------------------------------------------------
+[00000070][ジンガ,char_005 zynga]
+Isn't it amazing!
+------------------------------------------------
+[00000071][鋼鱗丸,char_530]
+Moi!
+------------------------------------------------
+[00000072][キルマリア,char_007 Kilmaria]
+There's just a problem...
+This person can actually reach the north side.
+Apparently it couldn't be done.
+------------------------------------------------
+[00000073][キルマリア,char_007 Kilmaria]
+My path was blocked and I had no choice but to turn back.
+It was written in the notebook.
+------------------------------------------------
+[00000074][シャノン,char_004 Shannon]
+Is there a formidable monster?
+------------------------------------------------
+[00000075][キルマリア,char_007 Kilmaria]
+Maybe so.
+But if we're all together, there's no problem!
+please!
+------------------------------------------------
+[00000076][ジンガ,char_005 zynga]
+got it. 
+------------------------------------------------
+[00000077][フリード,char_001 Fried]
+It's fine, is not it. I'm also curious about what's on the other side of the mountains.
+------------------------------------------------
+[00000078][キルマリア,char_007 Kilmaria]
+Mr. Freed! thank you!
+So let's go!
+------------------------------------------------
+[00000079][フリード,char_001 Fried]
+Amazing, there's a gaping hole in the ceiling...
+------------------------------------------------
+[00000080][シャノン,char_004 Shannon]
+I wonder why it turned out like this...
+------------------------------------------------
+[00000081][ベルベット,char_008 Velvet]
+Hmm...
+------------------------------------------------
+[00000082][ジンガ,char_005 zynga]
+what up? 
+------------------------------------------------
+[00000083][ベルベット,char_008 Velvet]
+The rocks around here look pretty burnt.
+Then look at this.
+------------------------------------------------
+[00000084][シャノン,char_004 Shannon]
+Is this...a stalactite?
+------------------------------------------------
+[00000085][ベルベット,char_008 Velvet]
+That doesn't seem to be the case.
+It didn't take a long time to become like this,
+I guess it was melted by the heat and became like this.
+------------------------------------------------
+[00000086][シャノン,char_004 Shannon]
+picture? 
+------------------------------------------------
+[00000087][アダム,char_006 a-dam]
+It looks like Velvet's guess is correct.
+Traces of thermal metamorphosis can be seen.
+------------------------------------------------
+[00000088][シャノン,char_004 Shannon]
+What?! Melting rocks to make them look like this?
+How high is your fever?
+------------------------------------------------
+[00000089][ベルベット,char_008 Velvet]
+Even a volcanic eruption wouldn't turn out like this.
+However, according to what I've heard...
+------------------------------------------------
+[00000090][ベルベット,char_008 Velvet]
+In the era of ancient civilizations, metals harder than iron were
+Shatter with a light hotter than lava,
+Apparently there was such a weapon.
+------------------------------------------------
+[00000091][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000092][ジンガ,char_005 zynga]
+what up? 
+------------------------------------------------
+[00000093][フリード,char_001 Fried]
+...When I imagined it, I was horrified.
+A battle using such weapons is
+I wonder how terrifying it must have been.
+------------------------------------------------
+[00000094][シャノン,char_004 Shannon]
+...That's right. It's scary just thinking about it.
+But then, the rock walls around here,
+Did you mean you were burned by that kind of weapon?
+------------------------------------------------
+[00000095][シャノン,char_004 Shannon]
+...That big hole in the ceiling!?
+------------------------------------------------
+[00000096][キルマリア,char_007 Kilmaria]
+That's possible.
+When I looked around this area,
+It seems that there were some ruins scattered about...
+------------------------------------------------
+[00000097][キルマリア,char_007 Kilmaria]
+Compared to other regions,
+It seems that many of them are severely damaged.
+Considering that...
+------------------------------------------------
+[00000098][キルマリア,char_007 Kilmaria]
+This area is subject to some kind of attack.
+Isn't it reasonable to assume that he was exposed?
+------------------------------------------------
+[00000099][アダム,char_006 a-dam]
+In other words, this island was once
+Maybe he was involved in a big battle.
+It is that.
+------------------------------------------------
+[00000100][キルマリア,char_007 Kilmaria]
+that's right.
+Furthermore, from here on out, it's completely up to me.
+I'm just imagining it...
+------------------------------------------------
+[00000101][キルマリア,char_007 Kilmaria]
+The cause of the collapse of ancient civilizations was
+I think that was the battle.
+------------------------------------------------
+[00000102][キルマリア,char_007 Kilmaria]
+And there is speculation that this island is an "ark".
+If it's correct...
+------------------------------------------------
+[00000103][キルマリア,char_007 Kilmaria]
+"The Ark" is based on that battle,
+It was probably created to prevent the extinction of all life.
+------------------------------------------------
+[00000104][アダム,char_006 a-dam]
+I see. If war is the cause, predict destruction;
+There must have been enough time to prepare the ark.
+------------------------------------------------
+[00000105][アダム,char_006 a-dam]
+However, looking at the surrounding situation,
+It seems that the island itself was not spared from the war.
+------------------------------------------------
+[00000106][ベルベット,char_008 Velvet]
+Hmm...
+I see.
+------------------------------------------------
+[00000107][フリード,char_001 Fried]
+Something like that happened a long time ago...
+------------------------------------------------
+[00000108][キルマリア,char_007 Kilmaria]
+Regarding the current story and the “Ark”,
+This is just my speculation.
+------------------------------------------------
+[00000109][キルマリア,char_007 Kilmaria]
+What actually happened is
+I have to investigate further...
+------------------------------------------------
+[00000110][ジンガ,char_005 zynga]
+Further investigation...?
+It seems like there's still something deep down there,
+what will you do?
+------------------------------------------------
+[00000111][キルマリア,char_007 Kilmaria]
+Honestly, just by looking into this area,
+It seems like it will take a while,
+I'll leave it to you to decide whether to go or go back.
+------------------------------------------------
+[00000112][アダム,char_006 a-dam]
+Mr. Freed, what should we do?
+------------------------------------------------
+[00000113][フリード,char_001 Fried]
+...Let's go home today.
+I feel kind of bad here.
+------------------------------------------------
+[00000114][フリード,char_001 Fried]
+Maybe it's because I heard about such a weapon earlier.
+I don't know, but I feel like it could be dangerous if I proceed carelessly.
+------------------------------------------------
+[00000115][キルマリア,char_007 Kilmaria]
+is that so. From here on out, it's uncharted territory.
+You might want to prepare yourself better.
+------------------------------------------------
+[00000116][ベルベット,char_008 Velvet]
+That's right. Well then, would you like to go back?
+------------------------------------------------
+[00000117][アダム,char_006 a-dam]
+Hello, Mr. Freed.
+Just like Kilmaria
+You can see it here.
+------------------------------------------------
+[00000118][フリード,char_001 Fried]
+what happened? 
+------------------------------------------------
+[00000119][キルマリア,char_007 Kilmaria]
+Actually, it's about time to go beyond the Kailash Mountains.
+I came to see if I could go.
+------------------------------------------------
+[00000120][シャノン,char_004 Shannon]
+Is that so? 
+------------------------------------------------
+[00000121][キルマリア,char_007 Kilmaria]
+On the other side, many untouched ruins and artifacts remain.
+I think it has remained as it was in ancient times.
+It seems.
+------------------------------------------------
+[00000122][キルマリア,char_007 Kilmaria]
+Having witnessed such things,
+There was something different about Adam.
+I was wondering if there would be a reaction.
+------------------------------------------------
+[00000123][アダム,char_006 a-dam]
+That's why he decided to come to me for advice.
+------------------------------------------------
+[00000124][パニス,char_002 Panis]
+Does that mean Adam remembers something?
+What do you remember?
+------------------------------------------------
+[00000125][アダム,char_006 a-dam]
+Unfortunately, my storage device has been failing for a long time, so
+I don't think I will be able to meet your expectations, but I will try my best.
+------------------------------------------------
+[00000126][シャノン,char_004 Shannon]
+Adam...don't push yourself too hard.
+------------------------------------------------
+[00000127][フリード,char_001 Fried]
+Anyway, let's go.
+I'm curious about what happens beyond the cave.
+------------------------------------------------
+[00000128][アダム,char_006 a-dam]
+…………
+------------------------------------------------
+[00000129][パニス,char_002 Panis]
+Adam?
+------------------------------------------------
+[00000130][アダム,char_006 a-dam]
+No, there's nothing special about me...
+------------------------------------------------
+[00000131][パニス,char_002 Panis]
+I do not think so……
+Adam, I don't feel well.
+------------------------------------------------
+[00000132][鋼鱗丸,char_530]
+Too...
+------------------------------------------------
+[00000133][ベルベット,char_008 Velvet]
+You know Adam's expression so well.
+I can't tell the difference at all.
+------------------------------------------------
+[00000134][パニス,char_002 Panis]
+yes?You know Kourinmaru too, right?
+------------------------------------------------
+[00000135][鋼鱗丸,char_530]
+Moi!
+------------------------------------------------
+[00000136][フリード,char_001 Fried]
+Panis and Kourinmaru might be right.
+Adam, what's wrong?
+------------------------------------------------
+[00000137][アダム,char_006 a-dam]
+Actually, I'm talking about the cherubim I mentioned earlier...
+Judging from the identification signal, that aircraft seems to be...
+It seems that it was a model that belonged to the same camp as me.
+------------------------------------------------
+[00000138][アダム,char_006 a-dam]
+That means that I am the same as that aircraft.
+Does this mean that it is a weapon left behind by an ancient civilization?
+------------------------------------------------
+[00000139][ジンガ,char_005 zynga]
+Were you concerned about that?
+------------------------------------------------
+[00000140][アダム,char_006 a-dam]
+I be concerned? However, for some reason, this has happened since a while ago.
+It occupies my memory.
+------------------------------------------------
+[00000141][パニス,char_002 Panis]
+Adam, it's okay.
+Adam is not a bad boy!
+I'm Panis' friend!
+------------------------------------------------
+[00000142][鋼鱗丸,char_530]
+Moi! Moimoi!
+------------------------------------------------
+[00000143][パニス,char_002 Panis]
+Look, Kourinmaru said that too, right?
+Adam is different from the scary older sister from earlier.
+------------------------------------------------
+[00000144][キルマリア,char_007 Kilmaria]
+that's right. Even if it was a combat weapon, for what purpose?
+I don't know if he was on this island.
+------------------------------------------------
+[00000145][キルマリア,char_007 Kilmaria]
+Maybe I'll desperately try to escape from the war,
+The people who were trying to connect the fate of the species to the future,
+Maybe he was the one helping?
+------------------------------------------------
+[00000146][アダム,char_006 a-dam]
+Maybe, but...
+I don't know which side I was on
+I don't understand. 
+------------------------------------------------
+[00000147][キルマリア,char_007 Kilmaria]
+Is that so... but...
+No, wait...?
+------------------------------------------------
+[00000148][キルマリア,char_007 Kilmaria]
+Adam with cherubim
+If he's in the same camp,
+Why did you attack Adam?
+------------------------------------------------
+[00000149][キルマリア,char_007 Kilmaria]
+Adam and Cherubim
+If both were located on the island,
+Is the purpose for defense?
+------------------------------------------------
+[00000150][ベルベット,char_008 Velvet]
+defense? Cherubim should be used for defense.
+Isn't that too aggressive?
+------------------------------------------------
+[00000151][ベルベット,char_008 Velvet]
+That armament is more important than protecting somewhere.
+I'm suited for destroying things, right? absolute.
+------------------------------------------------
+[00000152][キルマリア,char_007 Kilmaria]
+I agree. I don't understand...
+------------------------------------------------
+[00000153][ジンガ,char_005 zynga]
+Even though Adam doesn't remember.
+I don't know if you thought that.
+Why not raise the price for today?
+------------------------------------------------
+[00000154][ジンガ,char_005 zynga]
+I also defeated the Cherubim,
+For now, the threat is gone.
+I guess I'll come back and check it out again.
+------------------------------------------------
+[00000155][フリード,char_001 Fried]
+I agree.
+Let's do that, Mr. Kilmaria.
+------------------------------------------------
+[00000156][キルマリア,char_007 Kilmaria]
+……yes. I'll do a more detailed investigation next time.
+------------------------------------------------
+[00000157][フリード,char_001 Fried]
+How are you, Hans?
+------------------------------------------------
+[00000158][ハンス,char_510]
+Oh, the other day was bad.
+Thanks to you, I'm so excited.
+------------------------------------------------
+[00000159][パニス,char_002 Panis]
+good! 
+------------------------------------------------
+[00000160][ハンス,char_510]
+Hehehe, I also went to Panis the other day.
+You showed me your uncool side.
+I wouldn't have done that in the past, but...
+------------------------------------------------
+[00000161][ハンス,char_510]
+Even though I went through the cave and saw the other side,
+I couldn't believe I was going to break down on the way home.
+It's not very cool.
+------------------------------------------------
+[00000162][キルマリア,char_007 Kilmaria]
+Did you escape the cave? On the way home...?
+So, Mr. Hans,
+Did you go all the way to the Kailash Mountains?
+------------------------------------------------
+[00000163][ベルベット,char_008 Velvet]
+Really!? What did you see there?
+------------------------------------------------
+[00000164][ハンス,char_510]
+No, it was a terrible place.
+Look beyond the mountains.
+That's something I rarely set foot in.
+------------------------------------------------
+[00000165][ハンス,char_510]
+After all, it's an endless wasteland no matter where you go.
+If there are no plants growing,
+There aren't many water holes.
+------------------------------------------------
+[00000166][ハンス,char_510]
+I happened to find an oasis
+Although it seems good,
+If it wasn't for that, I'd be dead.
+------------------------------------------------
+[00000167][ベルベット,char_008 Velvet]
+Were there any ruins?
+------------------------------------------------
+[00000168][ハンス,char_510]
+Remains? 
+------------------------------------------------
+[00000169][キルマリア,char_007 Kilmaria]
+Really?
+So my thoughts are
+Was I wrong...?
+------------------------------------------------
+[00000170][ハンス,char_510]
+There are no ruins in a place like that.
+Even ancient people would live there as they liked.
+You wouldn't think so.
+------------------------------------------------
+[00000171][キルマリア,char_007 Kilmaria]
+Hmm...
+------------------------------------------------
+[00000172][ハンス,char_510]
+oh? She looks like she wants to see it for herself.
+I understand. Hehehe, you have nice eyes.
+------------------------------------------------
+[00000173][キルマリア,char_007 Kilmaria]
+yes!Mr. Freed, everyone...
+Could you do me a favor this time too?
+------------------------------------------------
+[00000174][ベルベット,char_008 Velvet]
+Well, I thought you'd say that.
+What to do? 
+------------------------------------------------
+[00000175][フリード,char_001 Fried]
+Of course I'll go! When you get this far,
+I want to see the other side too!
+------------------------------------------------
+[00000176][ベルベット,char_008 Velvet]
+What's going on with this?
+As the sun sets, the ruins are visible.
+I sank to the bottom of the water...
+------------------------------------------------
+[00000177][ジンガ,char_005 zynga]
+Apparently, the influence of the tides
+Looks like you're getting it.
+The sea around here should be at high tide by now.
+------------------------------------------------
+[00000178][アダム,char_006 a-dam]
+I see, at high tide,
+Water returns to the dried up pond
+Is that so?
+------------------------------------------------
+[00000179][キルマリア,char_007 Kilmaria]
+In other words, what is the "oasis" that Hans was talking about?
+This is what it meant.
+------------------------------------------------
+[00000180][シャノン,char_004 Shannon]
+Oh, Kilmaria.
+Have you finished investigating the ruins?
+------------------------------------------------
+[00000181][キルマリア,char_007 Kilmaria]
+Yeah. Well, I've finished investigating the wreckage.
+------------------------------------------------
+[00000182][アダム,char_006 a-dam]
+What did you think of the results?
+------------------------------------------------
+[00000183][キルマリア,char_007 Kilmaria]
+Just like the ruins near the great fault,
+It seems that this too has been destroyed.
+------------------------------------------------
+[00000184][キルマリア,char_007 Kilmaria]
+There were signs of some kind of explosion or exposure to high heat.
+It was left everywhere.
+------------------------------------------------
+[00000185][フリード,char_001 Fried]
+So, a long time ago,
+So there was a big battle on this island?
+------------------------------------------------
+[00000186][キルマリア,char_007 Kilmaria]
+I agree. A deliberate attack on this island
+I'm sure it was added on a large scale as well.
+------------------------------------------------
+[00000187][ベルベット,char_008 Velvet]
+But why?　
+The reason why this island is exposed to so much attack is...
+What on earth is that?
+------------------------------------------------
+[00000188][ベルベット,char_008 Velvet]
+This island is an "ark", right?
+Aren't we supposed to avoid combat as much as possible?
+Was there someone who really wanted to destroy the Ark?
+------------------------------------------------
+[00000189][キルマリア,char_007 Kilmaria]
+If this island is meant to preserve biological species,
+The purpose of attacks against it is to annihilate it.
+That would be the answer.
+------------------------------------------------
+[00000190][キルマリア,char_007 Kilmaria]
+However, what exactly was the battle that led to that...
+...No, wait a moment.
+What if the original premise was wrong?
+------------------------------------------------
+[00000191][キルマリア,char_007 Kilmaria]
+This island is not like that,
+What if it has a different purpose?
+I feel like the story is going to change a lot.
+------------------------------------------------
+[00000192][キルマリア,char_007 Kilmaria]
+This is a little
+I need to reconsider my hypothesis...
+------------------------------------------------
+[00000193][フリード,char_001 Fried]
+@fcFFAAFFAA (Isn't this island meant to protect species?
+If so, what on earth is this island...? )
+------------------------------------------------
+[00000194][フリード,char_001 Fried]
+@fcFFAAFFAA (And Panis isn't an ancient person either.
+I guess that means...
+If that's the case, what about Panis...?)
+------------------------------------------------
+[00000195][フリード,char_001 Fried]
+Hello Kilmaria,
+------------------------------------------------
+[00000196][シャノン,char_004 Shannon]
+Beyond the Kailash Mountains
+I thought it was about time I wanted to go,
+I brought everyone.
+------------------------------------------------
+[00000197][ベルベット,char_008 Velvet]
+Well, there definitely seems to be something over there.
+We can't leave things like this alone.
+------------------------------------------------
+[00000198][キルマリア,char_007 Kilmaria]
+I am ready.
+Well then, let's go.
+------------------------------------------------
+[00000199][パニス,char_002 Panis]
+Kill Maria! Let's go!
+------------------------------------------------
+[00000200][キルマリア,char_007 Kilmaria]
+…………
+------------------------------------------------
+[00000201][ジンガ,char_005 zynga]
+what up? 
+------------------------------------------------
+[00000202][キルマリア,char_007 Kilmaria]
+No, if everyone gets ahead of me like that,
+What should I say...
+------------------------------------------------
+[00000203][キルマリア,char_007 Kilmaria]
+However, I can tell you that
+Thank you very much!
+I was planning on asking from here.
+------------------------------------------------
+[00000204][キルマリア,char_007 Kilmaria]
+So let's head over!
+------------------------------------------------
+[00000205][ジンガ,char_005 zynga]
+here……?
+------------------------------------------------
+[00000206][ベルベット,char_008 Velvet]
+Looks like ruins...
+There's a big stone monument and a stone statue...
+------------------------------------------------
+[00000207][パニス,char_002 Panis]
+It's true. 
+------------------------------------------------
+[00000208][鋼鱗丸,char_530]
+Moi! Moimoi!
+------------------------------------------------
+[00000209][フリード,char_001 Fried]
+Panis! Don't go there!
+------------------------------------------------
+[00000210][パニス,char_002 Panis]
+picture? 
+------------------------------------------------
+[00000211][ジンガ,char_005 zynga]
+That's right. This time, Panis will be turned into a stone statue.
+I have to keep it away.
+------------------------------------------------
+[00000212][シャノン,char_004 Shannon]
+Panis is a good girl,
+Shall I go over there with my sister?
+Well...Kilmaria-san is at work.
+------------------------------------------------
+[00000213][シャノン,char_004 Shannon]
+Look, Kill Maria, you're being serious.
+Are you investigating the stone monument?
+So I have to try not to get in the way. hey?
+------------------------------------------------
+[00000214][パニス,char_002 Panis]
+picture?
+------------------------------------------------
+[00000215][鋼鱗丸,char_530]
+Too...too...
+------------------------------------------------
+[00000216][パニス,char_002 Panis]
+that?Why are you screaming so much?
+------------------------------------------------
+[00000217][アダム,char_006 a-dam]
+What happened?
+It seems like you're afraid of something.
+------------------------------------------------
+[00000218][ヴァイオラ,char_003 Viola]
+…………
+------------------------------------------------
+[00000219][ベルベット,char_008 Velvet]
+picture!?
+------------------------------------------------
+[00000220][鋼鱗丸,char_530]
+Yes!
+------------------------------------------------
+[00000221][キルマリア,char_007 Kilmaria]
+Viola...!
+------------------------------------------------
+[00000222][ヴァイオラ,char_003 Viola]
+...You understand, right?
+What did I come here for?
+------------------------------------------------
+[00000223][フリード,char_001 Fried]
+It's the same thing no matter how many times I come!
+I won't let you touch Panis with a single finger!
+------------------------------------------------
+[00000224][ジンガ,char_005 zynga]
+Somehow, I was able to get rid of Viola this time too.
+Who the hell is that guy...?
+------------------------------------------------
+[00000225][フリード,char_001 Fried]
+here we go……
+I have no idea.
+------------------------------------------------
+[00000226][シャノン,char_004 Shannon]
+that? 
+------------------------------------------------
+[00000227][アダム,char_006 a-dam]
+Immediately after the battle ended,
+I went to the stone monument over there.
+------------------------------------------------
+[00000228][アダム,char_006 a-dam]
+...Ah, no, it looks like you're back.
+------------------------------------------------
+[00000229][キルマリア,char_007 Kilmaria]
+What on earth is this...?
+------------------------------------------------
+[00000230][キルマリア,char_007 Kilmaria]
+ow!
+------------------------------------------------
+[00000231][ベルベット,char_008 Velvet]
+What's wrong, Killmaria?
+I made a strange face.
+------------------------------------------------
+[00000232][キルマリア,char_007 Kilmaria]
+That's... I can't read it.
+The entire stone monument...not a single word!
+------------------------------------------------
+[00000233][アダム,char_006 a-dam]
+Are the letters worn out?
+------------------------------------------------
+[00000234][キルマリア,char_007 Kilmaria]
+No, the letters themselves remain clearly, but
+The letters themselves... are mine.
+It's something I've never seen before!
+------------------------------------------------
+[00000235][ジンガ,char_005 zynga]
+What does it mean?
+Are you familiar with the words of ancient civilizations?
+------------------------------------------------
+[00000236][キルマリア,char_007 Kilmaria]
+yes. If it was written in letters, I could decipher it at least once.
+Apparently those characters are from an unknown language...
+------------------------------------------------
+[00000237][ベルベット,char_008 Velvet]
+Does that mean it's not a word used in ancient civilizations?
+So, what exactly is this word?
+------------------------------------------------
+[00000238][ベルベット,char_008 Velvet]
+Moreover, the fact that such words remained,
+Perhaps this ruins
+Does that mean it's not something left behind by an ancient civilization?
+------------------------------------------------
+[00000239][キルマリア,char_007 Kilmaria]
+I can't say anything yet.
+Maybe it's just my lack of knowledge when it comes to letters.
+I can't help it.
+------------------------------------------------
+[00000240][ジンガ,char_005 zynga]
+However, the ruins are not from an ancient civilization;
+If it was left behind by someone unknown...
+What will happen to this island in the end?
+------------------------------------------------
+[00000241][ジンガ,char_005 zynga]
+Besides, what on earth is Panis...?
+------------------------------------------------
+[00000242][ベルベット,char_008 Velvet]
+The true identity of Panis...?
+------------------------------------------------
+[00000243][パニス,char_002 Panis]
+picture? 
+------------------------------------------------
+[00000244][シャノン,char_004 Shannon]
+It's nothing.
+It's okay, Panis.
+------------------------------------------------
+[00000245][ジンガ,char_005 zynga]
+Oh, oh. It's nothing special.
+But...
+------------------------------------------------
+[00000246][フリード,char_001 Fried]
+Jinga, calm down.
+Aren't you feeling strangely upset?
+It doesn't look like the usual Zynga, does it?
+------------------------------------------------
+[00000247][ジンガ,char_005 zynga]
+Really……? However, I am concerned about Panis.
+I'm sure...
+------------------------------------------------
+[00000248][フリード,char_001 Fried]
+Just calm down.
+What is the true identity of Panis?
+Nothing has changed from before, right?
+------------------------------------------------
+[00000249][フリード,char_001 Fried]
+You know, that's what Panis always says.
+"Panis is panis," he said.
+------------------------------------------------
+[00000250][シャノン,char_004 Shannon]
+oh yeah! Besides, what a nice girl Panis is.
+Everyone knows her very well, right?
+------------------------------------------------
+[00000251][ベルベット,char_008 Velvet]
+Well, that's right.
+------------------------------------------------
+[00000252][キルマリア,char_007 Kilmaria]
+I understand that too.
+------------------------------------------------
+[00000253][アダム,char_006 a-dam]
+As far as I know, Mr. Panis' problem behavior is
+It has never been observed.
+------------------------------------------------
+[00000254][ジンガ,char_005 zynga]
+...Certainly, that's true.
+As you said, Panis is a good boy.
+------------------------------------------------
+[00000255][ジンガ,char_005 zynga]
+Besides, just because Panis' true identity was different from what I imagined,
+It's not like anything will change.
+------------------------------------------------
+[00000256][ジンガ,char_005 zynga]
+No, it was bad.
+I have a strange feeling in my chest.
+I was just thinking too weirdly...
+------------------------------------------------
+[00000257][ジンガ,char_005 zynga]
+nothing!?
+------------------------------------------------
+[00000258][パニス,char_002 Panis]
+Another earthquake?
+------------------------------------------------
+[00000259][ベルベット,char_008 Velvet]
+Hey……
+After an earthquake, most
+Strange things appear, right?
+------------------------------------------------
+[00000260][シャノン,char_004 Shannon]
+Hey, Velvet!
+that!
+------------------------------------------------
+[00000261][パニス,char_002 Panis]
+What was that voice from earlier...?
+Did he say something to Panis...?
+------------------------------------------------
+[00000262][パニス,char_002 Panis]
+Ah……
+------------------------------------------------
+[00000263][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000That...
+where is this?
+Who is there...?
+------------------------------------------------
+[00000264][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000 Panis...I've never seen it.
+that……? Panis, I know...
+------------------------------------------------
+[00000265][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000But why...?
+Panis, I don't know...
+------------------------------------------------
+[00000266][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000This song...?
+Should I sing...?
+------------------------------------------------
+[00000267][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000That's right...
+Got it...I'll try it...
+------------------------------------------------
+[00000268][ジンガ,char_005 zynga]
+What on earth is that voice just now?
+------------------------------------------------
+[00000269][キルマリア,char_007 Kilmaria]
+I heard it clearly.
+"Help me"...
+------------------------------------------------
+[00000270][ベルベット,char_008 Velvet]
+Why would a monster ask for help?
+Who are you going to ask for help?
+------------------------------------------------
+[00000271][アダム,char_006 a-dam]
+It seemed like he was calling out to Mr. Panis.
+I saw it...
+------------------------------------------------
+[00000272][シャノン,char_004 Shannon]
+Adam!? What are you saying all of a sudden?
+------------------------------------------------
+[00000273][ジンガ,char_005 zynga]
+No, if you ask me,
+It didn't seem that way.
+------------------------------------------------
+[00000274][シャノン,char_004 Shannon]
+Until Zynga!　What on earth are you guys?
+What do you want to do with Panis!?
+------------------------------------------------
+[00000275][ジンガ,char_005 zynga]
+I don't really want to do anything.
+It's just that I don't understand it anymore.
+------------------------------------------------
+[00000276][ジンガ,char_005 zynga]
+It's not just about Panis.
+About the ruins, and about the island itself...
+------------------------------------------------
+[00000277][フリード,char_001 Fried]
+About Panis... about the island itself...
+------------------------------------------------
+[00000278][パニス,char_002 Panis]
+...Freed.
+------------------------------------------------
+[00000279][フリード,char_001 Fried]
+Huh!? Ah, ah, Panis.
+what's wrong with you?
+------------------------------------------------
+[00000280][シャノン,char_004 Shannon]
+Also, you want to go to the village ruins, right?
+------------------------------------------------
+[00000281][パニス,char_002 Panis]
+Yeah. 
+------------------------------------------------
+[00000282][フリード,char_001 Fried]
+Ah, ah...I understand.
+------------------------------------------------
+[00000283][ジンガ,char_005 zynga]
+…………
+------------------------------------------------
+[00000284][]
+Dohas Iovs Jizui?
+------------------------------------------------
+[00000285][]
+Nime Puruhez Reply
+------------------------------------------------
+[00000286][]
+Ruhun U Dazavajiva
+Zaan Zui Dorwasuji
+------------------------------------------------
+[00000287][]
+Tonmau Monietoa Kutaat Likuirazui
+Don Envaton I Jazza
+------------------------------------------------
+[00000288][]
+Dovilla's Has Iovs Jihuizui Toy
+------------------------------------------------
+[00000289][]
+Uhan Eemi Purhez Lips
+Ripouille Hui
+------------------------------------------------
+[00000290][]
+Urohe? Wow?
+------------------------------------------------
+[00000291][シャノン,char_004 Shannon]
+What? What is it? This voice!
+------------------------------------------------
+[00000292][アダム,char_006 a-dam]
+It sounds like something is calling out to you.
+------------------------------------------------
+[00000293][ジンガ,char_005 zynga]
+Calling? What are you saying?
+Is this an ancient word?
+------------------------------------------------
+[00000294][キルマリア,char_007 Kilmaria]
+I-I don't understand. However, these words
+Both in the Enfield civilization era and in modern times,
+I don't think it exists anywhere.
+------------------------------------------------
+[00000295][アダム,char_006 a-dam]
+As far as I can hear at the moment,
+Also in my database
+This language is not registered.
+------------------------------------------------
+[00000296][ベルベット,char_008 Velvet]
+I feel like it sounds similar to the monster's voice from earlier...
+------------------------------------------------
+[00000297][フリード,char_001 Fried]
+But why such a voice...
+------------------------------------------------
+[00000298][パニス,char_002 Panis]
+…………
+------------------------------------------------
+[00000299][フリード,char_001 Fried]
+Panis...?
+By any chance, do you know anything?
+------------------------------------------------
+[00000300][パニス,char_002 Panis]
+picture……?Why do I hear this voice?
+What are you saying...
+------------------------------------------------
+[00000301][パニス,char_002 Panis]
+Panis, I don't understand...
+sorry……
+------------------------------------------------
+[00000302][ジンガ,char_005 zynga]
+However, it seems like he reacted to the song earlier...?
+------------------------------------------------
+[00000303][シャノン,char_004 Shannon]
+The voice...disappears...
+------------------------------------------------
+[00000304][パニス,char_002 Panis]
+a……
+------------------------------------------------
+[00000305][フリード,char_001 Fried]
+……Had disappeared.
+------------------------------------------------
+[00000306][ベルベット,char_008 Velvet]
+What on earth happened?
+------------------------------------------------
+[00000307][キルマリア,char_007 Kilmaria]
+I don't understand……
+As of now, I don't know anything...
+but……
+------------------------------------------------
+[00000308][キルマリア,char_007 Kilmaria]
+This island, ancient civilization, giant monsters,
+And the relationship with Mr. Panis...
+Looks like we need to reconsider from the beginning.
+------------------------------------------------
+[00000309][パニス,char_002 Panis]
+…………
+------------------------------------------------
+[00000310][ジンガ,char_005 zynga]
+…………
+------------------------------------------------
+[00000311][シャノン,char_004 Shannon]
+It's okay, Panis. do not worry.
+Nothing bad will happen...
+My sisters are with me...
+------------------------------------------------
+[00000312][パニス,char_002 Panis]
+Yeah……
+------------------------------------------------
+[00000313][フリード,char_001 Fried]
+@fcFFAAFFAA (Nothing bad will happen, huh...
+I really hope so...)
+------------------------------------------------
+

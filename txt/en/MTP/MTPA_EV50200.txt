@@ -1,0 +1,461 @@
+[0112]
+*****************
+[00000000][シャノン,char_004 Shannon]
+The animals are over there.
+We are so stiff and huddled together,
+What are you doing?
+------------------------------------------------
+[00000001][ジンガ,char_005 zynga]
+Looks like you're being attacked by a monster.
+They stick together in groups to protect themselves.
+------------------------------------------------
+[00000002][フリード,char_001 Fried]
+Before taking the animals home,
+We have to do something about that monster first.
+------------------------------------------------
+[00000003][シャノン,char_004 Shannon]
+Let's get this over with quickly.
+Let's go!
+------------------------------------------------
+[00000004][ジンガ,char_005 zynga]
+Did you manage to get rid of the monsters?
+------------------------------------------------
+[00000005][フリード,char_001 Fried]
+It looks like the animals are safe too.
+All that's left to do is take them back to the village.
+------------------------------------------------
+[00000006][シャノン,char_004 Shannon]
+Now I can finally bake bread!
+Let's go home early.
+------------------------------------------------
+[00000007][フリード,char_001 Fried]
+There are so many monsters today.
+------------------------------------------------
+[00000008][ジンガ,char_005 zynga]
+But I have to take care of them first.
+I can't get lumber.
+------------------------------------------------
+[00000009][シャノン,char_004 Shannon]
+This is where Freed comes in.
+Since there are so many opponents, we have to work hard.
+Go ahead and do it like someday.
+------------------------------------------------
+[00000010][フリード,char_001 Fried]
+Eh? Do I have to do it?
+That's tiring...
+------------------------------------------------
+[00000011][ジンガ,char_005 zynga]
+Hahaha. Well, that's it.
+Use the power of example to live up to Shannon's expectations.
+I don't think it will decrease.
+------------------------------------------------
+[00000012][フリード,char_001 Fried]
+It can't be helped.
+Well then, let's try it!
+------------------------------------------------
+[00000013][フリード,char_001 Fried]
+I finally got it done...
+I'm tired...
+------------------------------------------------
+[00000014][ジンガ,char_005 zynga]
+Well done, Freed.
+------------------------------------------------
+[00000015][シャノン,char_004 Shannon]
+There's no time to rest, Freed!
+We all carry lumber,
+Help out too!
+------------------------------------------------
+[00000016][フリード,char_001 Fried]
+Are you still working?
+Let me rest for a while...
+------------------------------------------------
+[00000017][パニス,char_002 Panis]
+Freed is amazing!
+Freed just now was so cool!
+------------------------------------------------
+[00000018][フリード,char_001 Fried]
+Oh, really? Thank you, Panis.
+If you say that,
+I suddenly feel better.
+------------------------------------------------
+[00000019][フリード,char_001 Fried]
+Alright, let's get excited and move the lumber!
+------------------------------------------------
+[00000020][アダム,char_006 a-dam]
+The presence of seeds was confirmed.
+We will now move on to the collection work.
+------------------------------------------------
+[00000021][フリード,char_001 Fried]
+hang on!
+Monsters are roaming around.
+I have to take care of that first.
+------------------------------------------------
+[00000022][アダム,char_006 a-dam]
+Clean up...Is this cleaning work?
+That work is not scheduled.
+------------------------------------------------
+[00000023][シャノン,char_004 Shannon]
+Cleaning up has a different meaning.
+This kid takes everything in stride.
+------------------------------------------------
+[00000024][パニス,char_002 Panis]
+It's dangerous when there are monsters,
+That means we'll beat him, right?
+------------------------------------------------
+[00000025][フリード,char_001 Fried]
+Such that.
+Adam, got it?
+------------------------------------------------
+[00000026][アダム,char_006 a-dam]
+I have confirmed the instructions.
+Now let's move on to eliminating monsters.
+------------------------------------------------
+[00000027][アダム,char_006 a-dam]
+Eliminate monsters.
+The surrounding area has been secured.
+------------------------------------------------
+[00000028][フリード,char_001 Fried]
+Now you can collect seeds with confidence.
+Adam, let's start.
+------------------------------------------------
+[00000029][パニス,char_002 Panis]
+Adam, let's go home with a lot!
+------------------------------------------------
+[00000030][アダム,char_006 a-dam]
+I got it.
+Seed collection work begins.
+------------------------------------------------
+[00000031][フリード,char_001 Fried]
+What a battle to steal the country!
+This island doesn't belong to anyone, but
+If you want to rule by force, that's a different story!
+------------------------------------------------
+[00000032][シャノン,char_004 Shannon]
+I won't let you do what you want!
+------------------------------------------------
+[00000033][レヴィン,char_009 Levin]
+Haha, I'm feeling good today too.
+You guys have to be like that.
+At least let me have fun!
+------------------------------------------------
+[00000034][レヴィン,char_009 Levin]
+Come on, let's go!!
+------------------------------------------------
+[00000035][レヴィン,char_009 Levin]
+There are many injured people...
+Is it about time?
+We can't afford to hold back on doing everything we can.
+------------------------------------------------
+[00000036][レヴィン,char_009 Levin]
+Reserve troops, move to the flank!
+Sanitation team! Send the injured away!
+The rest follow me!
+------------------------------------------------
+[00000037][フリード,char_001 Fried]
+Oops! Damn... that Levin guy.
+He always outsmarts me...
+------------------------------------------------
+[00000038][ジンガ,char_005 zynga]
+ah. He commanded an army somewhere.
+I don't know if there is.
+------------------------------------------------
+[00000039][シャノン,char_004 Shannon]
+Even the way you use words is sometimes elegant.
+Rumor has it that he was some prince.
+Maybe it's true after all?
+------------------------------------------------
+[00000040][フリード,char_001 Fried]
+Hmm...I guess so...
+------------------------------------------------
+[00000041][フリード,char_001 Fried]
+I managed to win...
+------------------------------------------------
+[00000042][アダム,char_006 a-dam]
+It looks like they managed to protect the island somehow.
+------------------------------------------------
+[00000043][レヴィン,char_009 Levin]
+Hehe...that's right. Not this time.
+But I can't believe I'm going to give up at this point.
+It's better not to even dream about it.
+------------------------------------------------
+[00000044][フリード,char_001 Fried]
+It's the same thing if I come again!
+No matter how many times or dozens of times, I'll drive you back and show you!
+------------------------------------------------
+[00000045][レヴィン,char_009 Levin]
+Hahahahaha!　You say it!
+I'll be back again, boy!
+------------------------------------------------
+[00000046][パニス,char_002 Panis]
+Freed.
+What is Gakko fix Zairyo?
+------------------------------------------------
+[00000047][フリード,char_001 Fried]
+When asked what kind of thing it is...
+Ordinary wood is fine, right?
+------------------------------------------------
+[00000048][ジンガ,char_005 zynga]
+Not just any tree is fine.
+Trees that are thick, straight, and have few branches are best.
+------------------------------------------------
+[00000049][フリード,char_001 Fried]
+Understood. But monsters are in the way.
+------------------------------------------------
+[00000050][ジンガ,char_005 zynga]
+The outlook is not effective here,
+Even if you defeat them, your friends will return immediately.
+It's a difficult place to fight.
+------------------------------------------------
+[00000051][シャノン,char_004 Shannon]
+Well then, let's get to the monsters.
+Let's clean it up!
+------------------------------------------------
+[00000052][フリード,char_001 Fried]
+Zynga, isn't this a safe way to search?
+------------------------------------------------
+[00000053][ジンガ,char_005 zynga]
+That's right.
+Okay, let's collect wood to fix the school.
+------------------------------------------------
+[00000054][シャノン,char_004 Shannon]
+I got it!
+------------------------------------------------
+[00000055][フリード,char_001 Fried]
+Do you really want to fight...
+it can not be helped.
+Everyone, let's go!
+------------------------------------------------
+[00000056][ジンガ,char_005 zynga]
+Ou!
+If the other party is interested, there is no need to hold back.
+I'll crush you all at once!
+------------------------------------------------
+[00000057][ベルベット,char_008 Velvet]
+Oh no, not anymore.
+Please don't look so scary, please?
+You can't be serious about crushing me, right?
+------------------------------------------------
+[00000058][ジンガ,char_005 zynga]
+...What?
+What are you talking about?
+------------------------------------------------
+[00000059][ベルベット,char_008 Velvet]
+If you get serious, I'll be in trouble.
+This is a weak girl...
+I want you to be a little kinder...
+------------------------------------------------
+[00000060][ベルベット,char_008 Velvet]
+If you are kind to me,
+My sister is here,
+I wish I could tell you...
+------------------------------------------------
+[00000061][フリード,char_001 Fried]
+I-is that a good thing...?
+Zynga? What is a good thing...?
+------------------------------------------------
+[00000062][ジンガ,char_005 zynga]
+Don't shake it at me!
+Even if you ask me, what is that...
+in trouble!
+------------------------------------------------
+[00000063][シャノン,char_004 Shannon]
+Wait a minute, both of you!
+Why are you stretching the area under your nose?
+------------------------------------------------
+[00000064][シャノン,char_004 Shannon]
+That woman didn't set it up for me!
+Just because you said something sweet,
+I'm not in a good mood!
+------------------------------------------------
+[00000065][ベルベット,char_008 Velvet]
+Ah, that was a nice place.
+Boys are good listeners,
+Girls are just a hindrance.
+------------------------------------------------
+[00000066][シャノン,char_004 Shannon]
+What is that!?
+------------------------------------------------
+[00000067][ベルベット,char_008 Velvet]
+It seems like any further conversation is useless.
+Let's start early.
+I'll forcefully ask you what I want to hear!
+------------------------------------------------
+[00000068][ベルベット,char_008 Velvet]
+Ah, I lost.
+That's it.
+------------------------------------------------
+[00000069][シャノン,char_004 Shannon]
+Did you realize?
+If you learn from this, you'll never come again!
+------------------------------------------------
+[00000070][ベルベット,char_008 Velvet]
+Oh, that's not going to happen.
+This is just a greeting.
+I'll bother you as many times as I want until I get my "power".
+------------------------------------------------
+[00000071][ベルベット,char_008 Velvet]
+I also realized that you guys have a gap,
+That's enough for this time.
+It won't happen next time, so be prepared.
+------------------------------------------------
+[00000072][シャノン,char_004 Shannon]
+So noisy!
+I told you not to come again!
+------------------------------------------------
+[00000073][フリード,char_001 Fried]
+Sister, I'm already gone.
+------------------------------------------------
+[00000074][フリード,char_001 Fried]
+But what did he mean by "power"?
+I'm a little concerned...
+------------------------------------------------
+[00000075][フリード,char_001 Fried]
+Is this the ruins that the village chief was talking about...
+It's kind of a strange atmosphere.
+------------------------------------------------
+[00000076][シャノン,char_004 Shannon]
+Indeed, no matter what is hidden
+It's not strange.
+------------------------------------------------
+[00000077][パニス,char_002 Panis]
+Ah! Look at that! What is that!?
+------------------------------------------------
+[00000078][フリード,char_001 Fried]
+No way... a giant!?
+------------------------------------------------
+[00000079][ジンガ,char_005 zynga]
+yeah……? You guys, calm down.
+That's just a stone statue.
+------------------------------------------------
+[00000080][フリード,char_001 Fried]
+Huh? Is that so?
+...Oh, that's true.
+------------------------------------------------
+[00000081][シャノン,char_004 Shannon]
+I was surprised……
+------------------------------------------------
+[00000082][フリード,char_001 Fried]
+If you look closely, you'll see that it's just a stone statue.
+It's pretty big, but not as big as that giant.
+------------------------------------------------
+[00000083][フリード,char_001 Fried]
+But I can't find anything else noteworthy.
+Shall we take a closer look?
+------------------------------------------------
+[00000084][ジンガ,char_005 zynga]
+...Hey, Freed.
+Let's leave that for later.
+That doesn't seem to be the case right now.
+------------------------------------------------
+[00000085][フリード,char_001 Fried]
+...Ah, it certainly seems like that.
+That monster is aiming for us.
+------------------------------------------------
+[00000086][ジンガ,char_005 zynga]
+I thought he would leave if I didn't provoke him, but
+It didn't work out that way.
+------------------------------------------------
+[00000087][シャノン,char_004 Shannon]
+I can't help it! Let's chase them away!
+------------------------------------------------
+[00000088][フリード,char_001 Fried]
+Phew...
+Somehow you were able to defeat the monsters.
+------------------------------------------------
+[00000089][シャノン,char_004 Shannon]
+It's a relief.
+But I can't let my guard down.
+Maybe he'll come back with some friends.
+------------------------------------------------
+[00000090][フリード,char_001 Fried]
+But it looks like it'll be fine for a while.
+Let's investigate the ruins now.
+------------------------------------------------
+[00000091][シャノン,char_004 Shannon]
+There's a cannon here too.
+I think I can go this time!
+------------------------------------------------
+[00000092][ジンガ,char_005 zynga]
+Last time I wasn't able to plan properly,
+That won't happen this time!
+------------------------------------------------
+[00000093][ジンガ,char_005 zynga]
+No matter how strong he is,
+There must be a gap somewhere.
+If you find that one, you can win!
+------------------------------------------------
+[00000094][アダム,char_006 a-dam]
+It means the enemy's weakness.
+I will analyze...
+------------------------------------------------
+[00000095][アダム,char_006 a-dam]
+...The ring-shaped object that exists on the enemy's head is
+It seems to have a higher energy response than other parts.
+If there is a weakness, it would be in this area.
+------------------------------------------------
+[00000096][シャノン,char_004 Shannon]
+That ring on your head.
+It's unlikely that a normal attack will reach you, but
+I wonder if a cannon would be able to reach it somehow.
+------------------------------------------------
+[00000097][フリード,char_001 Fried]
+If we all work together, we can definitely win!
+Everyone, let's go!
+Defeat him and protect the village!
+------------------------------------------------
+[00000098][フリード,char_001 Fried]
+Shit, it still doesn't work!?
+------------------------------------------------
+[00000099][ジンガ,char_005 zynga]
+Calm down!
+There are no absolutes in this world.
+Even that giant has a chance!
+------------------------------------------------
+[00000100][アダム,char_006 a-dam]
+I'm curious about the ring-shaped object on the head.
+Try concentrating your attacks on that area.
+------------------------------------------------
+[00000101][シャノン,char_004 Shannon]
+Maybe...it's working!?
+------------------------------------------------
+[00000102][フリード,char_001 Fried]
+After all, that's the weak point.
+Everyone, concentrate your attacks!
+------------------------------------------------
+[00000103][フリード,char_001 Fried]
+Okay, how about this!
+------------------------------------------------
+[00000104][アダム,char_006 a-dam]
+Changes can be seen throughout the enemy's body.
+It seems that resistance to physical attacks has been reduced.
+------------------------------------------------
+[00000105][シャノン,char_004 Shannon]
+Does that mean you can attack properly?
+------------------------------------------------
+[00000106][フリード,char_001 Fried]
+Everyone, take a breather!
+Let's join forces and defeat him!
+------------------------------------------------
+[00000107][アダム,char_006 a-dam]
+The enemy has gone completely silent.
+------------------------------------------------
+[00000108][フリード,char_001 Fried]
+I did it...I did it!
+I finally defeated the giant!
+------------------------------------------------
+[00000109][ジンガ,char_005 zynga]
+Yay, hey!
+Freed, you're a big deal!
+I believed you could do it!
+------------------------------------------------
+[00000110][フリード,char_001 Fried]
+It's not just me, it's all thanks to everyone's cooperation.
+Zynga, Adam, Shannon, Panis,
+Thank you so much everyone!
+------------------------------------------------
+[00000111][シャノン,char_004 Shannon]
+fault……?
+...What about Panis?
+Hey, does anyone know where Panis went?
+------------------------------------------------
+

@@ -1,0 +1,103 @@
+[0029]
+*****************
+[00000000][ケルビム,char_529]
+Intruder detected.
+------------------------------------------------
+[00000001][フリード,char_001 Fried]
+... Cherubim!?
+What are you doing here?
+------------------------------------------------
+[00000002][鋼刃丸,char_531]
+Pi!?
+------------------------------------------------
+[00000003][ケルビム,char_529]
+That's this line.
+What are you doing?
+------------------------------------------------
+[00000004][フリード,char_001 Fried]
+I am this Viola-san,
+I just came to see the ruins.
+------------------------------------------------
+[00000005][ヴァイオラ,char_003 Viola]
+Queen type...
+Come to think of it, this is the first time we've talked properly.
+Will he become an enemy this time?
+------------------------------------------------
+[00000006][ケルビム,char_529]
+What do you mean?
+The meaning of the question is unclear.
+------------------------------------------------
+[00000007][ヴァイオラ,char_003 Viola]
+Oh, I see. Even if I tell you
+I don't understand.
+It's okay, don't worry about it.
+------------------------------------------------
+[00000008][ケルビム,char_529]
+I have no idea what you're talking about, but
+If you interfere with our exploration mission, we will attack you!
+------------------------------------------------
+[00000009][フリード,char_001 Fried]
+Dear Viola,
+Did you know Cherubim?
+------------------------------------------------
+[00000010][ヴァイオラ,char_003 Viola]
+Let's talk about that later.
+That kid seems so motivated.
+------------------------------------------------
+[00000011][ケルビム,char_529]
+……to go!
+------------------------------------------------
+[00000012][ケルビム,char_529]
+...I'll leave it at that for today.
+------------------------------------------------
+[00000013][ケルビム,char_529]
+So, I'm the captain,
+I have to report the search results.
+------------------------------------------------
+[00000014][ヴァイオラ,char_003 Viola]
+yes?
+------------------------------------------------
+[00000015][フリード,char_001 Fried]
+What exactly was that...?
+------------------------------------------------
+[00000016][ヴァイオラ,char_003 Viola]
+Thank you, Freed. That helped.
+------------------------------------------------
+[00000017][フリード,char_001 Fried]
+But now that the cherubim are gone,
+Now you can calm down and explore the ruins.
+------------------------------------------------
+[00000018][ヴァイオラ,char_003 Viola]
+I'm not here to investigate.
+------------------------------------------------
+[00000019][フリード,char_001 Fried]
+eh?
+------------------------------------------------
+[00000020][フリード,char_001 Fried]
+What is that...?
+------------------------------------------------
+[00000021][鋼刃丸,char_531]
+Beep beep!
+------------------------------------------------
+[00000022][ヴァイオラ,char_003 Viola]
+be careful! ...The target seems to be Panis.
+------------------------------------------------
+[00000023][パニス,char_002 Panis]
+eh?
+------------------------------------------------
+[00000024][フリード,char_001 Fried]
+My goodness!?
+------------------------------------------------
+[00000025][ヴァイオラ,char_003 Viola]
+Let's go, Freed!!
+------------------------------------------------
+[00000026][ヴァイオラ,char_003 Viola]
+…………
+------------------------------------------------
+[00000027][パニス,char_002 Panis]
+Was scary……
+------------------------------------------------
+[00000028][フリード,char_001 Fried]
+I'm glad you're safe...
+------------------------------------------------
+

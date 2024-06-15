@@ -1,0 +1,858 @@
+[0206]
+*****************
+[00000000][シャノン,char_004 Shannon]
+At that time, thanks to my sister, I was saved.
+------------------------------------------------
+[00000001][シャノン,char_004 Shannon]
+Oh, I don't remember! I don't remember!
+------------------------------------------------
+[00000002][シャノン,char_004 Shannon]
+It must have been because my sister was half asleep and kicked me!
+------------------------------------------------
+[00000003][シャノン,char_004 Shannon]
+Phew...! Giggle...
+Ah...F-Freed, I'm sorry.
+I suddenly remembered Freed's childhood.
+------------------------------------------------
+[00000004][シャノン,char_004 Shannon]
+Hey, Freed, do you remember?
+Freed fell into the gap between the bed and the wall...
+------------------------------------------------
+[00000005][シャノン,char_004 Shannon]
+Hehe, I'm laughing like this now,
+I was really surprised at that time.
+I'm glad you are fine……
+------------------------------------------------
+[00000006][シャノン,char_004 Shannon]
+Freed. Now you're talking about Panis.
+Please take care of yourself.
+------------------------------------------------
+[00000007][シャノン,char_004 Shannon]
+yes……? Even though it was such a big deal back then, I feel lonely...
+------------------------------------------------
+[00000008][シャノン,char_004 Shannon]
+What...! "What are you saying all of a sudden?"
+Are you trying to falsely implicate me?
+I have no recollection of doing that at all!
+------------------------------------------------
+[00000009][シャノン,char_004 Shannon]
+...Freed, don't you remember?
+...If that's the case, I can't help it.
+------------------------------------------------
+[00000010][シャノン,char_004 Shannon]
+My dream is,
+Thinking of a new recipe for delicious bread,
+It's about making a lot of people happy!
+------------------------------------------------
+[00000011][シャノン,char_004 Shannon]
+...So, is it a bit free?
+What are those eyes!?
+------------------------------------------------
+[00000012][シャノン,char_004 Shannon]
+Panis may be the only survivor.
+I wonder what it all means...?
+------------------------------------------------
+[00000013][シャノン,char_004 Shannon]
+Hey, Freed?
+Go to Kilmaria-san,
+Would you like to hear more details?
+------------------------------------------------
+[00000014][シャノン,char_004 Shannon]
+The attack that makes the cave look like that...
+Just thinking about it gives me chills...
+------------------------------------------------
+[00000015][シャノン,char_004 Shannon]
+That girl named Cherubim,
+He is expressionless and silent,
+I don't know what you're thinking.
+------------------------------------------------
+[00000016][シャノン,char_004 Shannon]
+In some ways, she's scarier than Viola.
+------------------------------------------------
+[00000017][ジンガ,char_005 zynga]
+My uncle and aunt are my parents now.
+------------------------------------------------
+[00000018][ジンガ,char_005 zynga]
+Sometimes I think so.
+------------------------------------------------
+[00000019][ジンガ,char_005 zynga]
+I don't feel lonely because everyone in the village is here.
+------------------------------------------------
+[00000020][ジンガ,char_005 zynga]
+Like Panis, Freed also
+He doesn't remember his real parents...
+Freed, would you like to meet his birth parents?
+------------------------------------------------
+[00000021][ジンガ,char_005 zynga]
+……Really.
+I heard something boring. Forget it.
+------------------------------------------------
+[00000022][ジンガ,char_005 zynga]
+Really. Any clues about your family,
+It would be nice if there was one...
+------------------------------------------------
+[00000023][ジンガ,char_005 zynga]
+That may be true, but...
+What is it like to feel lonely and be interested in your past?
+Isn't that another issue?
+------------------------------------------------
+[00000024][ジンガ,char_005 zynga]
+...Freed, don't push yourself too hard, okay?
+If you lie to yourself, it will only make things worse.
+------------------------------------------------
+[00000025][ジンガ,char_005 zynga]
+...Ah, that's fine.
+You don't have to answer if you don't want to.
+I'm sorry, Freed.
+------------------------------------------------
+[00000026][ジンガ,char_005 zynga]
+Our ship "Blue Noah"...
+All in all, this is a really nice ship.
+Freed, you think so too, right?
+------------------------------------------------
+[00000027][ジンガ,char_005 zynga]
+Could this island itself be the ``ark'' of an ancient civilization?
+That's something I can't even imagine...
+------------------------------------------------
+[00000028][ジンガ,char_005 zynga]
+The ancient war is
+How large was it...?
+My head can't keep up...
+------------------------------------------------
+[00000029][ジンガ,char_005 zynga]
+That Cherub guy is quite dangerous.
+Even this time, I wasn't able to completely destroy it.
+I can't let my guard down yet...
+------------------------------------------------
+[00000030][アダム,char_006 a-dam]
+That's not true, Adam is helpful.
+------------------------------------------------
+[00000031][アダム,char_006 a-dam]
+I'll leave that to Kilmaria-san.
+------------------------------------------------
+[00000032][アダム,char_006 a-dam]
+So why not check it out yourself?
+------------------------------------------------
+[00000033][アダム,char_006 a-dam]
+My database is corrupted, so
+Unable to refer to data regarding ruins satisfactorily,
+I feel like I'm causing trouble for everyone.
+------------------------------------------------
+[00000034][アダム,char_006 a-dam]
+Should we take measures?
+------------------------------------------------
+[00000035][アダム,char_006 a-dam]
+is that so. So, while I continue to collect data,
+We will continue to assist with village reconstruction work and agricultural work.
+------------------------------------------------
+[00000036][アダム,char_006 a-dam]
+I think there is a problem with leaving everything to you.
+This is what humans say, "I'm sorry."
+Is it a feeling...?
+------------------------------------------------
+[00000037][アダム,char_006 a-dam]
+Anyway, from now on, I'll help Kill Maria.
+Do it proactively.
+------------------------------------------------
+[00000038][アダム,char_006 a-dam]
+You're right. From now on, I will use my free time to
+I'll try to investigate on my own.
+------------------------------------------------
+[00000039][アダム,char_006 a-dam]
+I don't have much interest in Mr. Freed.
+It seems like it was a story.
+------------------------------------------------
+[00000040][アダム,char_006 a-dam]
+while growing plants
+The operations around the thought program become stable.
+It seems that agriculture is suitable for me.
+------------------------------------------------
+[00000041][アダム,char_006 a-dam]
+If I am truly a product of an ancient civilization,
+The truth should be written in the memory device.
+------------------------------------------------
+[00000042][アダム,char_006 a-dam]
+I would like to refer to the data somehow...
+very sorry. 
+------------------------------------------------
+[00000043][アダム,char_006 a-dam]
+A weapon with enough power to cut through the earth...
+What is the ancient war that used it?
+How spectacular was it?
+------------------------------------------------
+[00000044][アダム,char_006 a-dam]
+...Maybe even me,
+Maybe he was watching the scene.
+------------------------------------------------
+[00000045][アダム,char_006 a-dam]
+Am I an ancient weapon?
+If you think about that, the operation will become unstable...
+------------------------------------------------
+[00000046][アダム,char_006 a-dam]
+However, with your encouragement,
+I can somehow recover. thank you.
+------------------------------------------------
+[00000047][キルマリア,char_007 Kilmaria]
+If it's okay with me, I'll lend you my strength any time.
+------------------------------------------------
+[00000048][キルマリア,char_007 Kilmaria]
+Don't push yourself too hard.
+------------------------------------------------
+[00000049][キルマリア,char_007 Kilmaria]
+It's tough.
+------------------------------------------------
+[00000050][キルマリア,char_007 Kilmaria]
+However, there is a lot to explore about this island.
+There are mountains of them.
+------------------------------------------------
+[00000051][キルマリア,char_007 Kilmaria]
+Of course it's rewarding, but
+One body is not enough...
+------------------------------------------------
+[00000052][キルマリア,char_007 Kilmaria]
+thank you!
+However, once you are spoiled, you will be able to keep slipping away endlessly.
+I feel like I'm going to rely on Mr. Freed...
+------------------------------------------------
+[00000053][キルマリア,char_007 Kilmaria]
+Anyway, it's just me now
+I will try as much as I can!
+------------------------------------------------
+[00000054][キルマリア,char_007 Kilmaria]
+Yeah, I'll be careful.
+However, according to my justice
+As long as you take action, you won't harm your body.
+------------------------------------------------
+[00000055][キルマリア,char_007 Kilmaria]
+Thank you for your concern!
+------------------------------------------------
+[00000056][キルマリア,char_007 Kilmaria]
+What I did was
+I ended up saying something that sounded like whining...
+sorry……
+------------------------------------------------
+[00000057][キルマリア,char_007 Kilmaria]
+……sorry.
+There's no point in saying things like that.
+------------------------------------------------
+[00000058][キルマリア,char_007 Kilmaria]
+I'm not good at ships...
+In fact, I get drunk easily.
+------------------------------------------------
+[00000059][キルマリア,char_007 Kilmaria]
+Maybe because of that,
+I can't seem to get used to naval battles...
+------------------------------------------------
+[00000060][キルマリア,char_007 Kilmaria]
+Ancient people in the “Ark”…! And then...!
+Oh, how exciting!
+I can't stop researching! It won't stop!
+------------------------------------------------
+[00000061][キルマリア,char_007 Kilmaria]
+I think that's probably a trace of war...
+It is possible that this island was once damaged by war.
+I can't deny it...
+------------------------------------------------
+[00000062][キルマリア,char_007 Kilmaria]
+Me too, Adam.
+He wants to believe that he is not a weapon.
+------------------------------------------------
+[00000063][キルマリア,char_007 Kilmaria]
+However, to conclude,
+There is still a lack of research...
+------------------------------------------------
+[00000064][キルマリア,char_007 Kilmaria]
+The fact that it disappears during high tide in the evening means that
+Undersea ruins that can only be visited at low tide in the evening,
+It's the opposite pattern.
+------------------------------------------------
+[00000065][キルマリア,char_007 Kilmaria]
+However, the tides vary depending on the topography, climate, and day.
+I never thought it would change so much! Although I was learning,
+It's really interesting to see it!
+------------------------------------------------
+[00000066][ベルベット,char_008 Velvet]
+This is what's helping me.
+------------------------------------------------
+[00000067][ベルベット,char_008 Velvet]
+you're welcome.
+------------------------------------------------
+[00000068][ベルベット,char_008 Velvet]
+I do not think so?
+------------------------------------------------
+[00000069][ベルベット,char_008 Velvet]
+Solving various mysteries little by little,
+It's exciting to feel like we're getting to the core of the story.
+------------------------------------------------
+[00000070][ベルベット,char_008 Velvet]
+To the "power" I'm looking for
+I feel like it's getting closer...
+It was really great working with you guys.
+------------------------------------------------
+[00000071][ベルベット,char_008 Velvet]
+I hope we can continue to have a good relationship going forward.
+------------------------------------------------
+[00000072][ベルベット,char_008 Velvet]
+I'll do my best too, so please support me too!
+I'm looking forward to it!
+------------------------------------------------
+[00000073][ベルベット,char_008 Velvet]
+Oh, don't forget to help me, okay?
+It's just a trade of equals, give and take.
+Don't get carried away, okay? Good?
+------------------------------------------------
+[00000074][ベルベット,char_008 Velvet]
+Well, let's keep up the good work!
+------------------------------------------------
+[00000075][ベルベット,char_008 Velvet]
+……What.
+You don't seem to be very grateful.
+------------------------------------------------
+[00000076][ベルベット,char_008 Velvet]
+I feel like an idiot because I was just having fun by myself...
+------------------------------------------------
+[00000077][ベルベット,char_008 Velvet]
+……fault? 
+------------------------------------------------
+[00000078][ベルベット,char_008 Velvet]
+Hey, Adam's facial expressions have changed lately.
+I'm starting to understand!
+This is just me, right?
+------------------------------------------------
+[00000079][ベルベット,char_008 Velvet]
+……picture? That's right...it's kind of a shame.
+------------------------------------------------
+[00000080][ベルベット,char_008 Velvet]
+But does this mean I'm getting used to it too?
+Aran, sister, I'm so happy♪
+------------------------------------------------
+[00000081][ベルベット,char_008 Velvet]
+"Ark" and the ancients...
+For these two to reach "power"
+Seems like an important clue.
+------------------------------------------------
+[00000082][ベルベット,char_008 Velvet]
+There are still many things I don't understand,
+I feel like we're getting a little closer to the core.
+------------------------------------------------
+[00000083][ベルベット,char_008 Velvet]
+That cave wall looks like it's been burnt out...
+What kind of power can I use to do such a thing?
+I can't even imagine...
+------------------------------------------------
+[00000084][ベルベット,char_008 Velvet]
+Long ago, on this island,
+A power beyond our imagination,
+It seems like it existed...
+------------------------------------------------
+[00000085][ガルゼー,char_501]
+Hey Panis!
+Panis-chan is doing well today too...
+Soncho is happy too.
+------------------------------------------------
+[00000086][ガルゼー,char_501]
+The reconstruction work has largely been completed,
+All that was left was to arrange the inside of each house...
+No, it really took this long.
+------------------------------------------------
+[00000087][ガルゼー,char_501]
+Freed and the others worked really hard.
+I'll thank you again. thank you.
+------------------------------------------------
+[00000088][ガルゼー,char_501]
+Of course I'm happy that the village has been restored, but
+The bathroom in my house is back to normal.
+I'm really happy.
+------------------------------------------------
+[00000089][ガルゼー,char_501]
+While relaxing in the bath for the first time in a while,
+Let's think about the future...
+Yes, it would be nice to have a festival on this occasion...
+------------------------------------------------
+[00000090][ジム,char_502]
+Okay? Don't think you're the only ones protecting the village?
+Even we vigilantes are fighting!
+------------------------------------------------
+[00000091][ジム,char_502]
+You guys were just investigating ruins,
+You haven't cooperated in the village's reconstruction in the slightest!?
+Let me help you once in a while!
+------------------------------------------------
+[00000092][マイア,char_503]
+Peace is best above all else.
+Panis and her children are playing together happily
+That's what I think from the bottom of my heart as I look at this heart-warming scene.
+------------------------------------------------
+[00000093][マイア,char_503]
+A lot has happened, but the village will soon be restored.
+I'm really glad it seems to have calmed down.
+In particular, Panis-chan helped me a lot.
+------------------------------------------------
+[00000094][マイア,char_503]
+...It seems like Panis-chan has a lot going on,
+That child is already a worthy member of the village.
+Let's all protect Panis-chan.
+------------------------------------------------
+[00000095][アリーゼ,char_504]
+There are as many monsters as there are stars on this island.
+Even if you get rid of them, they will come back again.
+------------------------------------------------
+[00000096][アリーゼ,char_504]
+Because requests for subjugation never end,
+Please keep accepting it!
+I asked for it!
+------------------------------------------------
+[00000097][アリーゼ,char_504]
+The village is completely back to normal!
+Is the reconstruction work finally coming to an end?
+------------------------------------------------
+[00000098][アリーゼ,char_504]
+Ah, but things at home aren't in order yet.
+The bath in the village chief's house is still broken.
+------------------------------------------------
+[00000099][アリーゼ,char_504]
+Finally, my father has returned.
+I want the adventure to end now.
+I want you to be quiet and concentrate on your work at the store...
+------------------------------------------------
+[00000100][ダイアナ,char_505]
+Hey, how is my shop...?
+More unusual items...
+Should I leave it there...?
+------------------------------------------------
+[00000101][ダイアナ,char_505]
+picture……? Yes...then you can rest assured...hehehehehe...
+------------------------------------------------
+[00000102][ダイアナ,char_505]
+Panis is an ancient person...?
+I wonder what kind of alcohol the ancient people drank...
+I'm interested...hehehehehe...
+------------------------------------------------
+[00000103][ドルトン,char_506]
+Don't you want better weapons soon?
+Then come to me!
+My weapons are still far from that!
+------------------------------------------------
+[00000104][ドルトン,char_506]
+The commotion has subsided, and the village has regained its calm.
+That's fine, but don't be too calm.
+My weapons won't sell anymore...
+------------------------------------------------
+[00000105][ドルトン,char_506]
+...What are you looking at strangely?
+Even I make jokes about it.
+------------------------------------------------
+[00000106][ロラン,char_507]
+Freed, do you know?
+The people of Gikaidan are quite monsters.
+Pirates are open to you, right?
+------------------------------------------------
+[00000107][ロラン,char_507]
+Well, I'll leave it up to Freed and the others.
+I'm getting stronger quickly,
+Fight against monsters!
+------------------------------------------------
+[00000108][カール,char_508]
+Hey Panis, do you like me?
+As for me...
+------------------------------------------------
+[00000109][カール,char_508]
+I love Panis so much!
+------------------------------------------------
+[00000110][メリー,char_509]
+We can't do it now, but someday we'll be together.
+------------------------------------------------
+[00000111][メリー,char_509]
+I hope you're a good girl and stay at home.
+------------------------------------------------
+[00000112][メリー,char_509]
+It's not a game.
+------------------------------------------------
+[00000113][メリー,char_509]
+Freed is with everyone
+Are you exploring everywhere?
+That's great...I want to go too...
+------------------------------------------------
+[00000114][メリー,char_509]
+Are you angry? I'm sure!
+Don't forget!
+------------------------------------------------
+[00000115][メリー,char_509]
+It's not good after all...
+Well then, I want everyone to be able to explore freely.
+You're so excited!
+------------------------------------------------
+[00000116][メリー,char_509]
+I know!
+That's why I wanted to help too...
+------------------------------------------------
+[00000117][メリー,char_509]
+...After all, it's no good?
+------------------------------------------------
+[00000118][メリー,char_509]
+Kill Maria isn't looking straight ahead when walking, right?
+Because I'm always walking while reading a big book!?
+------------------------------------------------
+[00000119][ハンス,char_510]
+Even if Alise stops me or cries, I'm going!
+Because I'm an adventurer!
+The ruins are calling me!
+------------------------------------------------
+[00000120][ハンス,char_510]
+I'm not a monster, I'm not a fart,
+Alise scolded me harshly,
+She's completely gone.
+------------------------------------------------
+[00000121][ハンス,char_510]
+That child who is always calm,
+I didn't expect him to be so angry...
+------------------------------------------------
+[00000122][ハンス,char_510]
+Alise's one...
+He's starting to look more and more like him...
+------------------------------------------------
+[00000123][ボリス,char_511]
+If you are having trouble or have a hard time,
+Come to this cove.
+------------------------------------------------
+[00000124][ボリス,char_511]
+While watching the sun set on the horizon,
+Shout out loud to the sea.
+All your petty worries will be blown away.
+------------------------------------------------
+[00000125][ボリス,char_511]
+What?
+Is Panis-chan a survivor of the ancients?
+------------------------------------------------
+[00000126][ボリス,char_511]
+...So, Panis-chan is older than me?
+Do I have to call you Mr. Panis?
+------------------------------------------------
+[00000127][デボラ,char_512]
+Panis-chan, it would be nice if you could help me.
+I'll protect Freed as well, okay?
+That's right, would you both like some sweets?
+------------------------------------------------
+[00000128][デボラ,char_512]
+Panis-chan, it must have been tough...
+Thinking that Grandma is the real Grandma,
+It's okay to be spoiled, right?
+------------------------------------------------
+[00000129][デボラ,char_512]
+Freed.
+Please take good care of Panis-chan.
+nice?
+------------------------------------------------
+[00000130][ハイラム,char_513]
+But isn't it a great discovery?
+------------------------------------------------
+[00000131][ハイラム,char_513]
+I was surprised too.
+------------------------------------------------
+[00000132][ハイラム,char_513]
+My uncle is a laid-back person...
+------------------------------------------------
+[00000133][ハイラム,char_513]
+“Ancient people” in “Ark”…?
+Various stories came out one after another,
+I feel like my eyes are spinning somehow.
+------------------------------------------------
+[00000134][ハイラム,char_513]
+That's certainly true.
+I can't believe that Freed and his team found out that through their investigation.
+It's an amazing story when you think about it.
+------------------------------------------------
+[00000135][ハイラム,char_513]
+I guess so.
+Although I always saw the ruins,
+There was such a secret on this island...
+------------------------------------------------
+[00000136][ハイラム,char_513]
+It's not like my uncle is taking it easy.
+It's just that the people around me and other people are moving too fast.
+Especially my mother...
+------------------------------------------------
+[00000137][ハイラム,char_513]
+...So, Freed!
+Don't let me say anything that will make Rian angry!
+------------------------------------------------
+[00000138][ハイラム,char_513]
+Oh? What's wrong, Freed?
+Are you dizzy too?
+------------------------------------------------
+[00000139][ハイラム,char_513]
+Who taught Shannon how to bake bread?
+It's Rian.
+------------------------------------------------
+[00000140][ハイラム,char_513]
+Leanne is also good at coming up with new recipes.
+Bread that will make you feel very happy,
+He created several.
+------------------------------------------------
+[00000141][ハイラム,char_513]
+But why is Shannon's new work...?
+------------------------------------------------
+[00000142][ハイラム,char_513]
+Panis may be an ancient person,
+It doesn't matter.
+------------------------------------------------
+[00000143][ハイラム,char_513]
+For me, Panis is
+Just like Freed, Shannon, and Rian.
+There's nothing wrong with being an important family member.
+------------------------------------------------
+[00000144][リアン,char_514]
+Chapter 5: Daytime conversation
+------------------------------------------------
+[00000145][リアン,char_514]
+Conversations and questions related to likeability
+------------------------------------------------
+[00000146][リアン,char_514]
+Reaction when favorability increases
+------------------------------------------------
+[00000147][リアン,char_514]
+Reaction when favorability remains the same
+------------------------------------------------
+[00000148][リアン,char_514]
+Reaction when favorability drops
+------------------------------------------------
+[00000149][リアン,char_514]
+Reactions to questions when time is up
+------------------------------------------------
+[00000150][リアン,char_514]
+When you eat Hiram's vegetables,
+It's very refreshing. That person,
+We take care of each and every vegetable.
+------------------------------------------------
+[00000151][リアン,char_514]
+Adam also understands this and explains how to make Hiram.
+It seems like he's setting me up as a role model.
+Adam's vegetables are also very delicious.
+------------------------------------------------
+[00000152][リアン,char_514]
+Ancient people or something.
+I don't really understand difficult topics...
+Panis is panis, nothing will change.
+------------------------------------------------
+[00000153][リアン,char_514]
+thank you as always.
+If only there were as many hairs as that of the giant horned mojara,
+You can weave a lot of cloth.
+------------------------------------------------
+[00000154][ダリオ,char_515]
+Yes, I'm counting on you!
+------------------------------------------------
+[00000155][ダリオ,char_515]
+I'm sorry I couldn't help you.
+------------------------------------------------
+[00000156][ダリオ,char_515]
+I'm a little worried...
+------------------------------------------------
+[00000157][ダリオ,char_515]
+Freed and the others seem to be having a lot of trouble as well.
+Well, leave the guarding of the village to me!
+------------------------------------------------
+[00000158][ダリオ,char_515]
+Hehehe, I'm glad to hear that!
+Freed, let's do our best together!
+------------------------------------------------
+[00000159][ダリオ,char_515]
+What are you talking about?
+Please rely on us a little too!
+------------------------------------------------
+[00000160][ダリオ,char_515]
+Are you worried...?
+Does that mean we are unreliable...?
+Well, actually, I'm no match for you...
+------------------------------------------------
+[00000161][ダリオ,char_515]
+Please answer me something, Freed...
+------------------------------------------------
+[00000162][ダリオ,char_515]
+Jim is also a member of the vigilante group.
+Moreover, he is supposed to be the leader.
+------------------------------------------------
+[00000163][ダリオ,char_515]
+Well, actually, it doesn't really have anything to do with military strength, but
+He thinks about the village in his own way.
+I think Freed understands.
+------------------------------------------------
+[00000164][ダリオ,char_515]
+Panis is a survivor of the ancients,
+This island is said to be an ancient ark.
+------------------------------------------------
+[00000165][ダリオ,char_515]
+...Honestly, I don't understand why,
+I don't understand it at all.
+------------------------------------------------
+[00000166][ミルコ,char_516]
+Please rest assured, Lana and Velvet!
+While the two of you are in this cove,
+This is how we will continue to protect peace!
+------------------------------------------------
+[00000167][ミルコ,char_516]
+I wish I could say that to myself.
+------------------------------------------------
+[00000168][ミルコ,char_516]
+Recently, that big monster
+They no longer appear near the village,
+I feel a little more at ease now!
+------------------------------------------------
+[00000169][ミルコ,char_516]
+But you know?
+Freed and the others are chasing him back somewhere else, right?
+Thank you!
+------------------------------------------------
+[00000170][ロドリゴ,char_517]
+Thanks to the efforts of Freed and Zynga,
+We, the vigilantes, are becoming less and less visible.
+Well, as long as the village is peaceful, it doesn't matter.
+------------------------------------------------
+[00000171][ロドリゴ,char_517]
+But that doesn't mean I can relax.
+Monsters and pirates suddenly attack,
+Don't let your guard down!
+------------------------------------------------
+[00000172][ロドリゴ,char_517]
+Enfield civilization...
+Come to think of it, I guess I learned it at school when I was a kid...?
+------------------------------------------------
+[00000173][ダニエル,char_518]
+Looking at Peter's work,
+It reminds me of my youth.
+I was desperate back then...
+------------------------------------------------
+[00000174][ダニエル,char_518]
+Well, Peter is still not a full-fledged man,
+I have to try harder.
+------------------------------------------------
+[00000175][ダニエル,char_518]
+This island is called the ark.
+The farm animals too
+Maybe it's some kind of special variety?
+------------------------------------------------
+[00000176][ブレンダ,char_519]
+When I talked to Daniel recently,
+I watched Peter work from behind a tree.
+I'm just staring at it.
+------------------------------------------------
+[00000177][ブレンダ,char_519]
+So I was just nodding my head.
+That's already weird...!
+That person really is an idiot.
+------------------------------------------------
+[00000178][ブレンダ,char_519]
+But that kind of thing
+That's a good thing about Daniel.
+------------------------------------------------
+[00000179][ブレンダ,char_519]
+Panis-chan's parents are no longer here...
+It must be tough, but always smile...
+------------------------------------------------
+[00000180][ブレンダ,char_519]
+……Yeah.
+She's already part of the village family.
+I can't let you feel sad.
+------------------------------------------------
+[00000181][ピーター,char_520]
+If so, that's interesting.
+------------------------------------------------
+[00000182][ピーター,char_520]
+The name ``Ark'' hasn't been decided yet.
+------------------------------------------------
+[00000183][ピーター,char_520]
+Why are you always talking about sheep?
+------------------------------------------------
+[00000184][ピーター,char_520]
+Is this island the “Ark”?
+Well, let's take a closer look at this island.
+Do you know anything about ancient times?
+------------------------------------------------
+[00000185][ピーター,char_520]
+For example, what did ancient sheep look like?
+What color was his hair?
+------------------------------------------------
+[00000186][ピーター,char_520]
+That's right...!
+It's kind of exciting when I think about it!
+------------------------------------------------
+[00000187][ピーター,char_520]
+Yeah, that's true though.
+But if so, wouldn't it be fun?
+So many things!
+------------------------------------------------
+[00000188][ピーター,char_520]
+picture……?
+That's because I like sheep...
+------------------------------------------------
+[00000189][ピーター,char_520]
+...I'm sorry, Freed.
+It's always about animals.
+Maybe you were bored?
+------------------------------------------------
+[00000190][ピーター,char_520]
+I'm sure it has very fluffy fur and produces a lot of milk.
+I guess it was that kind of sheep...
+------------------------------------------------
+[00000191][ピーター,char_520]
+My father is scary when he gets angry, but
+He's always thinking about me.
+I think he's a little too worried though...
+------------------------------------------------
+[00000192][ピーター,char_520]
+Did that big guy show up in the ruins this time?
+It was tough...
+Anyway, I'm glad everyone is safe.
+------------------------------------------------
+[00000193][ラナ,char_528]
+There were lots of unusual murals and stone statues.
+------------------------------------------------
+[00000194][ラナ,char_528]
+There were a lot of dangerous things.
+------------------------------------------------
+[00000195][ラナ,char_528]
+There was nothing for sale.
+------------------------------------------------
+[00000196][ラナ,char_528]
+You guys, ruins here and there
+Looks like you're doing some research.
+copper? 
+------------------------------------------------
+[00000197][ラナ,char_528]
+Hmm, that's right.
+I guess I can't sell it, but
+I'm interested.
+------------------------------------------------
+[00000198][ラナ,char_528]
+Shall I go see it too?
+------------------------------------------------
+[00000199][ラナ,char_528]
+Is it something dangerous?
+You can't put that on a ship.
+------------------------------------------------
+[00000200][ラナ,char_528]
+I didn't ask this to sell anything!
+Then it's like I...
+It's like you're only thinking about business!
+------------------------------------------------
+[00000201][ラナ,char_528]
+what? I am very curious……
+I'll go there next time too!
+------------------------------------------------
+[00000202][ラナ,char_528]
+Being a pirate might be surprisingly fun.
+Explore unknown waters, gather friends...
+------------------------------------------------
+[00000203][ラナ,char_528]
+But I still can't beat the charm of business!
+------------------------------------------------
+[00000204][ラナ,char_528]
+The village has also been rebuilt to a great extent!
+Do you feel like things will be back to normal in just one more step?
+------------------------------------------------
+[00000205][ラナ,char_528]
+If you need anything, please call me anytime.
+Even if you don't have it now,
+I'll buy most things for you.
+------------------------------------------------
+

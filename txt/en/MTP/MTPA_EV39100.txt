@@ -1,0 +1,1915 @@
+[0512]
+*****************
+[00000000][マイア,char_503]
+Yes, please pay attention!
+Today, we have some good news for everyone.
+------------------------------------------------
+[00000001][メリー,char_509]
+What is it? Sensei!
+------------------------------------------------
+[00000002][カール,char_508]
+a!Are you going to the beach?
+------------------------------------------------
+[00000003][ロラン,char_507]
+That's different! It's bread, right? bread!
+It's a tour of a bakery, right?
+------------------------------------------------
+[00000004][マイア,char_503]
+Well, you're both a loser.
+------------------------------------------------
+[00000005][カール,char_508]
+Eh? Then what?
+------------------------------------------------
+[00000006][マイア,char_503]
+Ufufu, actually... I have a new friend from today.
+I have decided to come to this school.
+------------------------------------------------
+[00000007][メリー,char_509]
+Really!? What kind of girl is she?
+------------------------------------------------
+[00000008][マイア,char_503]
+Hehehe, that's enough, okay? Come here?
+------------------------------------------------
+[00000009][パニス,char_002 Panis]
+Yes!
+------------------------------------------------
+[00000010][ロラン,char_507]
+picture! 
+------------------------------------------------
+[00000011][カール,char_508]
+Will Panis come to school too?
+------------------------------------------------
+[00000012][パニス,char_002 Panis]
+Yeah!
+------------------------------------------------
+[00000013][マイア,char_503]
+Yes, that's why from today Panis-chan too,
+I decided to study with everyone.
+Let's all get along, okay?
+------------------------------------------------
+[00000014][カール,char_508]
+Yes!
+------------------------------------------------
+[00000015][ロラン,char_507]
+I see, Panis is coming to school too!
+------------------------------------------------
+[00000016][メリー,char_509]
+I'm so happy...
+Hehehehe.
+------------------------------------------------
+[00000017][マイア,char_503]
+Then, Freed-kun and Shannon-chan.
+To Panis-chan at school,
+Why don't you tell me a lot of things?
+------------------------------------------------
+[00000018][フリード,char_001 Fried]
+Understood, sir.
+------------------------------------------------
+[00000019][シャノン,char_004 Shannon]
+Leave it to us!
+------------------------------------------------
+[00000020][マイア,char_503]
+Ufufufu, then...
+Let's start today's class!
+------------------------------------------------
+[00000021][パニス,char_002 Panis]
+Yes!
+------------------------------------------------
+[00000022][ガルゼー,char_501]
+Oh, Panis-chan. How are you doing today?
+------------------------------------------------
+[00000023][パニス,char_002 Panis]
+Yeah! Are you doing well?
+------------------------------------------------
+[00000024][ガルゼー,char_501]
+Is it me?　I'm in great shape.
+Panis-chan, are you worried about me?
+------------------------------------------------
+[00000025][パニス,char_002 Panis]
+Yeah! Stay healthy forever!
+------------------------------------------------
+[00000026][ガルゼー,char_501]
+oh……
+------------------------------------------------
+[00000027][パニス,char_002 Panis]
+a!So that Soncho stays healthy,
+Panis will make you happy!
+------------------------------------------------
+[00000028][ガルゼー,char_501]
+Ah, I see I see.
+Well then, may I ask you a favor?
+------------------------------------------------
+[00000029][パニス,char_002 Panis]
+Yeah! Good luck, good luck, Soncho!
+Do your best, soncho!
+------------------------------------------------
+[00000030][ガルゼー,char_501]
+Yes, that's good support.
+Somehow, I feel so much better!
+------------------------------------------------
+[00000031][パニス,char_002 Panis]
+yes? Soncho! fight!
+fight!
+------------------------------------------------
+[00000032][ロドリゴ,char_517]
+Village chief, can I have a moment?
+I was asked to check
+It's about water storage...
+------------------------------------------------
+[00000033][ガルゼー,char_501]
+...Do it later.
+------------------------------------------------
+[00000034][ロドリゴ,char_517]
+picture? 
+------------------------------------------------
+[00000035][ガルゼー,char_501]
+...I'm telling you to leave it later.
+Didn't you hear me?
+------------------------------------------------
+[00000036][ロドリゴ,char_517]
+picture……?
+Well, if the village chief is like that...
+I'll come back later though.
+------------------------------------------------
+[00000037][ガルゼー,char_501]
+Hmm. Please do that.
+Now, Panis-chan, please continue.
+------------------------------------------------
+[00000038][パニス,char_002 Panis]
+Yes!
+Do your best, Soncho, do your best!
+------------------------------------------------
+[00000039][ロドリゴ,char_517]
+@fcFFAAFFAA (I wonder what it is...)
+------------------------------------------------
+[00000040][メリー,char_509]
+Panisou! Let's have fun!
+------------------------------------------------
+[00000041][パニス,char_002 Panis]
+Yeah! 
+------------------------------------------------
+[00000042][ロラン,char_507]
+Hey!　
+Well, now it's Panis' role!
+We'll run away!
+------------------------------------------------
+[00000043][カール,char_508]
+Are you going to catch us?
+------------------------------------------------
+[00000044][パニス,char_002 Panis]
+Yeah!
+------------------------------------------------
+[00000045][メリー,char_509]
+So, turn around and count to 20?
+------------------------------------------------
+[00000046][パニス,char_002 Panis]
+Yeah!
+One, two, three, one...
+------------------------------------------------
+[00000047][ロラン,char_507]
+Nigero!
+------------------------------------------------
+[00000048][カール,char_508]
+That’s it!
+------------------------------------------------
+[00000049][メリー,char_509]
+yay!
+------------------------------------------------
+[00000050][パニス,char_002 Panis]
+Ahaha!
+------------------------------------------------
+[00000051][ロラン,char_507]
+...Wait a minute!
+Why did Panis run away too?
+------------------------------------------------
+[00000052][パニス,char_002 Panis]
+picture?
+------------------------------------------------
+[00000053][メリー,char_509]
+That's why, because I'm playing with you,
+You have to go with Panis, right?
+------------------------------------------------
+[00000054][パニス,char_002 Panis]
+a!Panis was wrong!
+------------------------------------------------
+[00000055][ロラン,char_507]
+That's a shame. Well then, let's try again!
+let's go!
+------------------------------------------------
+[00000056][カール,char_508]
+Nigero!
+------------------------------------------------
+[00000057][メリー,char_509]
+Ahahaha!
+------------------------------------------------
+[00000058][パニス,char_002 Panis]
+Nigero!
+------------------------------------------------
+[00000059][メリー,char_509]
+That's why it's different!
+------------------------------------------------
+[00000060][アリーゼ,char_504]
+Now, let's begin the regular meeting of the shopping association.
+First of all, it seems that Diana has a proposal.
+------------------------------------------------
+[00000061][ダイアナ,char_505]
+It's a message from the stars...
+Today's lucky color is pink...
+The lucky item is the signboard...
+------------------------------------------------
+[00000062][ダイアナ,char_505]
+In other words, if you paint the sign pink,
+There is no doubt that sales will increase...?
+Fufufufufu……
+------------------------------------------------
+[00000063][ドルトン,char_506]
+It doesn't matter what color the signboard is.
+For a craftsman, the arm itself is a signboard.
+If you make something good, customers will come.
+------------------------------------------------
+[00000064][ドルトン,char_506]
+No...wait? Paint your arms pink,
+Does that mean we can make better weapons?
+------------------------------------------------
+[00000065][ハンス,char_510]
+Da-ka-ra-yo! Dalton!!
+Are you saying you need better tools?
+A magical tool!
+------------------------------------------------
+[00000066][ハンス,char_510]
+According to the information I got, it's in some ruins.
+A magic hammer that can process any hard metal.
+It may or may not be there...
+------------------------------------------------
+[00000067][アリーゼ,char_504]
+Yes, everyone.
+Thank you again for your bold opinions this month.
+This concludes the regular meeting.
+------------------------------------------------
+[00000068][アリーゼ,char_504]
+After this, we will move on to a social gathering at my store.
+Please have your membership fee ready.
+------------------------------------------------
+[00000069][ハンス,char_510]
+For those who still have last month's bill,
+Please settle the bill while you're at it!
+...I'm telling you, Diana! It's about you!
+------------------------------------------------
+[00000070][ダイアナ,char_505]
+Fufufufufufu...Is it okay to just pay for last month...?
+------------------------------------------------
+[00000071][ドルトン,char_506]
+That's no good!
+------------------------------------------------
+[00000072][フリード,char_001 Fried]
+It's my first time here...
+A gathering of merchants,
+I did this every month...
+------------------------------------------------
+[00000073][パニス,char_002 Panis]
+"Kaigi"
+This is how you do it...
+------------------------------------------------
+[00000074][フリード,char_001 Fried]
+No, because it's usually different.
+------------------------------------------------
+[00000075][マイア,char_503]
+Hey, everyone!
+From today, Adam will be with us.
+I decided to study.
+------------------------------------------------
+[00000076][ロラン,char_507]
+oh! 
+------------------------------------------------
+[00000077][カール,char_508]
+It's really Adam!
+------------------------------------------------
+[00000078][アダム,char_006 a-dam]
+It is nice to meet you.
+------------------------------------------------
+[00000079][マイア,char_503]
+There is no chair for Adam to sit on...
+Could you please ask someone at the back of the classroom?
+Well then, let's start the lesson.
+------------------------------------------------
+[00000080][マイア,char_503]
+Today we continue our talk about the weather.
+How are clouds formed?
+Does anyone remember?
+------------------------------------------------
+[00000081][アダム,char_006 a-dam]
+Yes teacher.
+------------------------------------------------
+[00000082][マイア,char_503]
+fault! You don't even have to take a class to know it.
+Hehehe. Well then, please try to answer.
+------------------------------------------------
+[00000083][アダム,char_006 a-dam]
+yes. It's something floating in the sky.
+------------------------------------------------
+[00000084][アダム,char_006 a-dam]
+In other words, clouds are formed by water that has been turned into a gas.
+Liquid or solid...
+------------------------------------------------
+[00000085][マイア,char_503]
+Huh!? Ah, Adam-san, wait a minute!?
+------------------------------------------------
+[00000086][アダム,char_006 a-dam]
+Yes, what is it?
+------------------------------------------------
+[00000087][マイア,char_503]
+Clouds are formed by the spirits of the wind.
+Because we passed in a group...right?
+------------------------------------------------
+[00000088][アダム,char_006 a-dam]
+……picture?
+------------------------------------------------
+[00000089][ロラン,char_507]
+That's right, Adam. Don't you know?
+------------------------------------------------
+[00000090][メリー,char_509]
+Jo-shikiyo, Jo-shiki!
+------------------------------------------------
+[00000091][アダム,char_006 a-dam]
+...Apparently, my common sense is...
+It seems to be very different...
+------------------------------------------------
+[00000092][アリーゼ,char_504]
+Ah~!
+It's Freed and Panis!
+Hello!
+------------------------------------------------
+[00000093][パニス,char_002 Panis]
+yay! Hello!
+------------------------------------------------
+[00000094][フリード,char_001 Fried]
+Alise, are you preparing the store now?
+------------------------------------------------
+[00000095][アリーゼ,char_504]
+Huh? That's not true~?
+------------------------------------------------
+[00000096][フリード,char_001 Fried]
+Is that so?
+------------------------------------------------
+[00000097][アリーゼ,char_504]
+Yes, I'm going to go shopping.
+Ask Lana for some alcohol and prepare the food.
+Then I'll clean the shop.
+------------------------------------------------
+[00000098][フリード,char_001 Fried]
+...Ah, um, Alise?
+That means preparing the store, right?
+------------------------------------------------
+[00000099][アリーゼ,char_504]
+Hmm? That's not it...
+Go shopping and ask for a refill of alcohol...
+------------------------------------------------
+[00000100][フリード,char_001 Fried]
+Ah... no, it's fine.
+It's okay, I understand.
+------------------------------------------------
+[00000101][アリーゼ,char_504]
+Yeah? Good!
+------------------------------------------------
+[00000102][パニス,char_002 Panis]
+Hey, does Alise like bugs?
+Panis catches the bug and sees it...?
+------------------------------------------------
+[00000103][アリーゼ,char_504]
+Hmm, I don't really like insects, do I?
+I'm sorry~?
+------------------------------------------------
+[00000104][パニス,char_002 Panis]
+That's right……
+------------------------------------------------
+[00000105][アリーゼ,char_504]
+But, right? My father sometimes...
+Caught some strange insects...
+...Huh? Ah! I see!
+------------------------------------------------
+[00000106][パニス,char_002 Panis]
+what happened? 
+------------------------------------------------
+[00000107][アリーゼ,char_504]
+Go shopping~Ask Lana to refill the alcohol~...
+Preparing the food ~ then cleaning the shop ~...
+This is all about preparing for the store!
+------------------------------------------------
+[00000108][フリード,char_001 Fried]
+picture? 
+------------------------------------------------
+[00000109][アリーゼ,char_504]
+I see! I've been preparing the shop for a while now!
+I didn't notice it, but it was Freed!
+I wish you would tell me sooner!
+------------------------------------------------
+[00000110][フリード,char_001 Fried]
+Yeah……
+Um, uh...sorry.
+------------------------------------------------
+[00000111][ダイアナ,char_505]
+welcome……
+Something interesting has arrived today...
+Look at it slowly...hehehehe...
+------------------------------------------------
+[00000112][フリード,char_001 Fried]
+No.
+Um...Diana?
+------------------------------------------------
+[00000113][ダイアナ,char_505]
+What...?
+------------------------------------------------
+[00000114][フリード,char_001 Fried]
+We're here...
+------------------------------------------------
+[00000115][パニス,char_002 Panis]
+The one over there is
+It's a monkey made of stone, right?
+------------------------------------------------
+[00000116][ダイアナ,char_505]
+Oh, I'm sorry.
+Ufufufufu...
+------------------------------------------------
+[00000117][パニス,char_002 Panis]
+Diana is feeling a little dizzy...
+------------------------------------------------
+[00000118][ダイアナ,char_505]
+I'm not drunk...
+You're not drunk, are you? Hehehe...
+------------------------------------------------
+[00000119][フリード,char_001 Fried]
+@fcFFAAFFAA (I've known Diana for quite some time.
+I can't really get a handle on his personality...)
+------------------------------------------------
+[00000120][パニス,char_002 Panis]
+Hey hey Diana! What is this?
+------------------------------------------------
+[00000121][ダイアナ,char_505]
+Oh, it never misses the mark,
+A magical arrow that can pierce through anything...
+------------------------------------------------
+[00000122][フリード,char_001 Fried]
+Really!? Isn't it amazing!
+------------------------------------------------
+[00000123][ダイアナ,char_505]
+However, it is too heavy to fly with a bow.
+That's why you can't shoot at your opponent from a distance...
+------------------------------------------------
+[00000124][パニス,char_002 Panis]
+Aren't you going to fly away...?
+------------------------------------------------
+[00000125][ダイアナ,char_505]
+Yes, it won't fly...
+That's interesting...
+Ufufufufufu…
+------------------------------------------------
+[00000126][フリード,char_001 Fried]
+@fcFFAAFFAA (No, that's not helpful...
+In this case, the story of a "magic arrow" is also questionable...)
+------------------------------------------------
+[00000127][フリード,char_001 Fried]
+@fcFFAAFFAA (Really, how serious is this person...)
+------------------------------------------------
+[00000128][ドルトン,char_506]
+…………
+------------------------------------------------
+[00000129][パニス,char_002 Panis]
+Dollar tone! what happened?
+What are you looking at there?
+------------------------------------------------
+[00000130][ドルトン,char_506]
+Panis? I was watching the sunset.
+And I had renewed my resolve.
+------------------------------------------------
+[00000131][パニス,char_002 Panis]
+What do you mean by kicking?
+------------------------------------------------
+[00000132][ドルトン,char_506]
+What I mean by determination is a wish deeply engraved in my heart.
+It's a dream that I vowed to fulfill someday.
+------------------------------------------------
+[00000133][ドルトン,char_506]
+...The legendary sword I heard about...
+Weapons that can stand up to "Shining Blade",
+I want to train with my hands someday.
+------------------------------------------------
+[00000134][パニス,char_002 Panis]
+Shining... Braid?
+------------------------------------------------
+[00000135][ドルトン,char_506]
+That's it. A legendary sword that is said to have saved the world from destruction.
+------------------------------------------------
+[00000136][フリード,char_001 Fried]
+Did you defeat the dragon? Isn't it amazing!
+So you want to make such a powerful sword?
+------------------------------------------------
+[00000137][ドルトン,char_506]
+That's what I think.
+However, my arm is still immature.
+It seems like it will be a long time before it comes true...
+------------------------------------------------
+[00000138][フリード,char_001 Fried]
+Really……
+After all, it's difficult to forge a strong sword.
+------------------------------------------------
+[00000139][ドルトン,char_506]
+Oh, that's difficult. But I won't lose!
+Someday, I will definitely make my dreams a reality...!
+------------------------------------------------
+[00000140][ドルトン,char_506]
+Hey!Are you listening?
+I will definitely have a sword that surpasses the Shining Blade.
+I'll show you how to train it with my own hands!
+------------------------------------------------
+[00000141][パニス,char_002 Panis]
+I'll show you!
+------------------------------------------------
+[00000142][ドルトン,char_506]
+Hahahaha! I don't mind if I yell at you too.
+Okay, okay, someday when the sword is completed,
+I'll show it to Freed and Panis first!
+------------------------------------------------
+[00000143][フリード,char_001 Fried]
+Yeah!
+------------------------------------------------
+[00000144][マイア,char_503]
+everyone! From today, Kill Maria will also be studying with us!
+------------------------------------------------
+[00000145][キルマリア,char_007 Kilmaria]
+I will be joining from today!
+Thank you very much!
+------------------------------------------------
+[00000146][シャノン,char_004 Shannon]
+Mr. Kilmaria? Why?
+Do you go out of your way to study at school?
+Although it seems unlikely...
+------------------------------------------------
+[00000147][キルマリア,char_007 Kilmaria]
+No, at this school,
+I heard that you can also learn about the history of the island.
+I would like to use it as a reference for my research.
+------------------------------------------------
+[00000148][マイア,char_503]
+Hehehe, then today we'll talk about history.
+Let's start with the story.
+First of all, the person who is said to have discovered this island is...
+------------------------------------------------
+[00000149][キルマリア,char_007 Kilmaria]
+Wait, Maia! No, teacher!
+I have compiled a list of questions!
+------------------------------------------------
+[00000150][マイア,char_503]
+Oh, is that so? As always, you're enthusiastic.
+Which one, what kind of things are you concerned about?
+------------------------------------------------
+[00000151][キルマリア,char_007 Kilmaria]
+yes!
+First of all, how this island was discovered.
+Where does the discoverer's ship sail from?
+------------------------------------------------
+[00000152][マイア,char_503]
+……picture?
+------------------------------------------------
+[00000153][キルマリア,char_007 Kilmaria]
+Next, how is the investigation of the ruins carried out?
+I wonder if it's come,
+Is there any material regarding this?
+------------------------------------------------
+[00000154][マイア,char_503]
+that……
+------------------------------------------------
+[00000155][キルマリア,char_007 Kilmaria]
+after that……
+------------------------------------------------
+[00000156][マイア,char_503]
+Oh, wait! Kilmaria-san, wait a minute!
+------------------------------------------------
+[00000157][キルマリア,char_007 Kilmaria]
+Yes? What'll we do?
+------------------------------------------------
+[00000158][マイア,char_503]
+Well, let's have a history lesson another time.
+Today, we will change to studying calculations...
+------------------------------------------------
+[00000159][パニス,char_002 Panis]
+Soncho!
+------------------------------------------------
+[00000160][ガルゼー,char_501]
+Oh, Panis-chan? He's a good boy and is doing well today.
+He's a good boy, so I'll give him some candy. Look.
+------------------------------------------------
+[00000161][パニス,char_002 Panis]
+Oh!I love Panis, sweets, and Soncho!
+------------------------------------------------
+[00000162][ガルゼー,char_501]
+Ah, I see I see. Look, this pie is delicious too.
+------------------------------------------------
+[00000163][パニス,char_002 Panis]
+yay!
+------------------------------------------------
+[00000164][フリード,char_001 Fried]
+Hey, wait! Village chief!
+Don't give Panis so much food!
+------------------------------------------------
+[00000165][ガルゼー,char_501]
+That's sudden, Freed.
+I guess it doesn't matter a little.
+Please don't disturb my fun.
+------------------------------------------------
+[00000166][フリード,char_001 Fried]
+I say it's only a little bit, but
+This is too much!
+Eating this much is not good for you!
+------------------------------------------------
+[00000167][フリード,char_001 Fried]
+Also, don't spoil panis too much.
+What do you think!?
+------------------------------------------------
+[00000168][ガルゼー,char_501]
+Regarding that, you can also talk about other people, right?
+Look, Panis-chan, there was candy too.
+------------------------------------------------
+[00000169][パニス,char_002 Panis]
+Wow!
+------------------------------------------------
+[00000170][フリード,char_001 Fried]
+Now that I've said it...!
+------------------------------------------------
+[00000171][ガルゼー,char_501]
+Freed, you're too picky about details.
+I think Panis-chan has that many
+I can't eat sweets all at once...
+------------------------------------------------
+[00000172][パニス,char_002 Panis]
+Thank you for the meal!
+------------------------------------------------
+[00000173][ガルゼー,char_501]
+What!? Pa, Panis-chan...
+Did you eat all those sweets?
+Is there something wrong with my stomach?
+------------------------------------------------
+[00000174][パニス,char_002 Panis]
+Yeah! It was delicious!
+------------------------------------------------
+[00000175][ガルゼー,char_501]
+Oh, I see. Then it's okay.
+Actually, it's still in this bag...
+------------------------------------------------
+[00000176][フリード,char_001 Fried]
+Village chief!　It's time to get over it!
+------------------------------------------------
+[00000177][メリー,char_509]
+Hey hey, let's do it!
+Well, I'll go first, okay?
+Erm...apple!
+------------------------------------------------
+[00000178][ロラン,char_507]
+Sesame!
+------------------------------------------------
+[00000179][パニス,char_002 Panis]
+Sesame bread!
+------------------------------------------------
+[00000180][ロラン,char_507]
+That's wrong, Panisou!
+It's Shiritori!
+------------------------------------------------
+[00000181][カール,char_508]
+I taught you how to do it the other day, right?
+Let's start with the butt of words.
+------------------------------------------------
+[00000182][パニス,char_002 Panis]
+sorry? 
+------------------------------------------------
+[00000183][ロラン,char_507]
+It can't be helped. Well, let's try again!
+sheep!
+------------------------------------------------
+[00000184][パニス,char_002 Panis]
+Jam bread!
+------------------------------------------------
+[00000185][カール,char_508]
+ah! Well then, I'll be next, okay?
+Erm...fish!
+------------------------------------------------
+[00000186][メリー,char_509]
+summer!
+------------------------------------------------
+[00000187][ロラン,char_507]
+Tsumiki!
+------------------------------------------------
+[00000188][パニス,char_002 Panis]
+Mushroom bread!
+------------------------------------------------
+[00000189][カール,char_508]
+Panis loses again!
+------------------------------------------------
+[00000190][メリー,char_509]
+……Wait a minute?
+Panis, behind the words from a while ago
+Everything comes with "bread"...
+------------------------------------------------
+[00000191][カール,char_508]
+Sesame bread, jam bread, mushroom bread...
+It's true!
+------------------------------------------------
+[00000192][パニス,char_002 Panis]
+Because I love panis and bread!
+Also, I'm hungry!
+------------------------------------------------
+[00000193][メリー,char_509]
+That's how the name of the bread comes out...
+------------------------------------------------
+[00000194][ロラン,char_507]
+I wonder if I can't make shiritori until dinner is finished...
+------------------------------------------------
+[00000195][パニス,char_002 Panis]
+Freed? what happened?
+------------------------------------------------
+[00000196][フリード,char_001 Fried]
+Huh!? No, no, nothing...
+------------------------------------------------
+[00000197][パニス,char_002 Panis]
+yes?
+Okay, it's bright red, isn't it?
+------------------------------------------------
+[00000198][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000199][フリード,char_001 Fried]
+@fcFFAAFFAA (Alone with Panis under the starry sky...
+I feel strangely excited)
+------------------------------------------------
+[00000200][フリード,char_001 Fried]
+@fcFFAAFFAA (But anyway,
+More atmosphere... like this...
+I want to liven it up...)
+------------------------------------------------
+[00000201][フリード,char_001 Fried]
+@fcFFAAFFAA (Yes! I have to say something cool!
+"The stars are beautiful. But Panis is much more..."
+Or something...)
+------------------------------------------------
+[00000202][フリード,char_001 Fried]
+Pa, Panis...! Ho, ho, ho...
+The stars...
+------------------------------------------------
+[00000203][ダニエル,char_518]
+Hi Freed, Panis.
+Are you going home?
+------------------------------------------------
+[00000204][パニス,char_002 Panis]
+a! Yes, I'm going home!
+------------------------------------------------
+[00000205][フリード,char_001 Fried]
+picture!?
+------------------------------------------------
+[00000206][ダニエル,char_518]
+Ah, I see I see. I'm sure the weather will be nice tomorrow.
+------------------------------------------------
+[00000207][パニス,char_002 Panis]
+really?
+So, can I play with the animals?
+------------------------------------------------
+[00000208][ダニエル,char_518]
+Oh, okay. I'm sure the animals will love it too.
+------------------------------------------------
+[00000209][パニス,char_002 Panis]
+yay!
+Freed, let's go to my house tomorrow!
+------------------------------------------------
+[00000210][フリード,char_001 Fried]
+No……
+------------------------------------------------
+[00000211][フリード,char_001 Fried]
+@fcFFAAFFAA (Or, I forgot to say something cool...)
+------------------------------------------------
+[00000212][マイア,char_503]
+Today's new student is Velvet!
+Everyone, please get along well!
+------------------------------------------------
+[00000213][ベルベット,char_008 Velvet]
+Yes, hello.
+------------------------------------------------
+[00000214][マイア,char_503]
+Well then, let's start studying right away.
+Today's history lesson.
+------------------------------------------------
+[00000215][マイア,char_503]
+Well, last time we talked about the people who first created the village.
+I think I talked about it...
+------------------------------------------------
+[00000216][ベルベット,char_008 Velvet]
+Wait a minute, teacher!
+Tell me something more important than that!
+------------------------------------------------
+[00000217][マイア,char_503]
+picture?
+------------------------------------------------
+[00000218][ベルベット,char_008 Velvet]
+Therefore, whether a village was created or not,
+That's not what I'm talking about, it's more like this...
+Solve the mystery of the ruins!
+------------------------------------------------
+[00000219][ベルベット,char_008 Velvet]
+Also, where on the island did you find amazing items?
+Is there still any talk of that happening?
+------------------------------------------------
+[00000220][メリー,char_509]
+That has nothing to do with history...
+------------------------------------------------
+[00000221][ベルベット,char_008 Velvet]
+Oh no! It's stories like this that are important!
+You'll understand when you grow up!
+------------------------------------------------
+[00000222][カール,char_508]
+Do you understand...maybe...?
+------------------------------------------------
+[00000223][ベルベット,char_008 Velvet]
+I'm sure you'll understand! "I'm right!"
+That's why, sir! Thank you for such classes!
+------------------------------------------------
+[00000224][アリーゼ,char_504]
+Um, Velvet?
+Is it okay?
+------------------------------------------------
+[00000225][ベルベット,char_008 Velvet]
+What. 
+------------------------------------------------
+[00000226][アリーゼ,char_504]
+If that's the case, from Mr. Maia,
+I think my father is better at it.
+I'll keep the tuition fee low, but will you come and listen?
+------------------------------------------------
+[00000227][ベルベット,char_008 Velvet]
+……picture?
+------------------------------------------------
+[00000228][フリード,char_001 Fried]
+@fcFFAAFFAA (You're surprisingly shrewd...Alise...)
+------------------------------------------------
+[00000229][ハンス,char_510]
+It's that time! The ground cracked open beneath my feet,
+Hot lava spewed out all at once!
+Go ahead! That's what it is!
+------------------------------------------------
+[00000230][パニス,char_002 Panis]
+Oh!
+------------------------------------------------
+[00000231][ハンス,char_510]
+But I didn't panic. I received it from the Ice Spirit King.
+When I fluttered my cloak,
+The lava quickly solidified.
+------------------------------------------------
+[00000232][ハンス,char_510]
+And the solidified lava has reached the other side,
+It just looked like a bridge.
+I walked leisurely on top of it, aiming for the treasure.
+------------------------------------------------
+[00000233][パニス,char_002 Panis]
+So!? So what happened!?
+------------------------------------------------
+[00000234][ハンス,char_510]
+Of course, it's not that easy to get treasure.
+A huge octopus was waiting for us at the end of the crossing.
+------------------------------------------------
+[00000235][フリード,char_001 Fried]
+...Didn't you say "snake" before?
+------------------------------------------------
+[00000236][ハンス,char_510]
+That's why the octopus had eight snakes growing on its head!
+So, that octopus snake guy has three eyes.
+I said it by making it glow red, blue, and yellow.
+------------------------------------------------
+[00000237][ハンス,char_510]
+``I can't just hand over the secret treasure.''
+So I smoothly pulled out my magic sword...
+------------------------------------------------
+[00000238][パニス,char_002 Panis]
+Maho's sword!? Do you have Maho's sword too!?
+------------------------------------------------
+[00000239][ハンス,char_510]
+Ah, I have it...or rather, I have it.
+I'll talk about that another time.
+Now we're talking about the octopus snake bat.
+------------------------------------------------
+[00000240][アリーゼ,char_504]
+Before you know it, the number of bats is increasing...
+------------------------------------------------
+[00000241][ハンス,char_510]
+Dakara,
+It was said that he had bat wings growing on his back!
+------------------------------------------------
+[00000242][パニス,char_002 Panis]
+So amazing! So, are you going to fly in the sky too?
+------------------------------------------------
+[00000243][ハンス,char_510]
+oh! It flies at great speed and spits lightning from its mouth!
+------------------------------------------------
+[00000244][パニス,char_002 Panis]
+Ooooo!
+------------------------------------------------
+[00000245][フリード,char_001 Fried]
+@fcFFAAFFAA (This story by Hans, I also remember it when I was little.
+I believed it...somehow, even back then.
+I feel like the content is exaggerated.)
+------------------------------------------------
+[00000246][フリード,char_001 Fried]
+@fcFFAAFFAA (I feel like I'm trying to tsukko a lot...
+Panis seems to be enjoying himself, so that's okay.)
+------------------------------------------------
+[00000247][シャノン,char_004 Shannon]
+a! Are you about to go shopping?
+------------------------------------------------
+[00000248][アリーゼ,char_504]
+Ah~Shannon~!
+You know? I, actually...
+Go around the farm...
+------------------------------------------------
+[00000249][シャノン,char_004 Shannon]
+Oh, we're going to turn around and go to the ranch, right?
+Purchasing milk?
+------------------------------------------------
+[00000250][アリーゼ,char_504]
+That's right, that's it.
+I bought some nice cooking utensils from Lana...
+------------------------------------------------
+[00000251][シャノン,char_004 Shannon]
+Isn't there a lot of time for Zynga?
+Why not stop by on your way home and ask about the recommended fish?
+------------------------------------------------
+[00000252][アリーゼ,char_504]
+That's right~ Well then, let's go and try it~?
+See you soon, Shannon~!
+------------------------------------------------
+[00000253][シャノン,char_004 Shannon]
+Yeah!
+------------------------------------------------
+[00000254][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000255][パニス,char_002 Panis]
+huh……
+------------------------------------------------
+[00000256][シャノン,char_004 Shannon]
+picture?Freed, Panis?
+------------------------------------------------
+[00000257][フリード,char_001 Fried]
+No, I thought we could communicate well now...
+------------------------------------------------
+[00000258][パニス,char_002 Panis]
+Panis, I had no idea...
+------------------------------------------------
+[00000259][シャノン,char_004 Shannon]
+yes? Before I knew it, the conversation turned into something like that.
+------------------------------------------------
+[00000260][フリード,char_001 Fried]
+Oh I see……
+It's kind of amazing...
+------------------------------------------------
+[00000261][ドルトン,char_506]
+Wahahahaha! Well, drink!
+Okay, drink it!
+------------------------------------------------
+[00000262][リアン,char_514]
+No no no! Hiram has already had too much to drink!
+I, my wife, will drink it instead!
+------------------------------------------------
+[00000263][ジンガ,char_005 zynga]
+Wahahahahaha!
+Come on, eat! It's a freshly caught fish!
+------------------------------------------------
+[00000264][ガルゼー,char_501]
+good! When the fish is so good, you can't go too far with the sake!
+------------------------------------------------
+[00000265][パニス,char_002 Panis]
+Everyone, it's kind of strange...
+It's different from usual...?
+------------------------------------------------
+[00000266][フリード,char_001 Fried]
+Well, I can't help it when it comes to gatherings.
+Because there's alcohol in it...
+------------------------------------------------
+[00000267][ハンス,char_510]
+Oh!? It's Freed!
+Well done! Welcome! Well, drink!
+------------------------------------------------
+[00000268][フリード,char_001 Fried]
+No way! I can't drink it yet!
+Besides, it seems like the old man is quite drunk.
+Let's go home soon.
+------------------------------------------------
+[00000269][ハイラム,char_513]
+Well, isn't it nice...
+Freed also went out for a drink...
+Uncle will allow it...
+------------------------------------------------
+[00000270][フリード,char_001 Fried]
+No, no, but...
+------------------------------------------------
+[00000271][ジム,char_502]
+I want to see everyone having fun drinking...
+He keeps saying harsh things...
+I guess I'm just saying hello...
+------------------------------------------------
+[00000272][ガルゼー,char_501]
+Well, that's it! Now drink!
+Panis-chan too...come here!
+------------------------------------------------
+[00000273][フリード,char_001 Fried]
+@fcFFAAFFAA (Wow...even the village chief...
+What should I do...how should I escape...)
+------------------------------------------------
+[00000274][マイア,char_503]
+Village chief! What are you doing?
+Encourage your child to drink alcohol!
+------------------------------------------------
+[00000275][フリード,char_001 Fried]
+@fcFFAAFFAA (Good! Teacher Maia is decent!)
+------------------------------------------------
+[00000276][マイア,char_503]
+Do you think it's okay to do that?
+It's bound to be bad!
+Like this...like this...
+------------------------------------------------
+[00000277][マイア,char_503]
+I was drunk before I even drank,
+The number of people increased to 5 or 10,
+Drinking alcohol for the kids who seem to be running around in circles...
+------------------------------------------------
+[00000278][フリード,char_001 Fried]
+……picture?
+------------------------------------------------
+[00000279][マイア,char_503]
+I'd rather have these drunk people drink...
+I'll drink it all!
+Freed-kun! Panis-chan!
+------------------------------------------------
+[00000280][マイア,char_503]
+Just sit there!
+And...pour!
+Don't be stingy, Naminamito!
+------------------------------------------------
+[00000281][フリード,char_001 Fried]
+yes……
+------------------------------------------------
+[00000282][マイア,char_503]
+Good morning everyone.
+Well then, let's start today's class, shall we?
+------------------------------------------------
+[00000283][ロラン,char_507]
+Hey, that smooth stone,
+Please replace this round stone!
+------------------------------------------------
+[00000284][パニス,char_002 Panis]
+Eh?
+No way, look for it yourself!
+------------------------------------------------
+[00000285][キルマリア,char_007 Kilmaria]
+You should go to the ruins.
+There are a lot of good stones there.
+------------------------------------------------
+[00000286][マイア,char_503]
+…………
+------------------------------------------------
+[00000287][ベルベット,char_008 Velvet]
+Hey, Karl! Have you done your homework?
+Hurry up and let me take a picture!
+------------------------------------------------
+[00000288][カール,char_508]
+Eh? However, the velvet jacket
+My boss is different, right?
+------------------------------------------------
+[00000289][アダム,char_006 a-dam]
+Velvet-san, I think you should do your homework by yourself...
+------------------------------------------------
+[00000290][マイア,char_503]
+…………………
+------------------------------------------------
+[00000291][シャノン,char_004 Shannon]
+That is……! keep quiet!
+------------------------------------------------
+[00000292][ベルベット,char_008 Velvet]
+Even if you told me to do it myself, I'm busy!
+Not very much, but
+I don't have time to do homework!
+------------------------------------------------
+[00000293][マイア,char_503]
+…………………
+------------------------------------------------
+[00000294][メリー,char_509]
+……a! No good! 
+------------------------------------------------
+[00000295][ベルベット,char_008 Velvet]
+Why? 
+------------------------------------------------
+[00000296][マイア,char_503]
+…………………
+...Mr. Velvet?
+------------------------------------------------
+[00000297][ベルベット,char_008 Velvet]
+...Hey!
+I-I’m sorry! Mr. Maia!!
+------------------------------------------------
+[00000298][マイア,char_503]
+...Okay, everyone, are you ready?
+Well then, let's start the lesson.
+------------------------------------------------
+[00000299][ベルベット,char_008 Velvet]
+Yes...
+------------------------------------------------
+[00000300][ベルベット,char_008 Velvet]
+@fcFFAAFFAA (...that was scary.
+What is that strange feeling of intimidation...)
+------------------------------------------------
+[00000301][マイア,char_503]
+Then, after school, Velvet-san
+Please come to the teacher, okay?
+Take your homework notebook with you.
+------------------------------------------------
+[00000302][ベルベット,char_008 Velvet]
+Hello!
+------------------------------------------------
+[00000303][パニス,char_002 Panis]
+That's it! Hello!
+------------------------------------------------
+[00000304][ガルゼー,char_501]
+Oh, Panis-chan.
+Every time we meet, he greets me in a loud voice,
+Panis-chan is a really nice girl.
+------------------------------------------------
+[00000305][パニス,char_002 Panis]
+Ehehe.
+Because I love Panis!
+------------------------------------------------
+[00000306][ガルゼー,char_501]
+Oh, oh, I see.
+Does Panis-chan like Soncho?
+------------------------------------------------
+[00000307][パニス,char_002 Panis]
+Yeah! 
+------------------------------------------------
+[00000308][ガルゼー,char_501]
+Really……
+Do you like Soncho that much?
+------------------------------------------------
+[00000309][パニス,char_002 Panis]
+I like it!
+------------------------------------------------
+[00000310][ガルゼー,char_501]
+Hmmmm...
+Panis-chan, could you please say that again?
+------------------------------------------------
+[00000311][パニス,char_002 Panis]
+OK?
+Soncho, I love you!
+------------------------------------------------
+[00000312][ガルゼー,char_501]
+Hehehehe...I see...
+Panis-chan, once again.
+------------------------------------------------
+[00000313][パニス,char_002 Panis]
+Hehe?
+------------------------------------------------
+[00000314][フリード,char_001 Fried]
+Hey, village chief! What are you doing?
+Panis is in trouble!
+------------------------------------------------
+[00000315][ガルゼー,char_501]
+It's noisy...
+Don't interrupt my fun, Freed.
+Come on, Panis-chan. Try saying it.
+------------------------------------------------
+[00000316][フリード,char_001 Fried]
+@fcFFAAFFAA (Absolutely...! It's good that you like children, but
+This is too much! )
+------------------------------------------------
+[00000317][マイア,char_503]
+...The village chief?
+------------------------------------------------
+[00000318][ガルゼー,char_501]
+...Ugh!
+------------------------------------------------
+[00000319][フリード,char_001 Fried]
+Teacher Maia!
+------------------------------------------------
+[00000320][マイア,char_503]
+...Please be careful.
+------------------------------------------------
+[00000321][ガルゼー,char_501]
+No, no, sorry...
+Ah, that's right...I have work...
+See you then...
+------------------------------------------------
+[00000322][マイア,char_503]
+yes. 
+------------------------------------------------
+[00000323][フリード,char_001 Fried]
+@fcFFAAFFAA (As expected of Mr. Maia...)
+------------------------------------------------
+[00000324][パニス,char_002 Panis]
+Hey hey!
+Who is the strongest person in this village?
+------------------------------------------------
+[00000325][ジム,char_502]
+Well, it's already decided!
+Big brother of Zynga!
+------------------------------------------------
+[00000326][ジンガ,char_005 zynga]
+No, more than me.
+Freed would be much stronger.
+------------------------------------------------
+[00000327][フリード,char_001 Fried]
+Oh, me!? There's nothing like that. Zynga is stronger.
+Also, Adam, Killmaria-san, etc.
+There are many other strong people...
+------------------------------------------------
+[00000328][パニス,char_002 Panis]
+I see……
+This village is full of strong people...
+------------------------------------------------
+[00000329][ピーター,char_520]
+Come to think of it, yes.
+Then, the village chief, who brings together these strong people,
+Does that mean it's the strongest?
+------------------------------------------------
+[00000330][パニス,char_002 Panis]
+really? 
+------------------------------------------------
+[00000331][ガルゼー,char_501]
+No, I'm not particularly strong...
+However, Panis-chan
+If you can say that...
+------------------------------------------------
+[00000332][ドルトン,char_506]
+No, wait. I feel bad for the village chief, but
+I know someone who is stronger.
+------------------------------------------------
+[00000333][ダニエル,char_518]
+law? 
+------------------------------------------------
+[00000334][ドルトン,char_506]
+That's...
+------------------------------------------------
+[00000335][マイア,char_503]
+...The village chief?
+------------------------------------------------
+[00000336][ガルゼー,char_501]
+Oh!
+------------------------------------------------
+[00000337][マイア,char_503]
+Why are you playing here?
+I wanted desks to be used in the classroom to be prepared quickly.
+I asked for it...
+------------------------------------------------
+[00000338][ガルゼー,char_501]
+No, no, that's...
+------------------------------------------------
+[00000339][マイア,char_503]
+He said he would look for him right away.
+You just left school, right?
+Was that a lie...?
+------------------------------------------------
+[00000340][ガルゼー,char_501]
+No! sorry! This time, for real!
+------------------------------------------------
+[00000341][マイア,char_503]
+Ufufufufu, please?
+Well then, everyone, sorry for bothering you...
+------------------------------------------------
+[00000342][パニス,char_002 Panis]
+…………
+------------------------------------------------
+[00000343][ドルトン,char_506]
+...What?　
+More than the village chief, more than Jinga, more than Freed...
+Isn't that person much stronger?
+------------------------------------------------
+[00000344][フリード,char_001 Fried]
+Oh, that's right...
+Even though his face is smiling, why does he look so powerful...
+------------------------------------------------
+[00000345][カール,char_508]
+Wow...
+------------------------------------------------
+[00000346][ロラン,char_507]
+Wow...
+The sun is huge and red...
+------------------------------------------------
+[00000347][メリー,char_509]
+It's beautiful...
+------------------------------------------------
+[00000348][パニス,char_002 Panis]
+It's true...
+------------------------------------------------
+[00000349][フリード,char_001 Fried]
+@fcFFAAFFAA (Panis and the kids are happy...
+The sunset today is especially beautiful...)
+------------------------------------------------
+[00000350][パニス,char_002 Panis]
+Hey, Freed.
+Why is the sunset so red?
+------------------------------------------------
+[00000351][フリード,char_001 Fried]
+……picture?
+Eh, um, that's...uh...
+------------------------------------------------
+[00000352][カール,char_508]
+a!The sun is shining!
+That's why I have a red face!
+------------------------------------------------
+[00000353][ロラン,char_507]
+I see!
+When I get angry, I turn bright red!
+The same goes for Freed!
+------------------------------------------------
+[00000354][フリード,char_001 Fried]
+W-what do you mean!?
+------------------------------------------------
+[00000355][ロラン,char_507]
+Because when I hold hands with Panis,
+Freed's face is bright red!
+------------------------------------------------
+[00000356][パニス,char_002 Panis]
+Hue?
+------------------------------------------------
+[00000357][フリード,char_001 Fried]
+picture!That's not what I'm saying!?
+But, uh...
+------------------------------------------------
+[00000358][ロラン,char_507]
+ah! It turned red!
+------------------------------------------------
+[00000359][メリー,char_509]
+It’s true! Ahahahahaha!
+------------------------------------------------
+[00000360][カール,char_508]
+Freed looks like the sun!
+------------------------------------------------
+[00000361][フリード,char_001 Fried]
+Well...just give me a break...
+------------------------------------------------
+[00000362][マイア,char_503]
+Well then, I'll give you back the academic ability test you took the other day.
+Everyone, come pick it up from your teacher!
+------------------------------------------------
+[00000363][カール,char_508]
+Yay! 90 points!
+------------------------------------------------
+[00000364][メリー,char_509]
+I got 95 points!
+------------------------------------------------
+[00000365][ロラン,char_507]
+What is it, you guys?
+How can I get such a score!
+------------------------------------------------
+[00000366][ベルベット,char_008 Velvet]
+Well, I guess it's something like this.
+What about Freed and Shannon?
+------------------------------------------------
+[00000367][フリード,char_001 Fried]
+I feel like I'm pretty good...I guess.
+Please don't ask my sister...
+------------------------------------------------
+[00000368][シャノン,char_004 Shannon]
+W-what! Me too, if I'm serious
+As for Freed, I'm sure...maybe...
+------------------------------------------------
+[00000369][フリード,char_001 Fried]
+That's why I told you to study hard for the exam...
+------------------------------------------------
+[00000370][アダム,char_006 a-dam]
+Everything was correct.
+My memory device too,
+It seems like it has regained some functionality.
+------------------------------------------------
+[00000371][キルマリア,char_007 Kilmaria]
+Ah... ah... aaaaaaa...
+This... I wonder what happened to this...
+------------------------------------------------
+[00000372][ベルベット,char_008 Velvet]
+What's wrong, Killmaria?
+...Wow!
+------------------------------------------------
+[00000373][シャノン,char_004 Shannon]
+What what? Yeah!?
+------------------------------------------------
+[00000374][キルマリア,char_007 Kilmaria]
+Why... how could something like this happen!
+------------------------------------------------
+[00000375][キルマリア,char_007 Kilmaria]
+Don't forget to study before the exam,
+Even during the exam, I followed Justice's orders.
+Even though she was able to answer smoothly...
+------------------------------------------------
+[00000376][キルマリア,char_007 Kilmaria]
+But... why is it 0 points?
+i can't believe! Is he far from being a top-notch exorcist?
+------------------------------------------------
+[00000377][マイア,char_503]
+...You see, Mr. Kilmaria.
+calm down. 
+------------------------------------------------
+[00000378][マイア,char_503]
+The answers you wrote are probably all correct.
+But... please take a look at the answer sheet.
+The columns to write the answers... are off by one.
+------------------------------------------------
+[00000379][キルマリア,char_007 Kilmaria]
+……picture?W-w-w-w-w-what am I doing!?
+------------------------------------------------
+[00000380][マイア,char_503]
+...That's why I got 0 points.
+Let's be careful, really...
+------------------------------------------------
+[00000381][キルマリア,char_007 Kilmaria]
+Yes...
+Uu……
+------------------------------------------------
+[00000382][パニス,char_002 Panis]
+That's it! Ah, sobo!
+------------------------------------------------
+[00000383][ガルゼー,char_501]
+Oh, Panis-chan.
+Of course it's fine... Oh, no, no, it's fine.
+------------------------------------------------
+[00000384][ガルゼー,char_501]
+Sorry... Panis-chan...
+Soncho...is busy.
+------------------------------------------------
+[00000385][パニス,char_002 Panis]
+Hue?
+------------------------------------------------
+[00000386][フリード,char_001 Fried]
+picture?I can't believe the village chief would say such a thing...
+------------------------------------------------
+[00000387][ガルゼー,char_501]
+Well, there have been a lot of complaints recently...
+I fooled Panis-chan,
+When work is neglected...
+------------------------------------------------
+[00000388][フリード,char_001 Fried]
+Is that why you're trying not to play with Panis?
+I'm sorry, but I think it's better...
+------------------------------------------------
+[00000389][パニス,char_002 Panis]
+Soncho, won't you play with me...?
+------------------------------------------------
+[00000390][ガルゼー,char_501]
+Ah, ah... I'm sorry, Panis-chan...
+------------------------------------------------
+[00000391][パニス,char_002 Panis]
+...That's boring.
+It's boring not being able to play with Soncho...
+------------------------------------------------
+[00000392][ガルゼー,char_501]
+cormorant……
+------------------------------------------------
+[00000393][フリード,char_001 Fried]
+Panis, say that.
+Don't embarrass the village chief.
+------------------------------------------------
+[00000394][パニス,char_002 Panis]
+but……
+It's fun to play with Soncho...
+------------------------------------------------
+[00000395][ガルゼー,char_501]
+Ugh...!
+------------------------------------------------
+[00000396][フリード,char_001 Fried]
+It can't be helped, can it?
+The village chief has an important job to do.
+------------------------------------------------
+[00000397][パニス,char_002 Panis]
+Panis, I want to play with Soncho...
+------------------------------------------------
+[00000398][ガルゼー,char_501]
+…………Panis-chan.
+Come here. 
+------------------------------------------------
+[00000399][パニス,char_002 Panis]
+okay!?
+------------------------------------------------
+[00000400][ガルゼー,char_501]
+Ah, good and good.
+Come on.
+------------------------------------------------
+[00000401][フリード,char_001 Fried]
+a little bit! 
+------------------------------------------------
+[00000402][ガルゼー,char_501]
+Freed. Don't say anything.
+I know what you mean.
+But isn't Panis-chan cute?
+------------------------------------------------
+[00000403][フリード,char_001 Fried]
+picture? that's right, but……
+------------------------------------------------
+[00000404][ガルゼー,char_501]
+right? I'm just trying to pet it!
+What's wrong with that?
+------------------------------------------------
+[00000405][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000406][ガルゼー,char_501]
+Come on, Panis-chan.
+Let's have a snack.
+------------------------------------------------
+[00000407][パニス,char_002 Panis]
+yay!
+------------------------------------------------
+[00000408][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000409][フリード,char_001 Fried]
+@fcFFAAFFAA (I might not be able to stop it now.
+This is the village chief's...)
+------------------------------------------------
+[00000410][パニス,char_002 Panis]
+Diana! Hello!
+------------------------------------------------
+[00000411][ダイアナ,char_505]
+Oh, Mr. Panis. welcome.
+What are you looking for today?
+------------------------------------------------
+[00000412][パニス,char_002 Panis]
+picture?
+------------------------------------------------
+[00000413][ダイアナ,char_505]
+The other day, from Lana's boat,
+We've got a lot of interesting things in stock.
+Would you like to take a look at some?
+------------------------------------------------
+[00000414][パニス,char_002 Panis]
+you know……
+------------------------------------------------
+[00000415][フリード,char_001 Fried]
+@fcFFAAFFAA (I wonder what happened all of a sudden...?
+I don't know if I'm drunk or not, as usual.
+Very different from Diana...)
+------------------------------------------------
+[00000416][フリード,char_001 Fried]
+a! 
+------------------------------------------------
+[00000417][ダイアナ,char_505]
+Ah... do you understand?
+Yes, I drank a little too much today.
+------------------------------------------------
+[00000418][フリード,char_001 Fried]
+picture!?
+------------------------------------------------
+[00000419][ダイアナ,char_505]
+After all, he looks quite drunk.
+It's embarrassing... already...
+------------------------------------------------
+[00000420][フリード,char_001 Fried]
+I-I see...?
+------------------------------------------------
+[00000421][フリード,char_001 Fried]
+@fcFFAAFFAA (...huh? This means he's drunk.
+Does that mean the usual state is normal!?)
+------------------------------------------------
+[00000422][ダイアナ,char_505]
+I'm drunk, but I have some strange items.
+I don't recommend it.
+Please rest assured, okay? Hehe.
+------------------------------------------------
+[00000423][フリード,char_001 Fried]
+No……
+------------------------------------------------
+[00000424][フリード,char_001 Fried]
+@fcFFAAFFAA (Then I usually buy suspicious items.
+I wonder if he recommends it...)
+------------------------------------------------
+[00000425][アリーゼ,char_504]
+So, what about Levin?
+------------------------------------------------
+[00000426][シャノン,char_004 Shannon]
+Hey, it's too bad...
+------------------------------------------------
+[00000427][ベルベット,char_008 Velvet]
+What what? 
+------------------------------------------------
+[00000428][アリーゼ,char_504]
+You know?
+Among the men in the village, who is the coolest?
+That's what I was talking about.
+------------------------------------------------
+[00000429][ベルベット,char_008 Velvet]
+fault!Maia, Killmaria, what about you guys?
+------------------------------------------------
+[00000430][マイア,char_503]
+Geez...for example, Zynga...?
+Hmm...but I love fish too much...
+That's a bit...
+------------------------------------------------
+[00000431][キルマリア,char_007 Kilmaria]
+So, what do you think, Mr. Village Chief?
+...Hmm...I have to say it myself.
+Maybe I'm a little too old...
+------------------------------------------------
+[00000432][ベルベット,char_008 Velvet]
+Also, what comes to mind is...Bacchus?
+...No, please forget it.
+It's out of scope in many ways, right?
+------------------------------------------------
+[00000433][シャノン,char_004 Shannon]
+a! You forgot my little brother!
+------------------------------------------------
+[00000434][アリーゼ,char_504]
+Ah~...Hey Freed~...
+It might be good...but...
+------------------------------------------------
+[00000435][ベルベット,char_008 Velvet]
+That's right... it's not bad, but...
+The problem is that the pressure is too weak...
+------------------------------------------------
+[00000436][シャノン,char_004 Shannon]
+That's right...
+As an older sister, I am a little bit...
+------------------------------------------------
+[00000437][マイア,char_503]
+It's been like this since I was little...
+I hope you won't have trouble with it in the future.
+Even from my homeroom teacher's point of view, I'm a little worried...
+------------------------------------------------
+[00000438][キルマリア,char_007 Kilmaria]
+My Justice too.
+I'm worried about that...
+------------------------------------------------
+[00000439][シャノン,char_004 Shannon]
+Sigh...
+Wonderful people are rare...
+------------------------------------------------
+[00000440][フリード,char_001 Fried]
+@fcFFAAFFAA (If you wonder what everyone is doing together...
+I heard something incredible...)
+------------------------------------------------
+[00000441][フリード,char_001 Fried]
+@fcFFAAFFAA (Or rather, that's what I thought...
+I know you're worried, but...
+It's kind of weird...)
+------------------------------------------------
+[00000442][フリード,char_001 Fried]
+We!
+------------------------------------------------
+[00000443][シャノン,char_004 Shannon]
+We are!
+------------------------------------------------
+[00000444][パニス,char_002 Panis]
+This school!
+------------------------------------------------
+[00000445][アダム,char_006 a-dam]
+I'm graduating!
+------------------------------------------------
+[00000446][ベルベット,char_008 Velvet]
+What I learned from Mr. Maia!
+------------------------------------------------
+[00000447][キルマリア,char_007 Kilmaria]
+We will never forget!
+------------------------------------------------
+[00000448][マイア,char_503]
+Gussu...
+I thought everyone had just recently entered the school,
+Time passes quickly...
+------------------------------------------------
+[00000449][マイア,char_503]
+But now I can say goodbye to everyone...
+Everyone is leaving this classroom...
+------------------------------------------------
+[00000450][シャノン,char_004 Shannon]
+Now... sensei, you're exaggerating.
+We're not leaving this village.
+------------------------------------------------
+[00000451][マイア,char_503]
+But… I guess not.
+There are many things that make me feel deeply...
+------------------------------------------------
+[00000452][ベルベット,char_008 Velvet]
+Well, as Shannon says, I think it's an exaggeration,
+I can understand how the teacher feels.
+Yes, this...
+------------------------------------------------
+[00000453][マイア,char_503]
+fault……?
+------------------------------------------------
+[00000454][キルマリア,char_007 Kilmaria]
+This is a present from us.
+Writing and drawing tools for juniors.
+And...a bouquet of flowers for the teacher.
+------------------------------------------------
+[00000455][パニス,char_002 Panis]
+Panis also helped with the flower picking!
+------------------------------------------------
+[00000456][マイア,char_503]
+Hey, everyone...!
+Ugh...uuuuuu...
+The teacher...the teacher...!
+------------------------------------------------
+[00000457][マイア,char_503]
+Teachers are blessed to have students like you...
+I'm so happy!
+------------------------------------------------
+[00000458][カール,char_508]
+Hey hey Panis! What do you play?
+------------------------------------------------
+[00000459][パニス,char_002 Panis]
+Thong, Thong...
+Tree climber!
+------------------------------------------------
+[00000460][ロラン,char_507]
+Hey!　Well, it's next to the field.
+Let's go climb a big tree!
+Panis, you don't need Adam to help you today!
+------------------------------------------------
+[00000461][パニス,char_002 Panis]
+Ok! 
+------------------------------------------------
+[00000462][メリー,char_509]
+…………
+------------------------------------------------
+[00000463][カール,char_508]
+……that? what happened?
+------------------------------------------------
+[00000464][パニス,char_002 Panis]
+I looked at Panis...what's wrong?
+------------------------------------------------
+[00000465][ロラン,char_507]
+Don't you want to climb a tree?
+------------------------------------------------
+[00000466][メリー,char_509]
+U-uh...? That's not it.
+Um... Panis?
+------------------------------------------------
+[00000467][パニス,char_002 Panis]
+What?
+------------------------------------------------
+[00000468][メリー,char_509]
+From now on...we can play together, right?
+For a long time...for a long time...
+------------------------------------------------
+[00000469][パニス,char_002 Panis]
+Eh!? It's obvious, isn't it?
+Let's play together forever!
+------------------------------------------------
+[00000470][ロラン,char_507]
+Takku! What is Mary saying?
+------------------------------------------------
+[00000471][カール,char_508]
+that's right! 
+------------------------------------------------
+[00000472][メリー,char_509]
+That's true……
+good……!
+------------------------------------------------
+[00000473][パニス,char_002 Panis]
+Hehe, Mary! Let's climb the tree together!
+------------------------------------------------
+[00000474][メリー,char_509]
+……Yeah!
+------------------------------------------------
+[00000475][フリード,char_001 Fried]
+It's finally done...!
+A weapon that can even rival Shining Blade...!
+------------------------------------------------
+[00000476][ドルトン,char_506]
+Fufufufufu……
+------------------------------------------------
+[00000477][パニス,char_002 Panis]
+Dalton is amazing!
+------------------------------------------------
+[00000478][ドルトン,char_506]
+Well, in my opinion, it's basically like this.
+What do you think? Isn't it quite something?
+------------------------------------------------
+[00000479][フリード,char_001 Fried]
+Yeah. Just by picking it up, you can feel its power...
+I guess you can feel the awesomeness...
+------------------------------------------------
+[00000480][パニス,char_002 Panis]
+cool!
+------------------------------------------------
+[00000481][ドルトン,char_506]
+Hahahaha! That's right, that's right!
+It's a masterpiece that I poured my heart and soul into!
+------------------------------------------------
+[00000482][フリード,char_001 Fried]
+But...is it really okay for me to use it?
+------------------------------------------------
+[00000483][ドルトン,char_506]
+ah. It's a weapon for fighting.
+If you don't use it, it won't do anything.
+------------------------------------------------
+[00000484][ドルトン,char_506]
+Besides, I already have a plan for the next one.
+Keep it in your hands forever,
+I can't wait to look at it.
+------------------------------------------------
+[00000485][ドルトン,char_506]
+The weapon will be happy if you use it.
+That's how I feel.
+So don't be shy.
+------------------------------------------------
+[00000486][フリード,char_001 Fried]
+...Thank you, Dalton!
+I'm sure this weapon will be for everyone.
+I'll show you how useful it is!
+------------------------------------------------
+[00000487][ドルトン,char_506]
+Oh, do that!
+Well then! Well then, I guess I'll move on to the next job!
+------------------------------------------------
+[00000488][ガルゼー,char_501]
+All of a sudden, Freed.
+Who do you think is the cutest woman in this village?
+------------------------------------------------
+[00000489][フリード,char_001 Fried]
+Huh!? Well, if you ask me who is cuter,
+Of course Pani...
+------------------------------------------------
+[00000490][パニス,char_002 Panis]
+Fe?
+------------------------------------------------
+[00000491][フリード,char_001 Fried]
+No! What is more than that? That question!
+------------------------------------------------
+[00000492][レヴィン,char_009 Levin]
+No, it's not a big deal, but
+When we happened to meet and talk about this,
+It's strangely exciting.
+------------------------------------------------
+[00000493][フリード,char_001 Fried]
+Oh, that's right...
+------------------------------------------------
+[00000494][ガルゼー,char_501]
+By the way, I cast my vote for Velvet.
+Panis-chan is cute too, but
+That's because the purpose is different.
+------------------------------------------------
+[00000495][ハイラム,char_513]
+I think Shannon is the best...
+Well, I won't force it on Freed.
+------------------------------------------------
+[00000496][フリード,char_001 Fried]
+Don't put too much pressure on me, uncle...
+So who are Adam and Levin?
+------------------------------------------------
+[00000497][レヴィン,char_009 Levin]
+oh dear……
+I think Viola is appropriate.
+Including some mysterious aspects.
+------------------------------------------------
+[00000498][アダム,char_006 a-dam]
+When compared with various databases,
+Kill Maria is also quite in the “cute” category.
+I think it will come in.
+------------------------------------------------
+[00000499][フリード,char_001 Fried]
+That's right……
+What about Zynga?
+------------------------------------------------
+[00000500][ジンガ,char_005 zynga]
+Hmm...I'm honestly at a loss.
+I think Alise is good too,
+Maia and Diana too...
+------------------------------------------------
+[00000501][フリード,char_001 Fried]
+@fcFFAAFFAA (I mean, Zynga is kind,
+I'm a person who takes care of many things...)
+------------------------------------------------
+[00000502][ボリス,char_511]
+Whoohohoho. Sweet, sweet, everyone.
+In terms of cuteness, Deborah's younger days are the best.
+She was the village idol back then.
+------------------------------------------------
+[00000503][ジム,char_502]
+No, but even if you say "when I was young".
+------------------------------------------------
+[00000504][ボリス,char_511]
+What should I say? Like Deborah back then.
+A famous painter happened to be on the island and saw Deborah.
+So much so that I sat down on my knees and begged her to be my model.
+------------------------------------------------
+[00000505][レヴィン,char_009 Levin]
+Really?
+------------------------------------------------
+[00000506][ボリス,char_511]
+It's true! Hey, look at this!
+------------------------------------------------
+[00000507][ジンガ,char_005 zynga]
+what? let's see……?
+...Ugh!
+------------------------------------------------
+[00000508][フリード,char_001 Fried]
+Th-This is……!
+------------------------------------------------
+[00000509][パニス,char_002 Panis]
+Oh! 
+------------------------------------------------
+[00000510][ボリス,char_511]
+Right?
+------------------------------------------------
+[00000511][ジム,char_502]
+Ah...there's no doubt about it.
+Grandma Deborah is the winner...
+------------------------------------------------
+

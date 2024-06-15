@@ -1,0 +1,802 @@
+[0214]
+*****************
+[00000000][ジンガ,char_005 zynga]
+Hmph, hun♪ Hmph, hun♪
+------------------------------------------------
+[00000001][フリード,char_001 Fried]
+Good luck, Zynga.
+------------------------------------------------
+[00000002][ジンガ,char_005 zynga]
+yeah?
+Oh, Freed?
+------------------------------------------------
+[00000003][フリード,char_001 Fried]
+Zynga is best when fishing.
+seems to be happy.
+------------------------------------------------
+[00000004][ジンガ,char_005 zynga]
+Hahahaha, maybe so.
+------------------------------------------------
+[00000005][フリード,char_001 Fried]
+Have you always loved fishing since you were a child?
+------------------------------------------------
+[00000006][ジンガ,char_005 zynga]
+No, that's not true.
+It wasn't until I came to this village that I started in earnest.
+------------------------------------------------
+[00000007][フリード,char_001 Fried]
+Huh, is that so!?
+It's kind of surprising...
+------------------------------------------------
+[00000008][ジンガ,char_005 zynga]
+Have I never told you?
+Even though I look like this, I grew up in the mountains.
+------------------------------------------------
+[00000009][フリード,char_001 Fried]
+eh?
+Haven't you always been a fisherman?
+------------------------------------------------
+[00000010][ジンガ,char_005 zynga]
+In the past, I was not a fisherman, but a hunter in the mountains.
+So for me, catching prey means
+It was always a battle where I couldn't let my guard down even for a moment.
+------------------------------------------------
+[00000011][フリード,char_001 Fried]
+Come to think of it, Zynga wasn't born and raised on an island.
+It came from the continent. Maybe the fishing itself?
+You had never done it before coming to the island?
+------------------------------------------------
+[00000012][ジンガ,char_005 zynga]
+That's right. When catching fish in a mountain stream,
+Because I wasn't fishing, I was using a contraption.
+------------------------------------------------
+[00000013][フリード,char_001 Fried]
+Hmm.
+I didn't know that at all...
+------------------------------------------------
+[00000014][ジンガ,char_005 zynga]
+Fishing is good.
+In this way, you can relax and fight your prey.
+------------------------------------------------
+[00000015][ジンガ,char_005 zynga]
+If I had to say anything, it would be time...
+It may be a battle against boredom, but...
+------------------------------------------------
+[00000016][ジンガ,char_005 zynga]
+But I was fishing
+It's not often boring.
+------------------------------------------------
+[00000017][パニス,char_002 Panis]
+Isn't it boring just waiting around?
+------------------------------------------------
+[00000018][ジンガ,char_005 zynga]
+Call me stupid! Don't just wait!
+Constantly keep an eye on the water surface and take note of even the slightest changes.
+I have to be careful!
+------------------------------------------------
+[00000019][ジンガ,char_005 zynga]
+It's just that I can relax,
+Actually, I have to relax
+There's no way I can kill my prey!
+------------------------------------------------
+[00000020][パニス,char_002 Panis]
+…………
+------------------------------------------------
+[00000021][フリード,char_001 Fried]
+Hey Zynga!
+Don't get so excited about Panis.
+------------------------------------------------
+[00000022][ジンガ,char_005 zynga]
+Oh, sorry...
+------------------------------------------------
+[00000023][フリード,char_001 Fried]
+Zynga has always been passionate about fishing.
+Even when I and Zinga met for the first time,
+I was yelled at like this.
+------------------------------------------------
+[00000024][ジンガ,char_005 zynga]
+...Is that so?
+------------------------------------------------
+[00000025][フリード,char_001 Fried]
+that's right. I don't understand, but it seems interesting,
+I was asked to learn fishing...
+------------------------------------------------
+[00000026][ジンガ,char_005 zynga]
+No, that was when I first met Freed.
+That's not the point.
+------------------------------------------------
+[00000027][フリード,char_001 Fried]
+picture?
+------------------------------------------------
+[00000028][ジンガ,char_005 zynga]
+I remember well the first time I met you.
+He wasn't fishing.
+------------------------------------------------
+[00000029][フリード,char_001 Fried]
+I guess so.
+------------------------------------------------
+[00000030][ジンガ,char_005 zynga]
+That's it. 
+------------------------------------------------
+[00000031][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000032][ジンガ,char_005 zynga]
+Well, that was a long time ago.
+No wonder you don't remember.
+------------------------------------------------
+[00000033][フリード,char_001 Fried]
+……sorry.
+------------------------------------------------
+[00000034][ジンガ,char_005 zynga]
+It's not something to apologize for. dont 'worry.
+------------------------------------------------
+[00000035][フリード,char_001 Fried]
+@fcFFAAFFAA (But that's weird...
+I can't believe that my and Zinga's memories are different...)
+------------------------------------------------
+[00000036][ジンガ,char_005 zynga]
+Hmph, hun♪ Hmph, hun♪
+------------------------------------------------
+[00000037][フリード,char_001 Fried]
+@fcFFAAFFAA (Is Zynga fishing today too?)
+------------------------------------------------
+[00000038][フリード,char_001 Fried]
+@fcFFAAFFAA (Huh? It's coming from the other side...)
+------------------------------------------------
+[00000039][フリード,char_001 Fried]
+@fcFFAAFFAA (It's Mr. Hans. Maybe meeting up with Zynga?)
+------------------------------------------------
+[00000040][ハンス,char_510]
+Hey, Zynga! How are you doing?
+------------------------------------------------
+[00000041][ジンガ,char_005 zynga]
+Oh, Hans. Well, it's a blur.
+------------------------------------------------
+[00000042][ハンス,char_510]
+That's good.
+By the way, I have a question to ask, is it okay now?
+------------------------------------------------
+[00000043][ジンガ,char_005 zynga]
+ah. 
+------------------------------------------------
+[00000044][ハンス,char_510]
+Lately, a face I haven't seen has been wandering around the island.
+You know that too, right?
+------------------------------------------------
+[00000045][ジンガ,char_005 zynga]
+of course. 
+------------------------------------------------
+[00000046][ハンス,char_510]
+No, that's not what I'm talking about,
+There's no guarantee that something won't happen in the future.
+I have a young daughter at home, so I'm worried about her.
+------------------------------------------------
+[00000047][ハンス,char_510]
+So, if something happens to you,
+I wanted to get some help.
+------------------------------------------------
+[00000048][ジンガ,char_005 zynga]
+of course. 
+------------------------------------------------
+[00000049][ハンス,char_510]
+Thank you. I feel safe when I hear those words.
+The reason why our store can do business with peace of mind is that
+It's because you and the vigilantes' eyes are shining.
+------------------------------------------------
+[00000050][ジンガ,char_005 zynga]
+Ha ha ha.
+Even I would be in trouble without Hans' store.
+The residents of the island support each other.
+------------------------------------------------
+[00000051][ハンス,char_510]
+If you say that much,
+I'll have to buy you a drink next time.
+Sorry for interrupting your fishing.
+------------------------------------------------
+[00000052][ジンガ,char_005 zynga]
+No. 
+------------------------------------------------
+[00000053][フリード,char_001 Fried]
+@fcFFAAFFAA (Zynga, you still rely on me)
+------------------------------------------------
+[00000054][フリード,char_001 Fried]
+@fcFFAAFFAA (Oh, it's Maia-sensei this time)
+------------------------------------------------
+[00000055][マイア,char_503]
+Hello, Mr. Zinga.
+------------------------------------------------
+[00000056][ジンガ,char_005 zynga]
+Hi. 
+------------------------------------------------
+[00000057][マイア,char_503]
+Yes, thanks to Zynga, I can now swim.
+Now I want to go to the sea almost every day, right?
+That was a really big help!
+------------------------------------------------
+[00000058][ジンガ,char_005 zynga]
+That's good.
+------------------------------------------------
+[00000059][マイア,char_503]
+The children also want to play with Zynga,
+Please stop by the school anytime if you like.
+------------------------------------------------
+[00000060][ジンガ,char_005 zynga]
+Oh, if I had the chance.
+------------------------------------------------
+[00000061][マイア,char_503]
+See you soon. We are waiting for you!
+------------------------------------------------
+[00000062][ジンガ,char_005 zynga]
+ah.
+------------------------------------------------
+[00000063][フリード,char_001 Fried]
+@fcFFAAFFAA (Apparently, Zynga gives children at school
+I think I taught you how to swim,
+I didn't know that at all...)
+------------------------------------------------
+[00000064][フリード,char_001 Fried]
+Zynga!
+------------------------------------------------
+[00000065][ジンガ,char_005 zynga]
+Oh, Freed?
+I'm getting a lot of calls from people today.
+------------------------------------------------
+[00000066][フリード,char_001 Fried]
+I was watching it.
+Zynga is truly relied upon.
+------------------------------------------------
+[00000067][ジンガ,char_005 zynga]
+This me? What are you going to say?
+------------------------------------------------
+[00000068][フリード,char_001 Fried]
+While talking with Hans-san and Maia-sensei,
+I happened to hear it.
+It's amazing how everyone loves me.
+------------------------------------------------
+[00000069][ジンガ,char_005 zynga]
+It's not that great.
+And if there's a great guy out there, he's even better than me.
+------------------------------------------------
+[00000070][フリード,char_001 Fried]
+Huh, who?
+------------------------------------------------
+[00000071][ジンガ,char_005 zynga]
+I was saved by him,
+I still long for it.
+------------------------------------------------
+[00000072][フリード,char_001 Fried]
+Who is it? Let me know!
+------------------------------------------------
+[00000073][ジンガ,char_005 zynga]
+Fufufu...
+------------------------------------------------
+[00000074][フリード,char_001 Fried]
+Hmm, speaking of the person who could save Zynga...
+------------------------------------------------
+[00000075][フリード,char_001 Fried]
+...The village chief?
+------------------------------------------------
+[00000076][ジンガ,char_005 zynga]
+No, that's not true.
+------------------------------------------------
+[00000077][フリード,char_001 Fried]
+It's not Hans-san or Maia-sensei, right?
+Or my Uncle Hiram?
+------------------------------------------------
+[00000078][ジンガ,char_005 zynga]
+Too bad, it's off.
+------------------------------------------------
+[00000079][フリード,char_001 Fried]
+Maybe Levin!?
+------------------------------------------------
+[00000080][ジンガ,char_005 zynga]
+That's different too.
+------------------------------------------------
+[00000081][フリード,char_001 Fried]
+Surrender now, Zynga.
+Tell me!
+------------------------------------------------
+[00000082][ジンガ,char_005 zynga]
+Well, if I have a chance, I will.
+------------------------------------------------
+[00000083][フリード,char_001 Fried]
+What is it, already...
+------------------------------------------------
+[00000084][フリード,char_001 Fried]
+@fcFFAAFFAA (I've always admired Zynga.
+What kind of amazing person is he? )
+------------------------------------------------
+[00000085][ジンガ,char_005 zynga]
+Hmph, hun♪ Hmph, hun♪
+------------------------------------------------
+[00000086][フリード,char_001 Fried]
+Hi, Zynga. Are you fishing today too?
+------------------------------------------------
+[00000087][ジンガ,char_005 zynga]
+ah. 
+------------------------------------------------
+[00000088][ロラン,char_507]
+It's a big deal!
+It's a pirate!　Pirates are being attacked!
+------------------------------------------------
+[00000089][フリード,char_001 Fried]
+What did you say! 
+------------------------------------------------
+[00000090][ロラン,char_507]
+Oh, there it is!
+Me and Carl almost got hit too!
+Was scary……
+------------------------------------------------
+[00000091][ジンガ,char_005 zynga]
+what……!?
+Did he even try to touch the children?
+Freed, let's go!
+------------------------------------------------
+[00000092][フリード,char_001 Fried]
+ah!
+------------------------------------------------
+[00000093][ジンガ,char_005 zynga]
+Freed!? Why stop it!
+------------------------------------------------
+[00000094][フリード,char_001 Fried]
+Why is Zynga chasing after you?
+That's enough!
+------------------------------------------------
+[00000095][ジンガ,char_005 zynga]
+They even tried to touch children!
+You can't afford to miss these guys!
+------------------------------------------------
+[00000096][フリード,char_001 Fried]
+I've tortured you enough, and I won't come again!
+Or are you planning on cornering me until I kill you?
+------------------------------------------------
+[00000097][ジンガ,char_005 zynga]
+nothing……!
+------------------------------------------------
+[00000098][ジンガ,char_005 zynga]
+...That's right.
+I don't know about that...
+------------------------------------------------
+[00000099][フリード,char_001 Fried]
+...Have you calmed down a little?
+------------------------------------------------
+[00000100][ジンガ,char_005 zynga]
+……ah.
+------------------------------------------------
+[00000101][フリード,char_001 Fried]
+What the hell happened?
+It didn't seem like the usual Zynga, did it?
+------------------------------------------------
+[00000102][ジンガ,char_005 zynga]
+sorry.
+I just can't forgive people like that.
+Maybe it just got too hot.
+------------------------------------------------
+[00000103][ジンガ,char_005 zynga]
+As Freed said,
+If you corner me into a corner and hold a grudge against me,
+On the contrary, it may cause trouble to the village.
+------------------------------------------------
+[00000104][ジンガ,char_005 zynga]
+That's definitely...
+It must be avoided at all costs...
+------------------------------------------------
+[00000105][フリード,char_001 Fried]
+Apart from me,
+I didn't mean to put that much thought into it, but...
+------------------------------------------------
+[00000106][ジンガ,char_005 zynga]
+This island, this village is everything to me...
+I definitely don't want to do anything that will cause trouble...
+------------------------------------------------
+[00000107][フリード,char_001 Fried]
+Zynga...
+------------------------------------------------
+[00000108][フリード,char_001 Fried]
+@fcFFAAFFAA (I knew Jinga cared about the village...
+I wonder what it is, it seems like today was different than usual...
+For the first time since I met him, I thought Zynga was scary...)
+------------------------------------------------
+[00000109][フリード,char_001 Fried]
+Zynga.
+------------------------------------------------
+[00000110][ジンガ,char_005 zynga]
+...Oh, Freed?
+------------------------------------------------
+[00000111][フリード,char_001 Fried]
+I'm not feeling well. what's wrong with you?
+------------------------------------------------
+[00000112][ジンガ,char_005 zynga]
+...I'm sorry, Freed.
+------------------------------------------------
+[00000113][フリード,char_001 Fried]
+eh?
+What are you talking about all of a sudden?
+------------------------------------------------
+[00000114][ジンガ,char_005 zynga]
+It's about the pirates from before.
+If you didn't stop me,
+I would have made a big mistake.
+------------------------------------------------
+[00000115][フリード,char_001 Fried]
+That story should have been over by now, right?
+------------------------------------------------
+[00000116][ジンガ,char_005 zynga]
+No, I need to reflect on this and correct my habit of getting angry.
+I might do the same thing again.
+------------------------------------------------
+[00000117][フリード,char_001 Fried]
+Zynga...
+------------------------------------------------
+[00000118][ガルゼー,char_501]
+Zynga! Is the fish you ordered still available?
+------------------------------------------------
+[00000119][ジンガ,char_005 zynga]
+Ah, village chief, I'll catch it right away, so please wait a little longer.
+------------------------------------------------
+[00000120][ガルゼー,char_501]
+Shall I wait over there?
+Freed and Panis-chan also make sure not to get in the way.
+Come here.
+------------------------------------------------
+[00000121][フリード,char_001 Fried]
+eh?
+------------------------------------------------
+[00000122][ガルゼー,char_501]
+Apparently they drove away Zynga and the pirates.
+------------------------------------------------
+[00000123][フリード,char_001 Fried]
+Did you ask Roland?
+------------------------------------------------
+[00000124][ガルゼー,char_501]
+ah. 
+------------------------------------------------
+[00000125][フリード,char_001 Fried]
+But since then, somehow
+Zynga acts strange sometimes.
+------------------------------------------------
+[00000126][ガルゼー,char_501]
+What do you mean by strange?
+------------------------------------------------
+[00000127][フリード,char_001 Fried]
+How about self-reflection, or how to fix a habit that makes you lose your temper?
+You said that as soon as you saw my face.
+------------------------------------------------
+[00000128][ガルゼー,char_501]
+Isn't that fine?
+A man who didn't trust people that much had turned into a complete person.
+------------------------------------------------
+[00000129][フリード,char_001 Fried]
+Are you saying that Zynga didn't trust people in the past?
+------------------------------------------------
+[00000130][ガルゼー,char_501]
+That's it. In the past, it was more glaring.
+------------------------------------------------
+[00000131][ガルゼー,char_501]
+So...I was against it at first too.
+Don't put him in the village.
+------------------------------------------------
+[00000132][フリード,char_001 Fried]
+eh!?
+------------------------------------------------
+[00000133][ガルゼー,char_501]
+If you place Zynga in the village,
+I thought it would definitely bring disaster.
+Not just me, but almost everyone in the village.
+------------------------------------------------
+[00000134][フリード,char_001 Fried]
+Is that so!? I can't believe it...
+I can't believe you thought that about Zynga.
+------------------------------------------------
+[00000135][ガルゼー,char_501]
+However, there were some men who didn't think so.
+Thanks to that man,
+So we didn't make any mistakes.
+------------------------------------------------
+[00000136][ガルゼー,char_501]
+Now that I think about it, that person's way of looking at people is very important.
+At that time, Zynga, who has a strong personality, simply
+He had figured out that he was just being sad.
+------------------------------------------------
+[00000137][ガルゼー,char_501]
+accept the person's appeal,
+It was the right decision to reconsider Zynga's treatment.
+Zinga is now an indispensable presence in the village.
+------------------------------------------------
+[00000138][フリード,char_001 Fried]
+Hey... there were people like that too.
+------------------------------------------------
+[00000139][フリード,char_001 Fried]
+@fcFFAAFFAA (Oh, by any chance,
+The ``man of my dreams'' that Zynga was talking about...
+------------------------------------------------
+[00000140][ガルゼー,char_501]
+Actually, Freed...
+------------------------------------------------
+[00000141][ジンガ,char_005 zynga]
+Look, you caught it, village chief!
+------------------------------------------------
+[00000142][ガルゼー,char_501]
+What?!
+------------------------------------------------
+[00000143][ジンガ,char_005 zynga]
+Feel free to bring it home.
+------------------------------------------------
+[00000144][ガルゼー,char_501]
+What, such a stupid big fish?
+Are you asking me to carry it by myself?
+------------------------------------------------
+[00000145][ジンガ,char_005 zynga]
+Of course I'll deliver it home with you. Look!
+------------------------------------------------
+[00000146][ガルゼー,char_501]
+Oops!
+------------------------------------------------
+[00000147][フリード,char_001 Fried]
+Ah, village chief!
+------------------------------------------------
+[00000148][フリード,char_001 Fried]
+...Ah, I missed the important part.
+------------------------------------------------
+[00000149][フリード,char_001 Fried]
+Well, whatever. 
+------------------------------------------------
+[00000150][フリード,char_001 Fried]
+Zynga.
+------------------------------------------------
+[00000151][ジンガ,char_005 zynga]
+...Oh, Freed?
+------------------------------------------------
+[00000152][ロラン,char_507]
+That's a big deal!
+Pirates are on the loose again!
+Those guys from the other day are here again!
+------------------------------------------------
+[00000153][フリード,char_001 Fried]
+eh!?
+They said they would never come again...!
+------------------------------------------------
+[00000154][ジンガ,char_005 zynga]
+…………
+------------------------------------------------
+[00000155][フリード,char_001 Fried]
+Zynga...
+------------------------------------------------
+[00000156][ジンガ,char_005 zynga]
+More on that later. Just hurry!
+------------------------------------------------
+[00000157][フリード,char_001 Fried]
+No!
+------------------------------------------------
+[00000158][フリード,char_001 Fried]
+If it doesn't work, Zynga!
+There's no need to go that far!
+------------------------------------------------
+[00000159][ジンガ,char_005 zynga]
+Don't stop Freed!
+If you leave them alone,
+Repeat the same thing over and over again!
+------------------------------------------------
+[00000160][ジンガ,char_005 zynga]
+There's no guarantee that the village won't be damaged someday!
+Before that happens, those guys...!
+------------------------------------------------
+[00000161][フリード,char_001 Fried]
+Just because of that, don't kill me!
+It's just like pirates!
+You can chase it away as many times as you like until you get punished!
+------------------------------------------------
+[00000162][ジンガ,char_005 zynga]
+But that won't be enough to protect the village!
+------------------------------------------------
+[00000163][フリード,char_001 Fried]
+I can protect it!
+This is how I've been protecting you until now!
+Because Zynga was there, we were able to protect you!
+------------------------------------------------
+[00000164][ジンガ,char_005 zynga]
+...!?
+Because I'm here...?
+------------------------------------------------
+[00000165][ジンガ,char_005 zynga]
+Freed... that's...
+it is……
+------------------------------------------------
+[00000166][フリード,char_001 Fried]
+...Zynga?
+What happened...?
+------------------------------------------------
+[00000167][ジンガ,char_005 zynga]
+...That's what I thought at that time, too.
+That led to me letting my guard down.
+So, I...
+------------------------------------------------
+[00000168][ジンガ,char_005 zynga]
+I couldn't protect my hometown...
+------------------------------------------------
+[00000169][フリード,char_001 Fried]
+Zinga...?
+What do you mean...?
+------------------------------------------------
+[00000170][ジンガ,char_005 zynga]
+When I was on the continent, the village I lived in was
+I was attacked by bandits...
+------------------------------------------------
+[00000171][フリード,char_001 Fried]
+eh!?
+------------------------------------------------
+[00000172][ジンガ,char_005 zynga]
+I was in charge of protecting the village, just like I am now.
+He defeated the bandits by himself.
+However, I let them go because I was begging for my life.
+------------------------------------------------
+[00000173][ジンガ,char_005 zynga]
+I believed them. That caught me off guard.
+While I was out shopping in town,
+They're coming back...
+------------------------------------------------
+[00000174][フリード,char_001 Fried]
+picture……?
+------------------------------------------------
+[00000175][ジンガ,char_005 zynga]
+The village is wiped out. From old people to children,
+Not a single person survived.
+I had no choice but to curse. My sweetness...
+------------------------------------------------
+[00000176][ジンガ,char_005 zynga]
+I found the bandits,
+I treated them like the villagers.
+But even if you do that, they won't come back.
+------------------------------------------------
+[00000177][ジンガ,char_005 zynga]
+And my heart never returned to the way it was.
+I can't trust anyone or forgive myself,
+I got off the mountain...
+------------------------------------------------
+[00000178][ジンガ,char_005 zynga]
+Walking and walking, walking to the ends of the earth,
+I threw myself into the sea that I saw for the first time.
+But he didn't die and ended up on this island.
+------------------------------------------------
+[00000179][フリード,char_001 Fried]
+That kind of thing...
+------------------------------------------------
+[00000180][ジンガ,char_005 zynga]
+That's why I can't forgive people like that.
+He casually hurts people, breaks promises,
+There are people who attack villages without hesitation even if they are rescued.
+------------------------------------------------
+[00000181][ジンガ,char_005 zynga]
+If you leave people like that alone,
+This village may also be seen as my hometown.
+I can't stand that!
+------------------------------------------------
+[00000182][ジンガ,char_005 zynga]
+This village is my last home...
+------------------------------------------------
+[00000183][フリード,char_001 Fried]
+Zynga...
+------------------------------------------------
+[00000184][フリード,char_001 Fried]
+……Are you okay!
+After all, as long as Jinga is here, this village will be fine!
+------------------------------------------------
+[00000185][ジンガ,char_005 zynga]
+……What does it mean?
+------------------------------------------------
+[00000186][フリード,char_001 Fried]
+That's how much Jinga cares about the village,
+Are you protecting me?
+Isn't it safe no matter who comes?
+------------------------------------------------
+[00000187][ジンガ,char_005 zynga]
+No, but...
+------------------------------------------------
+[00000188][フリード,char_001 Fried]
+Besides, Jinga isn't the only one protecting the village.
+We are there too. You're not alone!
+------------------------------------------------
+[00000189][フリード,char_001 Fried]
+No matter how many times they come,
+If we all work together, we will definitely be able to protect it!
+It won't be like Zynga's hometown!
+------------------------------------------------
+[00000190][フリード,char_001 Fried]
+that's why……
+That's why I can't protect the village without taking my life...
+Don't say such sad things...
+------------------------------------------------
+[00000191][ジンガ,char_005 zynga]
+Freed...
+------------------------------------------------
+[00000192][フリード,char_001 Fried]
+...Even if I say that, they won't come anymore.
+I think so.
+After all, I promised you twice!
+------------------------------------------------
+[00000193][ジンガ,char_005 zynga]
+Fufu...fufufu...
+When it comes to you...
+The depth of her bosom is bottomless...
+------------------------------------------------
+[00000194][フリード,char_001 Fried]
+picture? Oh, no. That's not true.
+------------------------------------------------
+[00000195][ジンガ,char_005 zynga]
+No, there is.
+In fact, thanks to your patience, I am
+This is how I can stay here.
+------------------------------------------------
+[00000196][フリード,char_001 Fried]
+What do you mean?
+------------------------------------------------
+[00000197][ジンガ,char_005 zynga]
+This is a story about when I came to this island.
+At that time, I was really depressed.
+------------------------------------------------
+[00000198][ジンガ,char_005 zynga]
+To everyone in the village who helped me,
+It ended like he was trying to eat me,
+The village chief also said, ``We can't put it on the island.''
+------------------------------------------------
+[00000199][フリード,char_001 Fried]
+picture? 
+------------------------------------------------
+[00000200][ジンガ,char_005 zynga]
+I myself felt like I should do whatever I wanted.
+If I get kicked out, I'll jump into the sea again.
+That was my idea of ​​abandonment.
+------------------------------------------------
+[00000201][ジンガ,char_005 zynga]
+But you didn't allow it.
+------------------------------------------------
+[00000202][フリード,char_001 Fried]
+Me?
+------------------------------------------------
+[00000203][ジンガ,char_005 zynga]
+You held my hand tightly as I tried to leave the village,
+He looked up into my eyes and refused to leave.
+------------------------------------------------
+[00000204][ジンガ,char_005 zynga]
+Don't leave, just live here...
+It's like saying that.
+------------------------------------------------
+[00000205][ジンガ,char_005 zynga]
+The village chief also saw this and changed his mind.
+He said he could leave me in the village for a while.
+------------------------------------------------
+[00000206][ジンガ,char_005 zynga]
+From that day on, I also changed my mind.
+For the benefactor who kept me alive,
+And I decided to live for this village.
+------------------------------------------------
+[00000207][フリード,char_001 Fried]
+That happened...
+I don't remember at all...
+------------------------------------------------
+[00000208][ジンガ,char_005 zynga]
+No wonder.
+Are you only sensible?
+Because I was that old.
+------------------------------------------------
+[00000209][ジンガ,char_005 zynga]
+From that moment on, you were for me.
+He's the man I've always admired...
+------------------------------------------------
+[00000210][フリード,char_001 Fried]
+Eh, yeah!?
+------------------------------------------------
+[00000211][フリード,char_001 Fried]
+Jinga's story is the same as what I heard from the village chief.
+I didn't think so...
+------------------------------------------------
+[00000212][ジンガ,char_005 zynga]
+...Hehe.
+Well, that's what it is.
+See you then.
+------------------------------------------------
+[00000213][フリード,char_001 Fried]
+The man Zynga admired was me...
+------------------------------------------------
+

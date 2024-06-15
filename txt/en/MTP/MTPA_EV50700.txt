@@ -1,0 +1,565 @@
+[0141]
+*****************
+[00000000][フリード,char_001 Fried]
+What are you trying to do by force?
+------------------------------------------------
+[00000001][レヴィン,char_009 Levin]
+It's probably already decided.
+I'll have you as my sword opponent.
+------------------------------------------------
+[00000002][フリード,char_001 Fried]
+That's it!
+There's no reason to fight!
+------------------------------------------------
+[00000003][レヴィン,char_009 Levin]
+reason? 
+------------------------------------------------
+[00000004][レヴィン,char_009 Levin]
+If men and men face each other seriously,
+There's always going to be a fight, boy!
+Now, draw your sword!
+------------------------------------------------
+[00000005][レヴィン,char_009 Levin]
+Come on, let's talk.
+Your troubles.
+------------------------------------------------
+[00000006][フリード,char_001 Fried]
+So, I don't have anything special...
+------------------------------------------------
+[00000007][レヴィン,char_009 Levin]
+Don't be fooled.
+Is it written on your face?
+I'm worried.
+------------------------------------------------
+[00000008][レヴィン,char_009 Levin]
+Even if you hold it in your stomach, it won't do you any good.
+Take it all out and get a clean look!
+------------------------------------------------
+[00000009][フリード,char_001 Fried]
+Panis...
+------------------------------------------------
+[00000010][レヴィン,char_009 Levin]
+Miss?
+What happened to that girl?
+------------------------------------------------
+[00000011][フリード,char_001 Fried]
+Panis isn't coming back.
+I destroyed the village and was blamed by everyone.
+It just jumped out...
+------------------------------------------------
+[00000012][レヴィン,char_009 Levin]
+Did you destroy the village? Is that that girl?
+That's certainly a big deal.
+------------------------------------------------
+[00000013][フリード,char_001 Fried]
+The village is falling apart...
+Everyone, Panis is from the village...
+Even the enemies of the world have murderous intent...
+------------------------------------------------
+[00000014][レヴィン,char_009 Levin]
+……Really.
+That must be a tough spot for you.
+Both are important bonds...
+------------------------------------------------
+[00000015][フリード,char_001 Fried]
+Am I...Panis or Mura...
+I guess I have to choose one...?
+------------------------------------------------
+[00000016][レヴィン,char_009 Levin]
+…………
+------------------------------------------------
+[00000017][レヴィン,char_009 Levin]
+in? 
+------------------------------------------------
+[00000018][フリード,char_001 Fried]
+……me?
+------------------------------------------------
+[00000019][レヴィン,char_009 Levin]
+That's it.
+What about the village, what about the world, etc.
+Let's put aside what everyone else thinks.
+------------------------------------------------
+[00000020][レヴィン,char_009 Levin]
+Freed Karim.
+what do you want to do?
+------------------------------------------------
+[00000021][フリード,char_001 Fried]
+I...I...
+I want Panis to come back!
+I want to be with Panis!
+------------------------------------------------
+[00000022][フリード,char_001 Fried]
+But I don't want to give up on my village or the world!
+...This kind of thing is greedy, isn't it?
+After all, I have to choose one...
+------------------------------------------------
+[00000023][レヴィン,char_009 Levin]
+Get rid of the idiot!
+If you want to do that, don't let either go!
+Greedy! You should show more of yourself!
+------------------------------------------------
+[00000024][レヴィン,char_009 Levin]
+Besides, the bonds I let go of,
+It will become a thorn that will stick in your heart for the rest of your life.
+No matter what circumstances he gave up on...
+------------------------------------------------
+[00000025][フリード,char_001 Fried]
+Levin...
+------------------------------------------------
+[00000026][フリード,char_001 Fried]
+Hey Levin.
+me……
+------------------------------------------------
+[00000027][レヴィン,char_009 Levin]
+Phew, it seems like my stomach is getting harder.
+That's the story from me.
+that! 
+------------------------------------------------
+[00000028][フリード,char_001 Fried]
+Wow!
+------------------------------------------------
+[00000029][レヴィン,char_009 Levin]
+Hmm.
+Do you feel a little better now?
+------------------------------------------------
+[00000030][フリード,char_001 Fried]
+Levin...
+------------------------------------------------
+[00000031][レヴィン,char_009 Levin]
+If I feel like it, I'll play with you again.
+Bye!
+------------------------------------------------
+[00000032][シャノン,char_004 Shannon]
+...It seems like he's not here.
+------------------------------------------------
+[00000033][フリード,char_001 Fried]
+I'm walking confidently,
+I thought I was sure of something,
+Isn't it just a guess...
+------------------------------------------------
+[00000034][シャノン,char_004 Shannon]
+It can't be helped, right?
+I have no idea where Panis is,
+I have no choice but to search for it exhaustively.
+------------------------------------------------
+[00000035][フリード,char_001 Fried]
+Moreover, when I was looking for it obsessively,
+Before you know it, you're surrounded by monsters.
+------------------------------------------------
+[00000036][シャノン,char_004 Shannon]
+Yes, yes, sorry.
+I'll listen to all your complaints later.
+But now I have to defeat the monster!
+------------------------------------------------
+[00000037][シャノン,char_004 Shannon]
+...Whew.
+It took up a lot of my time.
+------------------------------------------------
+[00000038][フリード,char_001 Fried]
+What should I do now?
+Shall we search here a little more?
+Or should I try something else?
+------------------------------------------------
+[00000039][シャノン,char_004 Shannon]
+Let's go back to the village.
+I might hear new information.
+------------------------------------------------
+[00000040][シャノン,char_004 Shannon]
+This is where medicinal herbs grow.
+------------------------------------------------
+[00000041][フリード,char_001 Fried]
+Monsters are roaming around.
+Fighting monsters while gathering medicinal herbs
+Isn't it dangerous?
+------------------------------------------------
+[00000042][シャノン,char_004 Shannon]
+That's true too.
+Let's defeat the monsters first.
+------------------------------------------------
+[00000043][フリード,char_001 Fried]
+Okay, the monster is gone.
+------------------------------------------------
+[00000044][シャノン,char_004 Shannon]
+Now I can finally collect medicinal herbs.
+------------------------------------------------
+[00000045][フリード,char_001 Fried]
+I hope the animals get better with this medicinal herb.
+------------------------------------------------
+[00000046][バッカス,char_527]
+what?
+Are you the only three?
+What are the other guys doing?
+------------------------------------------------
+[00000047][ベルベット,char_008 Velvet]
+It's noisy!
+We are enough as your opponents.
+------------------------------------------------
+[00000048][フリード,char_001 Fried]
+This isn't the time to be dealing with you.
+I'm sorry, but could you come home?
+------------------------------------------------
+[00000049][バッカス,char_527]
+W-what? It doesn't feel right.
+Are you guys acting strange?
+Did you eat anything strange?
+------------------------------------------------
+[00000050][シャノン,char_004 Shannon]
+We're not at that point right now.
+This isn't the time to play with you.
+Can you come home for today?
+------------------------------------------------
+[00000051][バッカス,char_527]
+……Geez!
+Even though I took the trouble to come,
+What's with that careless attitude?
+------------------------------------------------
+[00000052][バッカス,char_527]
+I'm already mad!
+I'll get you all fired up again!
+Be prepared!!
+------------------------------------------------
+[00000053][バッカス,char_527]
+...Hey, what's that weak attack?
+Are you making fun of me!?
+------------------------------------------------
+[00000054][フリード,char_001 Fried]
+……picture?
+------------------------------------------------
+[00000055][バッカス,char_527]
+You idiot!!
+Your usual attacks are
+I’m sure it’s not that crazy!
+------------------------------------------------
+[00000056][バッカス,char_527]
+More like this, Zun! Or Zuba! And,
+It's like a shock reverberates to the core of your body.
+It must have been such a sharp attack!?
+------------------------------------------------
+[00000057][フリード,char_001 Fried]
+Even if you say that...
+------------------------------------------------
+[00000058][バッカス,char_527]
+Yes, it's a pain!
+Okay, call me again!
+------------------------------------------------
+[00000059][バッカス,char_527]
+...Hey, how many times do I have to say it before you understand?
+Come more seriously!!
+------------------------------------------------
+[00000060][フリード,char_001 Fried]
+No, I'm being completely serious...
+------------------------------------------------
+[00000061][バッカス,char_527]
+Don't kid yourself!
+Compared to your usual attacks,
+Now it's like being poked with a needle!
+------------------------------------------------
+[00000062][バッカス,char_527]
+Show us your full power!
+Let's try again!
+------------------------------------------------
+[00000063][バッカス,char_527]
+...Bell, you look so stupid.
+------------------------------------------------
+[00000064][ベルベット,char_008 Velvet]
+Huh?
+There's no reason for you to talk about my face!
+------------------------------------------------
+[00000065][バッカス,char_527]
+When you teamed up with me, you were
+It was shining even more.
+Stronger than anyone, more beautiful than anyone...
+------------------------------------------------
+[00000066][ベルベット,char_008 Velvet]
+What?
+Even though you praised me,
+I'm not particularly happy...
+------------------------------------------------
+[00000067][バッカス,char_527]
+Bell.
+Bring back the shine of that time!
+------------------------------------------------
+[00000068][バッカス,char_527]
+...It's not going to happen.
+You guys shouldn't be like that!
+------------------------------------------------
+[00000069][バッカス,char_527]
+Teamwork is inconsistent!
+The attack coordination is completely crazy!
+------------------------------------------------
+[00000070][シャノン,char_004 Shannon]
+...Wow, that's noisy!
+That has nothing to do with you!
+------------------------------------------------
+[00000071][バッカス,char_527]
+If you were the same as usual, that wouldn't have happened!
+Both attack and defense were in perfect harmony!
+How about that, now it's okay to be lousy!
+------------------------------------------------
+[00000072][バッカス,char_527]
+Will you be able to defeat me with such a back-breaking attack?
+Let's start over! Please take it more seriously!
+------------------------------------------------
+[00000073][バッカス,char_527]
+Well, you can do it if you try...
+------------------------------------------------
+[00000074][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000075][バッカス,char_527]
+Oi oi oi oi!
+Even though you won against me,
+What's that disappointing aspect?
+------------------------------------------------
+[00000076][バッカス,char_527]
+Always look triumphant
+Wouldn't it be nice to do a fist pump?
+------------------------------------------------
+[00000077][シャノン,char_004 Shannon]
+…………
+------------------------------------------------
+[00000078][バッカス,char_527]
+Tsk! Don't do it!
+I'm going home. I'm going home!
+------------------------------------------------
+[00000079][バッカス,char_527]
+...Listen!
+Finally, let me say this!
+------------------------------------------------
+[00000080][バッカス,char_527]
+When the time comes, what you can do to help is
+It’s not just people from the village! Same goes for me!
+------------------------------------------------
+[00000081][バッカス,char_527]
+If you're having trouble,
+Come and talk to us anytime!
+------------------------------------------------
+[00000082][フリード,char_001 Fried]
+Bacchus...
+------------------------------------------------
+[00000083][バッカス,char_527]
+Well then, bye bye!
+------------------------------------------------
+[00000084][シャノン,char_004 Shannon]
+Panis is always picking medicinal herbs.
+It's like here.
+------------------------------------------------
+[00000085][フリード,char_001 Fried]
+I'm worried about Boris.
+Let's bring the medicinal herbs home quickly.
+------------------------------------------------
+[00000086][シャノン,char_004 Shannon]
+That's right!
+Let's quickly defeat the monsters!
+------------------------------------------------
+[00000087][ベルベット,char_008 Velvet]
+Huh.
+The monsters are gone.
+------------------------------------------------
+[00000088][シャノン,char_004 Shannon]
+Well then, let's collect medicinal herbs.
+------------------------------------------------
+[00000089][フリード,char_001 Fried]
+I agree. Collect them quickly and return to the village!
+------------------------------------------------
+[00000090][キルマリア,char_007 Kilmaria]
+The stone monument I mentioned earlier
+Here it is...
+------------------------------------------------
+[00000091][シャノン,char_004 Shannon]
+The monsters wandering around are a nuisance.
+------------------------------------------------
+[00000092][ベルベット,char_008 Velvet]
+Just get rid of anyone who gets in your way!
+Let's kick it all out!
+------------------------------------------------
+[00000093][フリード,char_001 Fried]
+Okay, the current monster is the last one.
+------------------------------------------------
+[00000094][キルマリア,char_007 Kilmaria]
+…………
+------------------------------------------------
+[00000095][シャノン,char_004 Shannon]
+What's wrong, Mr. Kilmaria?
+------------------------------------------------
+[00000096][キルマリア,char_007 Kilmaria]
+...After all, fighting in cooperation with friends
+That's wonderful!
+------------------------------------------------
+[00000097][ベルベット,char_008 Velvet]
+Huh?
+What are you saying all of a sudden?
+------------------------------------------------
+[00000098][キルマリア,char_007 Kilmaria]
+It's been a while since I fought with you all,
+I'm so impressed!
+------------------------------------------------
+[00000099][キルマリア,char_007 Kilmaria]
+Cooperate with your friends, cooperate, and win!
+This is what friendship is all about!
+This is Justice!
+------------------------------------------------
+[00000100][シャノン,char_004 Shannon]
+It's bad that I'm immersed in it, but
+Could you please show me to the stone monument now?
+------------------------------------------------
+[00000101][キルマリア,char_007 Kilmaria]
+Ha! That's right.
+It just got hot...
+Everyone, this is it.
+------------------------------------------------
+[00000102][ベルベット,char_008 Velvet]
+There were kids!
+Beyond that bush!
+------------------------------------------------
+[00000103][フリード,char_001 Fried]
+That's bad.
+A monster is heading that way.
+------------------------------------------------
+[00000104][キルマリア,char_007 Kilmaria]
+Children are in danger!
+Let's hurry!
+------------------------------------------------
+[00000105][フリード,char_001 Fried]
+Okay! The monsters have been taken care of!
+------------------------------------------------
+[00000106][シャノン,char_004 Shannon]
+The kids... they all seem to be okay.
+------------------------------------------------
+[00000107][メリー,char_509]
+Freed, everyone.
+sorry……
+------------------------------------------------
+[00000108][メリー,char_509]
+I was picking flowers for Panis.
+Then a monster came...
+------------------------------------------------
+[00000109][フリード,char_001 Fried]
+Is that so……
+But don't worry everyone.
+------------------------------------------------
+[00000110][シャノン,char_004 Shannon]
+Well, I'm glad you were okay.
+For now, let's go to everyone in the vigilante group.
+Let's take him.
+------------------------------------------------
+[00000111][キルマリア,char_007 Kilmaria]
+thank you!
+Mr. Levin! It was helpful!
+------------------------------------------------
+[00000112][レヴィン,char_009 Levin]
+I don't need any courtesy.
+This is what I'm doing for my own convenience.
+Rather than that, we need to do something about that girl first!
+------------------------------------------------
+[00000113][フリード,char_001 Fried]
+I agree!
+Panis...I'll go now, so wait...!
+------------------------------------------------
+[00000114][フリード,char_001 Fried]
+Panis!
+It's dangerous there! Come here!
+------------------------------------------------
+[00000115][パニス,char_002 Panis]
+…………
+------------------------------------------------
+[00000116][フリード,char_001 Fried]
+Panis...
+What on earth happened!?
+------------------------------------------------
+[00000117][パニス,char_002 Panis]
+Freed...I'm sorry.
+I……
+------------------------------------------------
+[00000118][シャノン,char_004 Shannon]
+Panis... please.
+Trust us.
+------------------------------------------------
+[00000119][パニス,char_002 Panis]
+older sister……
+Please, don't come here.
+------------------------------------------------
+[00000120][シャノン,char_004 Shannon]
+I don't want to fight you!
+Panis...come back!
+------------------------------------------------
+[00000121][キルマリア,char_007 Kilmaria]
+Mr. Panis, please listen!
+It is wrong for us to fight!
+This is extremely contrary to justice!
+------------------------------------------------
+[00000122][パニス,char_002 Panis]
+Kill Maria...
+------------------------------------------------
+[00000123][キルマリア,char_007 Kilmaria]
+There's something wrong, right?
+Let's talk.
+If we talk, we'll definitely understand each other!
+------------------------------------------------
+[00000124][ベルベット,char_008 Velvet]
+Panis, can you hear me?
+Don't play around like that forever,
+Come here quickly!
+------------------------------------------------
+[00000125][パニス,char_002 Panis]
+velvet……
+------------------------------------------------
+[00000126][ベルベット,char_008 Velvet]
+The people here are your important people, right?
+Can't you trust that important person?
+------------------------------------------------
+[00000127][パニス,char_002 Panis]
+I believe in everyone...
+------------------------------------------------
+[00000128][レヴィン,char_009 Levin]
+Miss, don't worry.
+Get out and come here.
+Don't worry, I won't do anything bad.
+------------------------------------------------
+[00000129][パニス,char_002 Panis]
+but……
+------------------------------------------------
+[00000130][レヴィン,char_009 Levin]
+Can't you believe my words?
+Then don't tell me to believe in me.
+Believe in Freed.
+------------------------------------------------
+[00000131][パニス,char_002 Panis]
+I believe in Freed...
+------------------------------------------------
+[00000132][レヴィン,char_009 Levin]
+In this cruel world,
+He's a rare and trustworthy guy.
+I believed him. What about you?
+------------------------------------------------
+[00000133][レヴィン,char_009 Levin]
+Human beings cannot survive alone.
+If so, ask your friends.
+Freed is a reliable guy, right?
+------------------------------------------------
+[00000134][パニス,char_002 Panis]
+Levin...
+Me... Freed...
+Is it okay to rely on everyone...?
+------------------------------------------------
+[00000135][]
+Aaaaaaaaaaaa...
+------------------------------------------------
+[00000136][フリード,char_001 Fried]
+Did you defeat it...?
+------------------------------------------------
+[00000137][シャノン,char_004 Shannon]
+Apparently so.
+but……
+------------------------------------------------
+[00000138][キルマリア,char_007 Kilmaria]
+That voice...
+How sad...
+------------------------------------------------
+[00000139][パニス,char_002 Panis]
+…………
+------------------------------------------------
+[00000140][フリード,char_001 Fried]
+Panis...
+------------------------------------------------
+

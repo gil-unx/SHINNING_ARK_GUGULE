@@ -1,0 +1,818 @@
+[0240]
+*****************
+[00000000][シャノン,char_004 Shannon]
+Ah, Freed.
+You've come to the right place.
+------------------------------------------------
+[00000001][フリード,char_001 Fried]
+Ah, as expected?
+I think it's about time you asked me to run an errand.
+That's what I thought.
+------------------------------------------------
+[00000002][シャノン,char_004 Shannon]
+Hehe, did you pay attention to me?
+Not a good performance for Freed.
+------------------------------------------------
+[00000003][フリード,char_001 Fried]
+How far should I go?
+------------------------------------------------
+[00000004][シャノン,char_004 Shannon]
+Wait a moment...
+------------------------------------------------
+[00000005][シャノン,char_004 Shannon]
+Yes, please deliver this bread.
+------------------------------------------------
+[00000006][パニス,char_002 Panis]
+Hey, hey!
+------------------------------------------------
+[00000007][フリード,char_001 Fried]
+It really does smell nice. As expected of my sister.
+------------------------------------------------
+[00000008][フリード,char_001 Fried]
+@fcFFAAFFAA(If you don't make a strange "new work",
+The bread my sister bakes is the most delicious.)
+------------------------------------------------
+[00000009][シャノン,char_004 Shannon]
+What's wrong, Freed?
+------------------------------------------------
+[00000010][フリード,char_001 Fried]
+No, it's nothing.
+Hahaha...
+------------------------------------------------
+[00000011][シャノン,char_004 Shannon]
+...? In that case it's fine.
+I want you to deliver that bread to the other side of the hill.
+This is my first delivery customer.
+------------------------------------------------
+[00000012][フリード,char_001 Fried]
+Over the hill? Beyond the ranch?
+------------------------------------------------
+[00000013][シャノン,char_004 Shannon]
+Well, I don't know how to explain it...
+------------------------------------------------
+[00000014][フリード,char_001 Fried]
+Well, okay.
+Maybe you'll find out when you go.
+------------------------------------------------
+[00000015][シャノン,char_004 Shannon]
+...Shall I go with you?
+------------------------------------------------
+[00000016][フリード,char_001 Fried]
+It's okay.
+------------------------------------------------
+[00000017][シャノン,char_004 Shannon]
+Wouldn't it be a problem if you didn't understand?
+------------------------------------------------
+[00000018][フリード,char_001 Fried]
+That can't happen in this small village.
+------------------------------------------------
+[00000019][シャノン,char_004 Shannon]
+But... there are some parts that are hard to understand...
+Wait a minute. I'll prepare a map now.
+------------------------------------------------
+[00000020][フリード,char_001 Fried]
+I don't need that!
+------------------------------------------------
+[00000021][シャノン,char_004 Shannon]
+Are you sure you're okay?
+------------------------------------------------
+[00000022][フリード,char_001 Fried]
+So it's okay!
+------------------------------------------------
+[00000023][シャノン,char_004 Shannon]
+…………
+------------------------------------------------
+[00000024][フリード,char_001 Fried]
+My sister is a worrier...
+------------------------------------------------
+[00000025][シャノン,char_004 Shannon]
+...When asking a first-time customer to run an errand,
+I always remember it.
+------------------------------------------------
+[00000026][シャノン,char_004 Shannon]
+Freed got lost while running an errand,
+Have you ever had a big fuss?
+When the village chief found out, he was crying...
+------------------------------------------------
+[00000027][パニス,char_002 Panis]
+Freed is so cool...
+------------------------------------------------
+[00000028][フリード,char_001 Fried]
+Hey, sister! Please stop talking about that.
+I don't know how long ago this story happened, but
+I don't remember it at all.
+------------------------------------------------
+[00000029][シャノン,char_004 Shannon]
+...That's right.
+Freed is no longer a small child.
+------------------------------------------------
+[00000030][フリード,char_001 Fried]
+By the way, let me say,
+I'm not a big kid either.
+------------------------------------------------
+[00000031][シャノン,char_004 Shannon]
+……picture?
+------------------------------------------------
+[00000032][シャノン,char_004 Shannon]
+...Hehehe.
+------------------------------------------------
+[00000033][フリード,char_001 Fried]
+What, what's wrong?
+------------------------------------------------
+[00000034][シャノン,char_004 Shannon]
+Freed hated running errands when he was little,
+I used to avoid the store during busy times.
+------------------------------------------------
+[00000035][フリード,char_001 Fried]
+...Is that so?
+------------------------------------------------
+[00000036][シャノン,char_004 Shannon]
+Freed will run errands on his own.
+That's what I say. I'm happy.
+------------------------------------------------
+[00000037][フリード,char_001 Fried]
+W-what are you talking about...I'm leaving now!
+------------------------------------------------
+[00000038][パニス,char_002 Panis]
+Drop Mars!
+------------------------------------------------
+[00000039][シャノン,char_004 Shannon]
+Yes, please come.
+------------------------------------------------
+[00000040][シャノン,char_004 Shannon]
+Oh, Freed?
+As of now, I don't have any requests.
+------------------------------------------------
+[00000041][フリード,char_001 Fried]
+yes?If there's anything I can do to help, I'll help.
+------------------------------------------------
+[00000042][シャノン,char_004 Shannon]
+thank you. I'm currently organizing the store's supplies.
+I can do it by myself.
+------------------------------------------------
+[00000043][シャノン,char_004 Shannon]
+Good... good...
+------------------------------------------------
+[00000044][フリード,char_001 Fried]
+It's hard work. I'll help you, sister.
+------------------------------------------------
+[00000045][パニス,char_002 Panis]
+Panis will also help you!
+------------------------------------------------
+[00000046][シャノン,char_004 Shannon]
+Well, I'm fine with this.
+------------------------------------------------
+[00000047][シャノン,char_004 Shannon]
+Seino...humph!
+------------------------------------------------
+[00000048][シャノン,char_004 Shannon]
+Phew.
+------------------------------------------------
+[00000049][フリード,char_001 Fried]
+Should I just put the box on the shelf?
+I'll do it.
+------------------------------------------------
+[00000050][シャノン,char_004 Shannon]
+Good!
+------------------------------------------------
+[00000051][フリード,char_001 Fried]
+But it seems heavy, doesn't it?
+------------------------------------------------
+[00000052][シャノン,char_004 Shannon]
+This is enough for me alone...Hmph!
+------------------------------------------------
+[00000053][フリード,char_001 Fried]
+Ah, it's dangerous...
+------------------------------------------------
+[00000054][シャノン,char_004 Shannon]
+Yay!
+------------------------------------------------
+[00000055][フリード,char_001 Fried]
+Wow!
+Hey, don't tell me!
+------------------------------------------------
+[00000056][シャノン,char_004 Shannon]
+Ah, thank you. sorry……
+------------------------------------------------
+[00000057][フリード,char_001 Fried]
+Here, lend it to me. Hey!
+------------------------------------------------
+[00000058][シャノン,char_004 Shannon]
+……eh!?
+It's quite easy to lift.
+------------------------------------------------
+[00000059][フリード,char_001 Fried]
+I do not think so?
+------------------------------------------------
+[00000060][シャノン,char_004 Shannon]
+Freed is surprisingly strong.
+------------------------------------------------
+[00000061][フリード,char_001 Fried]
+What do you mean by surprise?
+At this level, I've been able to carry it normally for a long time.
+------------------------------------------------
+[00000062][シャノン,char_004 Shannon]
+it was? When I asked for a delivery, he got a bright red face.
+My arms were trembling.
+------------------------------------------------
+[00000063][フリード,char_001 Fried]
+How many years ago was this...
+Look, it's okay, leave it to me.
+------------------------------------------------
+[00000064][シャノン,char_004 Shannon]
+Ah……
+------------------------------------------------
+[00000065][フリード,char_001 Fried]
+Whoa! Whoa! Hoot!
+------------------------------------------------
+[00000066][シャノン,char_004 Shannon]
+It's over...
+------------------------------------------------
+[00000067][パニス,char_002 Panis]
+Hurry!
+------------------------------------------------
+[00000068][フリード,char_001 Fried]
+That's why I said it, right?
+If it's heavy lifting, leave it to me.
+------------------------------------------------
+[00000069][シャノン,char_004 Shannon]
+Freed is really strong...
+------------------------------------------------
+[00000070][フリード,char_001 Fried]
+It's no big deal to me.
+I still can't compete with something like Zynga.
+------------------------------------------------
+[00000071][シャノン,char_004 Shannon]
+No, that's not true.
+I had to reconsider somehow...
+------------------------------------------------
+[00000072][フリード,char_001 Fried]
+Reconsidering...
+How does my sister treat me...
+------------------------------------------------
+[00000073][シャノン,char_004 Shannon]
+If you look closely, you can see that her arms have gotten really thick...
+------------------------------------------------
+[00000074][フリード,char_001 Fried]
+...Don't stare at me so hard.
+------------------------------------------------
+[00000075][シャノン,char_004 Shannon]
+Maybe even better than my father...
+------------------------------------------------
+[00000076][フリード,char_001 Fried]
+So don't stare!
+------------------------------------------------
+[00000077][シャノン,char_004 Shannon]
+a! I just imagined it...
+------------------------------------------------
+[00000078][フリード,char_001 Fried]
+What do you imagine?
+------------------------------------------------
+[00000079][シャノン,char_004 Shannon]
+picture? nothing!
+It's nothing!? Forget about it now!
+Because it’s really nothing!
+------------------------------------------------
+[00000080][フリード,char_001 Fried]
+...I don't quite understand it.
+------------------------------------------------
+[00000081][シャノン,char_004 Shannon]
+Because it's nothing. hey?Forget it!?
+------------------------------------------------
+[00000082][フリード,char_001 Fried]
+No……
+------------------------------------------------
+[00000083][シャノン,char_004 Shannon]
+@fcFFAAFFAA (Huh... if I were...
+I wonder what I was thinking. Even though he’s my younger brother…)
+------------------------------------------------
+[00000084][パニス,char_002 Panis]
+Hey, Freed. Aren't you tired?
+------------------------------------------------
+[00000085][シャノン,char_004 Shannon]
+That's right. Freed, are you okay?
+Shall I have some tea?
+------------------------------------------------
+[00000086][フリード,char_001 Fried]
+I don't get tired at this level.
+I'm still full of energy.
+------------------------------------------------
+[00000087][シャノン,char_004 Shannon]
+yes……
+Thank you, Freed.
+It really helped me today.
+------------------------------------------------
+[00000088][フリード,char_001 Fried]
+you're welcome.
+------------------------------------------------
+[00000089][フリード,char_001 Fried]
+that? 
+------------------------------------------------
+[00000090][シャノン,char_004 Shannon]
+Yeah. Head towards the ruins.
+------------------------------------------------
+[00000091][フリード,char_001 Fried]
+Isn't it dangerous to go there alone?
+------------------------------------------------
+[00000092][シャノン,char_004 Shannon]
+It's a place I know, so there's no need to worry.
+Well then, I'll go.
+------------------------------------------------
+[00000093][フリード,char_001 Fried]
+@fcFFAAFFAA (Is it okay? I have a bad feeling...)
+------------------------------------------------
+[00000094][フリード,char_001 Fried]
+Panis, I'm sorry, but please wait here for a moment.
+------------------------------------------------
+[00000095][パニス,char_002 Panis]
+Yeah.
+------------------------------------------------
+[00000096][フリード,char_001 Fried]
+Shannon, are you hurt?
+------------------------------------------------
+[00000097][シャノン,char_004 Shannon]
+I...I don't have anything...
+------------------------------------------------
+[00000098][フリード,char_001 Fried]
+Phew, good.
+It was the right decision to follow.
+------------------------------------------------
+[00000099][シャノン,char_004 Shannon]
+Thank you, Freed...
+Are you okay?
+------------------------------------------------
+[00000100][フリード,char_001 Fried]
+If you're up against a monster of that caliber, you're in trouble!
+------------------------------------------------
+[00000101][シャノン,char_004 Shannon]
+but……
+fault? 
+------------------------------------------------
+[00000102][フリード,char_001 Fried]
+eh?
+------------------------------------------------
+[00000103][シャノン,char_004 Shannon]
+Oh no... there's blood!!
+------------------------------------------------
+[00000104][フリード,char_001 Fried]
+Oh, maybe it rubbed off a little?
+------------------------------------------------
+[00000105][シャノン,char_004 Shannon]
+very much!
+I have to take care of it right away!
+------------------------------------------------
+[00000106][フリード,char_001 Fried]
+If you apply this with a spittle, it will be cured.
+------------------------------------------------
+[00000107][シャノン,char_004 Shannon]
+No way!
+I have water.
+------------------------------------------------
+[00000108][フリード,char_001 Fried]
+Ah...thank you.
+------------------------------------------------
+[00000109][シャノン,char_004 Shannon]
+Don't wipe it with your clothes.
+What about a handkerchief?
+------------------------------------------------
+[00000110][フリード,char_001 Fried]
+I don't have that.
+------------------------------------------------
+[00000111][シャノン,char_004 Shannon]
+There's nothing I can do about freed.
+It's always been like that since I was little.
+------------------------------------------------
+[00000112][フリード,char_001 Fried]
+Yes yes...
+------------------------------------------------
+[00000113][シャノン,char_004 Shannon]
+Here, use this.
+------------------------------------------------
+[00000114][フリード,char_001 Fried]
+Yeah……
+------------------------------------------------
+[00000115][シャノン,char_004 Shannon]
+I'm really being reckless all the time
+Because it makes you nervous...
+------------------------------------------------
+[00000116][フリード,char_001 Fried]
+I came to help you, but that's not the case, sis.
+------------------------------------------------
+[00000117][シャノン,char_004 Shannon]
+When the time came, I was fine on my own.
+------------------------------------------------
+[00000118][フリード,char_001 Fried]
+I say it often. Even though I was busy alone.
+------------------------------------------------
+[00000119][シャノン,char_004 Shannon]
+I'm glad I was able to get rid of it today, but...
+Don't be so reckless anymore.
+You can even run away...
+------------------------------------------------
+[00000120][フリード,char_001 Fried]
+@fcFFAAFFAA (Oh my... I need to get stronger too.
+I feel like I'm going to keep Shannon worried forever...)
+------------------------------------------------
+[00000121][シャノン,char_004 Shannon]
+Look, if you don't wipe your sweat, you'll catch a cold.
+------------------------------------------------
+[00000122][フリード,char_001 Fried]
+it's okay.
+------------------------------------------------
+[00000123][シャノン,char_004 Shannon]
+There's no way it's okay, right?
+It can't be helped...I'll wipe it for you.
+------------------------------------------------
+[00000124][フリード,char_001 Fried]
+Stop treating me like a child!
+------------------------------------------------
+[00000125][シャノン,char_004 Shannon]
+Hehehe...
+Even though he was still a child when he was freed.
+------------------------------------------------
+[00000126][フリード,char_001 Fried]
+understood! 
+------------------------------------------------
+[00000127][シャノン,char_004 Shannon]
+You can't wipe it, right?　Back or something.
+------------------------------------------------
+[00000128][フリード,char_001 Fried]
+...Then, I'll just ask for your back.
+------------------------------------------------
+[00000129][フリード,char_001 Fried]
+What's wrong?
+------------------------------------------------
+[00000130][シャノン,char_004 Shannon]
+Freed has a surprisingly large back...
+------------------------------------------------
+[00000131][フリード,char_001 Fried]
+I do not think so?
+------------------------------------------------
+[00000132][シャノン,char_004 Shannon]
+When I was giving her a bath,
+I used to be able to wash it quickly with one hand, but now it's so spacious...
+------------------------------------------------
+[00000133][フリード,char_001 Fried]
+When are we talking about this!?
+------------------------------------------------
+[00000134][シャノン,char_004 Shannon]
+I grew up without realizing it...
+Freed wasn't a child anymore.
+------------------------------------------------
+[00000135][フリード,char_001 Fried]
+You've been saying that all along, haven't you?
+------------------------------------------------
+[00000136][シャノン,char_004 Shannon]
+...It's about time to go.
+------------------------------------------------
+[00000137][フリード,char_001 Fried]
+Yeah.
+------------------------------------------------
+[00000138][シャノン,char_004 Shannon]
+Thank you, Freed.
+------------------------------------------------
+[00000139][シャノン,char_004 Shannon]
+Freed...is it for something?
+------------------------------------------------
+[00000140][フリード,char_001 Fried]
+Yeah, I was wondering if there's anything I can do to help.
+------------------------------------------------
+[00000141][シャノン,char_004 Shannon]
+...No.
+------------------------------------------------
+[00000142][フリード,char_001 Fried]
+...Sister, what's wrong?
+You seem to be in a good mood.
+------------------------------------------------
+[00000143][シャノン,char_004 Shannon]
+...That's not true.
+------------------------------------------------
+[00000144][フリード,char_001 Fried]
+Well then, maybe I should work as a storekeeper with my sister?
+------------------------------------------------
+[00000145][シャノン,char_004 Shannon]
+eh?
+------------------------------------------------
+[00000146][パニス,char_002 Panis]
+I'll show you Panis too!
+------------------------------------------------
+[00000147][シャノン,char_004 Shannon]
+I-I’m in trouble!
+------------------------------------------------
+[00000148][フリード,char_001 Fried]
+……fart?
+------------------------------------------------
+[00000149][シャノン,char_004 Shannon]
+Fu, I can't believe I'm with Freed...
+I... what should I do...
+------------------------------------------------
+[00000150][パニス,char_002 Panis]
+Panis is there too?
+------------------------------------------------
+[00000151][シャノン,char_004 Shannon]
+Well, that's true, but...
+------------------------------------------------
+[00000152][フリード,char_001 Fried]
+Ah, me and Panis, if there were two of us, it would be a nuisance.
+------------------------------------------------
+[00000153][フリード,char_001 Fried]
+So, do you want Panis to help you?
+But I wonder if Panis will be left alone to take care of the shop?
+------------------------------------------------
+[00000154][パニス,char_002 Panis]
+Panis Tetsudayo!
+------------------------------------------------
+[00000155][シャノン,char_004 Shannon]
+picture? But what I want to say is
+That's not what I mean...
+------------------------------------------------
+[00000156][フリード,char_001 Fried]
+...I don't really understand what you mean.
+Sister, are you feeling unwell?
+------------------------------------------------
+[00000157][シャノン,char_004 Shannon]
+No, it's okay.
+------------------------------------------------
+[00000158][フリード,char_001 Fried]
+TRUE?Things are different from usual,
+It's also a fever...
+------------------------------------------------
+[00000159][シャノン,char_004 Shannon]
+...Freed is so kind.
+------------------------------------------------
+[00000160][シャノン,char_004 Shannon]
+……No.
+Freed was always so kind.
+------------------------------------------------
+[00000161][シャノン,char_004 Shannon]
+Even though we were together for a long time, I just didn't realize it.
+------------------------------------------------
+[00000162][シャノン,char_004 Shannon]
+Before you know it, you become an adult...
+------------------------------------------------
+[00000163][フリード,char_001 Fried]
+...Sister?
+------------------------------------------------
+[00000164][シャノン,char_004 Shannon]
+Hey Freed, what do you think I should do?
+Maybe we shouldn't be together...
+------------------------------------------------
+[00000165][フリード,char_001 Fried]
+Yeah? Is it me here? Are you telling me to leave?
+------------------------------------------------
+[00000166][シャノン,char_004 Shannon]
+That's not the case... but...
+------------------------------------------------
+[00000167][パニス,char_002 Panis]
+Is it okay if Panis is with me too?
+------------------------------------------------
+[00000168][シャノン,char_004 Shannon]
+No, Panis is fine.
+------------------------------------------------
+[00000169][フリード,char_001 Fried]
+It's getting worse!
+Why is it not okay for me and Panis is okay!?
+------------------------------------------------
+[00000170][シャノン,char_004 Shannon]
+That's...!
+You... Freed...
+Because I'm not a child...
+------------------------------------------------
+[00000171][フリード,char_001 Fried]
+Huh? It's been like that for a long time, hasn't it?
+It was Shannon who was treating me like a child!
+------------------------------------------------
+[00000172][シャノン,char_004 Shannon]
+Yes... that's right...
+I thought Freed was a child...
+------------------------------------------------
+[00000173][フリード,char_001 Fried]
+...I'm doing something that would make my sister hate me.
+Did something happen?
+------------------------------------------------
+[00000174][シャノン,char_004 Shannon]
+I haven't! I haven't!!
+That's definitely not the case...!
+------------------------------------------------
+[00000175][シャノン,char_004 Shannon]
+In fact, it's not that I'm in trouble because it's the opposite...
+------------------------------------------------
+[00000176][フリード,char_001 Fried]
+...I don't really understand, but...
+When we are here,
+If my sister is in trouble, I'll go, okay?
+------------------------------------------------
+[00000177][シャノン,char_004 Shannon]
+……sorry.
+I don't really understand either.
+------------------------------------------------
+[00000178][フリード,char_001 Fried]
+Yeah, when I want to be alone,
+It's for everyone.
+------------------------------------------------
+[00000179][パニス,char_002 Panis]
+Stay strong, sis.
+------------------------------------------------
+[00000180][シャノン,char_004 Shannon]
+Yes, thank you, Freed, Panis.
+The next time I see you, I'll be back to my usual self.
+------------------------------------------------
+[00000181][フリード,char_001 Fried]
+@fcFFAAFFAA (Hmm...
+Sister, what happened...? )
+------------------------------------------------
+[00000182][ロラン,char_507]
+Shannon sister!
+------------------------------------------------
+[00000183][メリー,char_509]
+Let's go quickly!
+------------------------------------------------
+[00000184][フリード,char_001 Fried]
+that? 
+------------------------------------------------
+[00000185][シャノン,char_004 Shannon]
+Oh, Freed.
+Now I'm going to take these kids to the forest for a picnic.
+------------------------------------------------
+[00000186][フリード,char_001 Fried]
+Are you taking three people with you?
+------------------------------------------------
+[00000187][パニス,char_002 Panis]
+picnic? 
+------------------------------------------------
+[00000188][フリード,char_001 Fried]
+Then I'll go with you too.
+It must be difficult for my sister alone.
+------------------------------------------------
+[00000189][シャノン,char_004 Shannon]
+No, it's okay, I'm alone!
+Hey, hey, everyone! let's go!
+------------------------------------------------
+[00000190][メリー,char_509]
+See you then, Freed!
+------------------------------------------------
+[00000191][カール,char_508]
+Drop Mars!
+------------------------------------------------
+[00000192][パニス,char_002 Panis]
+yay! 
+------------------------------------------------
+[00000193][フリード,char_001 Fried]
+Hey, wait a minute, sister?
+------------------------------------------------
+[00000194][フリード,char_001 Fried]
+@fcFFAAFFAA (...Do you really hate being with me that much?
+I hope it's nothing, but I'm worried...)
+------------------------------------------------
+[00000195][シャノン,char_004 Shannon]
+Freed...Thank you!!
+------------------------------------------------
+[00000196][フリード,char_001 Fried]
+What's wrong, Shannon?
+Hug me or something...
+------------------------------------------------
+[00000197][ロラン,char_507]
+Sister is crying...
+------------------------------------------------
+[00000198][メリー,char_509]
+Everyone, let's play over there.
+------------------------------------------------
+[00000199][フリード,char_001 Fried]
+Where are you going, Mary?
+------------------------------------------------
+[00000200][メリー,char_509]
+It's okay! I won't go that far.
+------------------------------------------------
+[00000201][メリー,char_509]
+Freed, you'll do well.
+------------------------------------------------
+[00000202][フリード,char_001 Fried]
+What, what are you talking about?
+------------------------------------------------
+[00000203][フリード,char_001 Fried]
+Uh, uh... Sha, Shannon?
+Hey, could you please leave for a moment...?
+------------------------------------------------
+[00000204][シャノン,char_004 Shannon]
+...Ha!?
+------------------------------------------------
+[00000205][シャノン,char_004 Shannon]
+I-I'm sorry...
+Because...because...I was scared...
+------------------------------------------------
+[00000206][フリード,char_001 Fried]
+Yeah……
+But I'm glad Shannon and the kids are safe.
+------------------------------------------------
+[00000207][シャノン,char_004 Shannon]
+It was reassuring to have you come.
+------------------------------------------------
+[00000208][フリード,char_001 Fried]
+It was rare for you to rely on me.
+------------------------------------------------
+[00000209][シャノン,char_004 Shannon]
+Sorry, Freed.
+Even though I always say big things,
+Don't use it when it's important...
+------------------------------------------------
+[00000210][フリード,char_001 Fried]
+No, it's fine.
+In fact, I was happy to be able to rely on Shannon.
+------------------------------------------------
+[00000211][シャノン,char_004 Shannon]
+...Freed is more mature than me.
+------------------------------------------------
+[00000212][フリード,char_001 Fried]
+eh?
+------------------------------------------------
+[00000213][シャノン,char_004 Shannon]
+I've always thought of you as my younger brother...
+------------------------------------------------
+[00000214][フリード,char_001 Fried]
+Even my younger brother will grow up.
+------------------------------------------------
+[00000215][シャノン,char_004 Shannon]
+...That's right. I feel like an idiot.
+------------------------------------------------
+[00000216][フリード,char_001 Fried]
+...Shannon?
+------------------------------------------------
+[00000217][シャノン,char_004 Shannon]
+Freed won't be my "younger brother" forever...
+And me too...
+------------------------------------------------
+[00000218][フリード,char_001 Fried]
+That's not true.
+------------------------------------------------
+[00000219][シャノン,char_004 Shannon]
+……eh?
+------------------------------------------------
+[00000220][フリード,char_001 Fried]
+There's no such thing.
+Whether I'm an adult or a child,
+My sister will always be my sister, right?
+------------------------------------------------
+[00000221][シャノン,char_004 Shannon]
+forever……?
+------------------------------------------------
+[00000222][シャノン,char_004 Shannon]
+Will you always be my "sister"...?
+------------------------------------------------
+[00000223][シャノン,char_004 Shannon]
+…………
+------------------------------------------------
+[00000224][フリード,char_001 Fried]
+what happened? ...Did I say something bad?
+------------------------------------------------
+[00000225][シャノン,char_004 Shannon]
+……picture? That's right...she's a big sister...it's fine.
+------------------------------------------------
+[00000226][シャノン,char_004 Shannon]
+It's always been like that...
+Anyway, for now... that's fine.
+------------------------------------------------
+[00000227][フリード,char_001 Fried]
+...Sister?
+What's happened since a while ago?
+It's kind of weird...?
+------------------------------------------------
+[00000228][シャノン,char_004 Shannon]
+…………
+------------------------------------------------
+[00000229][シャノン,char_004 Shannon]
+……Yeah!  I take it back!
+Freed is still very much a child,
+You can't do anything unless I'm with you!
+------------------------------------------------
+[00000230][フリード,char_001 Fried]
+Oh, that's not true!
+------------------------------------------------
+[00000231][シャノン,char_004 Shannon]
+Therefore, from now on,
+I'll be your big sister, Freed!
+------------------------------------------------
+[00000232][フリード,char_001 Fried]
+Uh, yeah, thank you. Thank you for your continued support.
+------------------------------------------------
+[00000233][メリー,char_509]
+Brother, are you done?
+------------------------------------------------
+[00000234][フリード,char_001 Fried]
+What do you mean it's over?
+------------------------------------------------
+[00000235][カール,char_508]
+Did you have a chew?
+------------------------------------------------
+[00000236][フリード,char_001 Fried]
+...W-what are you talking about!?
+------------------------------------------------
+[00000237][シャノン,char_004 Shannon]
+That's right! Freed and I are siblings!
+------------------------------------------------
+[00000238][ロラン,char_507]
+Ah, my sister turned red!
+------------------------------------------------
+[00000239][シャノン,char_004 Shannon]
+I don't know anymore!
+------------------------------------------------
+

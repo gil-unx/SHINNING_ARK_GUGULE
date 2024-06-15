@@ -1,0 +1,835 @@
+[0198]
+*****************
+[00000000][シャノン,char_004 Shannon]
+If we all work together, we'll be fine.
+------------------------------------------------
+[00000001][シャノン,char_004 Shannon]
+Well, let's do our best.
+------------------------------------------------
+[00000002][シャノン,char_004 Shannon]
+Yes, it's tough...
+------------------------------------------------
+[00000003][シャノン,char_004 Shannon]
+I need to strengthen my ship, I need to learn how to fight, etc.
+Something has become important...
+Naval battles are tough...
+------------------------------------------------
+[00000004][シャノン,char_004 Shannon]
+I have to work hard and be able to fight well!
+I can't lose to pirates!
+------------------------------------------------
+[00000005][シャノン,char_004 Shannon]
+That's right. This is not the time to complain.
+Let's do our best, Freed.
+------------------------------------------------
+[00000006][シャノン,char_004 Shannon]
+Stay strong, Freed!
+Don't let it get to you!
+------------------------------------------------
+[00000007][シャノン,char_004 Shannon]
+After all, I have to be strong.
+Yes Yes.
+------------------------------------------------
+[00000008][シャノン,char_004 Shannon]
+Why, don't look so worried.
+Everything has worked out until now,
+It's nothing more than learning how to fight!
+------------------------------------------------
+[00000009][シャノン,char_004 Shannon]
+remember? We used to go into the wheat fields and play.
+And my father always scolded me...
+------------------------------------------------
+[00000010][シャノン,char_004 Shannon]
+Wait, Freed!?
+I trust Velvet too much
+I don't think it's good!
+------------------------------------------------
+[00000011][シャノン,char_004 Shannon]
+like Bacchus
+If you are deceived and thrown away,
+What to do!?
+------------------------------------------------
+[00000012][シャノン,char_004 Shannon]
+The wind that flows from that rocky mountain,
+It was very cold, really cold.
+Mr. Kilmaria, can you do something about that?
+------------------------------------------------
+[00000013][シャノン,char_004 Shannon]
+Anyway, once you're ready,
+Let's go to Kilmaria.
+------------------------------------------------
+[00000014][シャノン,char_004 Shannon]
+Mr. Kilmaria, what are you investigating?
+Why don't you go and have a look?
+------------------------------------------------
+[00000015][ジンガ,char_005 zynga]
+I don't think he's that bad of a person.
+------------------------------------------------
+[00000016][ジンガ,char_005 zynga]
+I can't worry about that right now.
+------------------------------------------------
+[00000017][ジンガ,char_005 zynga]
+It's better to have a clear personality like that.
+------------------------------------------------
+[00000018][ジンガ,char_005 zynga]
+Velvet...she seems to have solid skills,
+I don't like her personality...
+------------------------------------------------
+[00000019][ジンガ,char_005 zynga]
+I'm afraid that things will continue to get tossed around somehow in the future.
+I'm starting to feel anxious...will I be okay?
+------------------------------------------------
+[00000020][ジンガ,char_005 zynga]
+If Freed thinks so,
+He's probably not a bad guy at heart...
+It looks like it's really strong.
+------------------------------------------------
+[00000021][ジンガ,char_005 zynga]
+Well, while I was putting it together,
+Maybe I'll start to see some good things.
+------------------------------------------------
+[00000022][ジンガ,char_005 zynga]
+That's a realistic answer.
+You are certainly right.
+Nowadays, it's not a matter of personality.
+------------------------------------------------
+[00000023][ジンガ,char_005 zynga]
+That's what I think, but I can't shake my anxiety.
+------------------------------------------------
+[00000024][ジンガ,char_005 zynga]
+……Really?
+No, I am also someone who speaks clearly.
+I don't hate it, but...
+------------------------------------------------
+[00000025][ジンガ,char_005 zynga]
+However, there is no limit to things...
+I hope there won't be any trouble...
+------------------------------------------------
+[00000026][ジンガ,char_005 zynga]
+...Ah, I can't draw a conclusion that easily.
+Well, let's wait and see.
+------------------------------------------------
+[00000027][ジンガ,char_005 zynga]
+Someday, I'll catch a huge fish,
+I want to catch it with just my power.
+------------------------------------------------
+[00000028][ジンガ,char_005 zynga]
+Thanks to Velvet's help,
+The way has opened for battle at sea.
+It seems like he will be able to protect the village somehow.
+------------------------------------------------
+[00000029][ジンガ,char_005 zynga]
+If you feel even the slightest danger, do not force yourself.
+Dare to turn back is the right choice.
+It's the same as fishing.
+------------------------------------------------
+[00000030][ジンガ,char_005 zynga]
+The footage of those ruins...
+After all, this island has secrets that we don't know.
+It seems like it's still hidden.
+------------------------------------------------
+[00000031][アダム,char_006 a-dam]
+Yes, Velvet-san is also a member of the village.
+------------------------------------------------
+[00000032][アダム,char_006 a-dam]
+Let Adam decide.
+------------------------------------------------
+[00000033][アダム,char_006 a-dam]
+Isn't it still early?
+------------------------------------------------
+[00000034][アダム,char_006 a-dam]
+Mr. Freed, I would like to confirm one thing.
+If you receive an order from Velvet,
+Should I follow?
+------------------------------------------------
+[00000035][アダム,char_006 a-dam]
+got it.
+Now then, regarding Velvet-san's orders,
+I'll try to follow it.
+------------------------------------------------
+[00000036][アダム,char_006 a-dam]
+got it.
+Although it is difficult to judge based on vague criteria,
+I'll try as much as possible.
+------------------------------------------------
+[00000037][アダム,char_006 a-dam]
+……is that so.
+So, until Velvet officially becomes a member of the village,
+I'll put it on hold.
+------------------------------------------------
+[00000038][アダム,char_006 a-dam]
+However, Mr. Freed took care of Mr. Velvet.
+It's a little disappointing that he sees it that way.
+------------------------------------------------
+[00000039][アダム,char_006 a-dam]
+Until I receive your reply,
+This matter will be put on hold.
+------------------------------------------------
+[00000040][アダム,char_006 a-dam]
+When there is no need for activity,
+Sleep mode saves energy.
+It's similar to human sleep.
+------------------------------------------------
+[00000041][アダム,char_006 a-dam]
+The idea of ​​recruiting pirates as allies as a measure against naval warfare was
+It wasn't in my thought process.
+------------------------------------------------
+[00000042][アダム,char_006 a-dam]
+All the humans, especially Mr. Freed.
+It's amazing how flexible your thinking is.
+------------------------------------------------
+[00000043][アダム,char_006 a-dam]
+If I continued on up the rocky mountain,
+My drive system froze,
+I almost couldn't move...
+------------------------------------------------
+[00000044][アダム,char_006 a-dam]
+That image I saw at the ruins...
+It seems like it was recorded somewhere a long time ago...
+However, I cannot search the data.
+------------------------------------------------
+[00000045][キルマリア,char_007 Kilmaria]
+It would be helpful if Kilmaria-san could also help me.
+------------------------------------------------
+[00000046][キルマリア,char_007 Kilmaria]
+You don't have to worry about that.
+------------------------------------------------
+[00000047][キルマリア,char_007 Kilmaria]
+Killmaria-san is only worried about herself.
+------------------------------------------------
+[00000048][キルマリア,char_007 Kilmaria]
+This village is also full of pirates and monsters.
+It's kind of difficult.
+------------------------------------------------
+[00000049][キルマリア,char_007 Kilmaria]
+yes!When you are in trouble, please help each other!
+I'll do my best together too!
+------------------------------------------------
+[00000050][キルマリア,char_007 Kilmaria]
+is that so……
+If Mr. Freed says so,
+I can concentrate on my research with peace of mind.
+------------------------------------------------
+[00000051][キルマリア,char_007 Kilmaria]
+……I agree.
+An inexperienced person like me,
+It was too much to worry about the village.
+------------------------------------------------
+[00000052][キルマリア,char_007 Kilmaria]
+At the very least, I will not cause any inconvenience to you.
+I'll be careful.
+------------------------------------------------
+[00000053][キルマリア,char_007 Kilmaria]
+……sorry.
+It seems like it was an unnecessary hassle.
+------------------------------------------------
+[00000054][キルマリア,char_007 Kilmaria]
+There are so many things I want to research and not enough time.
+Even if you try to cut down on your sleep time,
+A living body naturally has its limits...
+------------------------------------------------
+[00000055][キルマリア,char_007 Kilmaria]
+Adam doesn't need to sleep,
+I'm so jealous...
+------------------------------------------------
+[00000056][キルマリア,char_007 Kilmaria]
+Even so...
+Why in the inscriptions of this island and the literature of the continent?
+Is there a big discrepancy...
+------------------------------------------------
+[00000057][キルマリア,char_007 Kilmaria]
+By investigating the differences thoroughly,
+I feel like I know something...
+------------------------------------------------
+[00000058][キルマリア,char_007 Kilmaria]
+Please wait a moment while I look for something.
+I'll have it ready by tomorrow.
+------------------------------------------------
+[00000059][キルマリア,char_007 Kilmaria]
+I have something that I would like to investigate carefully.
+Could you please leave me alone for a while?
+I think I'll know something by tomorrow.
+------------------------------------------------
+[00000060][ベルベット,char_008 Velvet]
+I hope you find the "strength".
+------------------------------------------------
+[00000061][ベルベット,char_008 Velvet]
+Tell me a lot about naval battles.
+------------------------------------------------
+[00000062][ベルベット,char_008 Velvet]
+Let's have fun.
+------------------------------------------------
+[00000063][ベルベット,char_008 Velvet]
+Well, a lot happened, but
+For now, we've become friends.
+------------------------------------------------
+[00000064][ベルベット,char_008 Velvet]
+In order to achieve mutual goals,
+Let's do our best, shall we?
+------------------------------------------------
+[00000065][ベルベット,char_008 Velvet]
+Their naval skills are more important than me.
+Worry about whether it will go up or not!
+I wonder how friendly he really is...
+------------------------------------------------
+[00000066][ベルベット,char_008 Velvet]
+However, I would like to thank you in advance.
+thank you.
+------------------------------------------------
+[00000067][ベルベット,char_008 Velvet]
+It's a promise, so as far as I know,
+I'll teach you properly...
+------------------------------------------------
+[00000068][ベルベット,char_008 Velvet]
+Whether you can master it or not
+It's up to you guys.
+Well, at least study hard.
+------------------------------------------------
+[00000069][ベルベット,char_008 Velvet]
+...That's right. From now on, everyone
+Aren't you saying let's go out and have some fun?
+This is a deal, a deal. Recognize?
+------------------------------------------------
+[00000070][ベルベット,char_008 Velvet]
+So much...
+I don't feel this nervous so I guess it's okay.
+------------------------------------------------
+[00000071][ベルベット,char_008 Velvet]
+……what happened?
+Are you still wary of me?
+Hey, it's okay. I won't betray you.
+------------------------------------------------
+[00000072][ベルベット,char_008 Velvet]
+...For the time being, yeah.
+------------------------------------------------
+[00000073][ベルベット,char_008 Velvet]
+This island is a very comfortable place to spend time.
+The climate is mild and the food is delicious.
+------------------------------------------------
+[00000074][ベルベット,char_008 Velvet]
+Living in such a relaxing place,
+Like you guys,
+It's no wonder the weather is so bad...
+------------------------------------------------
+[00000075][ベルベット,char_008 Velvet]
+Freed...you're so funny.
+I'm a little interested.
+I want to know more about you ♪ Hehe ♪
+------------------------------------------------
+[00000076][ベルベット,char_008 Velvet]
+...I'm sorry, but that potato bread...
+I ate it and it was surprisingly delicious...
+------------------------------------------------
+[00000077][ベルベット,char_008 Velvet]
+The wind and waves are making a strange noise.
+Apparently, tomorrow is for the pirates.
+Looks like it'll be a great time to make money.
+------------------------------------------------
+[00000078][ベルベット,char_008 Velvet]
+Freed, I've brought you an interesting story.
+...What?
+That's still a secret♪
+------------------------------------------------
+[00000079][ベルベット,char_008 Velvet]
+Please come again tomorrow.
+Then I'll tell you♪
+------------------------------------------------
+[00000080][ベルベット,char_008 Velvet]
+Ahhh! It was a little more!
+I hate things like this!
+I feel like I'm being rushed and it's frustrating!
+------------------------------------------------
+[00000081][ベルベット,char_008 Velvet]
+I wonder what the video I saw at that ruins was?
+I wonder if it has something to do with the "power" of the island...?
+------------------------------------------------
+[00000082][ガルゼー,char_501]
+I also intend to do my best as the village chief, but
+To those of you who actually go around the village every day,
+I'm really grateful. thank you.
+------------------------------------------------
+[00000083][ガルゼー,char_501]
+When it comes to the treatment of pirates, there are many different opinions.
+However, it is the rule of this village to accept anyone, no matter who they are.
+As long as it doesn't cause any harm.
+------------------------------------------------
+[00000084][ガルゼー,char_501]
+Have you heard that pirates are coming to the cove?
+He seems like a very troublesome person.
+For the sake of the village, please get rid of them as soon as possible.
+------------------------------------------------
+[00000085][ジム,char_502]
+It's okay because Jim is here!
+------------------------------------------------
+[00000086][ジム,char_502]
+I think it's more reliable than Jim.
+------------------------------------------------
+[00000087][ジム,char_502]
+I believe in Velvet.
+------------------------------------------------
+[00000088][ジム,char_502]
+Recruiting pirates,
+What on earth are you thinking?!
+------------------------------------------------
+[00000089][ジム,char_502]
+There will definitely be some trouble!
+Even if that happens, I don't know!
+------------------------------------------------
+[00000090][ジム,char_502]
+Oh, that's right.
+Hehe, you must understand, Freed!
+------------------------------------------------
+[00000091][ジム,char_502]
+……yeah?That means if something happens,
+Doesn't that mean it's my fault...?
+------------------------------------------------
+[00000092][ジム,char_502]
+What!? In that case,
+That female pirate is better than you.
+I can really trust it...
+------------------------------------------------
+[00000093][ジム,char_502]
+……that?
+------------------------------------------------
+[00000094][ジム,char_502]
+What do you mean by “I believe”?
+It's because you believe!
+------------------------------------------------
+[00000095][ジム,char_502]
+Wow, what's going on with everyone in the village?
+I was easily convinced by this guy's words,
+They end up accepting pirates...
+------------------------------------------------
+[00000096][ジム,char_502]
+Why are you silent? Are you worried now?
+At best, you can panic until something happens!
+------------------------------------------------
+[00000097][ジム,char_502]
+Jinga's big brother cares about the village more than anyone else,
+Moreover, he is stronger than anyone else!
+------------------------------------------------
+[00000098][ジム,char_502]
+Big brother is the right person to be the leader of the village!
+Freed, don't get carried away!
+------------------------------------------------
+[00000099][ジム,char_502]
+Is it sane to recruit pirates?
+I don't know what will happen!
+------------------------------------------------
+[00000100][マイア,char_503]
+I don't think Velvet is a bad person at all.
+Jim seems worried...
+------------------------------------------------
+[00000101][マイア,char_503]
+I made everyone worry, but
+I'm completely fine now.
+Thanks for the bread you delivered. thanks so much!
+------------------------------------------------
+[00000102][マイア,char_503]
+When I delivered flowers to Alise-chan,
+It made me very happy.
+It was really good.
+------------------------------------------------
+[00000103][アリーゼ,char_504]
+My father's adventure story...
+Have you heard of it?
+------------------------------------------------
+[00000104][アリーゼ,char_504]
+It's kind of popular, isn't it?
+There are quite a few customers who are looking for that.
+------------------------------------------------
+[00000105][アリーゼ,char_504]
+It's a problem for my father to go on an adventure, but...
+The customers are looking forward to hearing about it.
+It's hard to say not to go...
+------------------------------------------------
+[00000106][アリーゼ,char_504]
+A girl pirate is coming this time, right?
+Pirates seem to drink a lot!
+I hope you come to the store...
+------------------------------------------------
+[00000107][アリーゼ,char_504]
+Ah, but I guess it's no good because I'm a minor...
+Well done...
+------------------------------------------------
+[00000108][アリーゼ,char_504]
+It's the sweet potato from the "Elements of Power"...
+The effects of that sweet potato are amazing!
+If I cook it and serve it, will it sell?
+------------------------------------------------
+[00000109][アリーゼ,char_504]
+I received some beautiful flowers from Maia-sensei!
+You guys picked it too, right?
+I'm so happy~Thank you very much~!
+------------------------------------------------
+[00000110][ダイアナ,char_505]
+Hey, do you have recovery items ready...?
+If you don't have it, you'll regret it during the battle...?
+hehehehe……
+------------------------------------------------
+[00000111][ダイアナ,char_505]
+You guys have become stronger...
+Or is it thanks to that female pirate...?
+Fufufufufu……
+------------------------------------------------
+[00000112][ドルトン,char_506]
+If you think that I only make weapons, you are wrong.
+We'll also make cannons, and we'll also modify and strengthen them.
+------------------------------------------------
+[00000113][ドルトン,char_506]
+……yeah? No, should I call it a weapon...?
+Well, don't worry about the details.
+------------------------------------------------
+[00000114][ドルトン,char_506]
+I heard you chased Bacchus away.
+Of course, he chased them away with his own weapon, right?
+If you want something better, please contact us.
+------------------------------------------------
+[00000115][ロラン,char_507]
+Gikaidan is so cool!
+Well, I'm still not so sure...
+------------------------------------------------
+[00000116][ロラン,char_507]
+When I grow up, I'll become a Jikaidan too,
+Protect this village!
+------------------------------------------------
+[00000117][ロラン,char_507]
+Maia-sensei's attitude is bad, isn't it?
+It's not even fun to play...
+This doesn't mean school is closed...
+------------------------------------------------
+[00000118][ロラン,char_507]
+I'm glad Maia-sensei is recovering well...
+I completely forgot about my homework,
+I'm scared for the next time we meet...
+------------------------------------------------
+[00000119][カール,char_508]
+Velvet-san is a nice person.
+------------------------------------------------
+[00000120][カール,char_508]
+There are various things going on.
+------------------------------------------------
+[00000121][カール,char_508]
+Karl doesn't understand.
+------------------------------------------------
+[00000122][カール,char_508]
+Hey, Freed?
+Pirates are scary, right? He's a bad guy, right?
+Why are you friends with someone like that?
+------------------------------------------------
+[00000123][カール,char_508]
+I see……
+There are many different types of pirates.
+------------------------------------------------
+[00000124][カール,char_508]
+If Freed is like that,
+Shall I talk to you next time?
+------------------------------------------------
+[00000125][カール,char_508]
+Hmm, that's right.
+------------------------------------------------
+[00000126][カール,char_508]
+...So, what is "Jijo"?
+------------------------------------------------
+[00000127][カール,char_508]
+ah! They treat children and cheat!
+that's enough!
+------------------------------------------------
+[00000128][カール,char_508]
+...Well then, Freed can't answer either, can he?
+I'm kind of worried...
+------------------------------------------------
+[00000129][カール,char_508]
+Velvet, why is her belly button sticking out?
+If you did something like that, you'd definitely want to go, right?
+Or maybe he's a picky shop?
+------------------------------------------------
+[00000130][カール,char_508]
+Guss... Mr. Maia...
+Is it okay...?
+I hope you get well soon...
+------------------------------------------------
+[00000131][カール,char_508]
+Wow! Wow!
+I'm glad that Maia-sensei is feeling better!
+I'll see you again at school every day!
+------------------------------------------------
+[00000132][メリー,char_509]
+Hey, there's a fountain in the plaza, right?
+When it's hot, I play in the water over there.
+------------------------------------------------
+[00000133][メリー,char_509]
+There is something different and interesting about it than the sea.
+It's refreshing and feels so good!
+------------------------------------------------
+[00000134][メリー,char_509]
+When I curl my hair, I just cry all the time.
+I'm worried about Maia-sensei...
+------------------------------------------------
+[00000135][メリー,char_509]
+Karl, among us,
+Because I really like Maia-sensei...
+------------------------------------------------
+[00000136][メリー,char_509]
+I'm glad that Maia-sensei is doing well!
+My curls, which had fallen down, became healthy again,
+Let's all have fun together again!
+------------------------------------------------
+[00000137][ハンス,char_510]
+I got another treasure...
+If you look at it differently, every time I go on an adventure,
+It means that the treasures on the island are decreasing.
+------------------------------------------------
+[00000138][ハンス,char_510]
+You guys are so excited
+I'll take all the treasures on the island, okay?
+------------------------------------------------
+[00000139][ボリス,char_511]
+As I watched you bravely fight at sea,
+My blood is boiling!
+The pain in my lower back was completely blown away!
+------------------------------------------------
+[00000140][ボリス,char_511]
+Velvet-chan, are you okay with wearing such light clothes?
+If you leave your belly button exposed,
+I'm going to catch a cold.
+------------------------------------------------
+[00000141][デボラ,char_512]
+Inside the farm, there is a gentle slope.
+Be careful not to fall while running around.
+------------------------------------------------
+[00000142][デボラ,char_512]
+Looks like the monster is gone.
+I'm sure my prayers to the guardian deity were answered.
+I must continue to pray.
+------------------------------------------------
+[00000143][ハイラム,char_513]
+Thank you, I'll be careful.
+------------------------------------------------
+[00000144][ハイラム,char_513]
+It's okay, I can swim.
+------------------------------------------------
+[00000145][ハイラム,char_513]
+It's not much different than on land.
+------------------------------------------------
+[00000146][ハイラム,char_513]
+Were you supposed to fight at sea?
+After all, it's probably more dangerous than on land.
+Please be very careful...?
+------------------------------------------------
+[00000147][ハイラム,char_513]
+Well, Freed is solid.
+I think he's okay though.
+------------------------------------------------
+[00000148][ハイラム,char_513]
+But make sure you don't get hurt.
+------------------------------------------------
+[00000149][ハイラム,char_513]
+I know that but...
+I have to be careful not to fall in the first place.
+------------------------------------------------
+[00000150][ハイラム,char_513]
+That won't happen.
+After all, the footing is probably unstable...
+You really have to be careful, right?
+------------------------------------------------
+[00000151][ハイラム,char_513]
+Fu, Freed! Please give me some reply!
+Uncle, you're getting more and more worried!
+------------------------------------------------
+[00000152][ハイラム,char_513]
+This island is peaceful.
+But in the past...
+There may have been a battle on this island too...
+------------------------------------------------
+[00000153][ハイラム,char_513]
+Hmm, the woman named Velvet...
+About the secrets of this island that we don't even know about.
+Maybe she knows something...
+------------------------------------------------
+[00000154][リアン,char_514]
+Everyone in the village loves this village.
+Sometimes we have troubles, but in the end we work together
+The good thing is that you can get through it.
+------------------------------------------------
+[00000155][リアン,char_514]
+I'm glad you saved the village, but
+Actually, I'm really worried about everyone.
+Freed, please take care of Shannon and Panis.
+------------------------------------------------
+[00000156][ダリオ,char_515]
+When the village children grow up,
+A great vigilante group like us
+That's what I want it to be.
+------------------------------------------------
+[00000157][ダリオ,char_515]
+Until now, we have been desperately trying to become pirates.
+I chased him away.
+------------------------------------------------
+[00000158][ダリオ,char_515]
+So the pirates became friends,
+I hope you can help us...
+I have mixed feelings...
+------------------------------------------------
+[00000159][ミルコ,char_516]
+If I were to keep watch like this,
+The movements of the pirates are obvious!
+------------------------------------------------
+[00000160][ミルコ,char_516]
+We won't let pirate ships interfere with our trade!
+Lana-san, please keep an eye on my activities!
+------------------------------------------------
+[00000161][ミルコ,char_516]
+Bacchus is truly an unforgiving person...
+However, the reason for giving up so much is that
+On the other hand, maybe we should learn from him...
+------------------------------------------------
+[00000162][ロドリゴ,char_517]
+After completing the village patrol,
+Having a drink at Alise's restaurant is
+I'm looking forward to it more than anything.
+------------------------------------------------
+[00000163][ロドリゴ,char_517]
+I was surprised!
+Velvet guy is teaching me how to fight properly!
+------------------------------------------------
+[00000164][ロドリゴ,char_517]
+Zynga and the others seem to be listening intently,
+It also appears that their naval combat skills have improved.
+That's a big deal! Let's apologize later.
+------------------------------------------------
+[00000165][ダニエル,char_518]
+During this time, Peter
+He made a mistake so I scolded him, but
+Maybe he said it a little too harshly...
+------------------------------------------------
+[00000166][ダニエル,char_518]
+Was Peter feeling depressed?
+------------------------------------------------
+[00000167][ダニエル,char_518]
+A new person named Velvet came to the village.
+He seems quite beautiful, doesn't he?
+Are you willing to become my son's wife?
+------------------------------------------------
+[00000168][ダニエル,char_518]
+……picture?
+------------------------------------------------
+[00000169][ブレンダ,char_519]
+After all, Peter is a good guy.
+------------------------------------------------
+[00000170][ブレンダ,char_519]
+After all, we've been friends since childhood!
+------------------------------------------------
+[00000171][ブレンダ,char_519]
+I also have something to do at the ranch.
+------------------------------------------------
+[00000172][ブレンダ,char_519]
+Freed, Panis.
+always with my peter
+Thank you for being such a good friend.
+------------------------------------------------
+[00000173][ブレンダ,char_519]
+Fufufu, that kid too.
+I hope Freed and the others come to visit us.
+Looks like I'm looking forward to it.
+------------------------------------------------
+[00000174][ブレンダ,char_519]
+Yeah, we used to play together all the time.
+Thank you for your continued support.
+------------------------------------------------
+[00000175][ブレンダ,char_519]
+Oh, then Peter is next?
+That's a little sad.
+------------------------------------------------
+[00000176][ブレンダ,char_519]
+what happened?...Did you get into a fight with Peter?
+------------------------------------------------
+[00000177][ブレンダ,char_519]
+During this time, Gon! There was a loud sound,
+Just when I was wondering what it was...
+Mr. Kilmaria had crashed into a large tree.
+------------------------------------------------
+[00000178][ブレンダ,char_519]
+The habit of walking while thinking,
+I think it's better to fix it because it's dangerous.
+------------------------------------------------
+[00000179][ブレンダ,char_519]
+I hear there are new friends in the village?
+This time she doesn't seem like a pretty woman.
+Please tell him to come visit the ranch too.
+------------------------------------------------
+[00000180][ピーター,char_520]
+I just fell asleep the other day,
+Meanwhile, one of the sheep went somewhere.
+------------------------------------------------
+[00000181][ピーター,char_520]
+I'm glad you're back, but
+My father scolded me severely...
+------------------------------------------------
+[00000182][ピーター,char_520]
+The person who came to the village this time is a female pirate?
+Isn't she a very manly woman...?
+------------------------------------------------
+[00000183][ピーター,char_520]
+picture? Is she really beautiful?
+That's right……
+------------------------------------------------
+[00000184][ラナ,char_528]
+Is there a way to prevent seasickness?
+------------------------------------------------
+[00000185][ラナ,char_528]
+How do you escape from the enemy by boat?
+------------------------------------------------
+[00000186][ラナ,char_528]
+No, nothing in particular.
+------------------------------------------------
+[00000187][ラナ,char_528]
+Looks like you're having a hard time fighting on the ship.
+Unfortunately, I can't teach you anything about naval battles.
+If it's something else, I might be able to tell you.
+------------------------------------------------
+[00000188][ラナ,char_528]
+copper? Is there anything you want to ask?
+------------------------------------------------
+[00000189][ラナ,char_528]
+Freed, do you get seasick?
+Wow, that's surprising...
+Well, I'll tell you something good.
+------------------------------------------------
+[00000190][ラナ,char_528]
+If you put dried ubomessi seeds on your belly button,
+I don't get seasick!
+...I don't get drunk, so I've never tried it.
+------------------------------------------------
+[00000191][ラナ,char_528]
+Geez...I think I've said it before,
+Anyway, I'll make use of my boat legs and escape.
+My ship is fast anyway.
+------------------------------------------------
+[00000192][ラナ,char_528]
+...But you guys can't run away, so
+Isn't there no other choice but to fight on a ship?
+Would it be helpful if you asked me how to escape?
+------------------------------------------------
+[00000193][ラナ,char_528]
+I see...I don't have anything to ask you...
+A little disappointing...
+------------------------------------------------
+[00000194][ラナ,char_528]
+...Don't worry so much.
+Well, if you come up with something, feel free to call me anytime.
+------------------------------------------------
+[00000195][ラナ,char_528]
+If nothing happens during the voyage,
+I was so bored that I wondered if a storm would come.
+I can't help but think about it.
+------------------------------------------------
+[00000196][ラナ,char_528]
+But that's when it's dangerous!
+Being careless is the enemy!
+------------------------------------------------
+[00000197][ラナ,char_528]
+Looks like it was another tough battle.
+Was the ship okay?
+------------------------------------------------
+

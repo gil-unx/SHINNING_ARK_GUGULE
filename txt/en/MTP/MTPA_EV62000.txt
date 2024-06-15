@@ -1,0 +1,1405 @@
+[0281]
+*****************
+[00000000][フリード,char_001 Fried]
+@lt0 Panis is soooo dangerous.　　　　　　
+That's why I'm always holding hands with you,
+I still get a little nervous.　　　
+------------------------------------------------
+[00000001][フリード,char_001 Fried]
+@lt0 I'm good at baking bread.　　　　　　　
+But it's no match for Shannon's skill.　　　　　　　
+In many ways...
+------------------------------------------------
+[00000002][フリード,char_001 Fried]
+@lt0 There are many old ruins on Arcadia Island.
+There are many legends that remain that are not well understood.　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000003][フリード,char_001 Fried]
+@lt0 I'm Freed.　　　　　　　　　　　　　　
+I'm not sure exactly where I was born, but...
+I grew up here on Arcadia Island, in Azel Village.　　　
+------------------------------------------------
+[00000004][フリード,char_001 Fried]
+@lt0 I also fight monsters to protect the village, but...
+I usually help out at the bakery.　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000005][フリード,char_001 Fried]
+@lt0 But the most important thing for me right now is
+I guess I'll protect Panis no matter what.　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000006][パニス,char_002 Panis]
+@lt0 Panis, I really like Freed!　　　　　　
+That's right, Shannon sis and Zynga.
+I love both Soncho and Maia Sensei!　
+------------------------------------------------
+[00000007][パニス,char_002 Panis]
+@lt0 Panis loves singing!　　　　　　
+All kinds of songs come to mind,
+Then, all of a sudden, I start singing!　　　　　　
+------------------------------------------------
+[00000008][パニス,char_002 Panis]
+@lt0 I'm hungry... I want to eat panis, bread...
+The bread that my sister baked is also really delicious, but...
+I really like the bread Fried bakes.　　　　　　
+------------------------------------------------
+[00000009][パニス,char_002 Panis]
+@lt0 Panis, once upon a time,
+I don't remember much.　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000010][パニス,char_002 Panis]
+@lt0 But everyone is kind, so
+Panis, every day is so much fun!　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000011][ヴァイオラ,char_003 Viola]
+@lt0It seems like everyone is wary of me, but...
+I hope you don't get scared.　　　　　　　　　　
+I won't do any harm for no reason.　　　　　　　
+------------------------------------------------
+[00000012][ヴァイオラ,char_003 Viola]
+@lt0 I only target those who disrupt this world.　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000013][ヴァイオラ,char_003 Viola]
+@lt0 Want to know what I like?　　　　　　　　　
+Does it go without saying?　　　　　　　　　　　
+The answer, of course, is bread.　　　　　　　　　　
+------------------------------------------------
+[00000014][ヴァイオラ,char_003 Viola]
+@lt0 I will always protect this world.
+I'm thinking of the best way.　　　　　　　　　
+But things don't always go as planned.　　
+------------------------------------------------
+[00000015][ヴァイオラ,char_003 Viola]
+@lt0 I'm Viola.　　　　　　　　　　　　　　
+Who is this...hi-mi-tsu♪　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000016][ヴァイオラ,char_003 Viola]
+@lt0 One thing I can say for sure is that
+That means I'm not your enemy.　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000017][シャノン,char_004 Shannon]
+@lt0 I have been with Freed since he was a baby.
+She's like an older sister, but recently Freed...
+I don't seem to like that.　　　　　　　　　
+------------------------------------------------
+[00000018][シャノン,char_004 Shannon]
+@lt0 Maybe we shouldn't treat him like a child anymore, but...
+If you ask me, there are still some parts that I can't rely on.　
+She's at an age where it's difficult to handle.　　　　　　　　　　　
+------------------------------------------------
+[00000019][シャノン,char_004 Shannon]
+@lt0When I was baking new bread, Freed...
+I feel like I'm running away somewhere.　　　
+I wonder why...?　　　　　　　　　　　　
+------------------------------------------------
+[00000020][シャノン,char_004 Shannon]
+@lt0 I always worry about Freed, but...
+It's not good to take care of yourself too much.　　　
+Even though I understand, I can't help but want to lend a hand.　　
+------------------------------------------------
+[00000021][シャノン,char_004 Shannon]
+@lt0 I'm Shannon Milfi.　　　　　　　　　　
+I started helping out at my father and mother's bakery.
+I wonder how many years it's been already...
+------------------------------------------------
+[00000022][シャノン,char_004 Shannon]
+@lt0But baking bread is very profound.
+I'm still far from being an ideal baker.　　　　
+Everyone will support me, so I have to do my best!　　　
+------------------------------------------------
+[00000023][シャノン,char_004 Shannon]
+@lt0I live on the outskirts of Azer village.　　　
+It's a beautiful place on a gentle hill surrounded by wheat fields.　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000024][シャノン,char_004 Shannon]
+@lt0A peaceful landscape that has never changed...
+Memories from when Freed was still small
+There's a lot packed here.　　　　　　　
+------------------------------------------------
+[00000025][ジンガ,char_005 zynga]
+@lt0 I wasn't born on Arcadia Island, but...
+I consider all the residents of Azel Village to be family.　　　
+I want to cherish this feeling.　　　　　　　　　　
+------------------------------------------------
+[00000026][ジンガ,char_005 zynga]
+@lt0 Freed makes the decision, and I take the lead.　　　　
+I don't think anything can go wrong with this.　　　　　
+In other words, we are the strongest duo.　　　
+------------------------------------------------
+[00000027][ジンガ,char_005 zynga]
+@lt0 The sea is calling me...!　　　　　　　　　　
+"Fish" "Fish" "Fish"...!　　　　　　　
+Woooooooooo! Let's go now!　　　　　　
+------------------------------------------------
+[00000028][ジンガ,char_005 zynga]
+@lt0It's Zinga Varga. On Arcadia Island,
+All I want is to live a peaceful life as a mere fisherman.　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000029][ジンガ,char_005 zynga]
+@lt0 However, monsters and pirates attack day and night.
+I'm very busy dealing with that.
+I can't just relax and fish.
+------------------------------------------------
+[00000030][ジンガ,char_005 zynga]
+@lt0Of course, I will do my best to fight for peace in the village, but...
+Freed has grown up nicely now,
+In the future, I might not be able to appear very often.　
+------------------------------------------------
+[00000031][ジンガ,char_005 zynga]
+@lt0 Well, the cove is like my garden.　　　　　　
+The sand is pure white, and the sky and sea are forever blue.　　　　
+It's truly a paradise.　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000032][ジンガ,char_005 zynga]
+@lt0 When I'm leisurely fishing here...
+It's the happiest time.　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000033][アダム,char_006 a-dam]
+@lt0I am good at farming.　　　　　　
+From land clearing, cultivation, sowing, watering to harvesting,
+Please leave all agricultural work to me.　
+------------------------------------------------
+[00000034][アダム,char_006 a-dam]
+@lt At 0, I go into battle mode,
+attack the target.　　　　　　　　　　　　　　
+I wish there were fewer opportunities like that...
+------------------------------------------------
+[00000035][アダム,char_006 a-dam]
+@lt0 My master is Mr. Freed.
+In response to requests from everyone in Azel Village:
+We will do our best to accommodate you.　　　　　　　　　
+------------------------------------------------
+[00000036][アダム,char_006 a-dam]
+@lt0My type is “α-D.A.M.”
+Everyone calls me Adam.　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000037][アダム,char_006 a-dam]
+@lt0 Some people call me the “guardian of the village”.
+I will follow your orders and work for you.　
+Please feel free to let us know.　　　　　　　
+------------------------------------------------
+[00000038][アダム,char_006 a-dam]
+@lt0There are mysterious ruins on Arcadia Island.
+They seem to be scattered everywhere.　　　　　　　
+Even I don't know the whole story.　　　　　
+------------------------------------------------
+[00000039][アダム,char_006 a-dam]
+@lt0When we measured the material of the building, we found that
+The result was that it was a ruin from about 1000 years ago.　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000040][キルマリア,char_007 Kilmaria]
+@lt0 I will never tolerate evil!　　　　　　
+I will chase you to the ends of the earth and exorcise you!　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000041][キルマリア,char_007 Kilmaria]
+@lt0 It's important to stop and think again at times.　　　
+Of course I know.　　　　　　　　　　
+I know, but...
+------------------------------------------------
+[00000042][キルマリア,char_007 Kilmaria]
+@lt0 Nothing can be accomplished without steady effort!
+I will become a great exorcist as soon as possible.
+In order to become a better person, I will not neglect my daily training!　　　　　　
+------------------------------------------------
+[00000043][キルマリア,char_007 Kilmaria]
+@lt0My name is Killmaria Aideen!　　　　
+In the name of heaven, earth, and justice,
+He is an exorcist who exorcises evil in order to save the people of the world!　
+------------------------------------------------
+[00000044][キルマリア,char_007 Kilmaria]
+@lt0 However, I am still in training.　　　　
+In order to become a fine exorcist,
+We are learning from ancient documents and conducting research on artifacts.　　　　
+------------------------------------------------
+[00000045][キルマリア,char_007 Kilmaria]
+@lt0 I think there are many things that don't work out, but...
+I will do my best, so thank you for your support!　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000046][ベルベット,char_008 Velvet]
+@lt0 I'm a pirate, so...
+If you find something you want, feel free to get it!　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000047][ベルベット,char_008 Velvet]
+@lt0I liked Arcadia Island.　　　
+It seems like everyone wants me to stay forever, but...
+I wonder how long I will stay here...
+------------------------------------------------
+[00000048][ベルベット,char_008 Velvet]
+@lt0 The people of Azer village are all laid back.
+At first, I felt like it didn't suit me, but...
+When you look at them together, surprisingly, it's not like that.　　　
+------------------------------------------------
+[00000049][ベルベット,char_008 Velvet]
+@lt0 Yes♪ I'm Velvet Battras.　　　　
+He's a fairly well-known pirate around here.　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000050][ベルベット,char_008 Velvet]
+@lt0 But being famous is good and bad.　　　　　　　　
+I don't like being chased.　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000051][ベルベット,char_008 Velvet]
+@lt0Of course, what I want
+If you bring it to me, that's a different story.　　　　　　　
+Thank you very much, a-ge-ru♪
+------------------------------------------------
+[00000052][レヴィン,char_009 Levin]
+@lt0 I plan on taking Arcadia Island someday.　　
+However, even though I look like this, I am a gentleman.　　　　　　
+I won't do anything cowardly, so don't worry about that.　　
+------------------------------------------------
+[00000053][レヴィン,char_009 Levin]
+@lt0 A battle is about making a strategy and enjoying the process.
+It's like a game.　　　　　　　　　　　　
+You can't win just by thinking hard.　　　　　　　
+------------------------------------------------
+[00000054][レヴィン,char_009 Levin]
+@lt0 Where was I born?　　　　　　　　　　
+Did I tell you? I'm a prince of a certain country.　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000055][レヴィン,char_009 Levin]
+@lt0 Yo! I'm Levin Williams.　　　　　　
+He's a pirate who joined the navy.　　　　　　　　　　　　
+I can tell you anything about the ocean!?
+------------------------------------------------
+[00000056][レヴィン,char_009 Levin]
+@lt0 However, I have a principle of proceeding with things in a business-like manner.　　　
+If you'd like to play pirate with me, please try to win the others.　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000057][ガルゼー,char_501]
+@lt0 The village chief's job is extremely demanding.　　　　　　　　
+However, it is also a very rewarding job.　　　
+I will try my best for everyone today as well.　　　　　　　
+------------------------------------------------
+[00000058][ガルゼー,char_501]
+@lt0Children are a treasure, as they say.　　　　　　　
+I love hearing children's laughter.　　　
+I want them to play happily, sing, and grow up to be strong.　　　
+------------------------------------------------
+[00000059][ガルゼー,char_501]
+@lt0 I've known Freed since I was little.
+I've been watching him for a long time, and he's grown into a really nice young man.　　　
+I want him to grow into an adult who will continue to lead the village.　　
+------------------------------------------------
+[00000060][ガルゼー,char_501]
+@lt0 I'm Garzee Lobos. He is the village chief of Azel Village.　
+All the residents of the village are my family.　　　　　　　　　
+All the children are like sons and daughters.　　　　
+------------------------------------------------
+[00000061][ガルゼー,char_501]
+@lt0 So for the sake of the village, I would become a demon.　　　　　　　
+My only wish is for everyone to live peacefully and safely.　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000062][ガルゼー,char_501]
+@lt0A beautiful fountain square, a splendid bell tower, and a school building...
+In addition to what can be called the symbol of the village, the square has
+There are also many busy shops.　　　　　　　　　　
+------------------------------------------------
+[00000063][ガルゼー,char_501]
+@lt0It's my duty to protect this landscape.　　　　
+　　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000064][ジム,char_502]
+@lt0 Well, here in Azel Village.
+Aren't there too many complications?　　　　　　　　
+I won't say whose fault it is, but...
+------------------------------------------------
+[00000065][ジム,char_502]
+It's @lt0, everyone, only Freed.
+You talk like you're doing your best...!　　　　　　
+That guy is no big deal!　　　　　
+------------------------------------------------
+[00000066][ジム,char_502]
+@lt0 I think I'm on a pretty good track myself.
+I guess I'm not very popular with girls...
+why?
+------------------------------------------------
+[00000067][ジム,char_502]
+@lt0I'm Jim Hicks. He is the leader of the vigilante group.　　　　
+Well, I guess he's the face of the young people in this village.　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000068][ジム,char_502]
+@lt0I lent a hand to everyone in various ways,
+It's also just a matter of giving your opinion.
+It's really annoying to be asked to do this!　　　　　　　
+------------------------------------------------
+[00000069][マイア,char_503]
+@lt0I have always thought of myself as the students' older sister.
+I used to be there, but recently I was being called mom.
+I'm a little confused...
+------------------------------------------------
+[00000070][マイア,char_503]
+@lt0I think it's the flip side of being relied on.
+I wonder if I'm already at that age.　　　　　　
+It's complicated...
+------------------------------------------------
+[00000071][マイア,char_503]
+@lt0Freed-kun and Shannon-chan have grown up nicely.
+When I look at them, I feel really glad that I became a teacher.　
+Really happy.　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000072][マイア,char_503]
+@lt0 Not putting children at risk is...
+I think it's my number one duty.　　　　　　
+The job of a teacher is one where I can't relax even for a moment.　　
+------------------------------------------------
+[00000073][マイア,char_503]
+@lt0My name is Maia Pavlov and I am a teacher at a village school.　　
+All the cute students are good kids.
+I'm very happy.　　　　　　　　　
+------------------------------------------------
+[00000074][マイア,char_503]
+@lt0 I hope everyone will grow up to be fine adults.
+I will do my best to serve you.　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000075][アリーゼ,char_504]
+@lt0 Is our bar a place for everyone in the village to relax?　　　
+We don't just drink alcohol, we also serve food!
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000076][アリーゼ,char_504]
+@lt0 If you're a father, then...
+I just casually went out again...
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000077][アリーゼ,char_504]
+@lt0 I'm already retired as an adventurer.
+Don't just dream forever.
+I wish the store would put more effort into it...
+------------------------------------------------
+[00000078][アリーゼ,char_504]
+@lt0Shannon and I have been friends for a long time!
+I wonder if he's a close friend?　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000079][アリーゼ,char_504]
+@lt0 Alise Dinkel!
+I run a bar with my dad!
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000080][ダイアナ,char_505]
+@lt0Rare item...Useful item...
+I have various items ready and waiting for you...
+Are you coming to buy...? Fufufufufu……       
+------------------------------------------------
+[00000081][ダイアナ,char_505]
+@lt0 Make sure you don't forget to buy any items before you go out.
+Please check it properly...?　　　　　　
+Even if you regret it later, it won't be in time...? Hehehe...
+------------------------------------------------
+[00000082][ダイアナ,char_505]
+@lt0 I'm not drunk...I'm not drunk...?　　　　　　
+Ufufufufufufu......
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000083][ダイアナ,char_505]
+@lt0 Diana Norman...
+I'm the owner of an item shop...
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000084][ダイアナ,char_505]
+@lt0 An item shop is a place where items are sold...?　　
+I knew……?　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000085][ドルトン,char_506]
+@lt0 Weapons are good. Really good.　　　　　　　　　　　
+This functional beauty is indescribable.　　　　　　　　
+As long as I can make weapons, I'll be satisfied.　　　　
+------------------------------------------------
+[00000086][ドルトン,char_506]
+@lt0 Make sure you have good weapons!　　　　　　　　
+It's life-threatening!　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000087][ドルトン,char_506]
+@lt0 Important things for blacksmiths...
+It's about spirit and strength!　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000088][ドルトン,char_506]
+@lt0 The eagle is Dalton Smith. He's a blacksmith.　　　　　　
+If you need a weapon, just ask me.　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000089][ロラン,char_507]
+@lt0 Carl, Mary, and Panis don't depend on each other!
+I have to take care of it!　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000090][ロラン,char_507]
+@lt0 What is it? Even I always go to Maia Sensei.
+It's not like you're upset!　　　　　
+It's true!　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000091][ロラン,char_507]
+@lt0 Freed is always obsessed with panis, right?　　
+Really, he's a kid.　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000092][ロラン,char_507]
+@lt0 Oh! I'm Laurent Benard!　　　　　　
+You'll be able to kick the ball!　　　　　　　　　　
+Also, tree climbers!　　　　　　　　　　　　　　
+------------------------------------------------
+[00000093][カール,char_508]
+@lt0 After school today too, I'll be with Roland and Mary.
+I'm also going to play with Panis.　　　　　　　
+　　　　　　　　　　　　
+------------------------------------------------
+[00000094][カール,char_508]
+@lt0 When I grow up, I want to be like Freed and Zynga.
+I want to get stronger...
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000095][カール,char_508]
+@lt0 I like school.　　　　　　　　　　　　　　
+Jugyo, it's interesting!　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000096][カール,char_508]
+@lt0 Hello. My name is Carl Donato.
+Um, um... nice to meet you!
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000097][メリー,char_509]
+@lt0 Both Carl and Laurent are so childish it's confusing!　　　
+I wonder if you can't be like an adult like me.　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000098][メリー,char_509]
+@lt0 How long is Freed going to fidget?　　
+If you like panis, just say it clearly!　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000099][メリー,char_509]
+@lt0 Mr. Maia, aren't you going to fight?　　　　　　
+The teacher is very beautiful and
+He would be a really nice person if he didn't get mad...
+------------------------------------------------
+[00000100][メリー,char_509]
+@lt0...hey! Sorry!　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000101][メリー,char_509]
+@lt0I'm Mary Ashley.　　　　　　　
+Panis's friend.　　　　　　　　　　
+Nice to meet you!　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000102][ハンス,char_510]
+@lt0Why did you stop being an adventurer?　　　　　　　
+Phew...that's a long story.　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000103][ハンス,char_510]
+@lt0 Oops, while I'm talking...
+I hope I'm thirsty.　　　　　　　　　　
+How about some drinks?　　　　　　　　
+------------------------------------------------
+[00000104][ハンス,char_510]
+@lt0 Alise looks solid.　　　
+Thanks to that, I can leave the shop without worry.　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000105][ハンス,char_510]
+@lt0 I left the store alone and walked around the island.
+Have you discovered anything?　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000106][ハンス,char_510]
+@lt0 You don't understand, customer.　　　　　　　　　
+What I'm looking for isn't treasure.　　　　　　
+It's a dream and romance!　　　　　　　　　　　　
+------------------------------------------------
+[00000107][ハンス,char_510]
+@lt0 I'm Hans Dinkel!　　　　　　　　　
+He was a well-known adventurer on the continent, right?　
+……what? Are you a mogul?　　　
+------------------------------------------------
+[00000108][ハイラム,char_513]
+@lt0 I do most of the bread making.
+I'm leaving it up to my wife and kids.　　　　　
+You bake much better bread than I do.　　　　　
+------------------------------------------------
+[00000109][ハイラム,char_513]
+@lt0 Panis is a very nice girl.　　　　　　　　　
+She also helps me and Rian a lot.　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000110][ハイラム,char_513]
+@lt0 Freed has also improved a lot.　　　　　
+Until recently, while crying,
+I was just following Shannon around...
+------------------------------------------------
+[00000111][ハイラム,char_513]
+@lt0I'm Hiram Milfi.　　　　　　　　　　
+He's good at crafts. Make the necessary tools,
+Is it your job to fix things that are broken?　　　　
+------------------------------------------------
+[00000112][リアン,char_514]
+@lt0 I've been teaching Shannon bread making techniques for a long time.　
+But why do I make a new recipe?
+I wonder if it will turn out like that...
+------------------------------------------------
+[00000113][リアン,char_514]
+@lt0 I think it's time to teach Panis how to bake bread.　
+But I think I'll start eating the fried soba...
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000114][リアン,char_514]
+@lt0 Freed is the most reliable of the children.　　　
+Hiram and I are counting on you.　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000115][リアン,char_514]
+@lt0 I'm Leanne Milfi. I'm the owner of a bakery.　　　　　
+Every day is very busy taking care of my three children and my carefree husband!　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000116][ピーター,char_520]
+@lt0 Taking care of animals is difficult but interesting.　　　　　
+If you take the time and effort, they will respond.　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000117][ピーター,char_520]
+@lt0I run the ranch with my mom and dad.　　　
+Also, Grandma Deborah helps me sometimes.　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000118][ピーター,char_520]
+@lt0My animals are so happy when Panis comes.　
+I wonder how I can be so liked by animals...
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000119][ピーター,char_520]
+@lt0This is Peter Gardner.　　　　　　　　　
+I take care of the animals on the farm.　　　　　　
+Nice to meet you.　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000120][ピーター,char_520]
+@lt0 We keep all kinds of animals at our farm.　
+Because they roam freely in the wide meadows,
+Everyone is doing very well.　　　　　　　　　　
+------------------------------------------------
+[00000121][ピーター,char_520]
+@lt0If you need eggs, milk, sheep wool, etc.
+Come to my house!　　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000122][バッカス,char_527]
+@lt0 Ever since I was a kid, I've been reading pirate stories and...
+I love listening...
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000123][バッカス,char_527]
+@lt0 I want to be like that when I grow up.
+I want to become a great pirate.
+I grew up thinking that way all the time!　　　　
+------------------------------------------------
+[00000124][バッカス,char_527]
+@lt0When I first became a pirate,
+I had a hard time getting seasick...
+I had never been to the sea before...
+------------------------------------------------
+[00000125][バッカス,char_527]
+@lt0 Freed and others are my destined rivals!　　
+Someday we will definitely win against them,
+I'll make you recognize my ability!　　　　　　　
+------------------------------------------------
+[00000126][バッカス,char_527]
+@lt0 I am Bacchus Bacchanal!　　　　　　　
+He is the strongest and invincible pirate!　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000127][ラナ,char_528]
+@lt0Even though I look like this, I am a user of the divine bow.　　　　　
+He's really good with a bow.　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000128][ラナ,char_528]
+@lt0 Well, the people who suddenly believed me when I said this,
+I haven't had one so far.　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000129][ラナ,char_528]
+@lt0 Trading is so rewarding!　　　　　　
+You can see many rare items,
+Whether you're on an island or on the continent, everyone will be happy!　　　
+------------------------------------------------
+[00000130][ラナ,char_528]
+@lt0 I like business.
+"Even though you're an elf, you're different."
+That's what I'm told...
+------------------------------------------------
+[00000131][ラナ,char_528]
+@lt0 Have I changed that much?　　　　　　　
+I think the way business works is very interesting.　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000132][ラナ,char_528]
+@lt0 It's Lana. We are conducting trade between this island and the continent.　　　
+If there's anything you need or want,
+I'll look for you on the continent! Can you tell me anything?　　
+------------------------------------------------
+[00000133][ケルビム,char_529]
+@lt0 Captain tells us about the wonders of the sea and pirates.
+Explained in detail over 76 hours,
+I was so shocked that my system froze.　　
+------------------------------------------------
+[00000134][ケルビム,char_529]
+@lt0 This is probably what all humans say.
+I thought it was something called "impression."　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000135][ケルビム,char_529]
+@lt0Now I can understand how Adam feels.　　
+Friends are the most important thing of all.　　　　
+The captain taught me that.　　　
+------------------------------------------------
+[00000136][ケルビム,char_529]
+@lt0When it was just a weapon, and now that we are pirates...
+The sea and sky look completely different.　　　　　　　
+I can't believe this world is so full of stimulation...
+------------------------------------------------
+[00000137][ケルビム,char_529]
+@lt0 I am a combat Orgaroid.
+Type "Cherubim Queen E.V.E."　　　　
+He is the vice-commander of the Bacchus Pirates.　　　　　　　　　
+------------------------------------------------
+[00000138][]
+@lt0
+------------------------------------------------
+[00000139][]
+@lt0At Azel Village, from the camp menu
+You can save.
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000140][]
+@lt0When you finish playing
+Don't forget to save.
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000141][]
+@lt0When you deepen your interaction with the villagers,
+Special events and quests may occur.
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000142][]
+@lt0Talk to the villagers every day,
+Let's deepen our interactions by solving requests.
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000143][]
+@lt0If you ask Panis to sing at the song point,
+Various effects will occur in Azel Village.
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000144][]
+@lt0In rare cases, there is a different effect than usual.
+Additional occurrences may occur.
+Let them sing actively.　　　　　　　　
+------------------------------------------------
+[00000145][]
+@lt0In Azel Village, from the menu that opens with the □ button
+You can have a conversation with Panis.
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000146][]
+@lt0The time and place when you talked to Panis,
+It shows various reactions depending on its mood.
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000147][]
+@lt0M. O. E. In S, depending on the option chosen
+The character's likeability will change.
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000148][]
+@lt0If you choose an option that increases your favorability,
+from that character
+You can receive items.　　　　　　　
+------------------------------------------------
+[00000149][]
+@lt0If you press the START button while in the village,
+A general map of Azel Village will be displayed.
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000150][]
+@lt0By selecting your destination from this screen,
+You can move to each region using shortcuts.
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000151][]
+@lt0In my home gallery
+In addition to the acquired collection,
+You can see tips on how to earn.　　　　　　
+------------------------------------------------
+[00000152][]
+@lt0The hint is to progress through the story
+New ones will be added.
+Be sure to check it frequently.　　　　　　
+------------------------------------------------
+[00000153][]
+@lt0 Diana's various shop,
+You can purchase various items and accessories.
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000154][]
+@lt0 Also, "bargain" includes
+Valuable items may be lined up.
+Don't forget to check it.　　　　
+------------------------------------------------
+[00000155][]
+@lt0At Alise's bar
+You can accept "Free Quests".
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000156][]
+@lt0 free quest
+More will be added as you progress through the story.
+If you are confident in your skills, please give it a try.　　　
+------------------------------------------------
+[00000157][]
+@lt0 Also, if you clear the free quest
+High-level enemies and rare monsters will appear.
+"Extra Quest" may occur.　
+------------------------------------------------
+[00000158][]
+@lt0If you check the fishing point on the pier,
+You can go fishing.
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000159][]
+@lt0If you can't catch the fish you want
+"time" to fish,
+You may want to try changing the ``seeds'' you use for bait.　　　
+------------------------------------------------
+[00000160][]
+@lt0For melee attack characters,
+"Auto lock on" can be used with the △ button.
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000161][]
+@lt0 Press the △ button once to fully lock on to a single object.
+Press twice
+Distributes to multiple targets for full lock-on.　　　
+------------------------------------------------
+[00000162][]
+@lt0Also, if you press the □ button
+All lock-ons will be reset.
+Once you get used to the operation, try using it actively.　　
+------------------------------------------------
+[00000163][]
+@lt0The character who performed the link attack with Freed is
+Increases likability.
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000164][]
+@lt0If you have a character you want to increase their likeability
+It would be a good idea to actively aim for link attacks.
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000165][]
+@lt0 In battle command
+By selecting "Item",
+You can use recovery items.　　　　　
+------------------------------------------------
+[00000166][]
+@lt0 In particular, bread has special effects in addition to HP recovery.
+This is an extremely excellent item.
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000167][]
+@lt0Prepare for battle
+It's a good idea to bake bread at home.
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000168][]
+@lt0 During the quest
+By filling up the force gauge,
+You can use the special move "Force".　　　
+------------------------------------------------
+[00000169][]
+@lt0 force gauge is
+By taking actions such as attacking and recovering
+It is possible to accumulate.　　　　　　　　　　　　
+------------------------------------------------
+[00000170][]
+@lt0 Personality has
+Each has its own conditions.
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000171][]
+@lt0 The occurrence conditions are in the status menu.
+You can check the personality item.
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000172][]
+@lt0 Each monster has
+A "weakness attribute" is set.
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000173][]
+@lt0 “Attack” and “Force” are
+Basically, it has some attributes.
+Find effective attacks and use them.　　　
+------------------------------------------------
+[00000174][]
+@lt0When Freed's tension increases
+"Overmove" will be activated.
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000175][]
+@lt0 tension is
+By attacking and defeating enemies with Freed.
+can be raised.
+------------------------------------------------
+[00000176][]
+@lt0When allies' actions are continuous
+The number of chains will increase.
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000177][]
+@lt0As the number of chains increases
+Increases attack damage and recovery amount of allies.
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000178][]
+@lt0By using techniques that change the move, etc.
+Let's actively connect the chain.
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000179][]
+@lt0When you press the START button on the battle map
+You can open the quest menu.
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000180][]
+@lt0In the quest menu
+Check quest information and option settings,
+It is possible to leave the quest by returning.　
+------------------------------------------------
+[00000181][]
+@lt0If you feel the battle is difficult
+Under "System" in the camp menu
+Try setting the difficulty to casual.　　　
+------------------------------------------------
+[00000182][]
+@lt0On the casual difficulty level
+Damage received from enemies is reduced,
+It will be easier for your allies to take action.　　　　　　
+------------------------------------------------
+[00000183][]
+@lt0However,
+The difficulty level cannot be changed during the quest.
+be careful.
+------------------------------------------------
+[00000184][シャノン,char_004 Shannon]
+@lt0 Is that kid okay?　　　　　　　　　　　
+I hope you are feeling better...
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000185][フリード,char_001 Fried]
+@lt0 The animals are back too.
+I finally have milk available.　　　　
+Now you can finally bake bread.　　　　　　　
+------------------------------------------------
+[00000186][フリード,char_001 Fried]
+@lt0...I'm suddenly feeling hungry.　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000187][フリード,char_001 Fried]
+@lt0 Anyway, what is that power of mine?　　　
+　　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000188][フリード,char_001 Fried]
+@lt0 You can use it from childhood, but...
+Why can only I do such a thing?
+I just don't understand...
+------------------------------------------------
+[00000189][アダム,char_006 a-dam]
+@lt0Search the plant database.　　　　　　　　　　
+Analyzing information about seeds...
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000190][アダム,char_006 a-dam]
+@lt0 Analysis completed.　　　　　　　　　　　　　　　　
+The collected seeds are sown in the optimal form and watered.　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000191][ジンガ,char_005 zynga]
+@lt0 Levin is saying that he is a country thief.
+It looks like he's enjoying the battle itself.　　　
+It would be a huge nuisance if the village was targeted like that.　　　　　
+------------------------------------------------
+[00000192][ジンガ,char_005 zynga]
+@lt0 Well, they don't use dirty hands.
+At least it's a relief.　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000193][マイア,char_503]
+@lt0This school was founded at the same time as the village.
+It was built here.　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000194][マイア,char_503]
+@lt0The tall bell tower is still the same as it was back then.　　　　　　　　　　
+As a symbol of this village,
+It has been loved by the villagers for a long time.　　　　　
+------------------------------------------------
+[00000195][マイア,char_503]
+@lt0 That's all for today's study.　　　　　　　　　
+Let's study together again tomorrow.　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000196][シャノン,char_004 Shannon]
+@lt0What the hell is that woman?　　　　　　　　
+She used ogling and made a sweet voice!　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000197][シャノン,char_004 Shannon]
+@lt0 Men are men too!　　　　　　　　　　　　　　
+Don't just laugh!　　　　　　　
+Ah, now I'm really angry!　　　　　　
+------------------------------------------------
+[00000198][パニス,char_002 Panis]
+@lt0 I was surprised...
+It keeps shaking and shaking.　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000199][パニス,char_002 Panis]
+@lt0 But what was that big girl?　　　　
+Rugged, rough,
+So it was a little warm...
+------------------------------------------------
+[00000200][フリード,char_001 Fried]
+@lt0 Panis is a "devil"...
+That can't be true, right?　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000201][フリード,char_001 Fried]
+@lt0Kill Maria still doesn't seem to be convinced, though.
+If you know more about Panis,
+I'm sure you'll understand.　　　　　　　　
+------------------------------------------------
+[00000202][パニス,char_002 Panis]
+@lt0 Kill Maria, the bread that Panis gave you.
+He ate a lot!　　　　　　　　　　
+He said it was delicious!　　　　　　　　
+------------------------------------------------
+[00000203][パニス,char_002 Panis]
+@lt0 I was so reluctant to deliver bread tomorrow.　
+Which bread should I have?　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000204][ハイラム,char_513]
+@lt0 I don't usually say it out loud, but...
+Zynga is proud of that ship.　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000205][ハイラム,char_513]
+@lt0 You can tell by looking at Zynga's face.　　　　　　　　
+When I go fishing, I use Zynga.
+It looks really lively.　　　　
+------------------------------------------------
+[00000206][ジンガ,char_005 zynga]
+@lt0 I never expected that this ship would be equipped with a cannon...
+I'm sorry...
+I always wanted to let you just do fishing...
+------------------------------------------------
+[00000207][ジム,char_502]
+@lt0 Chikkisho!　　　　　　　　　　　　　　　
+To think that Freed would help him...!　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000208][ジム,char_502]
+@lt0 Still!　　　　　　　　　　　　　　　　
+I'm the one who protects the village!　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000209][ラナ,char_528]
+@lt0 Zynga and the others, did the ship modification go well?　　　
+If I find something that might be useful,
+Let me tell you.　　　　　　　　　　　　
+------------------------------------------------
+[00000210][フリード,char_001 Fried]
+@lt0 I can't believe there was a cave in such a place.
+I didn't notice it at all.　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000211][フリード,char_001 Fried]
+@lt0Entrance to a cave hidden in the sea...
+It's kind of mysterious.　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000212][キルマリア,char_007 Kilmaria]
+@lt0 Panis touched the stone statue...
+The earthquake that happened right after that...
+Is there a causal relationship between these two?　　　　
+------------------------------------------------
+[00000213][キルマリア,char_007 Kilmaria]
+@lt0 Hmm...I don't know!　　　　　　　　　　
+There's not enough information!　　　　　　　　　　　
+I want to find out all sorts of things!　　　　　　　　　　
+------------------------------------------------
+[00000214][ベルベット,char_008 Velvet]
+@lt0 I'm really having trouble with that Tonchiki.　　　
+But now you know it's not worth it.　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000215][ベルベット,char_008 Velvet]
+@lt0 Well, now the credibility of the people in the village has increased.　
+...Well, I feel like it was MAX from the beginning.
+I wouldn't do it though.　　　　　　　　　　　　
+------------------------------------------------
+[00000216][フリード,char_001 Fried]
+@lt0 That's a big harvest.
+If you eat this, Maia-sensei will definitely feel better.
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000217][マイア,char_503]
+@lt0 For Alise and the children,
+I picked a lot of flowers.　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000218][マイア,char_503]
+@lt0 Ah, that's right.　　　　　　　　　　　　　　　
+There was another person I wanted to thank.　　　　　　
+Hehehe.　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000219][ジンガ,char_005 zynga]
+@lt0 Velvet's point is accurate and to the point.　　　　
+As expected, it's all about professional naval battles.　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000220][ジンガ,char_005 zynga]
+@lt0 This battle would have happened without Velvet.
+He probably would have lost.　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000221][キルマリア,char_007 Kilmaria]
+@lt0Please come to the village ruins later.　　　　　　
+We will give you some very useful items!　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000222][キルマリア,char_007 Kilmaria]
+@lt0...well, where did that go?　　　
+I'm sure I should have kept it here...
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000223][ベルベット,char_008 Velvet]
+@lt0 Wow, that's a creepy place...
+There are ruins in a cave like this...
+Also, the ceiling collapsed...
+------------------------------------------------
+[00000224][ベルベット,char_008 Velvet]
+@lt0 My ears are twitching!　　　　　　　
+These ears are also crisis detection antennas!　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000225][フリード,char_001 Fried]
+@lt0 It looks like the village's reconstruction will be over soon.　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000226][フリード,char_001 Fried]
+@lt0 Anyway, from that state...
+I've made it this far.　　　　　　　　　
+It's all thanks to everyone's hard work.　　　　　　　　
+------------------------------------------------
+[00000227][アダム,char_006 a-dam]
+@lt0 I have no feelings, but...
+Rather than destruction or combat, we support agricultural work and
+I felt like I would be better suited for something like reconstruction assistance.　　
+------------------------------------------------
+[00000228][アダム,char_006 a-dam]
+@lt0 That I was an ancient weapon...
+In my case, the circuit worked normally.
+Will we end up like those cherubim?　　
+------------------------------------------------
+[00000229][ハンス,char_510]
+@lt0 Damn, I made this mistake...
+I guess it's about time for Yaki to come around...
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000230][パニス,char_002 Panis]
+@lt0 I guess...?　　　　　　　　　　　　　　　
+Freed is staring at Panis...
+Is there something on it?　　　　　　　　　　　　
+------------------------------------------------
+[00000231][ガルゼー,char_501]
+@lt0 The village that was destroyed by the giants has completely returned to normal...
+This is also thanks to the hard work of Freed and his friends.　　　
+I'm grateful.　　　　　　　　　　　　　　
+------------------------------------------------
+[00000232][フリード,char_001 Fried]
+@lt0 It was an amazing place...
+I can't move forward unless I do something about that miasma.
+Hmm... I have to think about something...
+------------------------------------------------
+[00000233][ハイラム,char_513]
+@lt0If you have the ingredients, this is it.　　　　　　　
+Even though he looks like this, he's really good with his hands.　　　　　　
+Leave the rest to me.　　　　　　　　　　　　　　
+------------------------------------------------
+[00000234][アダム,char_006 a-dam]
+@lt0 I guess from the melting of the rock.
+It appears that some kind of optical weapon was used.　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000235][アダム,char_006 a-dam]
+@lt0 How many victims did that attack cause?
+I don't know due to lack of data.　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000236][ピーター,char_520]
+@lt0 The village is completely back to normal.　　　　　　　　　　
+I can't believe that a festival like this will be possible.
+I couldn't even imagine it until recently.　　　　　
+------------------------------------------------
+[00000237][パニス,char_002 Panis]
+@lt0 I collected a lot of Panis!　　　　　　　　
+Now you can make a lot of bread!　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000238][パニス,char_002 Panis]
+@lt0What kind of festival is it?　　　　　　　　
+I'm looking forward to it!　　　　　　　　　　　　　　　
+I hope it starts soon!　　　　　　　　　　
+------------------------------------------------
+[00000239][レヴィン,char_009 Levin]
+@lt0 He's definitely a caring boy.
+　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000240][レヴィン,char_009 Levin]
+@lt0 Well, the light has returned to my eyes,
+I think it's okay now... but...
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000241][フリード,char_001 Fried]
+@lt0 Express your feelings to the other person,
+Accurately accept the other person's thoughts.　　　　　　　
+You can't convey your feelings unless you say it.　　　　　　　　
+------------------------------------------------
+[00000242][フリード,char_001 Fried]
+@lt0 Let's go to the village quickly and talk to everyone!　　　　　　　
+If you talk to them properly, they will definitely understand!　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000243][シャノン,char_004 Shannon]
+@lt0 Phew, I also gathered a lot of medicinal herbs.　　　　　　　
+I'm worried about the animals, so let's go back soon.　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000244][ベルベット,char_008 Velvet]
+@lt0What the heck is that?　　　　　　　　　　　　
+Even though you're such a nerd, you're still lecturing me!　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000245][ベルベット,char_008 Velvet]
+@lt0 You mean you can talk to me anytime?　　　　　　　　
+What exactly do you mean?　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000246][ベルベット,char_008 Velvet]
+@lt0…………　　　　　　　　　　　　　　　　
+……………………　　　　　　　　　　　　
+... so much... already...
+------------------------------------------------
+[00000247][シャノン,char_004 Shannon]
+@lt0 Panis is always for Boris.
+You were picking medicinal herbs here...
+I'm sure you'll be singing your favorite song...
+------------------------------------------------
+[00000248][シャノン,char_004 Shannon]
+@lt0 Panis... where did it go...?　　　　　　
+Without you... I'm lonely...
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000249][キルマリア,char_007 Kilmaria]
+@lt0 The intention of Mr. Panis who came from another world...
+The true identity of the monster that appears with the red moon...
+And the reason why she is still desperate...
+------------------------------------------------
+[00000250][キルマリア,char_007 Kilmaria]
+@lt0 Hmm, the more you know, the less you understand.　　　
+This is after all finding Mr. Panis and...
+I have no choice but to explain...
+------------------------------------------------
+[00000251][ロラン,char_507]
+@lt0 I'm sorry we went alone...
+When everyone was picking flowers, a monster came out.
+I was so surprised...
+------------------------------------------------
+[00000252][ロラン,char_507]
+@lt0 but!　　　　　　　　　　　　　　　　
+I didn't cry!　　　　　　　
+Because it's true!　　　　　　　　　　　　　　
+------------------------------------------------
+[00000253][パニス,char_002 Panis]
+@lt0 To be honest, I'm a little scared to meet you.　　　　　　
+I wonder if Zynga will listen to my story...
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000254][パニス,char_002 Panis]
+@lt0 but...
+If you don't start talking, nothing will happen.　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000255][パニス,char_002 Panis]
+@lt0 Even if no one listens, I will speak as many times as I want.　　
+Honestly, everything that is in my heart...
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000256][シャノン,char_004 Shannon]
+@lt0 Is it a “field where feelings can be conveyed”…
+Viola-san can do something like this.
+Who are you really?　　　　　　　　　　
+------------------------------------------------
+[00000257][シャノン,char_004 Shannon]
+@lt0……Hah!?
+Oh, my feelings are conveyed...I-my feelings are...
+There's no way Freed would know about it, right?　　　
+------------------------------------------------
+[00000258][マイア,char_503]
+@lt0 Everyone's feelings were different,
+We are finally one...
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000259][マイア,char_503]
+@lt0 I'm sure it's okay now.　　　　　　　　　　　　
+The village and Panis-chan too.　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000260][ジム,char_502]
+@lt0 Me too, when I have to do something, I do it!　　　　　　
+With this momentum, I'll save the world of Panis!　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000261][ハンス,char_510]
+@lt0 Freed guy, while I wasn't looking,
+You look like an adult now.　　　　　　　　　　
+It reminds me of me when I was young.　　　　　　　　　　
+------------------------------------------------
+[00000262][ガルゼー,char_501]
+@lt0Okay, let's head to Panis-chan's world.　　　　　　
+No matter what happens there,
+As long as everyone in the village stays together, everything will be fine.　　　　　　
+------------------------------------------------
+[00000263][ベルベット,char_008 Velvet]
+@lt0 That Tonchiki... he tried to be cool...
+Next time I see you, I wonder if I can at least thank you...
+So...just stay alive until then...
+------------------------------------------------
+[00000264][ヴァイオラ,char_003 Viola]
+@lt0I can't believe such a note was left behind...
+I wonder if it has something to do with Freed's abilities?
+That's interesting...
+------------------------------------------------
+[00000265][ヴァイオラ,char_003 Viola]
+@lt0...wait a minute?　　　　　　　　　　　　
+I remember seeing something similar to this bookcase somewhere...
+Where was it?　　　　　　　　　　　　　　
+------------------------------------------------
+[00000266][ベルベット,char_008 Velvet]
+@lt0 That big thing is an ancient weapon...
+I do want “power”, but...
+It's a little too big for my pocket.　　　
+------------------------------------------------
+[00000267][ベルベット,char_008 Velvet]
+@lt0 Anyway, such a bullshit weapon.
+I wonder what kind of person was using it?　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000268][キルマリア,char_007 Kilmaria]
+@lt0 Distort the earth and climate,
+An ancient war that caused suffering to innocent families.　　　　　　
+Totally against justice!　　　　　
+------------------------------------------------
+[00000269][キルマリア,char_007 Kilmaria]
+@lt0 Ah, if I could transcend time,
+I'll exorcise this sad war!　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000270][ジンガ,char_005 zynga]
+@lt0There are limits to things.　　　　　　　　
+You don't need a volcanic eruption to make fried eggs.　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000271][ジンガ,char_005 zynga]
+@lt0 Enough to carve away mountains and change the land and climate.
+Was a powerful weapon really necessary?　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000272][ジンガ,char_005 zynga]
+@lt0 No, it doesn't matter whether it's necessary or not.　　　
+What I was thinking about was destroying the enemy in front of me.
+I guess that was it...
+------------------------------------------------
+[00000273][シャノン,char_004 Shannon]
+@lt0 I started researching Freed's mysterious power,
+Find this note and...
+And the word "ability" was written there.　　　　
+------------------------------------------------
+[00000274][シャノン,char_004 Shannon]
+@lt0 After all, this is no coincidence, right?　　　　　
+That means Freed is in an ancient civilization.
+Does that mean they're related?　　　　　　　　　　　　
+------------------------------------------------
+[00000275][アダム,char_006 a-dam]
+@lt0The scars that ancient weapons left on this land are
+It seems that this has aroused fear in everyone's hearts.　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000276][アダム,char_006 a-dam]
+@lt0 I and my friends who made it happen, too.
+I guess it's the object of "fear"...
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000277][パニス,char_002 Panis]
+@lt0 Everyone is saying "that" and "that", but...
+What does “that” mean?　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000278][パニス,char_002 Panis]
+@lt0 Everyone's face when they say "that".
+It's a little scary, so I don't like panis...
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+[00000279][レヴィン,char_009 Levin]
+@lt0 Does that disc contain information?　　　　　　
+No, my sister and the iron boy,
+It seems like you have a mysterious technique...
+------------------------------------------------
+[00000280][レヴィン,char_009 Levin]
+@lt0 Well, I wonder what kind of information will come out.　　　　　　
+Is it fun to open the lid?　　　　　　　
+　　　　　　　　　　　　　　　　　　　　
+------------------------------------------------
+

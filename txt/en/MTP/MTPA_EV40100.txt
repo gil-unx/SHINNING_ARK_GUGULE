@@ -1,0 +1,312 @@
+[0078]
+*****************
+[00000000][]
+@lt1About Azel Village
+------------------------------------------------
+[00000001][]
+In Azel Village, you can interact with villagers and
+You can explore each region.
+Let's walk around with Panis.
+------------------------------------------------
+[00000002][]
+talk to someone or
+When you want to investigate a place of interest,
+Approach the target and press the ○ button.
+------------------------------------------------
+[00000003][]
+@lt1About save
+------------------------------------------------
+[00000004][]
+Menu that opens with the △ button
+You can now save from the system.
+------------------------------------------------
+[00000005][]
+Be sure to save frequently.
+------------------------------------------------
+[00000006][]
+@lt1 About life in the village
+------------------------------------------------
+[00000007][]
+In the village of Azer, over time
+The scenery changes from day to evening to night.
+------------------------------------------------
+[00000008][]
+You can check the current time from the clock on the top right of the screen.
+When opening various menus
+Time stops so there is no need to rush.
+------------------------------------------------
+[00000009][]
+When one day ends, the next day begins again.
+There are no disadvantages due to the passage of days.
+------------------------------------------------
+[00000010][]
+Feel free and carefree,
+Let's live life in the village.
+------------------------------------------------
+[00000011][]
+About the @lt1 icon
+------------------------------------------------
+[00000012][]
+Villagers in Azel Village and targets to be investigated
+It may have an icon.
+------------------------------------------------
+[00000013][]
+To the character whose story icon is displayed
+When you talk to it, the main story will progress.
+------------------------------------------------
+[00000014][]
+If the target is a shop character
+"Speak" on the shop menu
+The event progresses depending on your selection.
+------------------------------------------------
+[00000015][]
+However, depending on the time of day, the story may
+I can't proceed.
+Let's talk at a time that's convenient for you.
+------------------------------------------------
+[00000016][]
+The substory icons are the daily conversations of the villagers and
+A sub-story will occur that will deepen your interactions with your friends.
+------------------------------------------------
+[00000017][]
+The shop icon indicates the shop that the villager is in charge of.
+Displayed as an icon.
+Talk to it and the shop menu will open.
+------------------------------------------------
+[00000018][]
+About @lt1 bread workshop
+------------------------------------------------
+[00000019][]
+In the "bread workshop" at home,
+You can bake bread.
+------------------------------------------------
+[00000020][]
+Bread is an important food in Azer village.
+When a villager or friend requests bread,
+Let's bake it and deliver it to you.
+------------------------------------------------
+[00000021][]
+Also, if you eat bread in a quest battle,
+HP recovers, abilities increase, etc.
+You can advance the battle to your advantage.
+------------------------------------------------
+[00000022][]
+First, select the "Bake Bread" command,
+Let's bake bread with the ingredients we got!
+------------------------------------------------
+[00000023][]
+@lt1About how to bake bread
+------------------------------------------------
+[00000024][]
+Baking bread requires ingredients such as milk.
+Ingredients can be obtained through village production or quest rewards.
+------------------------------------------------
+[00000025][]
+Select the type and quantity of bread you want to bake.
+Bread baking begins.
+------------------------------------------------
+[00000026][]
+@lt1About the bread recipe
+------------------------------------------------
+[00000027][]
+By learning recipes,
+You will be able to bake new bread.
+Recipes can be obtained mainly from requests from Lian.
+------------------------------------------------
+[00000028][]
+Gather recipes and ingredients,
+Let's try baking different types of bread.
+------------------------------------------------
+[00000029][]
+@lt1About the animals
+------------------------------------------------
+[00000030][]
+From the animals of Azel Village
+You can harvest ingredients such as milk and eggs.
+------------------------------------------------
+[00000031][]
+Harvesting can be done up to once a day.
+Let's use it as an ingredient for baking bread.
+------------------------------------------------
+[00000032][]
+@lt1 About song points
+------------------------------------------------
+[00000033][]
+In various places in Azer village,
+There are song points where butterflies gather.
+------------------------------------------------
+[00000034][]
+Checking the song points
+You can have Panis sing.
+------------------------------------------------
+[00000035][]
+Panis songs include things like making plants and animals healthy.
+It has a mysterious effect.
+Let's have them sing in various places.
+------------------------------------------------
+[00000036][]
+About the conversation with @lt1 Panis
+------------------------------------------------
+[00000037][]
+In the conversation menu that opens with the □ button,
+You can talk to Panis and give presents.
+------------------------------------------------
+[00000038][]
+When you give bread to Panis,
+Your “mood” may change.
+------------------------------------------------
+[00000039][]
+Your mood affects your actions in battle.
+If you have bread, give it as a gift.
+------------------------------------------------
+[00000040][]
+@lt1 About search points
+------------------------------------------------
+[00000041][]
+where something is likely to happen
+Displayed as a search point.
+------------------------------------------------
+[00000042][]
+If you look into it, you can see Panis' various reactions,
+You may be able to obtain items.
+------------------------------------------------
+[00000043][]
+@lt1About M.O.E.S and likeability
+------------------------------------------------
+[00000044][]
+In a conversation with a character,
+What kind of response will Freed give?
+You may be presented with choices.
+------------------------------------------------
+[00000045][]
+At this time, depending on the selected content
+The other person's likability changes.
+------------------------------------------------
+[00000046][]
+Think about what kind of reaction the other person wants,
+It's best to choose your options.
+Running out of time is also an option.
+------------------------------------------------
+[00000047][]
+When the favorability rating increases to a certain level,
+Substories will now occur.
+------------------------------------------------
+[00000048][]
+By completing quests other than M.O.E.S.
+The liking of the participating battle members
+It is possible to raise it.
+------------------------------------------------
+[00000049][]
+What is your favorite character?
+It would be a good idea to actively try to increase your likability.
+------------------------------------------------
+[00000050][]
+@lt1 About stamp cards
+------------------------------------------------
+[00000051][]
+The stamp card you can get from Garzee is
+Collect 10 stamps
+You can exchange them for wonderful prizes.
+------------------------------------------------
+[00000052][]
+Stamps help villagers,
+By using the shop
+They will accumulate one by one.
+------------------------------------------------
+[00000053][]
+There are also three types of cards:
+The categories of prizes you can receive are different for each.
+Collect stamps and exchange them for prizes.
+------------------------------------------------
+[00000054][]
+@lt1 About Panis costume
+------------------------------------------------
+[00000055][]
+From the "Costume" menu at home,
+You can change Panis' costume.
+------------------------------------------------
+[00000056][]
+Costumes advance the story, etc.
+They will be added when the conditions are met.
+------------------------------------------------
+[00000057][]
+@lt1About EX chapter
+------------------------------------------------
+[00000058][]
+In chapter EX,
+The story unfolds after defeating the Doomsday Titan.
+------------------------------------------------
+[00000059][]
+This chapter introduces newly added elements as well as
+For quests that you have left unfinished
+You can try again.
+------------------------------------------------
+[00000060][]
+Additionally, new substories have been added.
+Let's deepen our interaction with our friends.
+------------------------------------------------
+[00000061][]
+@lt1Mode: About Seraphim
+------------------------------------------------
+[00000062][]
+By changing Viola's mode
+Mode: Seraphim can be used.
+------------------------------------------------
+[00000063][]
+Mode: Seraphim
+The weapons and characteristics used in battle will change.
+------------------------------------------------
+[00000064][]
+Change status accessory equipment
+Mode change When changing equipment,
+Mode: Switch to Seraphim.
+------------------------------------------------
+[00000065][]
+@lt1 About Lorna
+------------------------------------------------
+[00000066][]
+You can use "Rona" from Chapter 2.
+Lorna is a battle-only character.
+------------------------------------------------
+[00000067][]
+@lt1 About community quest
+------------------------------------------------
+[00000068][]
+Requests from villagers
+I will undertake this as a community quest.
+------------------------------------------------
+[00000069][]
+The contents of the request vary, and if you complete it, you will receive a reward.
+You can receive items and stamps.
+------------------------------------------------
+[00000070][]
+You can receive requests from villagers,
+If the goal can be achieved, a special icon will be displayed.
+------------------------------------------------
+[00000071][]
+@lt1About shortcut movement
+------------------------------------------------
+[00000072][]
+If you press the START button while in the village,
+A general map of Azel Village will be displayed.
+------------------------------------------------
+[00000073][]
+By selecting your destination from this screen,
+You can move to each region using shortcuts.
+------------------------------------------------
+[00000074][]
+About the @lt1 collection
+------------------------------------------------
+[00000075][]
+When certain conditions set in the game are met,
+You may be able to obtain a "Collection".
+------------------------------------------------
+[00000076][]
+A collection is a representation of your play performance.
+You can check what items you have achieved.
+------------------------------------------------
+[00000077][]
+Aiming to complete
+Let's play around with the various elements.
+------------------------------------------------
+

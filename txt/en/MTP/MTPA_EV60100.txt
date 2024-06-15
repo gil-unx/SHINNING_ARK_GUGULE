@@ -1,0 +1,34 @@
+[0007]
+*****************
+[00000000][シャノン,char_004 Shannon]
+……anyway!
+I'm relieved that Panis is getting better.
+------------------------------------------------
+[00000001][シャノン,char_004 Shannon]
+I just recovered from illness,
+Don't take her around too much, okay?
+------------------------------------------------
+[00000002][ハイラム,char_513]
+That I'll lose my memory,
+It must have been very difficult.
+------------------------------------------------
+[00000003][ハイラム,char_513]
+Freed, please help that child.
+In this village, everyone is family.
+------------------------------------------------
+[00000004][リアン,char_514]
+Panis-chan, until your memory returns and you know where to go home,
+Is it okay if I stay at home? There's no need to be shy.
+You're now part of my family.
+------------------------------------------------
+[00000005][リアン,char_514]
+Yes, Panis.
+Take this bread with you.
+I'm just recovering from an illness, so I need to build up my strength.
+------------------------------------------------
+[00000006][リアン,char_514]
+Bread is the best way to recover your physical strength!
+When you feel like you don't have any energy, it's full of nutrition.
+Eat bread that has great resilience. Good.
+------------------------------------------------
+

@@ -1,0 +1,14 @@
+[0004]
+*****************
+[00000000]
+CheckOpenTownInfoFlag
+--------------------------------
+[00000001]
+「Vegetable Garden」 is now available. \nVisit Adam at the edge of the village.
+--------------------------------
+[00000002]
+CheckOpenTownInfoFlag
+--------------------------------
+[00000003]
+main
+--------------------------------

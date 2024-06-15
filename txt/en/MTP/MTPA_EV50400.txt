@@ -1,0 +1,561 @@
+[0139]
+*****************
+[00000000][バッカス,char_527]
+Wow!
+Bell, Velvet!
+Uuuu... Hiccup...
+------------------------------------------------
+[00000001][フリード,char_001 Fried]
+picture? 
+------------------------------------------------
+[00000002][バッカス,char_527]
+Please, please come back!
+We were supposed to be friends, right?
+Let's try again, okay?
+------------------------------------------------
+[00000003][シャノン,char_004 Shannon]
+Yeah, you're saying that, but what are you going to do?
+------------------------------------------------
+[00000004][ベルベット,char_008 Velvet]
+I don't know anything about this.
+When I was teaming up with that useless person,
+There's nothing to gain.
+------------------------------------------------
+[00000005][バッカス,char_527]
+Damn it... Hey, Freed!
+Don't try to seduce my partner!
+Bell, please, please come back!
+------------------------------------------------
+[00000006][フリード,char_001 Fried]
+It's like a man crying after being dumped.
+------------------------------------------------
+[00000007][シャノン,char_004 Shannon]
+Isn't it just like that?
+------------------------------------------------
+[00000008][ベルベット,char_008 Velvet]
+It can't be helped.
+It's troublesome to be followed,
+Let's hand it over quickly.
+------------------------------------------------
+[00000009][バッカス,char_527]
+Guah!?
+Bell, why...?
+------------------------------------------------
+[00000010][ベルベット,char_008 Velvet]
+What's the point of "trying again", you useless person!
+The duo didn't break up because you were lazy.
+Please wake up!
+------------------------------------------------
+[00000011][バッカス,char_527]
+Oh, that's it...
+------------------------------------------------
+[00000012][フリード,char_001 Fried]
+I'm starting to feel sorry for Bacchus...
+------------------------------------------------
+[00000013][バッカス,char_527]
+Uuuuuuuuuuuuuuuuu...
+------------------------------------------------
+[00000014][ベルベット,char_008 Velvet]
+You've woken up a bit, haven't you?
+You can say in your sleep that the duo is back together.
+Come on, go home quickly.
+------------------------------------------------
+[00000015][バッカス,char_527]
+Oh, I understand...
+It was my fault...
+Uuuuuuu...
+------------------------------------------------
+[00000016][ジンガ,char_005 zynga]
+This is the first time I've experienced such a heart-wrenching battle...
+------------------------------------------------
+[00000017][フリード,char_001 Fried]
+Women are scary...
+------------------------------------------------
+[00000018][シャノン,char_004 Shannon]
+Freed, did you say something?
+------------------------------------------------
+[00000019][フリード,char_001 Fried]
+No, no, it's nothing.
+------------------------------------------------
+[00000020][ベルベット,char_008 Velvet]
+here? Is there a source of power in a place like this?
+------------------------------------------------
+[00000021][シャノン,char_004 Shannon]
+that's right.
+There are many other places where it grows naturally,
+This is where you can get the big ones.
+------------------------------------------------
+[00000022][ベルベット,char_008 Velvet]
+There are so many!?
+I've been looking for something like that...
+My hardships...
+------------------------------------------------
+[00000023][フリード,char_001 Fried]
+Before harvesting, first kill the monsters that are roaming around.
+I have to do something.
+------------------------------------------------
+[00000024][シャノン,char_004 Shannon]
+That's right. Let's clean it up quickly.
+Hey, Velvet-san, don't stay absent-minded.
+Please help me.
+------------------------------------------------
+[00000025][ベルベット,char_008 Velvet]
+Hmm...I don't quite agree with a lot of things, but...
+It seems certain that the source of power can be obtained here.
+------------------------------------------------
+[00000026][ベルベット,char_008 Velvet]
+I got it. After kicking away the monsters that get in your way,
+I'll give you the source of strength!
+------------------------------------------------
+[00000027][ベルベット,char_008 Velvet]
+I finally got it done!
+Now, where is the source of power?
+Please guide me to that place quickly!
+------------------------------------------------
+[00000028][シャノン,char_004 Shannon]
+Don't panic so much.
+I don't need any guidance.
+Because they grow everywhere.
+------------------------------------------------
+[00000029][ベルベット,char_008 Velvet]
+picture?What the hell are you talking about?
+------------------------------------------------
+[00000030][フリード,char_001 Fried]
+Oh, it's here too.
+Well then, let's start digging.
+------------------------------------------------
+[00000031][パニス,char_002 Panis]
+Panis is also great!
+------------------------------------------------
+[00000032][ベルベット,char_008 Velvet]
+What, what?
+Everyone digs out the ground... What do you mean?
+Is the source of power buried in such random places?
+------------------------------------------------
+[00000033][ジンガ,char_005 zynga]
+Oh, this is so big!
+Panis, be careful not to break it.
+Are you going to dig quietly?
+------------------------------------------------
+[00000034][パニス,char_002 Panis]
+Yeah!
+Good, good...good!
+Freed, I got it! Under the power!
+------------------------------------------------
+[00000035][フリード,char_001 Fried]
+It's true! Well then, let's take it back to the village.
+Professor Maia, I'm sure you'll be happy.
+------------------------------------------------
+[00000036][ベルベット,char_008 Velvet]
+Is that something like a yam the source of power?
+……What do you mean?
+------------------------------------------------
+[00000037][マイア,char_503]
+The flowers are in full bloom!
+If this is all you have, you can send it to Alise-chan.
+That's enough to thank you!
+------------------------------------------------
+[00000038][シャノン,char_004 Shannon]
+But...the monsters are in full bloom.
+------------------------------------------------
+[00000039][フリード,char_001 Fried]
+It's too dangerous for the teacher.
+Shall we go and pick some?
+------------------------------------------------
+[00000040][マイア,char_503]
+I feel happy but...
+However, I would like to express my gratitude to everyone.
+I want to pick it myself.
+------------------------------------------------
+[00000041][シャノン,char_004 Shannon]
+If that's the case,
+Shall we ask the monster to leave?
+------------------------------------------------
+[00000042][フリード,char_001 Fried]
+I agree.
+Let's go, sister!
+------------------------------------------------
+[00000043][フリード,char_001 Fried]
+Okay, the monster is gone.
+------------------------------------------------
+[00000044][シャノン,char_004 Shannon]
+Now you can pick flowers with peace of mind.
+Come on, Professor Maia. please.
+------------------------------------------------
+[00000045][フリード,char_001 Fried]
+We're keeping an eye on the monsters,
+Teacher, please pick slowly.
+------------------------------------------------
+[00000046][マイア,char_503]
+Hehehe, thank you.
+------------------------------------------------
+[00000047][レヴィン,char_009 Levin]
+That's unusual, boy!
+I never thought you guys would come out to intercept us with your ships!
+------------------------------------------------
+[00000048][レヴィン,char_009 Levin]
+From what I saw, it seems that the ship has been strengthened,
+You can't fight just by looking good, right?
+------------------------------------------------
+[00000049][ベルベット,char_008 Velvet]
+You'll know right away if it's just for looks.
+I don't know if he's a former admiral or not, but
+Don't underestimate my guidance!
+------------------------------------------------
+[00000050][レヴィン,char_009 Levin]
+what? Haha, what an interesting lineup!
+When did you change business?
+------------------------------------------------
+[00000051][ベルベット,char_008 Velvet]
+There's something wrong with this too.
+If you have time to talk,
+Why don't you call me quickly?
+------------------------------------------------
+[00000052][フリード,char_001 Fried]
+Zynga, is the ship ready?
+------------------------------------------------
+[00000053][ジンガ,char_005 zynga]
+It's perfect! You can go anytime!
+------------------------------------------------
+[00000054][レヴィン,char_009 Levin]
+I see……
+Their ship handling skills and coordination are not bad either.
+------------------------------------------------
+[00000055][レヴィン,char_009 Levin]
+Hahahahaha!
+This guy looks like he's going to have fun!
+Come on, boy, let's get wet!
+------------------------------------------------
+[00000056][フリード,char_001 Fried]
+Okay, I think I can win this!
+------------------------------------------------
+[00000057][ベルベット,char_008 Velvet]
+Don't let your guard down!
+They haven't played their trump card yet!
+------------------------------------------------
+[00000058][レヴィン,char_009 Levin]
+You're doing quite well, boy!
+But what about this one?
+------------------------------------------------
+[00000059][ジンガ,char_005 zynga]
+What!? What!? That big cannon!
+------------------------------------------------
+[00000060][ベルベット,char_008 Velvet]
+That's not good...
+Everyone, be careful of that main gun!
+If you take a direct hit, you won't be able to get away with it!
+------------------------------------------------
+[00000061][レヴィン,char_009 Levin]
+Fufu...fufufufu...
+------------------------------------------------
+[00000062][レヴィン,char_009 Levin]
+Hahahahaha!
+Ahhhhhhhhh!!
+------------------------------------------------
+[00000063][ベルベット,char_008 Velvet]
+Why, I laughed out loud like an idiot.
+Did you go crazy after losing?
+------------------------------------------------
+[00000064][レヴィン,char_009 Levin]
+That's a big deal, Bell!
+In such a short period of time, the amateurs of naval warfare
+I wish I could grow this far!
+------------------------------------------------
+[00000065][レヴィン,char_009 Levin]
+And boy!
+You all respond to Bell's guidance with all your might.
+It's important!
+------------------------------------------------
+[00000066][フリード,char_001 Fried]
+Is that so?
+I don't think it's that much...
+------------------------------------------------
+[00000067][ベルベット,char_008 Velvet]
+Aren't you happy to be praised by your enemies?
+Is your opponent a pirate?
+I don't know what you're thinking behind the scenes!
+------------------------------------------------
+[00000068][レヴィン,char_009 Levin]
+But, don't think you've won!
+I'll fix the ship and come back again.
+Don't forget that this island is mine!
+------------------------------------------------
+[00000069][レヴィン,char_009 Levin]
+See you guys! Let's meet again!
+------------------------------------------------
+[00000070][ベルベット,char_008 Velvet]
+Looks like the ruins are ahead.
+Is everyone following properly?
+------------------------------------------------
+[00000071][フリード,char_001 Fried]
+Panis, are you okay?
+Just tell me when you're tired, okay?
+------------------------------------------------
+[00000072][パニス,char_002 Panis]
+Panis is absolutely terrible.
+It's like a adventure and it's fun!
+------------------------------------------------
+[00000073][シャノン,char_004 Shannon]
+Hehehe.
+Panis feels like an excursion.
+------------------------------------------------
+[00000074][ジンガ,char_005 zynga]
+But from now on, I feel like I'm going on an excursion.
+I can't stay.
+------------------------------------------------
+[00000075][フリード,char_001 Fried]
+Monsters are blocking the way.
+It can't be helped, let's chase it away.
+------------------------------------------------
+[00000076][ベルベット,char_008 Velvet]
+It won't pass peacefully, will it?
+Fine, whatever you want!
+------------------------------------------------
+[00000077][ベルベット,char_008 Velvet]
+The problem is now gone.
+Let's move on!
+------------------------------------------------
+[00000078][キルマリア,char_007 Kilmaria]
+hang on!
+Wait, Velvet!
+------------------------------------------------
+[00000079][キルマリア,char_007 Kilmaria]
+It is dangerous to continue like this!
+I think we should be careful here.
+My Justice is whispering!
+------------------------------------------------
+[00000080][ベルベット,char_008 Velvet]
+what is that! On such a flimsy basis
+Don't get in my way!
+------------------------------------------------
+[00000081][キルマリア,char_007 Kilmaria]
+There is evidence!
+Don't you all feel it?
+------------------------------------------------
+[00000082][フリード,char_001 Fried]
+Come to think of it, it seems a little too cold...
+------------------------------------------------
+[00000083][アダム,char_006 a-dam]
+From the cold air flowing from the rocky mountains,
+It is estimated that the temperature ahead will be quite low.
+It is dangerous to proceed with your current equipment.
+------------------------------------------------
+[00000084][フリード,char_001 Fried]
+Kilmaria and Adam are right.
+Let's pull this up for now.
+Why don't you come back again after preparing your equipment?
+------------------------------------------------
+[00000085][ベルベット,char_008 Velvet]
+That’s it!
+How can I come this far and turn back?
+I'm not kidding!
+------------------------------------------------
+[00000086][シャノン,char_004 Shannon]
+However, even if you are told that the equipment can withstand the cold,
+What preparations should I make?
+------------------------------------------------
+[00000087][キルマリア,char_007 Kilmaria]
+Please do not worry about that.
+I have an idea!
+------------------------------------------------
+[00000088][キルマリア,char_007 Kilmaria]
+Everyone, please go home and
+Come to the village ruins after a while.
+Let's meet up there.
+------------------------------------------------
+[00000089][フリード,char_001 Fried]
+Understood. Mr. Velvet, is that okay?
+------------------------------------------------
+[00000090][ベルベット,char_008 Velvet]
+I……
+I understand now.
+------------------------------------------------
+[00000091][ベルベット,char_008 Velvet]
+I've finally reached this point.
+It was long...
+------------------------------------------------
+[00000092][フリード,char_001 Fried]
+Even though there's ice everywhere,
+I don't feel cold at all.
+Kilmaria-san is right.
+------------------------------------------------
+[00000093][キルマリア,char_007 Kilmaria]
+Fufufufu! how is it!
+This is the power of Justice!
+------------------------------------------------
+[00000094][ベルベット,char_008 Velvet]
+Justice doesn't care though.
+...Anyway, to a place like this
+There are monsters roaming around.
+------------------------------------------------
+[00000095][パニス,char_002 Panis]
+Monster, aren't you cold?
+------------------------------------------------
+[00000096][ベルベット,char_008 Velvet]
+Ah, it's so annoying!
+Don't disturb me any more!
+Get out of there quickly!
+------------------------------------------------
+[00000097][ベルベット,char_008 Velvet]
+It's over now, right?
+There's no more hindrance, right?
+------------------------------------------------
+[00000098][キルマリア,char_007 Kilmaria]
+this is……
+------------------------------------------------
+[00000099][フリード,char_001 Fried]
+Kilmaria-san, what's wrong?
+------------------------------------------------
+[00000100][キルマリア,char_007 Kilmaria]
+it's amazing……
+It could be amazing!
+------------------------------------------------
+[00000101][キルマリア,char_007 Kilmaria]
+After all, this ruin
+It seems like something important is hidden.
+There is no doubt that you think so!
+------------------------------------------------
+[00000102][アダム,char_006 a-dam]
+Multiple flying objects were confirmed around the enemy.
+It seems that the defense power is weaker than the main body.
+------------------------------------------------
+[00000103][フリード,char_001 Fried]
+Well then, if it's that guy floating around,
+Can it cause damage?
+------------------------------------------------
+[00000104][アダム,char_006 a-dam]
+It's just a guess, but it's probably true.
+------------------------------------------------
+[00000105][フリード,char_001 Fried]
+Okay! Everyone, that's what I heard.
+Let's aim for that floating guy!
+------------------------------------------------
+[00000106][シャノン,char_004 Shannon]
+But there are many!
+Do I have to destroy all of that!?
+------------------------------------------------
+[00000107][フリード,char_001 Fried]
+That... I don't know.
+I can't say for sure until I try it.
+------------------------------------------------
+[00000108][ベルベット,char_008 Velvet]
+I have to give it a try...that's irresponsible!
+------------------------------------------------
+[00000109][フリード,char_001 Fried]
+There's no other way.
+Velvet-san, please help me.
+Make sure to destroy them one by one!
+------------------------------------------------
+[00000110][ベルベット,char_008 Velvet]
+Don't give me instructions!
+...I understand now.
+Just do it, just do it!
+------------------------------------------------
+[00000111][シャノン,char_004 Shannon]
+I did it!
+------------------------------------------------
+[00000112][フリード,char_001 Fried]
+I defeated the first one!
+This will cause damage to the main body...
+------------------------------------------------
+[00000113][アダム,char_006 a-dam]
+No, not yet.
+Changes in the enemy body are only minor.
+It seems like the attack isn't enough.
+------------------------------------------------
+[00000114][フリード,char_001 Fried]
+Really……
+Everyone, don't lose heart!
+Let's aim for the next target!
+------------------------------------------------
+[00000115][アダム,char_006 a-dam]
+No mutations can be confirmed on the enemy body.
+------------------------------------------------
+[00000116][シャノン,char_004 Shannon]
+Not yet?
+After all, it seems like I have to destroy everything...
+------------------------------------------------
+[00000117][フリード,char_001 Fried]
+If you break them one by one, you'll be fine.
+Everyone, don't give up!
+------------------------------------------------
+[00000118][シャノン,char_004 Shannon]
+I broke something that looked like a feather!
+------------------------------------------------
+[00000119][アダム,char_006 a-dam]
+Although it seems that the special abilities he possesses have been suppressed,
+Mutations to the enemy body are still not recognized.
+------------------------------------------------
+[00000120][ジンガ,char_005 zynga]
+Looks like I'll have to destroy everything after all.
+Alright, let's go, everyone!
+------------------------------------------------
+[00000121][フリード,char_001 Fried]
+How about this……!?
+------------------------------------------------
+[00000122][アダム,char_006 a-dam]
+You can see changes in the enemy body!
+Defense ability is drastically reduced!
+You can attack!
+------------------------------------------------
+[00000123][フリード,char_001 Fried]
+I did it! Everyone, just one more breath!
+But, there's something wrong with it...?
+------------------------------------------------
+[00000124][シャノン,char_004 Shannon]
+what's this……?
+------------------------------------------------
+[00000125][アダム,char_006 a-dam]
+The enemy's energy response is increasing!
+Take care of yourself, please!
+------------------------------------------------
+[00000126][ジンガ,char_005 zynga]
+Damn it! Everyone, let's concentrate!
+------------------------------------------------
+[00000127][フリード,char_001 Fried]
+I did it...I did it!
+I defeated the monster!
+------------------------------------------------
+[00000128][シャノン,char_004 Shannon]
+Is it finally over?
+...It was long.
+------------------------------------------------
+[00000129][ベルベット,char_008 Velvet]
+Lie...I defeated it.
+We are such a big thing...
+unbelievable.
+------------------------------------------------
+[00000130][キルマリア,char_007 Kilmaria]
+A big victory for Justice!!
+------------------------------------------------
+[00000131][フリード,char_001 Fried]
+Beyond this is the place where the mural is located.
+------------------------------------------------
+[00000132][キルマリア,char_007 Kilmaria]
+I can't stay here even if I stay!
+Now, let's hurry!
+------------------------------------------------
+[00000133][フリード,char_001 Fried]
+Kilmaria, calm down!
+Before that, we have to do something about the monsters!
+------------------------------------------------
+[00000134][キルマリア,char_007 Kilmaria]
+In front of a monster of this level, Justice.
+It won't cause any obstacles!
+Let's clean it up quickly!
+------------------------------------------------
+[00000135][フリード,char_001 Fried]
+Okay, is that all?
+------------------------------------------------
+[00000136][キルマリア,char_007 Kilmaria]
+Now let's check out the mural!
+The discovery of the century is now at this moment!
+------------------------------------------------
+[00000137][フリード,char_001 Fried]
+Killmaria-san, it's dangerous!
+I have to make sure it's safe!
+------------------------------------------------
+[00000138][シャノン,char_004 Shannon]
+...I don't think you can hear me.
+------------------------------------------------
+

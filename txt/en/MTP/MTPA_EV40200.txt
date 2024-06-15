@@ -1,0 +1,272 @@
+[0067]
+*****************
+[00000000][]
+@lt1 About Diana's Yorozuya
+------------------------------------------------
+[00000001][]
+At Diana's Yorozuya
+We sell various items and accessories.
+You can "purchase" products and "sell" your belongings.
+------------------------------------------------
+[00000002][]
+In addition, “bargains” are available for a limited time only.
+Rare items may be on sale.
+------------------------------------------------
+[00000003][]
+If there is a product you want
+It would be a good idea to buy it while you can.
+------------------------------------------------
+[00000004][]
+@lt1About Alise's Bar
+------------------------------------------------
+[00000005][]
+At Alise's bar
+Requests are being collected from villagers.
+------------------------------------------------
+[00000006][]
+These are called "free quests".
+You can place an order as many times as you like.
+------------------------------------------------
+[00000007][]
+An order fee is required when accepting a quest,
+You can collect it as reward money by clearing it.
+------------------------------------------------
+[00000008][]
+If you cancel the quest midway through,
+Please note that your money will not be returned.
+------------------------------------------------
+[00000009][]
+Each free quest has a reward set,
+You can receive it every time you clear a request.
+*Some valuable items can only be received once.
+------------------------------------------------
+[00000010][]
+Also, the free quest level is
+Because it is constant regardless of the progress of the game,
+It can also be used to train members whose growth is delayed.
+------------------------------------------------
+[00000011][]
+About @lt1Shannon's Bakery
+------------------------------------------------
+[00000012][]
+At a bakery on the outskirts of the village,
+Shannon works as a store clerk and sells bread.
+------------------------------------------------
+[00000013][]
+The types of bread sold are
+To match the bread that Freed has baked.
+It will increase.
+------------------------------------------------
+[00000014][]
+@lt1 About Dalton's blacksmith shop
+------------------------------------------------
+[00000015][]
+At Dalton's blacksmith shop, each character is equipped with
+You can produce and upgrade weapons.
+------------------------------------------------
+[00000016][]
+to train weapons
+You will need some materials and a request fee.
+------------------------------------------------
+[00000017][]
+The type of weapon changes according to the progress of the main story.
+More will be added.
+------------------------------------------------
+[00000018][]
+@lt1About weapon production
+------------------------------------------------
+[00000019][]
+In weapons production,
+Produce new weapons for each character.
+Each character can have up to 20 weapons.
+------------------------------------------------
+[00000020][]
+The produced weapon is level 1.
+Strengthen your weapons and raise your weapon level.
+------------------------------------------------
+[00000021][]
+@lt1 About weapon enhancement
+------------------------------------------------
+[00000022][]
+In weapon reinforcement,
+Strengthen the weapons owned by each character.
+------------------------------------------------
+[00000023][]
+When you strengthen a weapon, the weapon level increases,
+Weapon parameters will be increased.
+Weapon level can be increased up to 5.
+------------------------------------------------
+[00000024][]
+Also, by further strengthening level 5 weapons,
+It may change into a new weapon.
+------------------------------------------------
+[00000025][]
+Repeatedly strengthening weapons
+Let's strengthen your character.
+------------------------------------------------
+[00000026][]
+@lt1 About cannon reinforcement
+------------------------------------------------
+[00000027][]
+With cannon reinforcement,
+Armor, power, accuracy, cooling, etc.
+You can power up the ability of the cannon.
+------------------------------------------------
+[00000028][]
+To strengthen the cannon
+Request money and magic crystals are required.
+------------------------------------------------
+[00000029][]
+Magic crystals are valuable items
+It is difficult to obtain.
+Carefully decide which abilities to strengthen.
+------------------------------------------------
+[00000030][]
+@lt1About my home
+------------------------------------------------
+[00000031][]
+At home, I take a break and let time go by,
+You can also bake bread at the bread workshop.
+------------------------------------------------
+[00000032][]
+Story quests at different time zones
+If you can't take it, try resting at home.
+------------------------------------------------
+[00000033][]
+About @lt1 gallery
+------------------------------------------------
+[00000034][]
+In the gallery,
+Check out collections and tutorials.
+------------------------------------------------
+[00000035][]
+"Collection" provides a list of collections and
+You can view tips on acquisition conditions, etc.
+------------------------------------------------
+[00000036][]
+In "Tutorial"
+Displays items you have seen before.
+------------------------------------------------
+[00000037][]
+@lt1About additional elements in the gallery
+------------------------------------------------
+[00000038][]
+As a bonus element after clearing,
+Three items have been added to the gallery.
+------------------------------------------------
+[00000039][]
+In "Character"
+Character profiles, facial expressions, voices, etc.
+You can check the model viewer.
+------------------------------------------------
+[00000040][]
+In "Music"
+You can enjoy the BGM used in the main game.
+------------------------------------------------
+[00000041][]
+In "Graphic"
+You can watch event CGs that you have seen before.
+------------------------------------------------
+[00000042][]
+These items are part of the collection
+By acquiring them, locks will be released,
+You will be able to choose.
+------------------------------------------------
+[00000043][]
+Aiming to open all items,
+Let's try to acquire the collection.
+------------------------------------------------
+[00000044][]
+@lt1About Adam's vegetable garden
+------------------------------------------------
+[00000045][]
+When you give the ``seed'' to Adam on the outskirts of the village,
+You can request cultivation of crops.
+------------------------------------------------
+[00000046][]
+There are several types of seeds,
+The crops you harvest will change depending on what you give.
+Crops can be harvested the day after they are sown.
+------------------------------------------------
+[00000047][]
+Seeds can be obtained at various shops.
+Let's plant various seeds.
+------------------------------------------------
+[00000048][]
+@lt1About fishing
+------------------------------------------------
+[00000049][]
+When you check the fishing points on the pier,
+You can go fishing.
+------------------------------------------------
+[00000050][]
+To fish, you need bait.
+Homemade "Zinga Lure"
+It will never go away no matter how many times you use it.
+------------------------------------------------
+[00000051][]
+If you want to catch various types of fish
+Let's use "seeds" as bait.
+The fish you can catch will change depending on the species you use.
+------------------------------------------------
+[00000052][]
+To catch a fish, drop a fishing line,
+Wait until the fish hits.
+------------------------------------------------
+[00000053][]
+When it hits, press the ○ button
+Please catch a fish.
+------------------------------------------------
+[00000054][]
+@lt1 About Lana's trade
+------------------------------------------------
+[00000055][]
+Lana is a continent across the ocean.
+A trader who travels between Arcadia Island.
+------------------------------------------------
+[00000056][]
+By giving her the item,
+You can obtain trade goods from the continent.
+------------------------------------------------
+[00000057][]
+Depending on the value of the item presented here
+The trade goods you purchase will change.
+Let's trade for rare items.
+------------------------------------------------
+[00000058][]
+@lt1 About the great success of bread baking
+------------------------------------------------
+[00000059][]
+In bread baking, it is rarely possible to achieve a high degree of perfection.
+"Great Success Bread" may be baked.
+------------------------------------------------
+[00000060][]
+If it's a great success,
+In addition to regular bread, you can get great success bread.
+------------------------------------------------
+[00000061][]
+Great success bread is highly effective in battle.
+You can greatly strengthen your character.
+Let's use it when the time comes.
+------------------------------------------------
+[00000062][]
+@lt1About Zynga fishing
+------------------------------------------------
+[00000063][]
+If you talk to Jinga on the day he went fishing,
+You can share the fish you catch.
+------------------------------------------------
+[00000064][]
+I only go fishing once every two to three days.
+When you receive fish from Zynga,
+A community icon will be displayed.
+------------------------------------------------
+[00000065][]
+@lt1 Song Point: About the ruins of memory
+------------------------------------------------
+[00000066][]
+to the ruins of memory
+Song points now appear.
+Something might happen if you sing.
+------------------------------------------------
+

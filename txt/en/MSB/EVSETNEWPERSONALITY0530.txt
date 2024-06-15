@@ -1,0 +1,32 @@
+[0010]
+*****************
+[00000000]
+CheckPersonalityInfoFlag
+--------------------------------
+[00000001]
+
+--------------------------------
+[00000002]
+Added\n@fcFFFF00FFFFF 「%s」@fci to the %s personalities.
+--------------------------------
+[00000003]
+Added \n@fcFFFFFF99D1 「%s」@fci to the %s personalities.
+--------------------------------
+[00000004]
+Personality\n@fcFFFFFF99D1「%s」@fci is now @fcFFFFFF99D1「%s」@fci
+--------------------------------
+[00000005]
+The %s personality\n@fcFFFFFF99D1「%s」@fci is now @fcFFFF00FFFFFFF「%s」@fci.
+--------------------------------
+[00000006]
+The %s personality\n@fcFF00FFFFFFF 「%s」@fci is now @fcFFFFFF99D1 「%s」@fci.
+--------------------------------
+[00000007]
+%s's personality\n@fcFF00FFFFFFF「%s」@fci became @fcFF00FFFFFFF「%s」@fci.
+--------------------------------
+[00000008]
+CheckPersonalityInfoFlag
+--------------------------------
+[00000009]
+main
+--------------------------------

@@ -1,0 +1,1037 @@
+[0244]
+*****************
+[00000000][パニス,char_002 Panis]
+I'm grateful to have met you.
+------------------------------------------------
+[00000001][パニス,char_002 Panis]
+I have no regrets.
+------------------------------------------------
+[00000002][パニス,char_002 Panis]
+Honestly, I don't really know.
+------------------------------------------------
+[00000003][パニス,char_002 Panis]
+Hey, Freed...please answer honestly.
+Do you regret meeting me?
+------------------------------------------------
+[00000004][パニス,char_002 Panis]
+……thank you.
+I'm also grateful to have met you.
+------------------------------------------------
+[00000005][パニス,char_002 Panis]
+Yes...thank you.
+You're so kind, Freed.
+------------------------------------------------
+[00000006][パニス,char_002 Panis]
+Yes...that's right.
+Sorry to hear that.
+------------------------------------------------
+[00000007][パニス,char_002 Panis]
+...That's right.
+That's not an easy question to answer.
+sorry. 
+------------------------------------------------
+[00000008][パニス,char_002 Panis]
+Freed, I'm really sorry...
+I caused trouble to everyone in the village...
+------------------------------------------------
+[00000009][パニス,char_002 Panis]
+Also for Adam and Zynga,
+Of course to everyone in the village,
+I want you to apologize from my mouth...
+------------------------------------------------
+[00000010][パニス,char_002 Panis]
+On top of that, I will explain my circumstances again,
+I want to talk about my feelings...
+It would be nice if you could understand...
+------------------------------------------------
+[00000011][パニス,char_002 Panis]
+Adam understood...
+I was really happy...
+------------------------------------------------
+[00000012][パニス,char_002 Panis]
+Next is Zinga...
+And to everyone in the village...
+I would like to explain the situation properly from my own mouth.
+------------------------------------------------
+[00000013][パニス,char_002 Panis]
+Everyone lends me their strength...
+I'm really... really happy...
+------------------------------------------------
+[00000014][パニス,char_002 Panis]
+Freed...Thank you...
+It's all thanks to you...
+------------------------------------------------
+[00000015][パニス,char_002 Panis]
+Mana filling is complete.
+In order to restart the ship, work is required inside the ship.
+It's already late today, so let's start tomorrow.
+------------------------------------------------
+[00000016][パニス,char_002 Panis]
+...It's finally here, Freed.
+I'm really glad I met you.
+------------------------------------------------
+[00000017][シャノン,char_004 Shannon]
+We are all part of the Panis family.
+------------------------------------------------
+[00000018][シャノン,char_004 Shannon]
+...If it's okay.
+------------------------------------------------
+[00000019][シャノン,char_004 Shannon]
+I don't want to break up with Panis...
+------------------------------------------------
+[00000020][シャノン,char_004 Shannon]
+Finally, let's go to the world where Panis was born.
+Panis' family is over there, right?
+It means a family connected by blood.
+------------------------------------------------
+[00000021][シャノン,char_004 Shannon]
+...Yeah, that's right.
+Freed is right.
+------------------------------------------------
+[00000022][シャノン,char_004 Shannon]
+Even if they are not related by blood,
+Panis and I are family too.
+It won't change.
+------------------------------------------------
+[00000023][シャノン,char_004 Shannon]
+...That's right.
+When I put myself in Panis' shoes, I can't bear it.
+------------------------------------------------
+[00000024][シャノン,char_004 Shannon]
+Freed! That's too selfish!
+Even Panis would be better off living with his real family.
+I'm sure it's good...!
+------------------------------------------------
+[00000025][シャノン,char_004 Shannon]
+...If I say that I don't think like that,
+It would be a lie though...
+------------------------------------------------
+[00000026][シャノン,char_004 Shannon]
+Freed...
+No...it's fine. It's nothing.
+never mind……
+------------------------------------------------
+[00000027][シャノン,char_004 Shannon]
+Panis is so much
+She must have felt so sad...
+I didn't understand at all...
+------------------------------------------------
+[00000028][シャノン,char_004 Shannon]
+We have to help that child!
+------------------------------------------------
+[00000029][シャノン,char_004 Shannon]
+You said, "Let me think about it"...
+I wonder if Viola understands...?
+------------------------------------------------
+[00000030][シャノン,char_004 Shannon]
+But being able to face each other and talk like this,
+After all, it's necessary for the village.
+------------------------------------------------
+[00000031][シャノン,char_004 Shannon]
+Hey Freed, would you like to go to the cove?
+Let's have a proper talk with Zynga.
+------------------------------------------------
+[00000032][シャノン,char_004 Shannon]
+I wondered what would happen for a while, but
+I'm glad that everyone in the village understood.
+It's really important to convey it through words...
+------------------------------------------------
+[00000033][シャノン,char_004 Shannon]
+If you've come this far, you'll definitely have to defeat the Titan of the End,
+Let's save the world of Panis and this world!
+Freed, let's do our best!
+------------------------------------------------
+[00000034][ジンガ,char_005 zynga]
+You'll understand when you go.
+------------------------------------------------
+[00000035][ジンガ,char_005 zynga]
+It's the world of Panis, so it must be a good place.
+------------------------------------------------
+[00000036][ジンガ,char_005 zynga]
+It could be a very dangerous place...
+------------------------------------------------
+[00000037][ジンガ,char_005 zynga]
+Far from the open sea or the continent,
+I never expected it to go outside the world...
+Freed, what kind of world do you think is out there?
+------------------------------------------------
+[00000038][ジンガ,char_005 zynga]
+Hahaha! That's right!
+There's no use worrying about everything here.
+Okay, let's have some fun and see the other world!
+------------------------------------------------
+[00000039][ジンガ,char_005 zynga]
+Well, maybe so.
+But you really panis
+I trust you...
+------------------------------------------------
+[00000040][ジンガ,char_005 zynga]
+Hey, are you scared now?
+You must be well aware of the risks.
+Freed, this isn't like you.
+------------------------------------------------
+[00000041][ジンガ,char_005 zynga]
+...Ah, I certainly can't even imagine it.
+Me too. I have no idea.
+I really have no choice but to go and see it.
+------------------------------------------------
+[00000042][ジンガ,char_005 zynga]
+No matter how many times I come, my opinion will never change.
+Sorry, please come back...
+------------------------------------------------
+[00000043][ジンガ,char_005 zynga]
+If Panis is saved, the village will also be saved.
+Panis is also a member of the village, so let's save them all together.
+Hehehe, that's just like you, Freed.
+------------------------------------------------
+[00000044][ジンガ,char_005 zynga]
+you are always right
+That's why I will fight against the titan of the end with all my might!
+------------------------------------------------
+[00000045][ジンガ,char_005 zynga]
+A giant of the end...
+I'm sure he's an incredible guy...
+------------------------------------------------
+[00000046][ジンガ,char_005 zynga]
+However, if Freed and everyone in this village were there,
+I feel like he's pretty good somehow.
+It's strange.
+------------------------------------------------
+[00000047][アダム,char_006 a-dam]
+Of course there is!
+------------------------------------------------
+[00000048][アダム,char_006 a-dam]
+Anyway, let's try it.
+------------------------------------------------
+[00000049][アダム,char_006 a-dam]
+Hmm, what do you think?
+------------------------------------------------
+[00000050][アダム,char_006 a-dam]
+Velvet's hypothesis,
+Based on information from Kilmaria and Viola
+I made a lot of guesses, but...
+------------------------------------------------
+[00000051][アダム,char_006 a-dam]
+From now on, I, the machine,
+I'm starting to wonder if I can help you.
+Do I have "feelings" or "heart"?
+------------------------------------------------
+[00000052][アダム,char_006 a-dam]
+thank you. It seems that the unstable program has become normal.
+Now you can move towards your goal!
+------------------------------------------------
+[00000053][アダム,char_006 a-dam]
+I agree. It seems that the program has become unstable.
+I'll cut through my doubts and do my best.
+------------------------------------------------
+[00000054][アダム,char_006 a-dam]
+Even Mr. Freed doesn't understand...
+very sorry.
+It seems that the program is a little unstable.
+------------------------------------------------
+[00000055][アダム,char_006 a-dam]
+I'm sorry to hear that you have a hard time answering.
+Give the program some time to stabilize.
+------------------------------------------------
+[00000056][アダム,char_006 a-dam]
+Searching for enemy species.
+Tactical protocol SD103 applied.
+As soon as the elimination target is found, it will attack without warning.
+------------------------------------------------
+[00000057][アダム,char_006 a-dam]
+My actions are controlled by the anti-otherworlder program,
+We apologize for the inconvenience.
+I am sorry.
+------------------------------------------------
+[00000058][アダム,char_006 a-dam]
+But things will be different from now on.
+I threw away the old program,
+He follows his "heart".
+------------------------------------------------
+[00000059][アダム,char_006 a-dam]
+The solution is to eliminate the Doomsday Titan,
+It far exceeds my logical calculations.
+------------------------------------------------
+[00000060][アダム,char_006 a-dam]
+All the humans... especially Mr. Freed.
+I am amazed at his flexible thinking and responsiveness.
+I also want to be like that.
+------------------------------------------------
+[00000061][アダム,char_006 a-dam]
+Thanks to Mr. Panis, I
+Learn about joy, sadness, and the heart of caring for others.
+He was able to choose his own path in life.
+------------------------------------------------
+[00000062][アダム,char_006 a-dam]
+By saving Mr. Panis' world,
+I would like to return this favor.
+------------------------------------------------
+[00000063][キルマリア,char_007 Kilmaria]
+That's not true!
+------------------------------------------------
+[00000064][キルマリア,char_007 Kilmaria]
+never mind.
+------------------------------------------------
+[00000065][キルマリア,char_007 Kilmaria]
+I wonder what about?
+------------------------------------------------
+[00000066][キルマリア,char_007 Kilmaria]
+...In the end, without Viola's advice,
+I didn't know how to express my "feelings".
+------------------------------------------------
+[00000067][キルマリア,char_007 Kilmaria]
+I still don't have enough training...
+------------------------------------------------
+[00000068][キルマリア,char_007 Kilmaria]
+……thank you.
+I'm glad you're feeling good, but
+The truth is that I didn't understand.
+------------------------------------------------
+[00000069][キルマリア,char_007 Kilmaria]
+So, at least, I would like to take this opportunity to hear from Viola-san.
+I'm looking forward to learning a lot!
+I will change my mind and do my best!
+------------------------------------------------
+[00000070][キルマリア,char_007 Kilmaria]
+That doesn't work.
+Still, I only have a theory.
+It turns out that practice hasn't caught up.
+------------------------------------------------
+[00000071][キルマリア,char_007 Kilmaria]
+I will accept this humbly and do my best!
+------------------------------------------------
+[00000072][キルマリア,char_007 Kilmaria]
+Mr. Freed doesn't understand...
+sorry. 
+------------------------------------------------
+[00000073][キルマリア,char_007 Kilmaria]
+This story is for Mr. Freed.
+It didn't matter.
+I'm sorry……
+------------------------------------------------
+[00000074][キルマリア,char_007 Kilmaria]
+Panis' friends...
+And Mr. Panis himself...
+It must have been a very difficult experience...
+------------------------------------------------
+[00000075][キルマリア,char_007 Kilmaria]
+I didn't know anything about it until now...
+------------------------------------------------
+[00000076][キルマリア,char_007 Kilmaria]
+Viola said she would kill Panis.
+Thank you for showing some understanding...
+This is exactly what Justice is!
+------------------------------------------------
+[00000077][キルマリア,char_007 Kilmaria]
+Behind the angel legend passed down on the island,
+I never thought that such a fact would come to light...
+My hard work and continued research was worth it!
+------------------------------------------------
+[00000078][キルマリア,char_007 Kilmaria]
+This time, people suffering in another world,
+And in order to save Mr. Panis,
+I'll do my best!
+------------------------------------------------
+[00000079][キルマリア,char_007 Kilmaria]
+To the giant of the end,
+I'm sure Justice will work!
+Because that's what Justice is!
+------------------------------------------------
+[00000080][ベルベット,char_008 Velvet]
+I kind of understand that feeling too.
+------------------------------------------------
+[00000081][ベルベット,char_008 Velvet]
+Velvet is positive.
+------------------------------------------------
+[00000082][ベルベット,char_008 Velvet]
+That's a lot of leeway...
+------------------------------------------------
+[00000083][ベルベット,char_008 Velvet]
+I feel bad for Panis if I say this, but
+It's getting kind of interesting, isn't it?
+It's exciting to go somewhere you don't know!
+------------------------------------------------
+[00000084][ベルベット,char_008 Velvet]
+Right?It's better to go without thinking too hard,
+It turns out to be something that goes well.
+------------------------------------------------
+[00000085][ベルベット,char_008 Velvet]
+Let's do our best and feel excited!
+------------------------------------------------
+[00000086][ベルベット,char_008 Velvet]
+Even if I look backwards or feel anxious,
+It won't do anything, right?
+------------------------------------------------
+[00000087][ベルベット,char_008 Velvet]
+Let's move forward together,
+Let's do our best!
+------------------------------------------------
+[00000088][ベルベット,char_008 Velvet]
+bad?
+I was depressed at this level,
+There's nothing to solve it, right?
+------------------------------------------------
+[00000089][ベルベット,char_008 Velvet]
+...Why, it's okay to just reply.
+It makes me feel excited. That's enough.
+------------------------------------------------
+[00000090][ベルベット,char_008 Velvet]
+Panis who became an adult,
+Surprisingly, he has a lot of guts...
+I don't hate that kind of girl, do you?
+------------------------------------------------
+[00000091][ベルベット,char_008 Velvet]
+After Adam is Viola, then Zynga...
+Even though they're all nice adults,
+If I can take care of you, I won't be able to do it!
+------------------------------------------------
+[00000092][ベルベット,char_008 Velvet]
+The story is getting too big,
+I don't really feel it at all.
+------------------------------------------------
+[00000093][ベルベット,char_008 Velvet]
+But hey, that's all for you guys.
+We've been dating.
+I'll save the other world too!
+------------------------------------------------
+[00000094][ベルベット,char_008 Velvet]
+The sight of everyone in the village working together as one,
+It looks very reliable.
+------------------------------------------------
+[00000095][ベルベット,char_008 Velvet]
+Although it's a little different from the "power" I'm looking for,
+Maybe something like this
+Maybe it's real "power"...
+------------------------------------------------
+[00000096][ガルゼー,char_501]
+For Panis-chan,
+Apparently she goes around talking to each and every villager...
+------------------------------------------------
+[00000097][ガルゼー,char_501]
+I can't say whether that's right or wrong.
+But let me just say this. I'm rooting for you...
+------------------------------------------------
+[00000098][ガルゼー,char_501]
+I believed in Panis-chan from the beginning.
+However, the position of village chief,
+She didn't allow it to happen openly.
+------------------------------------------------
+[00000099][ガルゼー,char_501]
+These past few days have been painful...
+No, it was Panis-chan who really suffered.
+When I think about that, my suffering is nothing.
+------------------------------------------------
+[00000100][ガルゼー,char_501]
+However, Panis-chan did not run away.
+She explained it to us in her own words.
+Now it's my turn to respond.
+------------------------------------------------
+[00000101][ガルゼー,char_501]
+As the village chief, I will protect everyone in the village.
+You don't have to worry too much,
+Just think about the Doomsday Titan.
+------------------------------------------------
+[00000102][ガルゼー,char_501]
+I asked for Panis-chan and her world!
+------------------------------------------------
+[00000103][ジム,char_502]
+Nice to meet you, Jim!
+------------------------------------------------
+[00000104][ジム,char_502]
+Let's do our best together!
+------------------------------------------------
+[00000105][ジム,char_502]
+Thanks, Jim!
+------------------------------------------------
+[00000106][ジム,char_502]
+There are many things I don't like about you,
+I have no choice but for the sake of the village!
+I agree with your opinion, and I'll lend you a hand!
+------------------------------------------------
+[00000107][ジム,char_502]
+Hmm! I'll do my best this time!
+------------------------------------------------
+[00000108][ジム,char_502]
+Only this time! Because it's just this time!
+------------------------------------------------
+[00000109][ジム,char_502]
+You idiot! Sorry for the misunderstanding!
+It's not for you!
+There's no reason to say thank you!
+------------------------------------------------
+[00000110][ジム,char_502]
+What are you talking about?
+You should work too!
+------------------------------------------------
+[00000111][ジム,char_502]
+Don't get me wrong!?
+I still didn't trust Panis.
+Because I didn't know!
+------------------------------------------------
+[00000112][ジム,char_502]
+just……
+I need to hear from Panis himself.
+She just can't accept it...
+------------------------------------------------
+[00000113][ジム,char_502]
+Well, it's not like I've forgiven Panis!
+Well, it's true that he destroyed the village...
+------------------------------------------------
+[00000114][ジム,char_502]
+But, it's true that he saved the village...
+Oh, I'm going to hurt Panis,
+I've said a lot...
+------------------------------------------------
+[00000115][ジム,char_502]
+Wow! Panis~! Sorry!
+I don't mean any harm! Please forgive me!
+------------------------------------------------
+[00000116][ジム,char_502]
+As a result, we
+I'm going to save this world...
+Does that mean we are heroes?
+------------------------------------------------
+[00000117][ジム,char_502]
+Hahaha! Wow!
+Everyone, thank us,
+I'm so excited!
+------------------------------------------------
+[00000118][マイア,char_503]
+As a homeroom teacher, I have expressed Panis-chan's painful feelings.
+I regret not being able to understand her...
+------------------------------------------------
+[00000119][マイア,char_503]
+I managed to unite the hearts of the villagers once again,
+I wonder if I can help Panis-chan...?
+------------------------------------------------
+[00000120][マイア,char_503]
+A village is coming together around you...
+Freed-kun, you did your best...
+------------------------------------------------
+[00000121][マイア,char_503]
+If this village unites, we will be invincible!
+Come on, let's help Panis-chan!
+------------------------------------------------
+[00000122][マイア,char_503]
+I cannot tolerate a world where children cannot live in peace!
+It's the same thing in Panis-chan's world!
+I will also do my best for the future of my children!
+------------------------------------------------
+[00000123][アリーゼ,char_504]
+I want to help Panis-chan, but...
+As for the fact that he is not there...
+There's nothing I can do about it...
+------------------------------------------------
+[00000124][アリーゼ,char_504]
+Panis-chan is finally back!
+I understand the situation.
+From now on, I have to lend a hand with all my might!
+------------------------------------------------
+[00000125][アリーゼ,char_504]
+Let's all save Panis-chan's hometown!
+Show your feelings to the giant of the end!
+I'll do my best!
+------------------------------------------------
+[00000126][ダイアナ,char_505]
+Panis is not next to you...
+It's even unnatural now...
+That's strange...
+------------------------------------------------
+[00000127][ダイアナ,char_505]
+Although I'm not next to Freed...
+After all, I feel calm when Panis is in this village...
+Fufufufufu……
+------------------------------------------------
+[00000128][ダイアナ,char_505]
+I'm leaving soon...
+I wonder what kind of wonderful items there are in this other world...
+Fufufufufufufufufufu…
+------------------------------------------------
+[00000129][ドルトン,char_506]
+I really don't think Panis is thinking anything bad,
+The fact that he hid her figure means that
+I guess she has something to feel guilty about...
+------------------------------------------------
+[00000130][ドルトン,char_506]
+I don't know what's going on anymore...
+------------------------------------------------
+[00000131][ドルトン,char_506]
+Even in a different world, things seem to be difficult.
+Let's use everyone's power to help.
+Hey, if I have my weapon, I can do anything!
+------------------------------------------------
+[00000132][ドルトン,char_506]
+No matter what enemy appears, never flinch!
+You have a weapon made by me!
+There's no way I could lose with my weapon!
+------------------------------------------------
+[00000133][ロラン,char_507]
+I need Roland's cooperation for that.
+------------------------------------------------
+[00000134][ロラン,char_507]
+Oh, leave it to me!
+------------------------------------------------
+[00000135][ロラン,char_507]
+I'll try as much as I can.
+------------------------------------------------
+[00000136][ロラン,char_507]
+Freed!
+Please help Panis!
+------------------------------------------------
+[00000137][ロラン,char_507]
+do! We'll cooperate, so let's help Panis together!
+------------------------------------------------
+[00000138][ロラン,char_507]
+Hehehe, I see.
+I guess I can help Panis too.
+------------------------------------------------
+[00000139][ロラン,char_507]
+If Freed says so,
+I feel safe now!
+------------------------------------------------
+[00000140][ロラン,char_507]
+How dare you be so weak!
+I won't give up, no matter what!
+------------------------------------------------
+[00000141][ロラン,char_507]
+What happened...
+When Freed goes silent...
+I'm getting worried...
+------------------------------------------------
+[00000142][ロラン,char_507]
+Panis is currently in the ruins...?
+I'm worried about whether you're eating properly...
+Panis looks like a big eater...
+------------------------------------------------
+[00000143][ロラン,char_507]
+Hey, Freed!
+Teach me how to bake bread!
+I want to make bread for Panis!
+------------------------------------------------
+[00000144][ロラン,char_507]
+I'll protect Panis! I've already decided!
+------------------------------------------------
+[00000145][ロラン,char_507]
+So please teach me that amazing technique!
+See, Freed always does this.
+That guy that makes you laugh!
+------------------------------------------------
+[00000146][ロラン,char_507]
+How long will it be on the boat to reach the world of Panis?
+If you don't bring snacks, you'll get hungry, right?
+I have to make sure I don't forget anything...
+------------------------------------------------
+[00000147][カール,char_508]
+Panis, you're back, right?
+Why didn't you tell me!?
+------------------------------------------------
+[00000148][カール,char_508]
+It's so cunning to keep it that way!
+I want to meet you too!
+------------------------------------------------
+[00000149][カール,char_508]
+I haven't played with Panis yet...
+I'm glad you're back, but I feel lonely...
+------------------------------------------------
+[00000150][カール,char_508]
+...But I can stand it!
+------------------------------------------------
+[00000151][カール,char_508]
+I helped you a lot!
+I worked hard for Panis!
+------------------------------------------------
+[00000152][メリー,char_509]
+Panis looked like an older sister.
+The way he spoke was different than usual.
+However, his face was the same when he laughed!
+------------------------------------------------
+[00000153][メリー,char_509]
+Panis said, “Thank you for the flowers!”
+I, so that the world of Panis can be saved,
+I'll do my best to help you!
+------------------------------------------------
+[00000154][メリー,char_509]
+I'll do anything for Panis!
+After all, Panis is a great friend!
+------------------------------------------------
+[00000155][ハンス,char_510]
+I can't forgive you if you're trying to do something with the village, but...
+I don't think Panis would do anything wrong for no reason.
+First of all, don't listen to me properly...
+------------------------------------------------
+[00000156][ハンス,char_510]
+I'm so glad Panis is back!
+You did a great job, Freed!
+------------------------------------------------
+[00000157][ハンス,char_510]
+Thanks to you, the village became one!
+Let's all go one step further!
+------------------------------------------------
+[00000158][ハンス,char_510]
+If we do something about the Titan of the End,
+There won't be any monsters appearing in the village anymore, right?
+------------------------------------------------
+[00000159][ハンス,char_510]
+If Panis can be saved then,
+How old are you?
+------------------------------------------------
+[00000160][ハンス,char_510]
+Hey!
+I too, for the village, for Alise,
+You have to keep your spirits up!
+------------------------------------------------
+[00000161][ボリス,char_511]
+Well, Panis is a good girl after all.
+I can't believe that Panis would do such a thing.
+This may have happened often...
+------------------------------------------------
+[00000162][ボリス,char_511]
+I need to ask that girl some questions...
+------------------------------------------------
+[00000163][ボリス,char_511]
+Either way, I'll whip my old bones,
+I guess I'll cooperate with Panis.
+------------------------------------------------
+[00000164][ボリス,char_511]
+I won't lose to young people!
+I'll make another flower bloom!
+------------------------------------------------
+[00000165][ボリス,char_511]
+It's time to finally face off against the titan of the end.
+Considering Panis' suffering;
+There's nothing wrong with lower back pain!
+------------------------------------------------
+[00000166][デボラ,char_512]
+Peter comes and says...
+Let's believe in Panis-chan...
+That's serious...
+------------------------------------------------
+[00000167][デボラ,char_512]
+I'm confused...
+Is that child an angel?
+Or is he really a demon...
+------------------------------------------------
+[00000168][デボラ,char_512]
+Panis-chan has also been through a lot of hardship...
+It's such a shame that she didn't notice...
+------------------------------------------------
+[00000169][デボラ,char_512]
+I took Freed and Panis-chan with me,
+Please come visit us again.
+I'll prepare some sweets and wait for you.
+------------------------------------------------
+[00000170][デボラ,char_512]
+Are you going to save Panis-chan's world?
+So that we can all return home safely,
+I need to pray hard.
+------------------------------------------------
+[00000171][デボラ,char_512]
+It seems that the guardian deity will also come with us,
+I'm sure it'll be fine, though.
+------------------------------------------------
+[00000172][ハイラム,char_513]
+of course! 
+------------------------------------------------
+[00000173][ハイラム,char_513]
+That's right, I have to try my best too.
+------------------------------------------------
+[00000174][ハイラム,char_513]
+Even if they aren't related by blood.
+------------------------------------------------
+[00000175][ハイラム,char_513]
+Angel...ancient...person from another world...
+No matter what his true identity is, Panis is my child.
+There's no difference in what I'm saying.
+------------------------------------------------
+[00000176][ハイラム,char_513]
+No matter what happens, let's support each other as a family.
+------------------------------------------------
+[00000177][ハイラム,char_513]
+Oh, that's right.
+There was no need for my uncle to say anything.
+------------------------------------------------
+[00000178][ハイラム,char_513]
+Freed is always my sister...
+And he also takes good care of her sister.
+------------------------------------------------
+[00000179][ハイラム,char_513]
+Good luck, Freed!
+My uncle is counting on me too, hahaha.
+------------------------------------------------
+[00000180][ハイラム,char_513]
+Freed...
+That's a bit sad, uncle.
+Even my aunt would be sad if she heard what happened now.
+------------------------------------------------
+[00000181][ハイラム,char_513]
+Whether related by blood or not,
+You and Panis are our children.
+I just don't want you to forget that.
+------------------------------------------------
+[00000182][ハイラム,char_513]
+Freed, please be strong.
+------------------------------------------------
+[00000183][ハイラム,char_513]
+Not just panis
+My uncle, my aunt, and Shannon.
+Because I'm counting on you.
+------------------------------------------------
+[00000184][ハイラム,char_513]
+My mom and I always talk about Shannon, Freed,
+And he's on Panis's side.
+But don't be too reckless.
+------------------------------------------------
+[00000185][ハイラム,char_513]
+Freed, you did a good job of summarizing the village so far.
+As expected of his father's son. It's a big deal.
+Everyone in the village trusts you.
+------------------------------------------------
+[00000186][ハイラム,char_513]
+We're all ready.
+Come on, my daughter Panis and her world.
+Let's go save the day!
+------------------------------------------------
+[00000187][リアン,char_514]
+Is Panis safe?
+Yes, that's good.
+------------------------------------------------
+[00000188][リアン,char_514]
+We have freshly baked bread waiting for you,
+Please come home anytime,
+Could you please tell me that?
+------------------------------------------------
+[00000189][リアン,char_514]
+As a mother, what do you think about Panis?
+I scolded him a lot.
+All I have to do is worry about my parents...
+------------------------------------------------
+[00000190][リアン,char_514]
+But Panis came back,
+I'm really happy.
+------------------------------------------------
+[00000191][リアン,char_514]
+Freed, Shannon, Panis-chan, and father...
+It's really a blessing to be together with everyone.
+------------------------------------------------
+[00000192][リアン,char_514]
+However, in order to protect such everyday life,
+I guess I have to face off against the Titan of the Apocalypse.
+------------------------------------------------
+[00000193][リアン,char_514]
+Freed, be careful... No, good luck!
+------------------------------------------------
+[00000194][ダリオ,char_515]
+Panis is back, right?
+How are you doing? Are you OK?
+------------------------------------------------
+[00000195][ダリオ,char_515]
+It feels like the village has finally become one.
+I feel safe now.
+As expected of you, Freed!
+------------------------------------------------
+[00000196][ダリオ,char_515]
+It's getting kind of interesting!
+The power of a united village,
+Let's show it to the giant of the end!
+------------------------------------------------
+[00000197][ミルコ,char_516]
+Panis in trouble,
+I can't leave it like this.
+------------------------------------------------
+[00000198][ミルコ,char_516]
+If you think about it, Panis is also a friend of the village.
+It's only natural for the vigilante group to help Panis.
+...Well, it's a little scary though.
+------------------------------------------------
+[00000199][ミルコ,char_516]
+I'm still a little scared though...
+No, now is the time to muster up your courage!
+Don't do it now, when will you do it?
+------------------------------------------------
+[00000200][ロドリゴ,char_517]
+About Panis...
+I hope Zynga understands.
+Freed, do your best for Panis!
+------------------------------------------------
+[00000201][ロドリゴ,char_517]
+In order to move the ship,
+We have to prepare something at the ruins, right?
+------------------------------------------------
+[00000202][ロドリゴ,char_517]
+In that case, let's all split up,
+Please help Panis!
+Freed, leave the defense of the village to us!
+------------------------------------------------
+[00000203][ロドリゴ,char_517]
+The job of the vigilante group is to protect everyone in the village.
+No matter if it's in another world or anywhere,
+We, the vigilante group, will protect everyone in the village!
+------------------------------------------------
+[00000204][ロドリゴ,char_517]
+I'll show you the true power of the vigilante group!
+------------------------------------------------
+[00000205][ダニエル,char_518]
+It is true that Panis does many things for the village.
+Thank you for your hard work...
+Let's take a closer look.
+------------------------------------------------
+[00000206][ダニエル,char_518]
+For the animals and for the family.
+Of course I will do my best for Panis!
+------------------------------------------------
+[00000207][ダニエル,char_518]
+Especially for Peter as a father.
+I have to show you my good side!
+------------------------------------------------
+[00000208][ダニエル,char_518]
+I have to save Panis' family and friends.
+If the child's loved ones are
+Because he is equally important to us.
+------------------------------------------------
+[00000209][ブレンダ,char_519]
+That's right.
+That kind Panis-chan,
+He can't be a bad boy.
+------------------------------------------------
+[00000210][ブレンダ,char_519]
+I'm sure it's something
+I wonder if there's something serious going on...
+------------------------------------------------
+[00000211][ブレンダ,char_519]
+Just as we value everyone in our village,
+Panis-chan also thinks about the people of her hometown.
+I think it's important...it's only natural.
+------------------------------------------------
+[00000212][ブレンダ,char_519]
+To save her loved ones,
+I'll do whatever I can to help!
+------------------------------------------------
+[00000213][ブレンダ,char_519]
+We're finally heading to another world.
+Me, Daniel, Peter, and the animals.
+I'll do my best to convey my feelings!
+------------------------------------------------
+[00000214][ピーター,char_520]
+Yes, I'm looking forward to it.
+------------------------------------------------
+[00000215][ピーター,char_520]
+Do you have time to see animals?
+------------------------------------------------
+[00000216][ピーター,char_520]
+We're not going out to play, are we?
+------------------------------------------------
+[00000217][ピーター,char_520]
+What kind of animals are there in another world?
+I'm looking forward to it.
+------------------------------------------------
+[00000218][ピーター,char_520]
+What kind of sheep or chicken do you think Freed is?
+……yeah? You don't know if there are any animals, right?
+------------------------------------------------
+[00000219][ピーター,char_520]
+Hmm, I'm really looking forward to it!
+------------------------------------------------
+[00000220][ピーター,char_520]
+Oh, that's right.
+I'm going to save the world of Panis.
+Sorry, I was getting carried away.
+------------------------------------------------
+[00000221][ピーター,char_520]
+But, after defeating the "Doomsday Titan"...
+Can I just take a look at the animals?
+------------------------------------------------
+[00000222][ピーター,char_520]
+Sorry, Freed...
+I'm not going out to play,
+I knew it too, but...
+------------------------------------------------
+[00000223][ピーター,char_520]
+...Maybe Freed too
+Have you ever wondered what he is like?
+------------------------------------------------
+[00000224][ピーター,char_520]
+If the animals believe in Panis,
+I guess I'll try believing in Panis too.
+Animals can see into people's hearts.
+------------------------------------------------
+[00000225][ピーター,char_520]
+I will also be happy to cooperate!
+Panis took good care of the animals,
+I have to give something back!
+------------------------------------------------
+[00000226][ピーター,char_520]
+So the ship is ready?
+Maybe it's because we all worked hard,
+It ended quite quickly, didn't it?
+------------------------------------------------
+[00000227][ピーター,char_520]
+Let's all cooperate
+It feels so good!
+------------------------------------------------
+[00000228][ラナ,char_528]
+They're both panis, so you can't compare them.
+------------------------------------------------
+[00000229][ラナ,char_528]
+No, I don't like it or anything like that...
+------------------------------------------------
+[00000230][ラナ,char_528]
+If anything, the former one is...
+------------------------------------------------
+[00000231][ラナ,char_528]
+Panis, the atmosphere has changed quite a bit.
+...Hey, Freed?
+Which do you prefer, the current Panis or the old Panis?
+------------------------------------------------
+[00000232][ラナ,char_528]
+Oh my, that's a lot to say!
+He totally showed off!
+Hot, hot!　Hyuuuuuuuu!
+------------------------------------------------
+[00000233][ラナ,char_528]
+Freed, stay friends with Panis forever!
+------------------------------------------------
+[00000234][ラナ,char_528]
+Well, if you say it seems like Freed,
+That's a reasonable answer...
+That's totally no good!
+------------------------------------------------
+[00000235][ラナ,char_528]
+Okay, Freed?
+If you don't say it clearly,
+Girls get anxious, right?
+------------------------------------------------
+[00000236][ラナ,char_528]
+Colla! Freed!
+If you say anything more, I'll tell Shannon!
+If Panis heard that, he would be sad!
+------------------------------------------------
+[00000237][ラナ,char_528]
+……picture? That's right, sorry...
+------------------------------------------------
+[00000238][ラナ,char_528]
+Well, you don't have to worry about it that seriously...
+Sorry, I heard something strange.
+------------------------------------------------
+[00000239][ラナ,char_528]
+You can see that the atmosphere of the village has changed!
+I'd say it's getting closer to how it was before.
+It looks like everyone's bond has returned!
+------------------------------------------------
+[00000240][ラナ,char_528]
+Freed, it's time to take a breather!
+Fight~!
+------------------------------------------------
+[00000241][ラナ,char_528]
+The village has become one again!
+If there's anything I can do,
+I'll help you with anything, so don't hesitate to ask!
+------------------------------------------------
+[00000242][ラナ,char_528]
+Don't worry about this,
+Do your best to save Panis!
+------------------------------------------------
+[00000243][ラナ,char_528]
+Freed, no matter what,
+Never give up!?
+------------------------------------------------
+

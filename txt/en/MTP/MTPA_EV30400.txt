@@ -1,0 +1,54 @@
+[0013]
+*****************
+[00000000][マイア,char_503]
+Freed-kun, Panis-chan,
+And Shannon too.
+Thank you for visiting me during this time.
+------------------------------------------------
+[00000001][パニス,char_002 Panis]
+Ah, sensei! Are you feeling better?
+------------------------------------------------
+[00000002][マイア,char_503]
+Yeah, it's all over now.
+So, I have a favor to ask of you. Alise-chan
+I would also like to thank the children.
+------------------------------------------------
+[00000003][マイア,char_503]
+So I'm thinking of going to pick some flowers.
+I'd like to go to the flower garden just outside the village.
+Could you please come with me?
+------------------------------------------------
+[00000004][シャノン,char_004 Shannon]
+I got it. Freed.
+------------------------------------------------
+[00000005][フリード,char_001 Fried]
+of course. 
+------------------------------------------------
+[00000006][マイア,char_503]
+thank you. I'll give it to Alise-chan and the others right away.
+------------------------------------------------
+[00000007][マイア,char_503]
+Also, this is for Panis-chan.
+------------------------------------------------
+[00000008][パニス,char_002 Panis]
+Can you give it to Panis too?
+------------------------------------------------
+[00000009][マイア,char_503]
+Yeah.
+Panis-chan also came to visit me.
+Thank you very much.
+------------------------------------------------
+[00000010][パニス,char_002 Panis]
+Wow... so pretty...
+And...it smells so good...
+------------------------------------------------
+[00000011][パニス,char_002 Panis]
+Sensei! thanks!
+Panis, I love this flower!
+------------------------------------------------
+[00000012][マイア,char_503]
+Hehe, teacher too.
+I'm glad Panis liked it.
+See you then.
+------------------------------------------------
+

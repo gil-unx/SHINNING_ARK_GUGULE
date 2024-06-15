@@ -1,0 +1,121 @@
+[0029]
+*****************
+[00000000][リアン,char_514]
+Freed, I've been researching ruins recently.
+Looks like you're quite busy though...
+------------------------------------------------
+[00000001][リアン,char_514]
+But you know, we have to help with the reconstruction of the village, right?
+Everyone is counting on you.
+------------------------------------------------
+[00000002][フリード,char_001 Fried]
+O.K. I understand. 
+------------------------------------------------
+[00000003][リアン,char_514]
+Well, let me help you right away.
+Can you collect the hair of the giant horned mojala on the plateau?
+I want to weave cloth.
+------------------------------------------------
+[00000004][リアン,char_514]
+Whether it's clothes or curtains,
+Anyway, I'm running out of cloth right now.
+You know, because it burned and tore.
+------------------------------------------------
+[00000005][フリード,char_001 Fried]
+Ah... why the aunt...
+I thought she was going to start talking about reconstruction, but...
+So that's what you wanted to ask?
+------------------------------------------------
+[00000006][リアン,char_514]
+Hehehe, that's what it is.
+May I ask?
+------------------------------------------------
+[00000007][フリード,char_001 Fried]
+Of course. 
+------------------------------------------------
+[00000008][フリード,char_001 Fried]
+Auntie, I've been there.
+------------------------------------------------
+[00000009][リアン,char_514]
+Have you gone yet?
+Thank you, that was helpful.
+------------------------------------------------
+[00000010][フリード,char_001 Fried]
+That's fine, that's about it.
+Please come again anytime.
+------------------------------------------------
+[00000011][リアン,char_514]
+Hehehe, then...
+I'll ask you another time.
+------------------------------------------------
+[00000012][アリーゼ,char_504]
+It’s so hard! I really want to!
+Freed~! Please help my father!
+------------------------------------------------
+[00000013][フリード,char_001 Fried]
+Mr. Hans?
+What on earth happened?
+------------------------------------------------
+[00000014][アリーゼ,char_504]
+Look, the other day Freed and the others...
+I found a way to go beyond the mountains.
+You said that, right?
+------------------------------------------------
+[00000015][アリーゼ,char_504]
+After hearing that story, Dad...
+It seems like my old blood has started to stir up...
+He went out alone!
+------------------------------------------------
+[00000016][フリード,char_001 Fried]
+Alone!? That’s unreasonable! No matter how much he's a former adventurer!
+I'll bring you back anyway, so just wait a moment!
+------------------------------------------------
+[00000017][アリーゼ,char_504]
+Thank you, Freed!
+Dad, I'm pretty tired, but
+It doesn't seem to be life-threatening.
+------------------------------------------------
+[00000018][アリーゼ,char_504]
+Thank you so much for your help!
+Please don't do this again,
+I'll explain it to you carefully, okay?
+------------------------------------------------
+[00000019][フリード,char_001 Fried]
+Yeah……
+I think it's better, really.
+------------------------------------------------
+[00000020][ガルゼー,char_501]
+The reconstruction of the village is nearing its final stage.
+The only thing left to do is fix the bathroom in my house.
+------------------------------------------------
+[00000021][ガルゼー,char_501]
+It seems that the craftsmen are also free, so I guess it's about time.
+Forever with Boris and Dalton
+I can't afford to rent a bath.
+------------------------------------------------
+[00000022][ガルゼー,char_501]
+But for that, you need stone to use for tiles.
+Freed, can you go to the cliff and get it?
+------------------------------------------------
+[00000023][フリード,char_001 Fried]
+Understood. I feel like it's been a long time so far,
+The village is finally back to normal.
+------------------------------------------------
+[00000024][フリード,char_001 Fried]
+Alright! Are you excited to go?
+------------------------------------------------
+[00000025][ガルゼー,char_501]
+It must have been a lot of work.
+The repair will now be completed.
+------------------------------------------------
+[00000026][ガルゼー,char_501]
+The village will return to normal,
+I think we'll hold a festival to commemorate that.
+------------------------------------------------
+[00000027][フリード,char_001 Fried]
+Really!? I’m looking forward to it.
+------------------------------------------------
+[00000028][ガルゼー,char_501]
+Hmm. I hope you're looking forward to it.
+------------------------------------------------
+

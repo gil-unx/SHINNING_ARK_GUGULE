@@ -1,0 +1,1309 @@
+[0346]
+*****************
+[00000000][ガルゼー,char_501]
+Okay...!
+------------------------------------------------
+[00000001][ガルゼー,char_501]
+No, thank you.
+The remaining buildings have been repaired,
+This means that the reconstruction of the village is finally complete.
+------------------------------------------------
+[00000002][ガルゼー,char_501]
+This is also thanks to everyone's hard work.
+It was really hard work.
+------------------------------------------------
+[00000003][ガルゼー,char_501]
+In this regard, I would like to thank everyone for their efforts,
+And that the village was safely restored to normal.
+To celebrate...
+------------------------------------------------
+[00000004][ガルゼー,char_501]
+I want to have a grand festival!
+------------------------------------------------
+[00000005][ジム,char_502]
+Oooooo! Hooray!
+As expected of the village chief! Okay!
+I'm going to get fired up!
+------------------------------------------------
+[00000006][マイア,char_503]
+I'm sure the kids will love it too.
+That's right, I'll sing it at the festival right away.
+I have to start practicing singing.
+------------------------------------------------
+[00000007][ハンス,char_510]
+Oops, I can't do this!
+------------------------------------------------
+[00000008][アリーゼ,char_504]
+Dad, where are you going?
+------------------------------------------------
+[00000009][ハンス,char_510]
+Procuring alcohol!
+When it comes to festivals, you need plenty of it!
+------------------------------------------------
+[00000010][パニス,char_002 Panis]
+A festival? What do you do at the festival?
+------------------------------------------------
+[00000011][ロラン,char_507]
+What, don't you know Panis?
+Festivals are so fun!
+------------------------------------------------
+[00000012][メリー,char_509]
+Let's all eat a feast together,
+Do you sing and dance?
+Is it okay to play outside until late?
+------------------------------------------------
+[00000013][パニス,char_002 Panis]
+Really!? Wow! Wow wow!
+I want to have a festival! Hey, Freed!
+It's a festival! Hurry up!
+------------------------------------------------
+[00000014][鋼鱗丸,char_530]
+Yes! Moimoi!
+------------------------------------------------
+[00000015][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000016][パニス,char_002 Panis]
+Freed? what happened?
+------------------------------------------------
+[00000017][フリード,char_001 Fried]
+picture? Sorry, what is it?
+------------------------------------------------
+[00000018][パニス,char_002 Panis]
+It's a festival!
+Let's celebrate early! Freed!
+------------------------------------------------
+[00000019][フリード,char_001 Fried]
+A festival? That's still a long way off, Panis.
+------------------------------------------------
+[00000020][カール,char_508]
+That's right, Panis!
+Festivals are only held on festival days!
+------------------------------------------------
+[00000021][パニス,char_002 Panis]
+Eh! Why!
+That's boring!
+------------------------------------------------
+[00000022][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000023][ベルベット,char_008 Velvet]
+Freed, what are you thinking?
+------------------------------------------------
+[00000024][フリード,char_001 Fried]
+Mr. Velvet? No, not really……
+------------------------------------------------
+[00000025][ベルベット,char_008 Velvet]
+I don't see it that way though.
+You were thinking about Panis, right?
+Who is Panis really?
+------------------------------------------------
+[00000026][フリード,char_001 Fried]
+……Yeah.
+------------------------------------------------
+[00000027][ベルベット,char_008 Velvet]
+I know how you feel, but
+Keep those questions to yourself.
+------------------------------------------------
+[00000028][ベルベット,char_008 Velvet]
+As Kilmaria's investigation progresses,
+Until I know more.
+That's safe. Good?
+------------------------------------------------
+[00000029][フリード,char_001 Fried]
+...Yeah, I understand!
+------------------------------------------------
+[00000030][フリード,char_001 Fried]
+@fcFFAAFFAA (That's right. For Panis' sake,
+That seems best)
+------------------------------------------------
+[00000031][フリード,char_001 Fried]
+Shannon.
+------------------------------------------------
+[00000032][シャノン,char_004 Shannon]
+...Ah, Freed.
+------------------------------------------------
+[00000033][フリード,char_001 Fried]
+what happened?
+------------------------------------------------
+[00000034][シャノン,char_004 Shannon]
+Not even Freed.
+Are you also concerned?
+Kilmaria's story.
+------------------------------------------------
+[00000035][フリード,char_001 Fried]
+I heard it from beyond the Kailash Mountains,
+Are you talking about Panis and the true identity of this island?
+Yeah, well...I'm a little concerned.
+------------------------------------------------
+[00000036][パニス,char_002 Panis]
+picture? 
+------------------------------------------------
+[00000037][フリード,char_001 Fried]
+Oh, no, it's nothing.
+It's not a big deal.
+------------------------------------------------
+[00000038][シャノン,char_004 Shannon]
+That's right, it doesn't matter.
+never mind.
+------------------------------------------------
+[00000039][パニス,char_002 Panis]
+Hmm...
+------------------------------------------------
+[00000040][シャノン,char_004 Shannon]
+But...it doesn't feel clean.
+There are things about my family that I don't understand.
+------------------------------------------------
+[00000041][フリード,char_001 Fried]
+Maybe I should investigate a little more?
+------------------------------------------------
+[00000042][シャノン,char_004 Shannon]
+...Maybe that's better.
+If you go a little further into the mountain cave,
+Maybe I'll find some clue.
+------------------------------------------------
+[00000043][フリード,char_001 Fried]
+Understood. Let's go again. Beyond the Kailash Mountains!
+------------------------------------------------
+[00000044][ベルベット,char_008 Velvet]
+…………
+------------------------------------------------
+[00000045][フリード,char_001 Fried]
+Mr. Velvet?
+What's wrong with the glass of water?
+------------------------------------------------
+[00000046][ベルベット,char_008 Velvet]
+A little bit. Why was the miasma so strong?
+------------------------------------------------
+[00000047][ベルベット,char_008 Velvet]
+Looking at the surroundings,
+The miasma that flowed from somewhere accumulated in the valley.
+I don't think that's the case.
+------------------------------------------------
+[00000048][ベルベット,char_008 Velvet]
+If so, on the other hand, underground in the valley,
+Maybe the groundwater or something contains poison...
+------------------------------------------------
+[00000049][ベルベット,char_008 Velvet]
+Because it gets warmed up and rises into the air
+I wonder if the miasma will get stronger.
+------------------------------------------------
+[00000050][シャノン,char_004 Shannon]
+I see.
+But what does that mean?
+------------------------------------------------
+[00000051][ベルベット,char_008 Velvet]
+In other words, water is heated and rises into the sky.
+But on a cool night,
+Because water can't be heated...
+------------------------------------------------
+[00000052][ジンガ,char_005 zynga]
+No miasma comes out, is that what you mean?
+------------------------------------------------
+[00000053][ベルベット,char_008 Velvet]
+that's right!
+------------------------------------------------
+[00000054][アダム,char_006 a-dam]
+I think it's a very possible story.
+------------------------------------------------
+[00000055][シャノン,char_004 Shannon]
+huh……
+Mr. Velvet, from the glass of water.
+Did you come up with that? That's amazing...
+------------------------------------------------
+[00000056][ベルベット,char_008 Velvet]
+That and this, what I want
+To get it.
+There's definitely something deep inside that valley.
+------------------------------------------------
+[00000057][ベルベット,char_008 Velvet]
+Anyway, the miasma should be gone by now.
+Let's go to that valley again!
+------------------------------------------------
+[00000058][ベルベット,char_008 Velvet]
+Anyway, it's really hot here...
+Look at this, I'm all sweaty!
+I'd even rather be naked.
+------------------------------------------------
+[00000059][ベルベット,char_008 Velvet]
+...I mean, I guess I should take it off now.
+Okay, right? Freed?
+------------------------------------------------
+[00000060][フリード,char_001 Fried]
+Hey, wait! Mr. Velvet!
+------------------------------------------------
+[00000061][シャノン,char_004 Shannon]
+Don't worry about it!
+Will you stop teasing my younger brother!?
+------------------------------------------------
+[00000062][パニス,char_002 Panis]
+It's hot...
+Panis also becomes naked...
+------------------------------------------------
+[00000063][シャノン,char_004 Shannon]
+Stop panis too! That's bad manners!
+------------------------------------------------
+[00000064][フリード,char_001 Fried]
+Sister, don't be so mad.
+It's going to be very hot...
+------------------------------------------------
+[00000065][アダム,char_006 a-dam]
+The temperature here is
+I'm sure it's not comfortable for everyone.
+------------------------------------------------
+[00000066][アダム,char_006 a-dam]
+For long stays,
+It may also have a negative impact on your health.
+Let's finish exploring early.
+------------------------------------------------
+[00000067][キルマリア,char_007 Kilmaria]
+Is it bad for your health?
+Apparently, in the past,
+It seems like this was a problem before it was good or bad for your health.
+------------------------------------------------
+[00000068][ジンガ,char_005 zynga]
+What does it mean?
+------------------------------------------------
+[00000069][キルマリア,char_007 Kilmaria]
+Look at that, it's neither rock nor metal.
+A mysterious lump.
+------------------------------------------------
+[00000070][キルマリア,char_007 Kilmaria]
+Apparently that is,
+As I often see in ruins,
+It is thought to be the end of a stone statue.
+------------------------------------------------
+[00000071][ジンガ,char_005 zynga]
+Did it melt due to high heat and become like this?
+That's amazing...
+It's like the wall of a cave.
+------------------------------------------------
+[00000072][キルマリア,char_007 Kilmaria]
+It's not like I was exposed to that high of a fever.
+Probably not though...
+Still, this is an unusual situation.
+------------------------------------------------
+[00000073][ベルベット,char_008 Velvet]
+Speaking of abnormal...
+To begin with, this island itself is abnormal.
+------------------------------------------------
+[00000074][ベルベット,char_008 Velvet]
+Although the island is not that big,
+There are plains and snow fields,
+There's even a scorching desert...
+------------------------------------------------
+[00000075][アダム,char_006 a-dam]
+surely. Many landforms and climates coexist closely together.
+------------------------------------------------
+[00000076][ベルベット,char_008 Velvet]
+Until now,
+"It's a mysterious island where treasures that bring power lie."
+So, I was somehow convinced...
+------------------------------------------------
+[00000077][ベルベット,char_008 Velvet]
+Hi, that's what this is about.
+I don't think it's a simple matter.
+------------------------------------------------
+[00000078][ベルベット,char_008 Velvet]
+I think this is the same as the scorched rocks in the cave.
+I'm wondering if something similar is the cause.
+------------------------------------------------
+[00000079][キルマリア,char_007 Kilmaria]
+Is it the same cause as the rock in the cave?
+Does that mean it was an attack by someone?
+------------------------------------------------
+[00000080][シャノン,char_004 Shannon]
+An attack that could even change the climate...
+What kind of attack is that?
+------------------------------------------------
+[00000081][シャノン,char_004 Shannon]
+Besides, what kind of person would commit such an attack?
+Are you saying you've set it up?
+------------------------------------------------
+[00000082][ベルベット,char_008 Velvet]
+I don't know that you asked me.
+I was just trying to say what I thought.
+------------------------------------------------
+[00000083][フリード,char_001 Fried]
+Velvet's thoughts are
+I don't know if it's right or wrong, but
+but……
+------------------------------------------------
+[00000084][フリード,char_001 Fried]
+If that really happened,
+How fierce was that battle?
+I can't even imagine...
+------------------------------------------------
+[00000085][シャノン,char_004 Shannon]
+Freed... let's go back to the village...?
+I'm starting to get kind of scared...
+------------------------------------------------
+[00000086][フリード,char_001 Fried]
+Yeah...that's right.
+Let's go home...
+------------------------------------------------
+[00000087][シャノン,char_004 Shannon]
+fault?
+------------------------------------------------
+[00000088][ハイラム,char_513]
+mother! Yes, that!
+------------------------------------------------
+[00000089][リアン,char_514]
+Yes, Dad.
+But the one I just nailed is a little crooked, right?
+------------------------------------------------
+[00000090][ハイラム,char_513]
+picture?
+------------------------------------------------
+[00000091][ハンス,char_510]
+Yes, yes, what happened!
+It's beer and apple cider street!
+------------------------------------------------
+[00000092][アリーゼ,char_504]
+Oh? Everyone, welcome home.
+Were you going out?
+------------------------------------------------
+[00000093][フリード,char_001 Fried]
+picture? Just a moment... towards the ruins.
+------------------------------------------------
+[00000094][ジンガ,char_005 zynga]
+Is this... preparation for the festival?
+While I was away for a while,
+We've come a long way.
+------------------------------------------------
+[00000095][アリーゼ,char_504]
+That’s right!
+The village chief and everyone are already in a good mood!
+It's strange that I'm getting ready!
+------------------------------------------------
+[00000096][フリード,char_001 Fried]
+ah……
+Oh I see.
+------------------------------------------------
+[00000097][パニス,char_002 Panis]
+great!
+The plaza isn't your usual plaza, is it?
+------------------------------------------------
+[00000098][アリーゼ,char_504]
+Hehehe.
+Panis-chan, this is your first time at a festival, right?
+It gets even more lively on festival days.
+------------------------------------------------
+[00000099][パニス,char_002 Panis]
+Wow!
+I want to see! 
+------------------------------------------------
+[00000100][シャノン,char_004 Shannon]
+…………
+------------------------------------------------
+[00000101][アリーゼ,char_504]
+What happened?
+------------------------------------------------
+[00000102][シャノン,char_004 Shannon]
+Uh, no, it's nothing.
+Is there anything else I can do to help you?
+------------------------------------------------
+[00000103][アダム,char_006 a-dam]
+I wonder if I can be of help too.
+------------------------------------------------
+[00000104][ハンス,char_510]
+Ou! I'm preparing the table,
+Please help me!
+------------------------------------------------
+[00000105][アダム,char_006 a-dam]
+I got it.
+------------------------------------------------
+[00000106][パニス,char_002 Panis]
+Panis will also help you!
+------------------------------------------------
+[00000107][アリーゼ,char_504]
+Hehehe.
+Well then, with your sister...
+Are you going to decorate over there?
+------------------------------------------------
+[00000108][パニス,char_002 Panis]
+Yeah!
+------------------------------------------------
+[00000109][シャノン,char_004 Shannon]
+a!  a little bit!
+------------------------------------------------
+[00000110][パニス,char_002 Panis]
+picture?　
+------------------------------------------------
+[00000111][シャノン,char_004 Shannon]
+No, um...
+------------------------------------------------
+[00000112][ベルベット,char_008 Velvet]
+Shannon, it's okay.
+Even if it doesn't sting so much.
+------------------------------------------------
+[00000113][シャノン,char_004 Shannon]
+picture?
+------------------------------------------------
+[00000114][ベルベット,char_008 Velvet]
+The fact that Panis' true identity is no longer known,
+It's stuck in your heart, isn't it? I understand.
+A lot has happened recently.
+------------------------------------------------
+[00000115][ベルベット,char_008 Velvet]
+But now I'm so nervous
+There's no need for it, right?
+------------------------------------------------
+[00000116][シャノン,char_004 Shannon]
+Is that so……
+------------------------------------------------
+[00000117][フリード,char_001 Fried]
+that's right. I mean, think about it.
+What did Panis do?
+------------------------------------------------
+[00000118][フリード,char_001 Fried]
+It's not like you did anything wrong, right?
+------------------------------------------------
+[00000119][シャノン,char_004 Shannon]
+Of course!
+Panis didn't do anything!
+------------------------------------------------
+[00000120][フリード,char_001 Fried]
+right? But whatever the true identity,
+Panis is definitely not a bad girl!
+------------------------------------------------
+[00000121][シャノン,char_004 Shannon]
+I see. 
+------------------------------------------------
+[00000122][ベルベット,char_008 Velvet]
+Basically, the reconstruction of your village.
+It's a festival to celebrate, right?
+What should I do if I'm depressed at a time like that?
+------------------------------------------------
+[00000123][フリード,char_001 Fried]
+here we go! Festivals are all about preparation and enjoyment.
+It was my sister who taught me!
+------------------------------------------------
+[00000124][シャノン,char_004 Shannon]
+That's right! let's go!
+Thank you, Velvet. I'm coming!
+------------------------------------------------
+[00000125][ベルベット,char_008 Velvet]
+Yes, yes. Welcome.
+------------------------------------------------
+[00000126][ロラン,char_507]
+complicit! 
+------------------------------------------------
+[00000127][カール,char_508]
+Kushiyaki! Also, it's kind of sweet!
+------------------------------------------------
+[00000128][メリー,char_509]
+ah!
+------------------------------------------------
+[00000129][アリーゼ,char_504]
+How about beer and apple cider or mead?
+It's a great festival!
+Drink to your heart's content and get away with it!
+------------------------------------------------
+[00000130][ピーター,char_520]
+Throat pride competition! We are currently recruiting participants!
+If you would like to participate, please come to the front of the school!
+------------------------------------------------
+[00000131][フリード,char_001 Fried]
+I'm glad the weather was nice.
+It was worth the effort to prepare.
+------------------------------------------------
+[00000132][アダム,char_006 a-dam]
+People are more active than usual.
+------------------------------------------------
+[00000133][シャノン,char_004 Shannon]
+That's right. After all, it's a festival!
+------------------------------------------------
+[00000134][ガルゼー,char_501]
+Oh, you guys came too?
+I hope you enjoy yourself today.
+------------------------------------------------
+[00000135][ガルゼー,char_501]
+The reason why the village was able to recover so quickly is that
+It's all thanks to you guys for your hard work.
+------------------------------------------------
+[00000136][ガルゼー,char_501]
+This is Panis-chan's first festival since coming to this village.
+What do you think? Is it fun?
+------------------------------------------------
+[00000137][パニス,char_002 Panis]
+Yeah! 
+------------------------------------------------
+[00000138][鋼鱗丸,char_530]
+Too! Moimoi♪
+------------------------------------------------
+[00000139][フリード,char_001 Fried]
+Where does Panis want to go first?
+------------------------------------------------
+[00000140][パニス,char_002 Panis]
+picture? Panis, I want to see more!
+Also, I want to eat a lot!
+------------------------------------------------
+[00000141][ジンガ,char_005 zynga]
+Hahaha, then Freed would be in trouble too.
+Hey, how's it going over there?
+The kids at school are running a baked goods shop.
+------------------------------------------------
+[00000142][パニス,char_002 Panis]
+It's true! that? Runner!
+------------------------------------------------
+[00000143][ラナ,char_528]
+a! Freed!
+Yahoo!
+------------------------------------------------
+[00000144][パニス,char_002 Panis]
+Hehe, hello!
+Did Lana come to see the festival too?
+------------------------------------------------
+[00000145][ラナ,char_528]
+Yes, that's right.
+Also, let's do some business!
+------------------------------------------------
+[00000146][ジンガ,char_005 zynga]
+business? 
+------------------------------------------------
+[00000147][ラナ,char_528]
+I'm planning to do that later, but
+First, I have to deliver the alcohol to Alise.
+There's a rare drink from the continent!
+------------------------------------------------
+[00000148][ラナ,char_528]
+Well then, I'll go for a while.
+Panis, see you later!
+------------------------------------------------
+[00000149][パニス,char_002 Panis]
+Yeah!
+------------------------------------------------
+[00000150][フリード,char_001 Fried]
+Alize's place is also very busy.
+Take a table outside the store,
+Everyone is making a fuss.
+------------------------------------------------
+[00000151][パニス,char_002 Panis]
+What is everyone doing over there?
+------------------------------------------------
+[00000152][ジンガ,char_005 zynga]
+That's where you drink alcohol. It's for adults.
+Haha, everyone is already drunk.
+------------------------------------------------
+[00000153][マイア,char_503]
+Oh my! Zynga-san and Kill Maria-san!
+Why don't you come over here and have a drink?
+------------------------------------------------
+[00000154][キルマリア,char_007 Kilmaria]
+No, I'm a little...
+There is a problem with age and justice...
+------------------------------------------------
+[00000155][ジンガ,char_005 zynga]
+It's a special invitation.
+I'm just a little...
+------------------------------------------------
+[00000156][ジム,char_502]
+Big brother of Zynga! It's a big deal!
+The pirates have arrived!
+------------------------------------------------
+[00000157][ジンガ,char_005 zynga]
+What did you say!?
+------------------------------------------------
+[00000158][ベルベット,char_008 Velvet]
+Already at a time like this?
+Freed! everyone!
+------------------------------------------------
+[00000159][ジンガ,char_005 zynga]
+Shit, leave the alcohol behind...
+------------------------------------------------
+[00000160][キルマリア,char_007 Kilmaria]
+Please leave it later!
+Justice comes first before alcohol!
+------------------------------------------------
+[00000161][レヴィン,char_009 Levin]
+Yo! You guys came!
+I've been waiting!
+------------------------------------------------
+[00000162][ベルベット,char_008 Velvet]
+Levin!
+What a time you came!
+------------------------------------------------
+[00000163][レヴィン,char_009 Levin]
+Hello, Bell.
+Apparently it was during a festival.
+Did you miss out on delicious food because of me?
+------------------------------------------------
+[00000164][ベルベット,char_008 Velvet]
+Zynga is the one who missed drinking more than me!
+------------------------------------------------
+[00000165][レヴィン,char_009 Levin]
+Hahaha, I see.
+I'm sorry about that, Wolf Brother.
+He also did bad things to the people in the village.
+------------------------------------------------
+[00000166][フリード,char_001 Fried]
+Absolutely! What a nuisance!
+------------------------------------------------
+[00000167][キルマリア,char_007 Kilmaria]
+I can't forgive you for interfering with everyone's fun in the village!
+Such an outrageous act
+I have no choice but to exorcise it in the name of Justice!
+------------------------------------------------
+[00000168][レヴィン,char_009 Levin]
+Hey, sister.
+Isn't "immoral" a bit of an exaggeration?
+As expected, I'll be hurt too.
+------------------------------------------------
+[00000169][レヴィン,char_009 Levin]
+Even I knew it was during the festival.
+I didn't try to imitate it in a crude way.
+------------------------------------------------
+[00000170][レヴィン,char_009 Levin]
+How much do you ordinary people look forward to the festival?
+I think I know that much too.
+------------------------------------------------
+[00000171][シャノン,char_004 Shannon]
+...That's a slightly off-putting way of saying it.
+------------------------------------------------
+[00000172][フリード,char_001 Fried]
+If you know, could you please come back?
+We want to continue the festival.
+------------------------------------------------
+[00000173][レヴィン,char_009 Levin]
+I'm sorry, but I can't advise you on that either.
+So let's go with a compromise.
+Let's do it in a place that doesn't cause trouble to the village as much as possible.
+------------------------------------------------
+[00000174][ジンガ,char_005 zynga]
+What does it mean?
+------------------------------------------------
+[00000175][レヴィン,char_009 Levin]
+Let's do it on the ocean!
+Then you don't have to worry about ruining the festival.
+We can work together with peace of mind!
+------------------------------------------------
+[00000176][レヴィン,char_009 Levin]
+here we go! 
+------------------------------------------------
+[00000177][ベルベット,char_008 Velvet]
+Unpalatable! 
+------------------------------------------------
+[00000178][パニス,char_002 Panis]
+Kyaah!?
+------------------------------------------------
+[00000179][フリード,char_001 Fried]
+Panis! Dangerous!
+------------------------------------------------
+[00000180][レヴィン,char_009 Levin]
+Time to remember!
+Battles are interesting because they change over and over again!
+Now, don't get hurt, at least run away!
+------------------------------------------------
+[00000181][レヴィン,char_009 Levin]
+Oops!?
+------------------------------------------------
+[00000182][ジンガ,char_005 zynga]
+what? 
+------------------------------------------------
+[00000183][レヴィン,char_009 Levin]
+what? 
+------------------------------------------------
+[00000184][ベルベット,char_008 Velvet]
+Sea rumble? But with such a loud sound...
+------------------------------------------------
+[00000185][アダム,char_006 a-dam]
+Abnormal occurrence! Abnormal occurrence!
+A suspicious object has been observed!
+------------------------------------------------
+[00000186][レヴィン,char_009 Levin]
+Is it a suspicious object?
+------------------------------------------------
+[00000187][フリード,char_001 Fried]
+That is……!
+------------------------------------------------
+[00000188][レヴィン,char_009 Levin]
+Goho! Gohogoho! Goho!
+------------------------------------------------
+[00000189][フリード,char_001 Fried]
+Levin! Are you okay?
+------------------------------------------------
+[00000190][レヴィン,char_009 Levin]
+It's not important...
+My subordinates...?
+------------------------------------------------
+[00000191][フリード,char_001 Fried]
+Are you okay. 
+------------------------------------------------
+[00000192][レヴィン,char_009 Levin]
+Really……
+------------------------------------------------
+[00000193][シャノン,char_004 Shannon]
+Freed! Are you okay!? 
+What are you doing all of a sudden?
+------------------------------------------------
+[00000194][ジンガ,char_005 zynga]
+Totally! One wrong move and you would be in danger!
+------------------------------------------------
+[00000195][ベルベット,char_008 Velvet]
+Jumping into a sea full of monsters...
+What are you thinking!?
+------------------------------------------------
+[00000196][フリード,char_001 Fried]
+Because, as it is,
+Because Levin and the others were in danger...
+------------------------------------------------
+[00000197][ベルベット,char_008 Velvet]
+So don't jump in!
+Aren't you stupid?
+------------------------------------------------
+[00000198][フリード,char_001 Fried]
+what is it!
+You don't have to say that much!
+------------------------------------------------
+[00000199][レヴィン,char_009 Levin]
+No...Bell is right.
+Why did you risk it for us?
+------------------------------------------------
+[00000200][フリード,char_001 Fried]
+picture?
+------------------------------------------------
+[00000201][レヴィン,char_009 Levin]
+Is it necessary to go to that length to save the enemy's life?
+------------------------------------------------
+[00000202][フリード,char_001 Fried]
+The enemy...
+What are you talking about, Levin?
+We're not enemies.
+------------------------------------------------
+[00000203][レヴィン,char_009 Levin]
+what?
+------------------------------------------------
+[00000204][フリード,char_001 Fried]
+After all, the battle just ended, right?
+So we're not enemies anymore, right?
+------------------------------------------------
+[00000205][レヴィン,char_009 Levin]
+…………
+------------------------------------------------
+[00000206][フリード,char_001 Fried]
+Besides, we can't abandon people in need.
+What's more, you can help
+Especially if it's just me.
+------------------------------------------------
+[00000207][レヴィン,char_009 Levin]
+……law. That's also...
+------------------------------------------------
+[00000208][ベルベット,char_008 Velvet]
+Hey, Freed.
+You're not...
+------------------------------------------------
+[00000209][キルマリア,char_007 Kilmaria]
+……everyone.
+Aren't you worried about that monster?
+------------------------------------------------
+[00000210][ジンガ,char_005 zynga]
+What's up, Killmaria?
+------------------------------------------------
+[00000211][キルマリア,char_007 Kilmaria]
+Why did that monster suddenly appear?
+Isn't the timing just too good?
+------------------------------------------------
+[00000212][シャノン,char_004 Shannon]
+What is timing?
+------------------------------------------------
+[00000213][キルマリア,char_007 Kilmaria]
+That monster is us.
+When I received Mr. Levin's counterattack...
+Just appeared to interrupt it.
+------------------------------------------------
+[00000214][キルマリア,char_007 Kilmaria]
+No, rather than us...
+To prevent Mr. Panis from being attacked.
+------------------------------------------------
+[00000215][フリード,char_001 Fried]
+Wait a minute, Kill Maria!
+What are you going to say!?
+------------------------------------------------
+[00000216][アダム,char_006 a-dam]
+Alert!The enemy has changed course towards us!
+------------------------------------------------
+[00000217][ジンガ,char_005 zynga]
+Damn it! Let's talk later!
+I'll attack him!
+------------------------------------------------
+[00000218][パニス,char_002 Panis]
+picture!?
+------------------------------------------------
+[00000219][フリード,char_001 Fried]
+Panis!?
+------------------------------------------------
+[00000220][シャノン,char_004 Shannon]
+Panis! Are you okay!?
+------------------------------------------------
+[00000221][パニス,char_002 Panis]
+Oh Oh Oh Oh……
+------------------------------------------------
+[00000222][ジンガ,char_005 zynga]
+Oh my god...!
+Was it attacked by a monster?
+------------------------------------------------
+[00000223][キルマリア,char_007 Kilmaria]
+No, the monster has disappeared.
+It doesn't seem like he was attacked.
+However, how is Mr. Panis doing...?
+------------------------------------------------
+[00000224][パニス,char_002 Panis]
+...!
+------------------------------------------------
+[00000225][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000 Is it still time...? really……?
+good……
+------------------------------------------------
+[00000226][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000 But...Panis alone can't do anything.
+I have to ask Freed and the others too...
+------------------------------------------------
+[00000227][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000But...if you find out what Panis did,
+Freed must be...
+------------------------------------------------
+[00000228][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000 but I'm alone...
+But I can't talk...
+------------------------------------------------
+[00000229][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000 This world again...?
+Is that the only way to save you...?
+------------------------------------------------
+[00000230][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000 No! I don't like that!
+For Panis... For me...
+I can't do that!
+------------------------------------------------
+[00000231][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000But I can't wait to abandon my world...
+That too, absolutely...
+But this world...
+------------------------------------------------
+[00000232][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000 What should I do...?
+I...I...I...!
+------------------------------------------------
+[00000233][フリード,char_001 Fried]
+Panis? What happened!
+Panis!
+------------------------------------------------
+[00000234][パニス,char_002 Panis]
+Uuu……
+Aaaaaa...!
+------------------------------------------------
+[00000235][フリード,char_001 Fried]
+Panis!?
+------------------------------------------------
+[00000236][ジンガ,char_005 zynga]
+this is……!?
+------------------------------------------------
+[00000237][シャノン,char_004 Shannon]
+song……?
+------------------------------------------------
+[00000238][フリード,char_001 Fried]
+Panis, this song is...
+------------------------------------------------
+[00000239][ベルベット,char_008 Velvet]
+picture!?
+------------------------------------------------
+[00000240][フリード,char_001 Fried]
+Wow!
+------------------------------------------------
+[00000241][ベルベット,char_008 Velvet]
+What!? Is something coming out again?
+------------------------------------------------
+[00000242][ジンガ,char_005 zynga]
+I do not understand! 
+------------------------------------------------
+[00000243][シャノン,char_004 Shannon]
+Kyaaaaaaaaaaaaaa!
+------------------------------------------------
+[00000244][アダム,char_006 a-dam]
+Bibi... Bibi...
+Forced termination...Restart sequence...
+------------------------------------------------
+[00000245][キルマリア,char_007 Kilmaria]
+this is……!?
+------------------------------------------------
+[00000246][ジンガ,char_005 zynga]
+Damn...!
+I feel like I'll be blown away!
+------------------------------------------------
+[00000247][フリード,char_001 Fried]
+This could be...
+Because of Panis' song...!?
+------------------------------------------------
+[00000248][フリード,char_001 Fried]
+Panis! Stop it!
+Sing...stop this song!
+Panis!
+------------------------------------------------
+[00000249][フリード,char_001 Fried]
+Panis!
+------------------------------------------------
+[00000250][ジンガ,char_005 zynga]
+What...is this...?
+------------------------------------------------
+[00000251][ベルベット,char_008 Velvet]
+It seems like the village was also affected by the song from earlier...
+------------------------------------------------
+[00000252][ジンガ,char_005 zynga]
+Damn it! Why……!
+I'm glad it's back to normal!
+Why is this happening again?
+------------------------------------------------
+[00000253][アダム,char_006 a-dam]
+Vibbit... Bibibit...
+------------------------------------------------
+[00000254][フリード,char_001 Fried]
+Panis, we have arrived at the village.
+Are you okay?
+------------------------------------------------
+[00000255][シャノン,char_004 Shannon]
+Are you still unconscious?
+------------------------------------------------
+[00000256][フリード,char_001 Fried]
+Yeah. I need to take care of it.
+------------------------------------------------
+[00000257][パニス,char_002 Panis]
+No……
+------------------------------------------------
+[00000258][シャノン,char_004 Shannon]
+Panis?
+------------------------------------------------
+[00000259][キルマリア,char_007 Kilmaria]
+good!
+Looks like you noticed!
+------------------------------------------------
+[00000260][フリード,char_001 Fried]
+Panis! Are you okay? 
+------------------------------------------------
+[00000261][パニス,char_002 Panis]
+picture……?
+------------------------------------------------
+[00000262][フリード,char_001 Fried]
+Good, I noticed.
+It doesn't look like he's hurt, but
+Doesn't it hurt anywhere?
+------------------------------------------------
+[00000263][パニス,char_002 Panis]
+a……
+------------------------------------------------
+[00000264][フリード,char_001 Fried]
+what happened? 
+------------------------------------------------
+[00000265][シャノン,char_004 Shannon]
+Come to think of it, things seem to be different from usual.
+Hey, Panis. Are you okay?
+------------------------------------------------
+[00000266][パニス,char_002 Panis]
+home……
+No, it's okay. sorry.
+------------------------------------------------
+[00000267][フリード,char_001 Fried]
+picture!?
+------------------------------------------------
+[00000268][シャノン,char_004 Shannon]
+What? What's wrong!? Panis!
+------------------------------------------------
+[00000269][パニス,char_002 Panis]
+home. I'm sorry for making you worry.
+------------------------------------------------
+[00000270][パニス,char_002 Panis]
+Um... could you please take me down?
+I feel like I can walk on my own now.
+------------------------------------------------
+[00000271][フリード,char_001 Fried]
+No. 
+------------------------------------------------
+[00000272][シャノン,char_004 Shannon]
+what?
+What's wrong, Panis...
+------------------------------------------------
+[00000273][キルマリア,char_007 Kilmaria]
+It's like I've suddenly become quite an adult...
+------------------------------------------------
+[00000274][ベルベット,char_008 Velvet]
+I'd say it's an adult, but it's at least suitable for its appearance, right?
+But why all of a sudden?
+------------------------------------------------
+[00000275][パニス,char_002 Panis]
+Well, that's...
+------------------------------------------------
+[00000276][ジンガ,char_005 zynga]
+……I see.
+I think you can probably answer it for me now.
+------------------------------------------------
+[00000277][フリード,char_001 Fried]
+Zynga? what happened?
+------------------------------------------------
+[00000278][ジンガ,char_005 zynga]
+Freed. Please move away.
+I have something to ask Panis.
+------------------------------------------------
+[00000279][パニス,char_002 Panis]
+What do you want to ask...?
+------------------------------------------------
+[00000280][ジンガ,char_005 zynga]
+That's it. Your song is the reason why the village is the way it is.
+Why did you do this?
+------------------------------------------------
+[00000281][パニス,char_002 Panis]
+...!
+------------------------------------------------
+[00000282][フリード,char_001 Fried]
+...Zynga!
+------------------------------------------------
+[00000283][ジンガ,char_005 zynga]
+Freed, I'm sorry, but please stay back.
+I'm asking Panis.
+------------------------------------------------
+[00000284][フリード,char_001 Fried]
+but!
+------------------------------------------------
+[00000285][ジンガ,char_005 zynga]
+Panis, answer me.
+Did you come to destroy the village?
+Are you friends with those monsters?
+------------------------------------------------
+[00000286][パニス,char_002 Panis]
+it is……
+------------------------------------------------
+[00000287][ロラン,char_507]
+Wow! Ah! Ah!
+------------------------------------------------
+[00000288][ラナ,char_528]
+Like I said, I'm fine!
+Everyone, can't you cry? hey?
+------------------------------------------------
+[00000289][メリー,char_509]
+But... but...
+Aaaaaaaaaaaaaaaaaaaaaaaaa!
+------------------------------------------------
+[00000290][シャノン,char_004 Shannon]
+What happened? everyone!
+------------------------------------------------
+[00000291][カール,char_508]
+Oh, the teacher...the teacher!
+Aaaaaaaaaaaaaaaa!!
+------------------------------------------------
+[00000292][シャノン,char_004 Shannon]
+teacher? 
+------------------------------------------------
+[00000293][フリード,char_001 Fried]
+a!What happened to Mr. Maia!?
+------------------------------------------------
+[00000294][ジム,char_502]
+I think I hit my head from earlier!
+I'm unconscious!
+------------------------------------------------
+[00000295][ジム,char_502]
+……Geez!
+What were you guys doing at this important time?
+Look! It's gone!
+------------------------------------------------
+[00000296][キルマリア,char_007 Kilmaria]
+What do you mean...!
+------------------------------------------------
+[00000297][パニス,char_002 Panis]
+Such a... teacher...
+Teacher Maia...!
+------------------------------------------------
+[00000298][フリード,char_001 Fried]
+Panis?
+------------------------------------------------
+[00000299][パニス,char_002 Panis]
+...!
+------------------------------------------------
+[00000300][フリード,char_001 Fried]
+Panis! Where are you going!
+hang on! 
+------------------------------------------------
+[00000301][フリード,char_001 Fried]
+Sigh...sigh...panis...
+I finally caught up...
+Please, don't run away...
+------------------------------------------------
+[00000302][パニス,char_002 Panis]
+Sigh...sigh...
+------------------------------------------------
+[00000303][アダム,char_006 a-dam]
+Beep...beep...beep...
+------------------------------------------------
+[00000304][ベルベット,char_008 Velvet]
+The ruins look different than usual.
+Was it this bright in here?
+------------------------------------------------
+[00000305][キルマリア,char_007 Kilmaria]
+this is……!?
+everyone! 
+------------------------------------------------
+[00000306][ジンガ,char_005 zynga]
+what!? 
+...What!? This is it!
+------------------------------------------------
+[00000307][シャノン,char_004 Shannon]
+There's something reflected on the ceiling...
+What is this...?
+It looks like a map somewhere?
+------------------------------------------------
+[00000308][ベルベット,char_008 Velvet]
+What is this? It's not an Endias map!
+This is the first time I've seen such detail...
+------------------------------------------------
+[00000309][キルマリア,char_007 Kilmaria]
+I see. So this is the island.
+but……
+------------------------------------------------
+[00000310][キルマリア,char_007 Kilmaria]
+There are many trees coming out of this island.
+What is the glowing arrow?
+It seems to be extending all over the continent.
+------------------------------------------------
+[00000311][ベルベット,char_008 Velvet]
+That's right.
+It's like drawing a parabola and sending something flying.
+It's like a cannon...
+------------------------------------------------
+[00000312][キルマリア,char_007 Kilmaria]
+Cannon...? I see.
+If so, this is the distance from this island to the continent.
+It's an attack command.
+------------------------------------------------
+[00000313][ベルベット,char_008 Velvet]
+Hey, wait a minute.
+I said it myself,
+There's no way a cannon could reach the continent from this island!
+------------------------------------------------
+[00000314][キルマリア,char_007 Kilmaria]
+That's because of an unknown technology that we don't know about.
+What if?
+Please look. 
+------------------------------------------------
+[00000315][ベルベット,char_008 Velvet]
+...!?
+------------------------------------------------
+[00000316][キルマリア,char_007 Kilmaria]
+Also, this may be a coincidence, but
+One point on the continent where the arrow extends...
+This coincides with the place where Mr. Panis was sleeping.
+------------------------------------------------
+[00000317][シャノン,char_004 Shannon]
+What!? What are you two talking about?
+The cannon, the place where Panis was sleeping...
+Please explain so I can understand!!
+------------------------------------------------
+[00000318][キルマリア,char_007 Kilmaria]
+As you can see, right?
+I'm sorry, but that's not possible.
+Because I don't know either. but……
+------------------------------------------------
+[00000319][キルマリア,char_007 Kilmaria]
+From this island, they attacked the continent, no, the ancients.
+There is a possibility. It is an important ruin of an ancient civilization...
+------------------------------------------------
+[00000320][ベルベット,char_008 Velvet]
+This island is said to be the ``ark'' of the ancients.
+Were you the one who said that?
+Why, that doesn't make sense!
+------------------------------------------------
+[00000321][キルマリア,char_007 Kilmaria]
+"Ark"...that's certainly what I said.
+However, the remains of the battles that I have seen so far
+If you think about it, the opposite makes more sense.
+------------------------------------------------
+[00000322][フリード,char_001 Fried]
+...Gya, is it the other way around?
+------------------------------------------------
+[00000323][キルマリア,char_007 Kilmaria]
+This island is not an "ark" or anything like that, but a base for battle.
+It is also probably an ancient civilization.
+It belongs to the opponent who fought the great war.
+------------------------------------------------
+[00000324][キルマリア,char_007 Kilmaria]
+In other words, this island was not meant to protect ancient people;
+It was the cause of its destruction...
+It makes more sense if you think about it that way.
+------------------------------------------------
+[00000325][ジンガ,char_005 zynga]
+Well then, this map...!
+Once again, we will bring some incredible weapon to the continent.
+Are you trying to make it fly!?
+------------------------------------------------
+[00000326][パニス,char_002 Panis]
+There is no need to worry about that.
+------------------------------------------------
+[00000327][ジンガ,char_005 zynga]
+Don't worry? How can you say that!?
+------------------------------------------------
+[00000328][パニス,char_002 Panis]
+Because there's nothing left to shoot at.
+This ship... our ship is buried under the ruins.
+There are no weapons left.
+------------------------------------------------
+[00000329][パニス,char_002 Panis]
+All in a battle 1000 years ago
+I've run out...
+------------------------------------------------
+[00000330][フリード,char_001 Fried]
+A battle 1000 years ago...?
+What on earth did you say...
+------------------------------------------------
+[00000331][キルマリア,char_007 Kilmaria]
+Mr. Panis, then you...
+------------------------------------------------
+[00000332][パニス,char_002 Panis]
+yes. I was 1000 years ago
+I came from another world on this ship.
+------------------------------------------------
+[00000333][パニス,char_002 Panis]
+And they were building a civilization in this world.
+Fight against the Enfield people...
+------------------------------------------------
+[00000334][パニス,char_002 Panis]
+...I destroyed it. With my own hands.
+------------------------------------------------
+[00000335][フリード,char_001 Fried]
+That's it! No way! No way!
+Panis did something like that...!?
+------------------------------------------------
+[00000336][アダム,char_006 a-dam]
+Bi-bi-bi-bi-bi-bi-bi-bi-bi-bi!
+------------------------------------------------
+[00000337][シャノン,char_004 Shannon]
+Adam!?
+------------------------------------------------
+[00000338][アダム,char_006 a-dam]
+Red alert! Red Alert!
+Free movement mode ends.
+Transition to battle mode.
+------------------------------------------------
+[00000339][アダム,char_006 a-dam]
+Confirmed enemy species in close combat range.
+Neutralize me, helpless me, helpless me!
+------------------------------------------------
+[00000340][フリード,char_001 Fried]
+Adam!  Stop!
+------------------------------------------------
+[00000341][アダム,char_006 a-dam]
+Master Niyor, an interrupt has occurred.
+Forced termination of attack processing.
+Emergency stop, emergency stop.
+------------------------------------------------
+[00000342][フリード,char_001 Fried]
+And then it stopped...?
+------------------------------------------------
+[00000343][パニス,char_002 Panis]
+Freed...
+------------------------------------------------
+[00000344][フリード,char_001 Fried]
+Panis...
+------------------------------------------------
+[00000345][フリード,char_001 Fried]
+@fcFFAAFFAA (I have no idea what that is.
+What will happen to this island?
+And Panis...? )
+------------------------------------------------
+

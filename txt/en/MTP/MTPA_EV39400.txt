@@ -1,0 +1,1009 @@
+[0260]
+*****************
+[00000000][パニス,char_002 Panis]
+Peter! Today, I will also help Panis!
+------------------------------------------------
+[00000001][ピーター,char_520]
+picture? It's helpful, but... are you okay?
+------------------------------------------------
+[00000002][ダニエル,char_518]
+That's okay, Peter.
+Why don't you ask for some help?
+------------------------------------------------
+[00000003][ブレンダ,char_519]
+That's right. The animals also love Panis-chan,
+I'm sure you'll be happy.
+------------------------------------------------
+[00000004][フリード,char_001 Fried]
+Well, I'm with you too, so it's okay.
+------------------------------------------------
+[00000005][ピーター,char_520]
+……I agree.
+Well then, Panis, please.
+------------------------------------------------
+[00000006][パニス,char_002 Panis]
+Yeah!
+Well, then what should I do?
+------------------------------------------------
+[00000007][ピーター,char_520]
+Can you gather the sheep for me?
+When you play this flute, the sheep will come to you.
+------------------------------------------------
+[00000008][パニス,char_002 Panis]
+Really!? Let's try it!
+Phew! Phew!
+------------------------------------------------
+[00000009][パニス,char_002 Panis]
+No sound...
+------------------------------------------------
+[00000010][ダニエル,char_518]
+Just calm down and blow gently.
+------------------------------------------------
+[00000011][パニス,char_002 Panis]
+Yeah……
+Phew... phew...!
+------------------------------------------------
+[00000012][パニス,char_002 Panis]
+It’s out!
+------------------------------------------------
+[00000013][フリード,char_001 Fried]
+that……? 
+------------------------------------------------
+[00000014][ブレンダ,char_519]
+very much! 
+------------------------------------------------
+[00000015][パニス,char_002 Panis]
+Ah, what?!
+------------------------------------------------
+[00000016][ピーター,char_520]
+Panis is riding on the sheep!?
+------------------------------------------------
+[00000017][フリード,char_001 Fried]
+Panis!
+Panis, are you okay!?
+------------------------------------------------
+[00000018][パニス,char_002 Panis]
+Wow!　Amazingly amazing!
+Fluffy and fluffy!
+------------------------------------------------
+[00000019][ダニエル,char_518]
+good……
+Apparently there's no danger.
+------------------------------------------------
+[00000020][フリード,char_001 Fried]
+I agree. 
+------------------------------------------------
+[00000021][パニス,char_002 Panis]
+Wow! Hashire Hashire!
+------------------------------------------------
+[00000022][フリード,char_001 Fried]
+@fcFFAAFFAA (I was surprised though...
+Panis and sheep seem to be having fun, so it's okay.)
+------------------------------------------------
+[00000023][パニス,char_002 Panis]
+Hello ba-chan!
+------------------------------------------------
+[00000024][デボラ,char_512]
+Hey there, Panis. You're doing well today too.
+------------------------------------------------
+[00000025][パニス,char_002 Panis]
+Yeah! 
+------------------------------------------------
+[00000026][デボラ,char_512]
+That's right, that's right. But a healthy child
+You have to eat whatever you want, no matter what you like, right?
+Does Panis-chan have any likes or dislikes?
+------------------------------------------------
+[00000027][パニス,char_002 Panis]
+Panis, I love bread!
+------------------------------------------------
+[00000028][デボラ,char_512]
+Is there anything you don't like?
+------------------------------------------------
+[00000029][フリード,char_001 Fried]
+That's okay.
+Panis will eat anything.
+On the contrary, I'm worried that I'll eat too much.
+------------------------------------------------
+[00000030][デボラ,char_512]
+yes? But what about Freed?
+------------------------------------------------
+[00000031][フリード,char_001 Fried]
+me? 
+------------------------------------------------
+[00000032][パニス,char_002 Panis]
+Come to think of it, Freed, I left some vegetable bread the other day.
+My sister was mad at me...
+------------------------------------------------
+[00000033][デボラ,char_512]
+Oh my! That's not right!
+You have to eat your vegetables too.
+That's right, would you like to have some of these vegetables?
+------------------------------------------------
+[00000034][フリード,char_001 Fried]
+No, wait a minute!
+The vegetable bread at that time was just Shannon's failure.
+It's not that I don't like vegetables...
+------------------------------------------------
+[00000035][デボラ,char_512]
+Come on, excuses aren't good, are they?
+Fresh vegetables are so delicious.
+Yes, you should bring this as well.
+------------------------------------------------
+[00000036][フリード,char_001 Fried]
+But...wow! It's heavy!
+------------------------------------------------
+[00000037][デボラ,char_512]
+He's a boy, so he has to be strong.
+Here, do your best and bring it home.
+Do you eat vegetables properly?
+------------------------------------------------
+[00000038][パニス,char_002 Panis]
+Good luck, Freed!
+------------------------------------------------
+[00000039][フリード,char_001 Fried]
+U-Yeah...but...it's heavy...
+------------------------------------------------
+[00000040][フリード,char_001 Fried]
+@fcFFAAFFAA (sigh...Grandma Deborah, you're so kind.
+I can be nosy sometimes...)
+------------------------------------------------
+[00000041][パニス,char_002 Panis]
+Hmm...
+------------------------------------------------
+[00000042][フリード,char_001 Fried]
+what happened? Staring at the sheep.
+------------------------------------------------
+[00000043][パニス,char_002 Panis]
+Panis, I don't know the names of these kids...
+------------------------------------------------
+[00000044][フリード,char_001 Fried]
+Is that so? I thought you already knew it since you were playing with it.
+------------------------------------------------
+[00000045][パニス,char_002 Panis]
+Panis, I want to know the names of these children!
+------------------------------------------------
+[00000046][フリード,char_001 Fried]
+Even if you say that, I don't even know...
+Hey Peter. Can you tell me?
+------------------------------------------------
+[00000047][ピーター,char_520]
+What are the names of the sheep?
+The big one on the left is Don, and the round one in the middle is Koro.
+The small one on the right is Chi.
+------------------------------------------------
+[00000048][パニス,char_002 Panis]
+Huh...that's right...
+------------------------------------------------
+[00000049][ピーター,char_520]
+Every child is our proud sheep.
+Don's fur is very soft,
+Koro produces a lot of milk, and Chi is quick.
+------------------------------------------------
+[00000050][フリード,char_001 Fried]
+I see...that's great, Peter.
+I look at each sheep carefully.
+------------------------------------------------
+[00000051][ピーター,char_520]
+Well, that's normal,
+I get embarrassed when I get praised like that.
+------------------------------------------------
+[00000052][パニス,char_002 Panis]
+Hehe, nice to meet you!
+Pon! Toro! 
+------------------------------------------------
+[00000053][ピーター,char_520]
+No, no, it's Don, Koro, Chi.
+------------------------------------------------
+[00000054][パニス,char_002 Panis]
+I see. Sorry, Chi.
+------------------------------------------------
+[00000055][ピーター,char_520]
+That's Koro...
+------------------------------------------------
+[00000056][パニス,char_002 Panis]
+Oh, what?
+------------------------------------------------
+[00000057][ピーター,char_520]
+Hahaha, you should learn the name slowly.
+As always, try to get along with these kids.
+------------------------------------------------
+[00000058][パニス,char_002 Panis]
+Yeah!Nice to meet you! Gon! Noro! C!
+------------------------------------------------
+[00000059][ピーター,char_520]
+Don, Koro, Chee...
+------------------------------------------------
+[00000060][パニス,char_002 Panis]
+The wind is so nice~, Freed!
+------------------------------------------------
+[00000061][フリード,char_001 Fried]
+eh?
+Ah, uh, yeah. I agree……
+------------------------------------------------
+[00000062][フリード,char_001 Fried]
+@fcFFAAFFAA (I couldn't help but admire Panis's hair flowing in the wind...
+Panis's hair is beautiful...)
+------------------------------------------------
+[00000063][パニス,char_002 Panis]
+Chickens, sheep.
+Come here!
+------------------------------------------------
+[00000064][フリード,char_001 Fried]
+@fcFFAAFFAA (If you just reach out a little
+You can touch Panis' hair...)
+------------------------------------------------
+[00000065][フリード,char_001 Fried]
+@fcFFAAFFAA (No, no, you can't do that.
+If you suddenly do that,
+Panis would be surprised too...)
+------------------------------------------------
+[00000066][フリード,char_001 Fried]
+@fcFFAAFFAA (...but as far as conveying my feelings is concerned)
+Isn't it okay to do that? )
+------------------------------------------------
+[00000067][フリード,char_001 Fried]
+@fcFFAAFFAA (Fortunately, it's just me and Panis here.
+No one should be bothered. Okay…)
+------------------------------------------------
+[00000068][フリード,char_001 Fried]
+Pa-panis... I-I want you to listen to me...
+Oh, about me, Panis...
+------------------------------------------------
+[00000069][パニス,char_002 Panis]
+I love it!
+------------------------------------------------
+[00000070][フリード,char_001 Fried]
+Oh, really!?
+------------------------------------------------
+[00000071][パニス,char_002 Panis]
+Yeah!
+Panis, I love sheep!
+Fluffy, fluffy, and gentle!
+------------------------------------------------
+[00000072][フリード,char_001 Fried]
+Huh...sheep...?
+------------------------------------------------
+[00000073][パニス,char_002 Panis]
+Hey, hey, sheep!
+Come over here and let's play with Panis!
+------------------------------------------------
+[00000074][フリード,char_001 Fried]
+@fcFFAAFFAA (I never thought I would lose to a sheep...)
+------------------------------------------------
+[00000075][フリード,char_001 Fried]
+@fcFFAAFFAA (...but Panis seems happy to see the sheep,
+whatever)
+------------------------------------------------
+[00000076][パニス,char_002 Panis]
+Ah! Peter!
+Don't bully the sheep!
+------------------------------------------------
+[00000077][ピーター,char_520]
+Huh!? Pa, Panis!? What, all of a sudden?
+You're not bullying the sheep, are you?
+------------------------------------------------
+[00000078][パニス,char_002 Panis]
+But the sheep
+I'm squeezing her with my hands and teasing her!
+If you do that, you'll be fine!
+------------------------------------------------
+[00000079][ピーター,char_520]
+Ah...is this it? This is different.
+This is milking a sheep.
+------------------------------------------------
+[00000080][パニス,char_002 Panis]
+Chichi?
+------------------------------------------------
+[00000081][ピーター,char_520]
+yes. The milk used to bake bread is
+This is how they are separated from the sheep.
+------------------------------------------------
+[00000082][パニス,char_002 Panis]
+Doesn't it hurt?
+------------------------------------------------
+[00000083][ピーター,char_520]
+Of course it doesn't hurt. On the other hand, if you don't tighten it up from time to time,
+The sheep are suffering. My breasts will get swollen.
+------------------------------------------------
+[00000084][パニス,char_002 Panis]
+Oh I see……
+------------------------------------------------
+[00000085][ピーター,char_520]
+Would you like to try panis as well?
+------------------------------------------------
+[00000086][パニス,char_002 Panis]
+okay? 
+------------------------------------------------
+[00000087][ピーター,char_520]
+So why don't you come and sit here?
+And then there's sheep's milk...yes, there.
+Hold it gently...
+------------------------------------------------
+[00000088][パニス,char_002 Panis]
+Oh, what? Nothing comes out...
+Hmm...!
+------------------------------------------------
+[00000089][ピーター,char_520]
+ah! It'll hurt if you squeeze that hard!
+------------------------------------------------
+[00000090][パニス,char_002 Panis]
+But I don't want to...
+------------------------------------------------
+[00000091][ピーター,char_520]
+It doesn't hurt if you do it normally, but if it's too strong...
+So, how about I take your place?
+I'll show you how.
+------------------------------------------------
+[00000092][ピーター,char_520]
+Look, like this... like this.
+------------------------------------------------
+[00000093][パニス,char_002 Panis]
+Wow...that's amazing!
+Peter, you're so good...!
+------------------------------------------------
+[00000094][ピーター,char_520]
+No, no, well... ever since I was little,
+Because I do it every day.
+So, Panis. Could you try that again?
+------------------------------------------------
+[00000095][パニス,char_002 Panis]
+Yeah!
+------------------------------------------------
+[00000096][カール,char_508]
+Hey, hey!
+What do you think, what happened?
+------------------------------------------------
+[00000097][メリー,char_509]
+Let's do this~!
+------------------------------------------------
+[00000098][バッカス,char_527]
+Wow, what the heck is this!
+I'm not the type of person who can be defeated at this level!
+------------------------------------------------
+[00000099][フリード,char_001 Fried]
+Oh, is that... Bacchus?
+And even children and sheep!?
+------------------------------------------------
+[00000100][フリード,char_001 Fried]
+Is he actually fighting with a child?
+No, no matter how Bacchus he is, he would never do such a stupid thing...
+------------------------------------------------
+[00000101][バッカス,char_527]
+If this happens, it's my special secret!
+Take the Super Ultra Punch!
+------------------------------------------------
+[00000102][フリード,char_001 Fried]
+...Bacchus, what are you doing here?
+------------------------------------------------
+[00000103][バッカス,char_527]
+...Freed!?
+Hey, since when did you stop being there?
+------------------------------------------------
+[00000104][ロラン,char_507]
+Freed, don't get in the way! !
+Right now I'm playing with Bacchus!
+------------------------------------------------
+[00000105][メリー,char_509]
+That's it!
+Hey, Freed, let's play together!
+------------------------------------------------
+[00000106][フリード,char_001 Fried]
+Huh!? Hey, wait a minute.
+Bacchus, what do you mean?
+------------------------------------------------
+[00000107][バッカス,char_527]
+It's not like this.
+A casual walk... When I came to scout,
+The kids found me...
+------------------------------------------------
+[00000108][バッカス,char_527]
+What's more, this sheep guy
+It has my clothes in its mouth and won't let go...
+------------------------------------------------
+[00000109][バッカス,char_527]
+Because the kids really want to play with me,
+We had no choice but to play together.
+------------------------------------------------
+[00000110][カール,char_508]
+Because Uncle Bacchus,
+Whenever I come to the village, they always play with me.
+------------------------------------------------
+[00000111][フリード,char_001 Fried]
+Oh, that's right...I didn't know...
+I mean, what are you playing with?
+------------------------------------------------
+[00000112][バッカス,char_527]
+That one...
+Or playing pirates.
+------------------------------------------------
+[00000113][フリード,char_001 Fried]
+Isn't that what it is?
+------------------------------------------------
+[00000114][メリー,char_509]
+Hey, Freed!
+Freed is also a pirate!
+------------------------------------------------
+[00000115][フリード,char_001 Fried]
+No, I have something to do...
+You should let Uncle Bacchus play with you today.
+------------------------------------------------
+[00000116][バッカス,char_527]
+Oh, hey, Freed!
+Please keep this a secret!
+My dignity as a pirate...
+------------------------------------------------
+[00000117][フリード,char_001 Fried]
+I don't think that's the case originally...
+Well, I guess I don't understand how you feel.
+Understood. 
+------------------------------------------------
+[00000118][フリード,char_001 Fried]
+Instead, with the children
+Please play a lot!
+------------------------------------------------
+[00000119][バッカス,char_527]
+Oh, oh... I can't help it.
+Now, your opponent is the great pirate Bacchus!
+Come on, come on!!
+------------------------------------------------
+[00000120][ロラン,char_507]
+oh! 
+------------------------------------------------
+[00000121][パニス,char_002 Panis]
+I'll have it!
+------------------------------------------------
+[00000122][フリード,char_001 Fried]
+Panis, you don't have to eat it in such a hurry.
+There are so many of them that you won't run out.
+------------------------------------------------
+[00000123][キルマリア,char_007 Kilmaria]
+No wonder you want to eat in a hurry!
+No matter which one you choose, it's super delicious!
+Nggkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk kkk kkkkkkkkkk 
+------------------------------------------------
+[00000124][シャノン,char_004 Shannon]
+Killmaria-san, don't panic too much.
+Yes, tea.
+------------------------------------------------
+[00000125][キルマリア,char_007 Kilmaria]
+Oh, thank you very much……
+Halfway through The Exorcist,
+I almost lost my life...
+------------------------------------------------
+[00000126][ジンガ,char_005 zynga]
+Things like this are nice and relaxing.
+It's too relaxing,
+I feel like I'm forgetting about work.
+------------------------------------------------
+[00000127][ベルベット,char_008 Velvet]
+Isn't it nice once in a while?
+In life, sometimes you need a break.
+------------------------------------------------
+[00000128][ジンガ,char_005 zynga]
+Hahaha, for those who live their lives in their spare time,
+I don't want you to say that.
+------------------------------------------------
+[00000129][ベルベット,char_008 Velvet]
+Ah~! It's terrible!
+Freed, Zinga is bullying you!
+Comfort me, poor me!
+------------------------------------------------
+[00000130][フリード,char_001 Fried]
+Wait a minute? Mr. Velvet!?
+------------------------------------------------
+[00000131][シャノン,char_004 Shannon]
+Here, there!
+Stay away from Freed!
+------------------------------------------------
+[00000132][パニス,char_002 Panis]
+Adam, I wish I could have dinner with you.
+That would have been nice.
+------------------------------------------------
+[00000133][アダム,char_006 a-dam]
+You don't need to worry about me.
+I can't eat, but
+Just being with you is enough.
+------------------------------------------------
+[00000134][キルマリア,char_007 Kilmaria]
+Anyway, why is it suddenly a picnic?
+It's certainly a perfect day for a picnic,
+I thought it was a little too abrupt.
+------------------------------------------------
+[00000135][フリード,char_001 Fried]
+Ah, that's it.
+There was supposed to be a meeting of the merchant association today,
+Apparently it was canceled at the last minute.
+------------------------------------------------
+[00000136][シャノン,char_004 Shannon]
+The lunch box I was supposed to eat there,
+So I had a lot left over.
+------------------------------------------------
+[00000137][ジンガ,char_005 zynga]
+So, why is there such a large amount?
+We can't eat enough on our own.
+------------------------------------------------
+[00000138][パニス,char_002 Panis]
+If you have any leftover, share it with the sheep!
+------------------------------------------------
+[00000139][フリード,char_001 Fried]
+No, marinated sheep and fish.
+It's no good if you let me eat it...
+------------------------------------------------
+[00000140][アダム,char_006 a-dam]
+Surplus food should be refrigerated and taken home.
+It seems ideal, but
+Unfortunately, there is no way to refrigerate it.
+------------------------------------------------
+[00000141][ベルベット,char_008 Velvet]
+If that's the case, I'll just have to try my best to eat it.
+Hey guys, eat with enthusiasm!
+------------------------------------------------
+[00000142][ジンガ,char_005 zynga]
+Why do you only feed us?
+I might as well eat it myself.
+------------------------------------------------
+[00000143][ベルベット,char_008 Velvet]
+After all, I'm on a diet.
+------------------------------------------------
+[00000144][フリード,char_001 Fried]
+I'm almost at my limit...
+------------------------------------------------
+[00000145][キルマリア,char_007 Kilmaria]
+Well, the act of wasting food is
+Although it goes against Justice...
+I'm already feeling sick to my stomach...
+------------------------------------------------
+[00000146][パニス,char_002 Panis]
+It's delicious when we all eat together!
+------------------------------------------------
+[00000147][シャノン,char_004 Shannon]
+Panis... just eat that...
+Why are you so cheerful...
+------------------------------------------------
+[00000148][パニス,char_002 Panis]
+Okay, okay.
+Sheep-san, good job!
+------------------------------------------------
+[00000149][フリード,char_001 Fried]
+Panis, that sheep is your favorite.
+------------------------------------------------
+[00000150][パニス,char_002 Panis]
+Yeah!
+It's fluffy and fluffy and smells like sunflowers!
+------------------------------------------------
+[00000151][シャノン,char_004 Shannon]
+Even if I'm being caressed so roughly,
+I don't think you dislike it at all.
+------------------------------------------------
+[00000152][ピーター,char_520]
+Let Panis pet you,
+The sheep is also happy.
+------------------------------------------------
+[00000153][パニス,char_002 Panis]
+real!?
+Are you happy, sheep?
+------------------------------------------------
+[00000154][パニス,char_002 Panis]
+……a! He's saying yes!
+------------------------------------------------
+[00000155][パニス,char_002 Panis]
+Freed! older sister!
+Let's take this sheep home!
+------------------------------------------------
+[00000156][フリード,char_001 Fried]
+eh!?
+------------------------------------------------
+[00000157][シャノン,char_004 Shannon]
+I know how you feel, but...
+It's impossible for me to keep such a big animal at home.
+------------------------------------------------
+[00000158][パニス,char_002 Panis]
+Eh, why?
+He's such a quiet and nice boy.
+It's great even at home!
+------------------------------------------------
+[00000159][ピーター,char_520]
+But when you are taken away,
+I'll be in trouble too.
+------------------------------------------------
+[00000160][パニス,char_002 Panis]
+Panis, will you take care of it?
+I'll give you some food too
+I can even take you to the bath!
+------------------------------------------------
+[00000161][フリード,char_001 Fried]
+That's not the problem...
+Hmm, I'm in trouble.
+------------------------------------------------
+[00000162][シャノン,char_004 Shannon]
+Panis.
+Panis is living apart from me and Freed.
+You don't like it, do you?
+------------------------------------------------
+[00000163][パニス,char_002 Panis]
+Eh...yeah. No way!
+Panis, that's so lonely!
+------------------------------------------------
+[00000164][シャノン,char_004 Shannon]
+The same goes for this sheep.
+If you live apart from your friends and Peter,
+I'm sure you'll miss me.
+------------------------------------------------
+[00000165][パニス,char_002 Panis]
+……Is that so?
+------------------------------------------------
+[00000166][フリード,char_001 Fried]
+I agree.
+I think it would be better for the sheep to live on this large pasture.
+------------------------------------------------
+[00000167][ピーター,char_520]
+Panis.
+If you come here, you can play with the sheep anytime.
+Isn't that bad?
+------------------------------------------------
+[00000168][パニス,char_002 Panis]
+……O.K. I understand!
+Panis is coming to play again!
+See you soon, Sheep!
+------------------------------------------------
+[00000169][デボラ,char_512]
+Okay, okay, he's a good boy.
+Now, let's brush it.
+------------------------------------------------
+[00000170][パニス,char_002 Panis]
+huh……
+------------------------------------------------
+[00000171][デボラ,char_512]
+What is it? Panis-chan is
+She is brushing the sheep,
+Hasn't she seen it?
+------------------------------------------------
+[00000172][パニス,char_002 Panis]
+No. But...what Grandma Deborah is doing is...
+He saw it for the first time.
+------------------------------------------------
+[00000173][デボラ,char_512]
+Haha, is that so?
+Grandma sometimes does things like this.
+He's here to help out on the farm.
+------------------------------------------------
+[00000174][パニス,char_002 Panis]
+Is that so?
+Well then, maybe Grandma...
+Is that Peter's grandma?
+------------------------------------------------
+[00000175][デボラ,char_512]
+Huh? Ahahahaha, that's wrong.
+Baba is human, right?
+A human grandma can't have a beastkin grandson.
+------------------------------------------------
+[00000176][パニス,char_002 Panis]
+Hmm...
+That's right……
+------------------------------------------------
+[00000177][デボラ,char_512]
+Fufufu...
+But, Peter...
+And Panis-chan and the other kids too...
+------------------------------------------------
+[00000178][デボラ,char_512]
+For Grandma Deborah and Grandpa Boris,
+They're as cute as real grandchildren, aren't they?
+------------------------------------------------
+[00000179][デボラ,char_512]
+Also, the animals that support village life.
+That's why Grandma helps Peter.
+------------------------------------------------
+[00000180][パニス,char_002 Panis]
+Hmm...?
+------------------------------------------------
+[00000181][デボラ,char_512]
+Oh, was it a little difficult for Panis-chan?
+------------------------------------------------
+[00000182][パニス,char_002 Panis]
+Yeah...just a little.
+But, you know what?
+------------------------------------------------
+[00000183][パニス,char_002 Panis]
+I love Panis, Grandpa and Grandpa!
+Also, the animals too!
+------------------------------------------------
+[00000184][デボラ,char_512]
+Hahaha! As long as you understand that properly, you'll be fine.
+Panis-chan is a smart, good girl.
+------------------------------------------------
+[00000185][パニス,char_002 Panis]
+Ehehe...
+Thank you, Grandma!
+------------------------------------------------
+[00000186][パニス,char_002 Panis]
+Peter, why are you doing that?
+------------------------------------------------
+[00000187][ピーター,char_520]
+that? This is a bad insect that sticks to your body.
+I'm chasing them away.
+------------------------------------------------
+[00000188][フリード,char_001 Fried]
+There are many sheep,
+Brushing is also a pain.
+------------------------------------------------
+[00000189][ピーター,char_520]
+Well.
+But all my sheep are quiet.
+It's not that hard.
+------------------------------------------------
+[00000190][パニス,char_002 Panis]
+The sheep look comfortable...
+------------------------------------------------
+[00000191][ピーター,char_520]
+I agree.
+After all, it would be itchy if there were insects.
+------------------------------------------------
+[00000192][パニス,char_002 Panis]
+Peter!
+I would also like to “brushy” Panis!
+------------------------------------------------
+[00000193][ピーター,char_520]
+"Brushing".
+Hmm, that's right...
+I wonder if it's okay if it's a small child over there.
+------------------------------------------------
+[00000194][パニス,char_002 Panis]
+Yay! Yay!
+Sheep, come on!
+------------------------------------------------
+[00000195][フリード,char_001 Fried]
+Ah, here it comes.
+------------------------------------------------
+[00000196][ピーター,char_520]
+Okay, then this is a brush.
+Please be kind to me.
+------------------------------------------------
+[00000197][パニス,char_002 Panis]
+Yes!
+Good, good...
+------------------------------------------------
+[00000198][フリード,char_001 Fried]
+Panis is good at brushing.
+The sheep is wagging its tail happily.
+------------------------------------------------
+[00000199][パニス,char_002 Panis]
+Really!? I’m so happy!
+Good, good...
+------------------------------------------------
+[00000200][パニス,char_002 Panis]
+Levin!
+------------------------------------------------
+[00000201][レヴィン,char_009 Levin]
+yeah? Would you like to take a walk with Freed?
+------------------------------------------------
+[00000202][フリード,char_001 Fried]
+Yeah. 
+------------------------------------------------
+[00000203][レヴィン,char_009 Levin]
+Well.
+It's like going for a walk and inspecting the village.
+------------------------------------------------
+[00000204][パニス,char_002 Panis]
+Shisatsu...?
+------------------------------------------------
+[00000205][レヴィン,char_009 Levin]
+I mean, I'm just waiting and watching.
+The way everyone in the village lives.
+------------------------------------------------
+[00000206][パニス,char_002 Panis]
+So, who are you watching?
+------------------------------------------------
+[00000207][レヴィン,char_009 Levin]
+yeah?
+------------------------------------------------
+[00000208][パニス,char_002 Panis]
+You know, Panis and the animals?
+I know how you live!
+------------------------------------------------
+[00000209][レヴィン,char_009 Levin]
+No... that's why...
+------------------------------------------------
+[00000210][パニス,char_002 Panis]
+The animals eat grass!
+They even drink water at the pond!
+------------------------------------------------
+[00000211][パニス,char_002 Panis]
+Then Peter messes with me!
+When I do that, she gets happy and cries something like “mee!”
+------------------------------------------------
+[00000212][レヴィン,char_009 Levin]
+Hehe, I see...
+Do you squeal?
+------------------------------------------------
+[00000213][パニス,char_002 Panis]
+Yeah!
+------------------------------------------------
+[00000214][レヴィン,char_009 Levin]
+...There was no need to inspect it.
+There don't seem to be any problems living on this island.
+After all, it's a place you should get your hands on eventually.
+------------------------------------------------
+[00000215][フリード,char_001 Fried]
+Levin...
+------------------------------------------------
+[00000216][レヴィン,char_009 Levin]
+Hahaha, don't look so worried.
+Eventually, I guess.
+------------------------------------------------
+[00000217][レヴィン,char_009 Levin]
+For now……
+At best, I'll let you take it easy!
+------------------------------------------------
+[00000218][ピーター,char_520]
+Hey Levin.
+There's something I've always wanted to ask you,
+Is it okay?
+------------------------------------------------
+[00000219][レヴィン,char_009 Levin]
+Oh, what?
+------------------------------------------------
+[00000220][ピーター,char_520]
+It's about the animals of the continent.
+What do the chickens and sheep over there look like?
+I heard that there are some strange types.
+------------------------------------------------
+[00000221][レヴィン,char_009 Levin]
+That's right...I can't say it in one word.
+It's a vast continent, even chickens and sheep...
+There are various types depending on the land.
+------------------------------------------------
+[00000222][ピーター,char_520]
+I see...
+------------------------------------------------
+[00000223][レヴィン,char_009 Levin]
+What, you want to see the animals of the continent?
+Anyway, next time I set sail,
+Is it okay if I give you a ride to the continent?
+------------------------------------------------
+[00000224][ピーター,char_520]
+picture? I was wondering if I could keep it on my farm.
+------------------------------------------------
+[00000225][レヴィン,char_009 Levin]
+At the ranch?
+------------------------------------------------
+[00000226][ピーター,char_520]
+Yeah. The way they are raised, the texture of their fur, and the way their breasts come out...
+I wonder how it's different.
+------------------------------------------------
+[00000227][ピーター,char_520]
+Also, if you can keep different kinds of animals,
+It will be useful to everyone in the village...
+------------------------------------------------
+[00000228][レヴィン,char_009 Levin]
+Hehe...I see.
+Does that mean you have no intention of leaving the village?
+------------------------------------------------
+[00000229][ピーター,char_520]
+Yeah. 
+------------------------------------------------
+[00000230][レヴィン,char_009 Levin]
+There's no need to apologize. Every human being,
+It's best to live where you like.
+------------------------------------------------
+[00000231][レヴィン,char_009 Levin]
+Perhaps the animals of the continent, too.
+If you bring me here, maybe you'll like it here.
+------------------------------------------------
+[00000232][ピーター,char_520]
+That's true!
+------------------------------------------------
+[00000233][レヴィン,char_009 Levin]
+Okay, next time I go to the continent,
+I'll bring you some! Look forward to it!
+------------------------------------------------
+[00000234][ピーター,char_520]
+Really!? Thank you, Levin!
+------------------------------------------------
+[00000235][ヴァイオラ,char_003 Viola]
+It's a peaceful landscape.
+It feels like peace itself.
+------------------------------------------------
+[00000236][レヴィン,char_009 Levin]
+Oh, absolutely.
+------------------------------------------------
+[00000237][フリード,char_001 Fried]
+@fcFFAAFFAA (Is that Levin and Viola?
+It's a rare combination...)
+------------------------------------------------
+[00000238][レヴィン,char_009 Levin]
+……in?
+Sister, how long do you plan to stay here?
+------------------------------------------------
+[00000239][ヴァイオラ,char_003 Viola]
+Isn't that my choice?
+Well, I plan to go home before sunset.
+------------------------------------------------
+[00000240][レヴィン,char_009 Levin]
+That's not what it means.
+How long do you intend to stay in this village?
+------------------------------------------------
+[00000241][ヴァイオラ,char_003 Viola]
+...That's just my choice.
+You are the village you plan to occupy,
+How long do you plan on getting to know each other?
+------------------------------------------------
+[00000242][レヴィン,char_009 Levin]
+I don't mean to get acquainted with each other.
+Besides, no matter how I act,
+That's up to me.
+------------------------------------------------
+[00000243][フリード,char_001 Fried]
+@fcFFAAFFAA (This is a rather disturbing conversation...
+Maybe I should stop it...? )
+------------------------------------------------
+[00000244][レヴィン,char_009 Levin]
+…………
+------------------------------------------------
+[00000245][ヴァイオラ,char_003 Viola]
+…………
+------------------------------------------------
+[00000246][ヴァイオラ,char_003 Viola]
+...So, how long do you plan on doing this?
+It doesn't matter what the village is like,
+About being absent-minded here.
+------------------------------------------------
+[00000247][レヴィン,char_009 Levin]
+Isn't that good?
+Please enjoy the scenery of the village for a while.
+------------------------------------------------
+[00000248][レヴィン,char_009 Levin]
+This place has a really nice view.
+...It's not just a view. animals, climate,
+The guys in the village are all the best.
+------------------------------------------------
+[00000249][ヴァイオラ,char_003 Viola]
+...If you like it that much
+Why do you want to occupy it?
+------------------------------------------------
+[00000250][レヴィン,char_009 Levin]
+There's no reason.
+Get what you want. That's it.
+------------------------------------------------
+[00000251][ヴァイオラ,char_003 Viola]
+That's just a selfish phrase.
+What would the villagers say if they asked?
+------------------------------------------------
+[00000252][レヴィン,char_009 Levin]
+The villagers will be grateful.
+I'm the one who said I'll protect you.
+------------------------------------------------
+[00000253][ヴァイオラ,char_003 Viola]
+Isn't the story contradictory?
+Do you want to take over the village? Do you want to protect it?
+------------------------------------------------
+[00000254][レヴィン,char_009 Levin]
+It's both.
+I like it, so I want it.
+I like it, so I want to protect it.
+------------------------------------------------
+[00000255][レヴィン,char_009 Levin]
+I wanted to protect the village with my hands,
+The whole village is in my hands,
+Isn't that the quickest way?
+------------------------------------------------
+[00000256][ヴァイオラ,char_003 Viola]
+...I was stunned.
+It's a wild way of thinking, very pirate-like.
+------------------------------------------------
+[00000257][ヴァイオラ,char_003 Viola]
+but……
+"I like it so I'll protect it", huh?
+It's not bad.
+------------------------------------------------
+[00000258][フリード,char_001 Fried]
+@fcFFAAFFAA (I thought it was going to start with a fight though)
+That doesn't seem to be the case)
+------------------------------------------------
+[00000259][フリード,char_001 Fried]
+@fcFFAAFFAA (And...they both have their own ways.
+It seems like he's thinking about the village...
+...I'm a little happy)
+------------------------------------------------
+

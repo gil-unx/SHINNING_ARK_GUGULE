@@ -1,0 +1,709 @@
+[0188]
+*****************
+[00000000][レヴィン,char_009 Levin]
+What, Freed?
+What are you sneaking around on?
+------------------------------------------------
+[00000001][フリード,char_001 Fried]
+I'm not sneaking around.
+Because Levin is alone in a place like this,
+He wanted to talk slowly.
+------------------------------------------------
+[00000002][レヴィン,char_009 Levin]
+I'm sorry, but I don't feel like talking to you.
+I'm looking at the island in a good mood.
+Please don't disturb me.
+------------------------------------------------
+[00000003][フリード,char_001 Fried]
+Well, without saying that, let's talk a little bit.
+------------------------------------------------
+[00000004][レヴィン,char_009 Levin]
+I don't know what you're talking about, but just a little.
+------------------------------------------------
+[00000005][フリード,char_001 Fried]
+What will Levin do now?
+------------------------------------------------
+[00000006][レヴィン,char_009 Levin]
+I do not know.
+When I was thinking about it, this is where my feet were headed.
+------------------------------------------------
+[00000007][フリード,char_001 Fried]
+This place is peaceful and comfortable.
+------------------------------------------------
+[00000008][レヴィン,char_009 Levin]
+That's right. This is where you can feel the richness of this village the most.
+By the way, maybe. It's my favorite place.
+------------------------------------------------
+[00000009][フリード,char_001 Fried]
+I like it too!
+------------------------------------------------
+[00000010][レヴィン,char_009 Levin]
+If you are someone who has a strong feeling for the village...this island,
+Everyone will love this place.
+------------------------------------------------
+[00000011][フリード,char_001 Fried]
+After all, Levin cares about the village and the island,
+I guess he thinks about it.
+------------------------------------------------
+[00000012][レヴィン,char_009 Levin]
+It's not necessarily the "feeling" you expect, is it?
+------------------------------------------------
+[00000013][フリード,char_001 Fried]
+However, I am grateful for the fact that they care about the island.
+It won't change, right?
+------------------------------------------------
+[00000014][レヴィン,char_009 Levin]
+...Maybe.
+------------------------------------------------
+[00000015][フリード,char_001 Fried]
+In that case, that's fine with me.
+------------------------------------------------
+[00000016][レヴィン,char_009 Levin]
+As always, you...
+------------------------------------------------
+[00000017][レヴィン,char_009 Levin]
+I'll take a moment to confess.
+I once sealed off his ambition to take over this island.
+------------------------------------------------
+[00000018][フリード,char_001 Fried]
+eh?
+That's nice, but are you serious?
+------------------------------------------------
+[00000019][レヴィン,char_009 Levin]
+After all this trouble
+I imitated a fire thief and stole the island.
+It's like being made fun of until the world really comes to an end.
+------------------------------------------------
+[00000020][フリード,char_001 Fried]
+After all, you have to fight and win, right?
+------------------------------------------------
+[00000021][レヴィン,char_009 Levin]
+Well, that's right.
+Even if this island were to become mine now,
+That's not fun at all. I don't have enough sense of accomplishment.
+------------------------------------------------
+[00000022][フリード,char_001 Fried]
+That idea doesn't sound like a pirate.
+------------------------------------------------
+[00000023][レヴィン,char_009 Levin]
+There are many different kinds of pirates.
+------------------------------------------------
+[00000024][フリード,char_001 Fried]
+that's……
+Is it unique to a former princely pirate?
+------------------------------------------------
+[00000025][レヴィン,char_009 Levin]
+ah.
+I guess I'm a rare pirate after all.
+------------------------------------------------
+[00000026][フリード,char_001 Fried]
+eh? 
+------------------------------------------------
+[00000027][レヴィン,char_009 Levin]
+Don't be surprised if you hear it yourself!
+------------------------------------------------
+[00000028][フリード,char_001 Fried]
+No...I admit it too easily.
+------------------------------------------------
+[00000029][レヴィン,char_009 Levin]
+That's right. Maybe it's a joke.
+------------------------------------------------
+[00000030][フリード,char_001 Fried]
+eh?
+------------------------------------------------
+[00000031][レヴィン,char_009 Levin]
+Hahaha.
+------------------------------------------------
+[00000032][フリード,char_001 Fried]
+What, was that a lie...
+------------------------------------------------
+[00000033][レヴィン,char_009 Levin]
+Who said it was a lie?
+------------------------------------------------
+[00000034][フリード,char_001 Fried]
+...Is it true after all?
+------------------------------------------------
+[00000035][レヴィン,char_009 Levin]
+Im kidding.
+------------------------------------------------
+[00000036][フリード,char_001 Fried]
+Which one!?
+------------------------------------------------
+[00000037][レヴィン,char_009 Levin]
+Do whatever you like.
+------------------------------------------------
+[00000038][フリード,char_001 Fried]
+Already~!! Make it clear~!!
+------------------------------------------------
+[00000039][フリード,char_001 Fried]
+Hi Levin. What are you looking at?
+------------------------------------------------
+[00000040][レヴィン,char_009 Levin]
+It's not like I'm looking at anything special.
+When I look at the village, I just look at it without saying anything.
+------------------------------------------------
+[00000041][フリード,char_001 Fried]
+I see, this is Levin's
+It's my favorite place.
+------------------------------------------------
+[00000042][レヴィン,char_009 Levin]
+It's nice to look at the sea, but
+It's not bad to see green like this.
+------------------------------------------------
+[00000043][フリード,char_001 Fried]
+I agree.
+------------------------------------------------
+[00000044][フリード,char_001 Fried]
+Isn't it difficult to see the beautiful scenery with just one eye?
+------------------------------------------------
+[00000045][レヴィン,char_009 Levin]
+Once you get used to it, it doesn't matter.
+------------------------------------------------
+[00000046][フリード,char_001 Fried]
+Those eyes...what happened?
+------------------------------------------------
+[00000047][レヴィン,char_009 Levin]
+I can't help it. It's just blocked.
+------------------------------------------------
+[00000048][フリード,char_001 Fried]
+eh!?
+------------------------------------------------
+[00000049][パニス,char_002 Panis]
+Can you see the eyes that are blocked?
+------------------------------------------------
+[00000050][レヴィン,char_009 Levin]
+of course.
+------------------------------------------------
+[00000051][フリード,char_001 Fried]
+what.
+All I knew was that it was destroyed during the battle...
+------------------------------------------------
+[00000052][レヴィン,char_009 Levin]
+Do I look like such an idiot?
+------------------------------------------------
+[00000053][フリード,char_001 Fried]
+But why do you go out of your way to cover one eye?
+------------------------------------------------
+[00000054][レヴィン,char_009 Levin]
+It's to help you see better at night.
+When you suddenly go from a bright place to a dark place,
+You won't be able to see anything until your eyes adjust, right?
+------------------------------------------------
+[00000055][レヴィン,char_009 Levin]
+If I lose my life because of that, nothing will happen forever.
+You won't be able to see it. So one eye is always on
+I want it to work in the dark.
+------------------------------------------------
+[00000056][フリード,char_001 Fried]
+Is that so……
+So a pirate with one eye closed?
+Is everyone actually like that?
+------------------------------------------------
+[00000057][レヴィン,char_009 Levin]
+That's probably not the case.
+But not only pirates, but also Katagi sailors.
+It's not uncommon to see people with one eye covered.
+------------------------------------------------
+[00000058][フリード,char_001 Fried]
+Levin wasn't originally a pirate either, right?
+Was he a sailor before he became a pirate?
+------------------------------------------------
+[00000059][レヴィン,char_009 Levin]
+You can't help but
+Don't try to bring it up to my old story...
+------------------------------------------------
+[00000060][フリード,char_001 Fried]
+Because I'm curious.
+------------------------------------------------
+[00000061][レヴィン,char_009 Levin]
+My country was a maritime nation.
+It's bigger than this island, but
+The same goes for being surrounded by the sea on all sides.
+------------------------------------------------
+[00000062][レヴィン,char_009 Levin]
+That's why all the men go on the boat.
+If he doesn't know about ships and the sea, he can't live a good life.
+That's the kind of country it is.
+------------------------------------------------
+[00000063][レヴィン,char_009 Levin]
+As the second prince of that country,
+He was in charge of the navy...
+------------------------------------------------
+[00000064][フリード,char_001 Fried]
+Huh!? Then it's the prince after all...
+------------------------------------------------
+[00000065][レヴィン,char_009 Levin]
+Well, what do you think?
+Maybe everything just now is a lie?
+------------------------------------------------
+[00000066][フリード,char_001 Fried]
+I'll say that again...
+------------------------------------------------
+[00000067][レヴィン,char_009 Levin]
+Hahaha. Stop worrying, stop worrying, boy.
+Someday when I feel like it
+Maybe you'll just tell me the truth?
+------------------------------------------------
+[00000068][フリード,char_001 Fried]
+Yes yes...
+I'll wait without relying on it.
+------------------------------------------------
+[00000069][フリード,char_001 Fried]
+Hi Levin.
+------------------------------------------------
+[00000070][レヴィン,char_009 Levin]
+Sorry boy, I'm still trying to figure it out.
+See you.
+------------------------------------------------
+[00000071][フリード,char_001 Fried]
+@fcFFAAFFAA (Levin, where are you going?
+I’m curious…)
+------------------------------------------------
+[00000072][フリード,char_001 Fried]
+There's no need...
+------------------------------------------------
+[00000073][レヴィン,char_009 Levin]
+I happened to find a monster that was about to attack the village.
+I am indebted to this village,
+I wanted to kill it before it caused any damage.
+------------------------------------------------
+[00000074][レヴィン,char_009 Levin]
+I can defeat a guy like that by myself.
+That's why I came to defeat him alone.
+...Is there any problem?
+------------------------------------------------
+[00000075][フリード,char_001 Fried]
+Wouldn't it be safer if we all worked together?
+------------------------------------------------
+[00000076][レヴィン,char_009 Levin]
+It's not enough just to cooperate in everything.
+That's what familiarity is all about.
+------------------------------------------------
+[00000077][フリード,char_001 Fried]
+Working together to fight monsters,
+We're not friends!
+------------------------------------------------
+[00000078][レヴィン,char_009 Levin]
+Socialize in moderation.
+------------------------------------------------
+[00000079][フリード,char_001 Fried]
+picture?
+------------------------------------------------
+[00000080][レヴィン,char_009 Levin]
+It's my life lesson.
+------------------------------------------------
+[00000081][フリード,char_001 Fried]
+...What you're saying is contradictory.
+You are our strength,
+You said it was a “unity,” right?
+------------------------------------------------
+[00000082][レヴィン,char_009 Levin]
+Oh, I did say that.
+But I'm outside of that circle.
+I have no business or interest in uniting with you.
+------------------------------------------------
+[00000083][フリード,char_001 Fried]
+That's why...
+------------------------------------------------
+[00000084][レヴィン,char_009 Levin]
+This kind of relationship is just right.
+That's what I mean when I say no to acquaintances.
+------------------------------------------------
+[00000085][フリード,char_001 Fried]
+But I still can't accept it.
+Even Levin's pirate friends...
+------------------------------------------------
+[00000086][レヴィン,char_009 Levin]
+Did it look like you were familiar with each other?
+I didn't have the slightest intention of doing so...
+------------------------------------------------
+[00000087][フリード,char_001 Fried]
+Are you a friend who is always with you?
+------------------------------------------------
+[00000088][レヴィン,char_009 Levin]
+Not always.
+We'll stay together if we need to, and we'll separate if we don't need to.
+In fact, we've already broken up.
+------------------------------------------------
+[00000089][フリード,char_001 Fried]
+eh?
+------------------------------------------------
+[00000090][レヴィン,char_009 Levin]
+You can't move a ship alone.
+That's why I paid them and hired them, but even in another world.
+It's cruel to have to accompany her. So I set him free.
+------------------------------------------------
+[00000091][フリード,char_001 Fried]
+So, what about everyone now...?
+------------------------------------------------
+[00000092][レヴィン,char_009 Levin]
+I do not know. I'll probably be on another ship.
+------------------------------------------------
+[00000093][フリード,char_001 Fried]
+Is it so……
+But everyone was always with Levin.
+Don't you want to be there?
+------------------------------------------------
+[00000094][レヴィン,char_009 Levin]
+How about?
+Everyone treats it as a job to the last,
+I think he was just with me.
+------------------------------------------------
+[00000095][フリード,char_001 Fried]
+But if we're together,
+Isn't it a strong bond?
+That's all we can do together.
+------------------------------------------------
+[00000096][レヴィン,char_009 Levin]
+Yeah...maybe.
+Indeed, that is your strength.
+------------------------------------------------
+[00000097][レヴィン,char_009 Levin]
+But that's a stranger's story.
+------------------------------------------------
+[00000098][レヴィン,char_009 Levin]
+...It's a little too heavy for me right now.
+------------------------------------------------
+[00000099][レヴィン,char_009 Levin]
+Well, there are many things.
+------------------------------------------------
+[00000100][フリード,char_001 Fried]
+Levin...
+------------------------------------------------
+[00000101][レヴィン,char_009 Levin]
+…………
+------------------------------------------------
+[00000102][フリード,char_001 Fried]
+You were here after all.
+------------------------------------------------
+[00000103][レヴィン,char_009 Levin]
+You look like you want to ask me something again.
+------------------------------------------------
+[00000104][フリード,char_001 Fried]
+Yeah. 
+------------------------------------------------
+[00000105][レヴィン,char_009 Levin]
+……ah.
+------------------------------------------------
+[00000106][フリード,char_001 Fried]
+I want to ask you again.
+------------------------------------------------
+[00000107][レヴィン,char_009 Levin]
+law. 
+------------------------------------------------
+[00000108][フリード,char_001 Fried]
+Levin's past.
+Where were you born and what kind of people did you meet?
+What made you want to become a pirate?
+------------------------------------------------
+[00000109][レヴィン,char_009 Levin]
+What do you do when you hear it?
+------------------------------------------------
+[00000110][フリード,char_001 Fried]
+I just don't understand Levin's way of thinking.
+So, when I heard various things about Levin,
+I thought I might be able to understand it a little bit.
+------------------------------------------------
+[00000111][レヴィン,char_009 Levin]
+You also like things.
+------------------------------------------------
+[00000112][フリード,char_001 Fried]
+I want to know more about Levin.
+------------------------------------------------
+[00000113][レヴィン,char_009 Levin]
+It's a straight shot again.
+------------------------------------------------
+[00000114][レヴィン,char_009 Levin]
+Well, that's fine. It's not something to hide.
+Second Prince of Wilhelm Kingdom,
+Let us tell you about the life of Levin Williams.
+------------------------------------------------
+[00000115][フリード,char_001 Fried]
+Second prince...
+------------------------------------------------
+[00000116][レヴィン,char_009 Levin]
+Our country is far away from here, across the ocean.
+It is probably a large country that no one living on this island knows about.
+I've been sailing on warships since I was a child.
+------------------------------------------------
+[00000117][レヴィン,char_009 Levin]
+From that time on, I was unbeatable in handling the bayonet,
+After he grew up and was assigned the command ship and then the navy,
+He defeated the countries that opposed him one after another.
+------------------------------------------------
+[00000118][レヴィン,char_009 Levin]
+Pirates were successful and defeated without any questions asked.
+It was fun back then...
+------------------------------------------------
+[00000119][フリード,char_001 Fried]
+Why is that a pirate?
+------------------------------------------------
+[00000120][レヴィン,char_009 Levin]
+All sorts of gears started to go out of whack.
+I think I had a lot of trust from my subordinates,
+Apparently, my brother didn't like it.
+------------------------------------------------
+[00000121][レヴィン,char_009 Levin]
+I loved my brother
+He respected him as the first prince.
+Originally, I had no ambition to rule the country.
+------------------------------------------------
+[00000122][レヴィン,char_009 Levin]
+Therefore, if you are loyal to your country and fulfill your duties,
+I thought that I would eventually gain my brother's understanding.
+I didn't really care.
+------------------------------------------------
+[00000123][レヴィン,char_009 Levin]
+However, other emotions began to swirl around me...
+------------------------------------------------
+[00000124][フリード,char_001 Fried]
+Another emotion?
+------------------------------------------------
+[00000125][レヴィン,char_009 Levin]
+That's too much trust, Freed.
+My men, the Navy guys, I'm
+Don't tell me that you're more worthy of being king than my brother.
+------------------------------------------------
+[00000126][レヴィン,char_009 Levin]
+Before I knew it, they lifted me up,
+They began working to unseat his brother as heir to the throne.
+------------------------------------------------
+[00000127][レヴィン,char_009 Levin]
+By the time I realized it, it was already too late.
+My brother and those who support him, and those who support me
+There was an open conflict.
+------------------------------------------------
+[00000128][レヴィン,char_009 Levin]
+Now it's time to decide between sexes with the sword.
+There is no solution other than for either party to withdraw.
+------------------------------------------------
+[00000129][レヴィン,char_009 Levin]
+In the end, I voluntarily renounced my right to inheritance and left the country.
+I swore to my brother that I would never come back.
+------------------------------------------------
+[00000130][レヴィン,char_009 Levin]
+Since then, I have been thinking about the country that I should rule.
+Or they roam the wide ocean in search of territory.
+------------------------------------------------
+[00000131][フリード,char_001 Fried]
+Oh I see……
+------------------------------------------------
+[00000132][レヴィン,char_009 Levin]
+My subordinates are also thinking about me.
+It was probably an action.
+That's why it was so hard for me. It was sad.
+------------------------------------------------
+[00000133][レヴィン,char_009 Levin]
+Since then, I have tried not to have deep relationships with people.
+It's okay for me to include it. Moderation can be maintained.
+------------------------------------------------
+[00000134][レヴィン,char_009 Levin]
+However, other people think about it.
+Hiring someone for money is the best you can do.
+------------------------------------------------
+[00000135][レヴィン,char_009 Levin]
+Socialize in moderation. That's what it means.
+------------------------------------------------
+[00000136][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000137][レヴィン,char_009 Levin]
+what up? 
+------------------------------------------------
+[00000138][フリード,char_001 Fried]
+No... how should I say it...
+Somehow, from the usual Levin
+I can't even imagine...
+------------------------------------------------
+[00000139][レヴィン,char_009 Levin]
+Really?
+------------------------------------------------
+[00000140][フリード,char_001 Fried]
+The way he speaks is also different than usual.
+------------------------------------------------
+[00000141][レヴィン,char_009 Levin]
+ah……
+Whenever I talk about my country, I tend to go back to my old tone.
+------------------------------------------------
+[00000142][フリード,char_001 Fried]
+But thank you for talking to me.
+I can't say it clearly, but I think Levin's way of thinking is a little
+I feel like I understand.
+------------------------------------------------
+[00000143][レヴィン,char_009 Levin]
+Really. 
+------------------------------------------------
+[00000144][フリード,char_001 Fried]
+@fcFFAAFFAA (But... that way of thinking...
+Does Levin really think he's right...? )
+------------------------------------------------
+[00000145][フリード,char_001 Fried]
+Hi Levin. What are you doing?
+------------------------------------------------
+[00000146][レヴィン,char_009 Levin]
+No, just a little bit with Sister.
+------------------------------------------------
+[00000147][フリード,char_001 Fried]
+With Kilmaria?
+That's an unusual combination.
+------------------------------------------------
+[00000148][キルマリア,char_007 Kilmaria]
+Thank you for waiting, Mr. Levin!
+Are Mr. Freed and Mr. Panis also with you?
+It's nice and reassuring to have 4 people!
+------------------------------------------------
+[00000149][フリード,char_001 Fried]
+No, we were just passing by...
+------------------------------------------------
+[00000150][キルマリア,char_007 Kilmaria]
+Let's go together!
+Actually, I found something strange during my research.
+I invited Mr. Levin.
+------------------------------------------------
+[00000151][フリード,char_001 Fried]
+What's strange?
+------------------------------------------------
+[00000152][レヴィン,char_009 Levin]
+My sister said that there was a rock with my name carved on it.
+Looks like you found it...
+------------------------------------------------
+[00000153][レヴィン,char_009 Levin]
+The guys from my pirate group...
+They say it's a message they left behind...
+------------------------------------------------
+[00000154][フリード,char_001 Fried]
+...!?
+We're going too! Isn't it okay, Levin!?
+------------------------------------------------
+[00000155][レヴィン,char_009 Levin]
+ah……
+------------------------------------------------
+[00000156][レヴィン,char_009 Levin]
+…………
+------------------------------------------------
+[00000157][フリード,char_001 Fried]
+...Levin?
+------------------------------------------------
+[00000158][レヴィン,char_009 Levin]
+…………
+------------------------------------------------
+[00000159][フリード,char_001 Fried]
+Let me read it for a moment.
+What what……
+------------------------------------------------
+[00000160][]
+@lt1@fs16@dt2@db1@dcFF000000 Mr. Levin...I got angry every time I called him that.
+I want you to forgive me just for today.
+------------------------------------------------
+[00000161][]
+@lt1@fs16@dt2@db1@dcFF000000As you said, I've always called myself "captain"
+I was calling you, but in my heart, I was always
+I used to call him "Mr. Levin."
+------------------------------------------------
+[00000162][]
+@lt1@fs16@dt2@db1@dcFF000000But I hope to board Mr. Levin's ship.
+I was quite confused at first.
+I underestimated the dangerous prince's pretending to be a pirate.
+------------------------------------------------
+[00000163][]
+@lt1@fs16@dt2@db1@dcFF000000Of course, once you get on the ship,
+Those concerns quickly disappeared, though.
+------------------------------------------------
+[00000164][]
+@lt1@fs16@dt2@db1@dcFF000000Anyway, Mr. Levin,
+He was the best sailor I've ever met.
+I'm sure everyone felt the same way.
+------------------------------------------------
+[00000165][フリード,char_001 Fried]
+This... was addressed to Levin...
+------------------------------------------------
+[00000166][]
+@lt1@fs16@dt2@db1@dcFF000000When Mr. Levin said he was disbanding due to lack of money,
+Everything in front of me became pitch black.
+Words I never wanted to hear...
+------------------------------------------------
+[00000167][]
+@lt1@fs16@dt2@db1@dcFF000000 All of us Levin Pirates, even if we don't have money
+I was determined to follow Mr. Levin for the rest of my life.
+------------------------------------------------
+[00000168][]
+@lt1@fs16@dt2@db1@dcFF000000But I knew that, Mr. Levin.
+He didn't want to involve us in leaving for another world.
+It turns out he fired me on purpose.
+------------------------------------------------
+[00000169][]
+@lt1@fs16@dt2@db1@dcFF000000So we got fed up and decided to get off the ship.
+I swore that I would never go against Master Levin,
+I cannot interfere with Mr. Levin.
+------------------------------------------------
+[00000170][]
+@lt1@fs16@dt2@db1@dcFF000000Instead,
+We started living on this island.
+To protect the island until Master Levin returns.
+------------------------------------------------
+[00000171][]
+@lt1@fs16@dt2@db1@dcFF000000It was difficult at first to get used to living on land,
+When I tried it, it was actually fun.
+After all, it has continued for over 60 years.
+------------------------------------------------
+[00000172][]
+@lt1@fs16@dt2@db1@dcFF000000 All my friends died, and I, the last one left,
+It looks like it's finally time to pick you up, but I have no regrets.
+I'm satisfied that I've been able to live up to my vows.
+------------------------------------------------
+[00000173][]
+@lt1@fs16@dt2@db1@dcFF000000 In the name of the proud Levin Pirates,
+I would like to report here that I have successfully protected this island.
+I believe that Mr. Levin will definitely return to this island from another world.
+------------------------------------------------
+[00000174][フリード,char_001 Fried]
+It was a note from one of the sailors who left behind.
+Levin...
+------------------------------------------------
+[00000175][レヴィン,char_009 Levin]
+Shit...
+------------------------------------------------
+[00000176][レヴィン,char_009 Levin]
+He passed away leaving behind something like this...
+------------------------------------------------
+[00000177][フリード,char_001 Fried]
+With everyone in the pirate group,
+It wasn't just a relationship where I hired someone for money.
+------------------------------------------------
+[00000178][キルマリア,char_007 Kilmaria]
+that's right! I think I was satisfied that I achieved justice.
+------------------------------------------------
+[00000179][レヴィン,char_009 Levin]
+Satisfied... huh?
+------------------------------------------------
+[00000180][フリード,char_001 Fried]
+The sailors were my ``comrades.''
+But if Levin doesn't accept that feeling,
+They don't get excited either.
+------------------------------------------------
+[00000181][レヴィン,char_009 Levin]
+fellow……
+------------------------------------------------
+[00000182][フリード,char_001 Fried]
+Levin was protected by his "comrades".
+As a member of this island, this time with us,
+We have to protect the island.
+------------------------------------------------
+[00000183][レヴィン,char_009 Levin]
+……mother.
+That's a ridiculous logic.
+------------------------------------------------
+[00000184][レヴィン,char_009 Levin]
+……understood.
+You might be right, Freed.
+------------------------------------------------
+[00000185][フリード,char_001 Fried]
+Thank you, Levin!
+------------------------------------------------
+[00000186][キルマリア,char_007 Kilmaria]
+Wonderful Justice!
+------------------------------------------------
+[00000187][レヴィン,char_009 Levin]
+But I don't want to get to know each other.
+------------------------------------------------
+

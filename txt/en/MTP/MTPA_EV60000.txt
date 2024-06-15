@@ -1,0 +1,2408 @@
+[0610]
+*****************
+[00000000][パニス,char_002 Panis]
+Good morning, Freed.
+Let's do our best today too!
+------------------------------------------------
+[00000001][パニス,char_002 Panis]
+Wow!
+The sun is so bright! Good weather!
+------------------------------------------------
+[00000002][パニス,char_002 Panis]
+Freed, the weather is nice today.
+Sun is also full of energy!
+------------------------------------------------
+[00000003][パニス,char_002 Panis]
+Fufufu!
+What kind of day will it be today? I'm looking forward to it!
+------------------------------------------------
+[00000004][パニス,char_002 Panis]
+Ugh... sleepy...
+Panis, I want to take a nap...
+------------------------------------------------
+[00000005][パニス,char_002 Panis]
+Wow... look!
+That cloud shape is so interesting!
+------------------------------------------------
+[00000006][パニス,char_002 Panis]
+Ahaha! Everyone in the village is full of energy!
+------------------------------------------------
+[00000007][パニス,char_002 Panis]
+Hey hey!
+Panis, I want to play with you a lot!
+------------------------------------------------
+[00000008][パニス,char_002 Panis]
+Wow... so beautiful...
+Look, it's a sunset!
+------------------------------------------------
+[00000009][パニス,char_002 Panis]
+Wow...
+The surroundings turned red...
+------------------------------------------------
+[00000010][パニス,char_002 Panis]
+Panis I'm hungry!
+What's for dinner today?
+------------------------------------------------
+[00000011][パニス,char_002 Panis]
+The sun is setting.
+Today is almost over...
+It seems like it goes by so quickly...
+------------------------------------------------
+[00000012][パニス,char_002 Panis]
+It's very quiet at night...
+I can hear the sound of waves and the voices of insects...
+------------------------------------------------
+[00000013][パニス,char_002 Panis]
+great……
+Look at the sky... there are so many stars...
+------------------------------------------------
+[00000014][パニス,char_002 Panis]
+It's pitch dark...
+Freed...don't let go of my hand...?
+------------------------------------------------
+[00000015][パニス,char_002 Panis]
+Today was fun too...!
+I hope you have fun tomorrow too...!
+------------------------------------------------
+[00000016][パニス,char_002 Panis]
+Panis, I love the square!
+There are lots of shops and it's fun!
+------------------------------------------------
+[00000017][パニス,char_002 Panis]
+Panis studies a lot at school!
+------------------------------------------------
+[00000018][パニス,char_002 Panis]
+Hey! 
+------------------------------------------------
+[00000019][パニス,char_002 Panis]
+Everyone loves open spaces, too.
+There are always lots of people!
+------------------------------------------------
+[00000020][パニス,char_002 Panis]
+ah! 
+------------------------------------------------
+[00000021][パニス,char_002 Panis]
+great! 
+------------------------------------------------
+[00000022][パニス,char_002 Panis]
+Hmm...is that Kakashi-san mad?
+Your face is a little scary...
+------------------------------------------------
+[00000023][パニス,char_002 Panis]
+Oh! Looks delicious!
+------------------------------------------------
+[00000024][パニス,char_002 Panis]
+The sound of waves is so nice...
+Zazaan, Zazaan...
+------------------------------------------------
+[00000025][パニス,char_002 Panis]
+Ah, there's a fish!
+I'm feeling great!
+------------------------------------------------
+[00000026][パニス,char_002 Panis]
+Panis also wants to move the ship...
+Is it difficult?
+------------------------------------------------
+[00000027][パニス,char_002 Panis]
+Sea water is beautiful.
+You can see it all the way!
+------------------------------------------------
+[00000028][パニス,char_002 Panis]
+Everyone is so cute!
+I want to pet Panis!
+------------------------------------------------
+[00000029][パニス,char_002 Panis]
+Look look!
+That sheep is so fluffy!
+------------------------------------------------
+[00000030][パニス,char_002 Panis]
+Wow...the wind here feels so good!
+------------------------------------------------
+[00000031][パニス,char_002 Panis]
+ah!
+There was a big fish in the pond just now!
+------------------------------------------------
+[00000032][パニス,char_002 Panis]
+It feels very strange here...
+It's not just Panis, right?
+------------------------------------------------
+[00000033][パニス,char_002 Panis]
+It's always quiet here...
+------------------------------------------------
+[00000034][パニス,char_002 Panis]
+Wow! It's so big!
+------------------------------------------------
+[00000035][パニス,char_002 Panis]
+Panis... I feel calm when I'm here...
+------------------------------------------------
+[00000036][パニス,char_002 Panis]
+Hey Hey!
+Let Panis help me with something!
+------------------------------------------------
+[00000037][パニス,char_002 Panis]
+Hey Hey!
+Let's go play somewhere!
+------------------------------------------------
+[00000038][パニス,char_002 Panis]
+You know, Panis, I want to eat more bread!
+------------------------------------------------
+[00000039][パニス,char_002 Panis]
+a! be on one's mind! 
+------------------------------------------------
+[00000040][パニス,char_002 Panis]
+Hey, Freed! Let's do our best!
+------------------------------------------------
+[00000041][パニス,char_002 Panis]
+Wow!
+Panis is getting excited!
+------------------------------------------------
+[00000042][パニス,char_002 Panis]
+Panis is feeling really energetic!
+------------------------------------------------
+[00000043][パニス,char_002 Panis]
+Humphunhunn ♪ Humphunhunn ♪
+------------------------------------------------
+[00000044][パニス,char_002 Panis]
+……yeah? Panis, I was just thinking.
+------------------------------------------------
+[00000045][パニス,char_002 Panis]
+Staring... Staring...
+……yeah? 
+------------------------------------------------
+[00000046][パニス,char_002 Panis]
+Hehehe.
+Panis, how are you talking to Freed like this?
+I like it.
+------------------------------------------------
+[00000047][パニス,char_002 Panis]
+Hmm...um...
+Panis, I'm a little confused...
+------------------------------------------------
+[00000048][パニス,char_002 Panis]
+Hey Freed! Let's make Panis and Shobushi!　
+Good idea!?
+------------------------------------------------
+[00000049][パニス,char_002 Panis]
+already! Everyone in the village is confused!
+------------------------------------------------
+[00000050][パニス,char_002 Panis]
+Wow! If you eat panis, it's good!!
+It's really disgusting!
+------------------------------------------------
+[00000051][パニス,char_002 Panis]
+Panis is so boring!
+------------------------------------------------
+[00000052][パニス,char_002 Panis]
+Hey hey, let's play!
+------------------------------------------------
+[00000053][パニス,char_002 Panis]
+Panis, ever since I came to the village, I've had fun every day!
+------------------------------------------------
+[00000054][パニス,char_002 Panis]
+Ehehe...you know?
+Freed's hand...
+...It's nothing after all!
+------------------------------------------------
+[00000055][パニス,char_002 Panis]
+Freed, are you okay?
+Don't you want to have a stomach?
+------------------------------------------------
+[00000056][パニス,char_002 Panis]
+Shannon sister's bread,
+I want to try making panis too!
+------------------------------------------------
+[00000057][パニス,char_002 Panis]
+Shannon is Freed's older sister, right?
+……No?
+------------------------------------------------
+[00000058][パニス,char_002 Panis]
+Zynga is always looking at the sea.
+Do you really like the sea?
+------------------------------------------------
+[00000059][パニス,char_002 Panis]
+Is Zinga Freed's older brother?
+But... it's not that great, right?
+After all, isn't it your brother?
+------------------------------------------------
+[00000060][パニス,char_002 Panis]
+Adam's vegetables are so delicious!
+------------------------------------------------
+[00000061][パニス,char_002 Panis]
+Adam is always awake, right?
+Aren't you going to sleep?
+------------------------------------------------
+[00000062][パニス,char_002 Panis]
+What is "Justis"?
+Is it delicious?
+------------------------------------------------
+[00000063][パニス,char_002 Panis]
+What kind of work do you do at "Extension"?
+Is it difficult?
+------------------------------------------------
+[00000064][パニス,char_002 Panis]
+Cute velvet hat!
+I want to wear panis!
+------------------------------------------------
+[00000065][パニス,char_002 Panis]
+Do pirates always work at sea?
+Is it different from someone who fishes?
+------------------------------------------------
+[00000066][パニス,char_002 Panis]
+Levin sometimes says difficult things.
+------------------------------------------------
+[00000067][パニス,char_002 Panis]
+Levin's hair is beautiful. It's like the sun.
+------------------------------------------------
+[00000068][パニス,char_002 Panis]
+Viola's mask is great!
+I want to wear panis too!
+------------------------------------------------
+[00000069][パニス,char_002 Panis]
+Is Koubamaru a brother to Kourinkomaru?
+Is that your brother? Is it your younger brother?
+------------------------------------------------
+[00000070][パニス,char_002 Panis]
+Hey, I always work from morning till night,
+When do you sleep?
+------------------------------------------------
+[00000071][パニス,char_002 Panis]
+Soncho's mane,
+It's so fluffy!
+------------------------------------------------
+[00000072][パニス,char_002 Panis]
+I like Sensei Maia because she's so kind!
+------------------------------------------------
+[00000073][パニス,char_002 Panis]
+My name is Sensei Maia.
+When Panis was playing with Merry and the others,
+They'll play with you!
+------------------------------------------------
+[00000074][パニス,char_002 Panis]
+I want to touch Panis, Bacchus' beard!
+------------------------------------------------
+[00000075][パニス,char_002 Panis]
+Bacchus' ship is so cool!
+------------------------------------------------
+[00000076][パニス,char_002 Panis]
+Uncle Hiram and Aunt Leanne
+We are very good friends!
+Sometimes my uncle gets mad at my aunt.
+------------------------------------------------
+[00000077][パニス,char_002 Panis]
+Uncle Hiram is
+He's Shannon's sister's father.
+------------------------------------------------
+[00000078][パニス,char_002 Panis]
+Aunt Leanne's bread is so delicious!
+------------------------------------------------
+[00000079][パニス,char_002 Panis]
+Aunt Leanne is
+She is Shannon's mother,
+Her sister is also good at baking bread.
+------------------------------------------------
+[00000080][パニス,char_002 Panis]
+Jim sometimes says weird things,
+He really is a lonely person.
+Soncho said so!
+------------------------------------------------
+[00000081][パニス,char_002 Panis]
+What kind of things does George-dan do?
+I wonder if it can be used for panis as well?
+------------------------------------------------
+[00000082][パニス,char_002 Panis]
+Koekiki looks interesting!
+I want to try panis too!
+------------------------------------------------
+[00000083][パニス,char_002 Panis]
+Lana's hair style is the same as Panis!
+The wings are flapping and fluffy!
+------------------------------------------------
+[00000084][パニス,char_002 Panis]
+Working on a ranch sounds like fun.
+------------------------------------------------
+[00000085][パニス,char_002 Panis]
+Peter always takes care of animals,
+That's amazing!
+------------------------------------------------
+[00000086][パニス,char_002 Panis]
+Don't cherubim live in villages?
+I wish I could live with Bacchus...
+------------------------------------------------
+[00000087][パニス,char_002 Panis]
+Adam's master is Freed, right?
+So, the master of the cherubim is Bacchus?
+------------------------------------------------
+[00000088][パニス,char_002 Panis]
+Hey, let's go to the square!
+------------------------------------------------
+[00000089][パニス,char_002 Panis]
+After all, the village will be back to normal!
+Panis will do his best too!
+------------------------------------------------
+[00000090][パニス,char_002 Panis]
+That's right, let's go to Soncho's place.
+------------------------------------------------
+[00000091][パニス,char_002 Panis]
+What kind of place are the ruins...
+I'd like to go there while the sun is out.
+------------------------------------------------
+[00000092][パニス,char_002 Panis]
+Panis will help everyone with his songs!
+I hope the village gets back to normal as soon as possible.
+I'll sing a lot, a lot!
+------------------------------------------------
+[00000093][パニス,char_002 Panis]
+What is "power"...?
+I wonder what that means...?
+------------------------------------------------
+[00000094][パニス,char_002 Panis]
+what is it……
+It feels kind of weird...
+------------------------------------------------
+[00000095][パニス,char_002 Panis]
+Panis, I never met Kilmaria before.
+I don't have one though...
+------------------------------------------------
+[00000096][パニス,char_002 Panis]
+Yay! Kill Maria, stay in the village!
+------------------------------------------------
+[00000097][パニス,char_002 Panis]
+Ahaha! Kill Maria is interesting!
+Bang bang!
+------------------------------------------------
+[00000098][パニス,char_002 Panis]
+Poor Bacchus...
+------------------------------------------------
+[00000099][パニス,char_002 Panis]
+I wonder if this child will come from the sea...?
+Panis and the others don't seem to be able to get on the ship...
+------------------------------------------------
+[00000100][パニス,char_002 Panis]
+Killmaria has finally become my friend!
+I'm so happy!
+------------------------------------------------
+[00000101][パニス,char_002 Panis]
+I wonder if Viola is angry about Panis...?
+------------------------------------------------
+[00000102][パニス,char_002 Panis]
+Velvet is a delicious way to move a boat!
+Now I can't lose to anyone!
+------------------------------------------------
+[00000103][パニス,char_002 Panis]
+Kill Maria is calling in the ruins.
+It would be what? 
+------------------------------------------------
+[00000104][パニス,char_002 Panis]
+Hey, Freed.
+What...what was that?
+I saw a person with wings like Panis...
+------------------------------------------------
+[00000105][パニス,char_002 Panis]
+Huh...?
+What's wrong, everyone?
+What's on Panis' face?
+------------------------------------------------
+[00000106][パニス,char_002 Panis]
+amazing……
+There was a hole in the mountain...
+------------------------------------------------
+[00000107][パニス,char_002 Panis]
+why……
+Those ruins were a little scary...
+------------------------------------------------
+[00000108][パニス,char_002 Panis]
+Uncle Hans, I'm glad you're feeling better!
+------------------------------------------------
+[00000109][パニス,char_002 Panis]
+I'm glad Soncho's house is fixed!
+------------------------------------------------
+[00000110][パニス,char_002 Panis]
+Are you going to the other side of the mountain?
+Is it different from before? What kind of place will it be this time?
+------------------------------------------------
+[00000111][パニス,char_002 Panis]
+Even though it's the same island, the other side of the mountain is this way.
+There's no difference at all...why?
+------------------------------------------------
+[00000112][パニス,char_002 Panis]
+Panis and the others get ready for the festival!
+------------------------------------------------
+[00000113][パニス,char_002 Panis]
+Panis, I'm really looking forward to the festival!
+------------------------------------------------
+[00000114][パニス,char_002 Panis]
+Hey Hey! 
+------------------------------------------------
+[00000115][パニス,char_002 Panis]
+Who wrote that?
+------------------------------------------------
+[00000116][パニス,char_002 Panis]
+Is that big one the same as Adam?
+If that's the case, then he must have been a good boy...
+------------------------------------------------
+[00000117][パニス,char_002 Panis]
+What did the island look like in the past?
+------------------------------------------------
+[00000118][パニス,char_002 Panis]
+Freed... he looks scary...
+Is it okay...? Do you want to have a tummy...?
+------------------------------------------------
+[00000119][パニス,char_002 Panis]
+I guess it's okay...
+Adam, I'm not feeling well...
+------------------------------------------------
+[00000120][パニス,char_002 Panis]
+The story about Viola and the others is kind of difficult...
+Panis, I don't understand.
+------------------------------------------------
+[00000121][パニス,char_002 Panis]
+Why did Freed
+I wonder if he can use that kind of power?
+Will we find out soon?
+------------------------------------------------
+[00000122][パニス,char_002 Panis]
+Sigh!
+That shiny round thing was so beautiful!
+------------------------------------------------
+[00000123][パニス,char_002 Panis]
+Freed, cheer up!
+Panis will always be with you!
+------------------------------------------------
+[00000124][パニス,char_002 Panis]
+Hey Freed, how are you doing today?
+------------------------------------------------
+[00000125][パニス,char_002 Panis]
+Yes, it could be very good.
+------------------------------------------------
+[00000126][パニス,char_002 Panis]
+Ahaha! good!
+I'm so happy about Panis!
+------------------------------------------------
+[00000127][パニス,char_002 Panis]
+I don't know, it's okay.
+------------------------------------------------
+[00000128][パニス,char_002 Panis]
+I see! 
+------------------------------------------------
+[00000129][パニス,char_002 Panis]
+Hmm... I'm sleepy...
+------------------------------------------------
+[00000130][パニス,char_002 Panis]
+Is that so? 
+------------------------------------------------
+[00000131][パニス,char_002 Panis]
+Hey Freed? Are you okay?
+------------------------------------------------
+[00000132][パニス,char_002 Panis]
+Hey, what are we going to do today?
+------------------------------------------------
+[00000133][パニス,char_002 Panis]
+Well, I guess I'll bake some bread.
+------------------------------------------------
+[00000134][パニス,char_002 Panis]
+yay!
+Panis, I want to eat Fried's bread!
+------------------------------------------------
+[00000135][パニス,char_002 Panis]
+First, I think I'll look for a request at the bar.
+------------------------------------------------
+[00000136][パニス,char_002 Panis]
+Like, like! Let's go!
+------------------------------------------------
+[00000137][パニス,char_002 Panis]
+Hmm...I guess I should go home and sleep...
+------------------------------------------------
+[00000138][パニス,char_002 Panis]
+Yeah! Panis, I still want to play!
+------------------------------------------------
+[00000139][パニス,char_002 Panis]
+Hey, Freed~! Let's go play!
+------------------------------------------------
+[00000140][パニス,char_002 Panis]
+Wow...
+Freed's bread is so delicious!
+------------------------------------------------
+[00000141][パニス,char_002 Panis]
+Thank you, I'm happy!
+------------------------------------------------
+[00000142][パニス,char_002 Panis]
+Panis, Freed bread
+You can eat as much as you want!
+------------------------------------------------
+[00000143][パニス,char_002 Panis]
+Compared to my aunt and sister, I still have a long way to go.
+------------------------------------------------
+[00000144][パニス,char_002 Panis]
+Well then, Freed-kun, calm down!
+------------------------------------------------
+[00000145][フリード,char_001 Fried]
+where did you learn it? Those words...
+------------------------------------------------
+[00000146][パニス,char_002 Panis]
+Well, it's better than Shannon's loss.
+------------------------------------------------
+[00000147][パニス,char_002 Panis]
+Panis, don't you like that?
+------------------------------------------------
+[00000148][フリード,char_001 Fried]
+...Panis, are you okay?
+Isn't your tongue weird?
+------------------------------------------------
+[00000149][パニス,char_002 Panis]
+Freed, delicious bread from now on,
+Make a lot!
+------------------------------------------------
+[00000150][パニス,char_002 Panis]
+Hey, what do you think of Panis's braces today?
+------------------------------------------------
+[00000151][パニス,char_002 Panis]
+It's so cute!
+------------------------------------------------
+[00000152][パニス,char_002 Panis]
+Ehehe...I guess so?
+Thank you, Freed!
+------------------------------------------------
+[00000153][パニス,char_002 Panis]
+I think it suits you.
+------------------------------------------------
+[00000154][パニス,char_002 Panis]
+Hooray! 
+------------------------------------------------
+[00000155][パニス,char_002 Panis]
+I don't know...isn't it okay?
+------------------------------------------------
+[00000156][パニス,char_002 Panis]
+Too! Please answer properly!
+------------------------------------------------
+[00000157][パニス,char_002 Panis]
+already! 
+------------------------------------------------
+[00000158][パニス,char_002 Panis]
+Hey Freed! Let's play rock, paper, scissors!
+Well...
+------------------------------------------------
+[00000159][パニス,char_002 Panis]
+Goo!
+------------------------------------------------
+[00000160][パニス,char_002 Panis]
+Choki!
+------------------------------------------------
+[00000161][パニス,char_002 Panis]
+Par!
+------------------------------------------------
+[00000162][パニス,char_002 Panis]
+Goo!
+------------------------------------------------
+[00000163][パニス,char_002 Panis]
+Choki!
+------------------------------------------------
+[00000164][パニス,char_002 Panis]
+Par!
+------------------------------------------------
+[00000165][パニス,char_002 Panis]
+Freed...he didn't play rock, paper, scissors...
+------------------------------------------------
+[00000166][パニス,char_002 Panis]
+Freed wins! Freed is strong!
+------------------------------------------------
+[00000167][パニス,char_002 Panis]
+AHA! 
+------------------------------------------------
+[00000168][パニス,char_002 Panis]
+Hey, it's Aiko!
+------------------------------------------------
+[00000169][パニス,char_002 Panis]
+Hey, Freed.
+A lot of the village was destroyed.
+Will things go back to normal?
+------------------------------------------------
+[00000170][パニス,char_002 Panis]
+of course! 
+------------------------------------------------
+[00000171][パニス,char_002 Panis]
+That's true!
+Well then, I'll help Panis too!
+------------------------------------------------
+[00000172][パニス,char_002 Panis]
+It depends on our efforts.
+------------------------------------------------
+[00000173][パニス,char_002 Panis]
+That's right...
+Well then, let's do our best with panis too!
+------------------------------------------------
+[00000174][パニス,char_002 Panis]
+If Panis does his best...
+------------------------------------------------
+[00000175][パニス,char_002 Panis]
+Panis, what should I do?
+Hmm...I don't really understand.
+------------------------------------------------
+[00000176][パニス,char_002 Panis]
+Freed, why are you quiet?
+After all... won't the village return to its original state?
+------------------------------------------------
+[00000177][パニス,char_002 Panis]
+Freed, what is "Akuma"?
+What kind of person are you?
+------------------------------------------------
+[00000178][パニス,char_002 Panis]
+There are no devils in this village.
+------------------------------------------------
+[00000179][パニス,char_002 Panis]
+That's right!
+Well then, Kill Maria is wrong.
+You came to this village!
+------------------------------------------------
+[00000180][パニス,char_002 Panis]
+It's the exact opposite of Panis.
+------------------------------------------------
+[00000181][パニス,char_002 Panis]
+Hmm.
+It's not called Panis.
+------------------------------------------------
+[00000182][パニス,char_002 Panis]
+Still, Kilmaria is about Panis,
+I was getting bored. Why?
+------------------------------------------------
+[00000183][パニス,char_002 Panis]
+It's very scary.
+------------------------------------------------
+[00000184][パニス,char_002 Panis]
+Kill Maria was talking about Panis...
+...So, is Panis a scary person too?
+------------------------------------------------
+[00000185][パニス,char_002 Panis]
+Don't you do freed too?
+I see...then let's ask your sister later.
+------------------------------------------------
+[00000186][パニス,char_002 Panis]
+Freed!
+Velvet is such an interesting person!
+Does Freed like Velvet?
+------------------------------------------------
+[00000187][パニス,char_002 Panis]
+Yeah, I like it.
+------------------------------------------------
+[00000188][パニス,char_002 Panis]
+I see!
+Panis also loves velvet!
+------------------------------------------------
+[00000189][パニス,char_002 Panis]
+I don't know yet.
+------------------------------------------------
+[00000190][パニス,char_002 Panis]
+Freed, don't you understand?
+Panis likes Velvet though.
+------------------------------------------------
+[00000191][パニス,char_002 Panis]
+I don't think I like it that much.
+------------------------------------------------
+[00000192][パニス,char_002 Panis]
+Freed, do you hate Velvet?
+Oh no...I hope we get along well...
+------------------------------------------------
+[00000193][パニス,char_002 Panis]
+Still not sure?
+Well then, if we become even better friends,
+You'll fall in love with Velvet, right?
+------------------------------------------------
+[00000194][パニス,char_002 Panis]
+Hey, Freed.
+What was Freed like when he was little?
+------------------------------------------------
+[00000195][パニス,char_002 Panis]
+He was an honest and good boy like Panis.
+------------------------------------------------
+[00000196][パニス,char_002 Panis]
+That's right!
+So, Panis is talking about Freed.
+I'll do my best!
+------------------------------------------------
+[00000197][パニス,char_002 Panis]
+She was a serious child who helped around the house.
+------------------------------------------------
+[00000198][パニス,char_002 Panis]
+I see...
+Well then, please help Panis a lot.
+Become like Freed!
+------------------------------------------------
+[00000199][パニス,char_002 Panis]
+He was an incorrigible mischievous child.
+------------------------------------------------
+[00000200][パニス,char_002 Panis]
+I see...
+Well then, Freed will become an uncle and an aunt.
+I was scolded a lot...
+------------------------------------------------
+[00000201][パニス,char_002 Panis]
+Panis, I don't like being scolded...
+------------------------------------------------
+[00000202][パニス,char_002 Panis]
+Freed...don't you remember?
+------------------------------------------------
+[00000203][パニス,char_002 Panis]
+I'm looking forward to the festival!
+What will Freed do at the festival?
+------------------------------------------------
+[00000204][パニス,char_002 Panis]
+I eat a lot of bread.
+------------------------------------------------
+[00000205][パニス,char_002 Panis]
+Really!? I love panis and bread!
+I also eat a lot of panis bread!
+------------------------------------------------
+[00000206][パニス,char_002 Panis]
+Maybe I should get a toy by drawing lots.
+------------------------------------------------
+[00000207][パニス,char_002 Panis]
+Lottery? Hey, is that it?
+Will I get a toy if I enter the lottery?
+------------------------------------------------
+[00000208][パニス,char_002 Panis]
+...Hey, Freed.
+Panis, can I play with that toy too?
+------------------------------------------------
+[00000209][パニス,char_002 Panis]
+I want to eat my fill of sweets.
+------------------------------------------------
+[00000210][パニス,char_002 Panis]
+Amazing!
+I want to eat panis and panis as well!
+Eat your fill!
+------------------------------------------------
+[00000211][パニス,char_002 Panis]
+Ah...but,
+If you eat too much food,
+Your sister will scold you...
+------------------------------------------------
+[00000212][パニス,char_002 Panis]
+Freed, don't you understand?
+Hmm...I don't really understand Panis either...
+What kind of festival is it?
+------------------------------------------------
+[00000213][パニス,char_002 Panis]
+I'm glad you're back in the village!
+Freed, what do you want to do now?
+------------------------------------------------
+[00000214][パニス,char_002 Panis]
+I want to live with Panis forever.
+------------------------------------------------
+[00000215][パニス,char_002 Panis]
+Yeah!
+Panis, I'm with Freed!
+After all, I can't leave!
+------------------------------------------------
+[00000216][パニス,char_002 Panis]
+I want to explore the island.
+------------------------------------------------
+[00000217][パニス,char_002 Panis]
+Is that so!
+Well, let's go with Panis!
+Let's fight together, Freed!
+------------------------------------------------
+[00000218][パニス,char_002 Panis]
+Would you like to go off the island for a while?
+------------------------------------------------
+[00000219][パニス,char_002 Panis]
+Why……?
+Freed, do you dislike this island?
+------------------------------------------------
+[00000220][パニス,char_002 Panis]
+Panis, I want to be here!
+So Freed, don't go anywhere!
+I have to disappear!
+------------------------------------------------
+[00000221][パニス,char_002 Panis]
+...Freed, what's wrong?
+Do you have so many things you want to do that you feel stuck?
+------------------------------------------------
+[00000222][パニス,char_002 Panis]
+Panis... I want to eat bread!
+I wonder if it will be a quick meal!
+------------------------------------------------
+[00000223][フリード,char_001 Fried]
+The weather is nice today too!
+------------------------------------------------
+[00000224][フリード,char_001 Fried]
+Let's do our best today too!
+------------------------------------------------
+[00000225][パニス,char_002 Panis]
+Freed, hurry up!
+------------------------------------------------
+[00000226][パニス,char_002 Panis]
+Let's do our best today too!
+------------------------------------------------
+[00000227][フリード,char_001 Fried]
+Let's go home soon.
+------------------------------------------------
+[00000228][フリード,char_001 Fried]
+I'm tired today.
+------------------------------------------------
+[00000229][パニス,char_002 Panis]
+Panis, I'm tired.
+------------------------------------------------
+[00000230][パニス,char_002 Panis]
+Panis, I'm sleepy.
+------------------------------------------------
+[00000231][フリード,char_001 Fried]
+I'm already sleepy today.
+Let's go to bed soon...
+------------------------------------------------
+[00000232][フリード,char_001 Fried]
+I have to work hard tomorrow too,
+I think I'll go to sleep today.
+------------------------------------------------
+[00000233][パニス,char_002 Panis]
+Panis, like a dream of delicious bread.
+Wow...
+------------------------------------------------
+[00000234][パニス,char_002 Panis]
+I wonder if tomorrow will be a good day too...I wonder...
+Wow...
+------------------------------------------------
+[00000235][ガルゼー,char_501]
+Yes, Panis-chan, let me give you this.
+Everyone must be depressed because the village is destroyed.
+Please help me out.
+------------------------------------------------
+[00000236][フリード,char_001 Fried]
+Yay, all the stamp cards are filled.
+Okay, let's bring it to the village chief quickly!
+------------------------------------------------
+[00000237][パニス,char_002 Panis]
+Hey! Yay!
+------------------------------------------------
+[00000238][ガルゼー,char_501]
+Congratulations. Now let's do a giveaway.
+------------------------------------------------
+[00000239][ガルゼー,char_501]
+I'll do my best next time.
+Look, it's a new card.
+------------------------------------------------
+[00000240][フリード,char_001 Fried]
+Look at that beautiful fountain.
+------------------------------------------------
+[00000241][パニス,char_002 Panis]
+Wow! It feels great here!
+------------------------------------------------
+[00000242][パニス,char_002 Panis]
+It's hot...
+Panis, I want to take a bath!
+------------------------------------------------
+[00000243][フリード,char_001 Fried]
+Hey Panis! Don't jump into the fountain!
+------------------------------------------------
+[00000244][パニス,char_002 Panis]
+Hey, hey, I picked up some money.
+------------------------------------------------
+[00000245][パニス,char_002 Panis]
+Wow!
+------------------------------------------------
+[00000246][アリーゼ,char_504]
+It's called curry rice!
+It's delicious. Would you like to try it?
+------------------------------------------------
+[00000247][パニス,char_002 Panis]
+Hooray!
+...Uuuuuuuuuuuuuuuuuuuuuuuuuuuuuu...!
+------------------------------------------------
+[00000248][アリーゼ,char_504]
+It's stuffed peppers with meat!
+Would you like to try it?
+------------------------------------------------
+[00000249][パニス,char_002 Panis]
+Yeah!
+...Ugh, it's bitter!
+------------------------------------------------
+[00000250][アリーゼ,char_504]
+It's called ice cream!
+It's cold. Would you like to try it?
+------------------------------------------------
+[00000251][パニス,char_002 Panis]
+thanks!
+...It's sweet and delicious!
+------------------------------------------------
+[00000252][パニス,char_002 Panis]
+Wow...the food smells so good!
+------------------------------------------------
+[00000253][ダイアナ,char_505]
+Panis is so cute...
+I'll give you this...try it...hehe...
+------------------------------------------------
+[00000254][パニス,char_002 Panis]
+yay!
+------------------------------------------------
+[00000255][パニス,char_002 Panis]
+...Amazing! There are so many different things!
+------------------------------------------------
+[00000256][パニス,char_002 Panis]
+Hey hey Freed!
+Panis, I want to eat bread!
+------------------------------------------------
+[00000257][フリード,char_001 Fried]
+O.K. I understand.
+Well, I'll bake it for you at home.
+------------------------------------------------
+[00000258][パニス,char_002 Panis]
+……real?
+------------------------------------------------
+[00000259][パニス,char_002 Panis]
+Ugh...bread looks delicious...
+...Hey, shouldn't you eat it?
+------------------------------------------------
+[00000260][シャノン,char_004 Shannon]
+I have no choice...
+So, just one?
+------------------------------------------------
+[00000261][パニス,char_002 Panis]
+Yay! Thank you, sister!
+------------------------------------------------
+[00000262][パニス,char_002 Panis]
+Wow! There are so many delicious-looking breads!
+------------------------------------------------
+[00000263][シャノン,char_004 Shannon]
+Hehehe. Yes, enjoy some freshly baked bread.
+------------------------------------------------
+[00000264][パニス,char_002 Panis]
+Yay! I'll take it!
+------------------------------------------------
+[00000265][フリード,char_001 Fried]
+that? 
+------------------------------------------------
+[00000266][パニス,char_002 Panis]
+Ah! 
+------------------------------------------------
+[00000267][パニス,char_002 Panis]
+Wow! The insect has fallen!
+------------------------------------------------
+[00000268][アダム,char_006 a-dam]
+I'll give you this. please.
+------------------------------------------------
+[00000269][フリード,char_001 Fried]
+okay?
+------------------------------------------------
+[00000270][パニス,char_002 Panis]
+Hey hey, these squishes are fluffy!
+------------------------------------------------
+[00000271][フリード,char_001 Fried]
+The sea is so beautiful. Makes me want to swim.
+But I have to keep watch to make sure the pirates don't come...
+------------------------------------------------
+[00000272][パニス,char_002 Panis]
+Pirate...
+Will Bacchus come again?
+------------------------------------------------
+[00000273][パニス,char_002 Panis]
+Wow! The sea is big!
+------------------------------------------------
+[00000274][フリード,char_001 Fried]
+I wonder what it's like on the other side of the sea...?
+------------------------------------------------
+[00000275][パニス,char_002 Panis]
+...Wow!
+It's so hot here, Freed!
+It's a big deal if you have a penis...
+------------------------------------------------
+[00000276][パニス,char_002 Panis]
+a!  fish!
+------------------------------------------------
+[00000277][フリード,char_001 Fried]
+Eh... where?
+It's true! 
+------------------------------------------------
+[00000278][パニス,char_002 Panis]
+Panis, that fish is starting to look like bread...
+Ugh...I'm hungry...
+------------------------------------------------
+[00000279][フリード,char_001 Fried]
+Ah...there it was! The fish are coming to the shallows!
+------------------------------------------------
+[00000280][ジンガ,char_005 zynga]
+Really!? Let's go fishing, Freed!
+------------------------------------------------
+[00000281][パニス,char_002 Panis]
+that? Did it come from the sea?
+------------------------------------------------
+[00000282][ジンガ,char_005 zynga]
+Hey, Freed! I'll share some of the fish with you!
+Don't be shy! It was a big catch today!
+Ga-ha-ha-ha!
+------------------------------------------------
+[00000283][パニス,char_002 Panis]
+……that?
+ah! 
+------------------------------------------------
+[00000284][パニス,char_002 Panis]
+Take a look!
+There it was! Crab!
+------------------------------------------------
+[00000285][パニス,char_002 Panis]
+……a! 
+------------------------------------------------
+[00000286][パニス,char_002 Panis]
+Look! It's full of animals!
+------------------------------------------------
+[00000287][ブレンダ,char_519]
+Look, look. Isn't this flower beautiful?
+I'll give it to Panis.
+------------------------------------------------
+[00000288][パニス,char_002 Panis]
+Wow! thank you!
+------------------------------------------------
+[00000289][パニス,char_002 Panis]
+look look! 
+------------------------------------------------
+[00000290][パニス,char_002 Panis]
+that……?
+ah! 
+------------------------------------------------
+[00000291][パニス,char_002 Panis]
+Wow...
+This smell...the smell of the sun...
+------------------------------------------------
+[00000292][ドルトン,char_506]
+Want to strengthen your cannon?
+For that you need a magic brick.
+Please look for me.
+------------------------------------------------
+[00000293][ドルトン,char_506]
+If you bring me a magic brick,
+Let's strengthen the cannon.
+------------------------------------------------
+[00000294][ドルトン,char_506]
+Oh, Freed.
+Did you bring a magic brick?
+------------------------------------------------
+[00000295][ドルトン,char_506]
+Okay, now we can strengthen the cannon.
+Look forward to it.
+------------------------------------------------
+[00000296][ドルトン,char_506]
+I came up with a way to make the cannon even stronger.
+If you want to increase the power of your cannon,
+Bring me the fuse.
+------------------------------------------------
+[00000297][ドルトン,char_506]
+When you bring the fuse,
+I'll strengthen the cannon even more.
+------------------------------------------------
+[00000298][ドルトン,char_506]
+what up?
+Did you bring a fuse?
+------------------------------------------------
+[00000299][ドルトン,char_506]
+This will further strengthen your cannon.
+The battle will be advantageous.
+------------------------------------------------
+[00000300][ドルトン,char_506]
+There is a way to best strengthen your cannon.
+That requires a tough gun barrel.
+Please look for me.
+------------------------------------------------
+[00000301][ドルトン,char_506]
+As long as you have a rugged gun barrel,
+You can make your cannon the strongest.
+------------------------------------------------
+[00000302][ドルトン,char_506]
+Is that... perhaps a rugged gun barrel?
+------------------------------------------------
+[00000303][ドルトン,char_506]
+Okay, now we can make the cannon the strongest.
+Look forward to it.
+------------------------------------------------
+[00000304][ジンガ,char_005 zynga]
+If you bring me a sharp needle,
+Let's make a fishing hook.
+You'll be able to catch more fish.
+------------------------------------------------
+[00000305][ジンガ,char_005 zynga]
+Did you find a sharp needle?
+When you bring it, I'll make you a fishing hook.
+------------------------------------------------
+[00000306][ジンガ,char_005 zynga]
+Oh, did you bring a sharp needle?
+------------------------------------------------
+[00000307][ジンガ,char_005 zynga]
+Well then, let's make a fishing hook.
+------------------------------------------------
+[00000308][ジンガ,char_005 zynga]
+To get more fishing results
+It's a good idea to make your fishing line out of conductive thread.
+Once I find the materials, I'll make it for you.
+------------------------------------------------
+[00000309][ジンガ,char_005 zynga]
+Have you found any conductive thread?
+When you make a fishing line with it,
+The fishing results are extraordinary.
+------------------------------------------------
+[00000310][ジンガ,char_005 zynga]
+Isn't that a conductive thread?
+------------------------------------------------
+[00000311][ジンガ,char_005 zynga]
+Let's make a fishing line right away.
+This is sure to be a big catch.
+------------------------------------------------
+[00000312][アダム,char_006 a-dam]
+To develop the farm
+You need pine leaves.
+Could you please help?
+------------------------------------------------
+[00000313][アダム,char_006 a-dam]
+When the pine leaves gather,
+You can expect an increase in yield.
+thank you.
+------------------------------------------------
+[00000314][アダム,char_006 a-dam]
+Did you collect pine leaves for me?
+------------------------------------------------
+[00000315][アダム,char_006 a-dam]
+thank you.
+This will help the village's food production.
+It can be made more stable.
+------------------------------------------------
+[00000316][アダム,char_006 a-dam]
+How to improve your farm
+Requires golem soil.
+I would like to ask for your cooperation again.
+------------------------------------------------
+[00000317][アダム,char_006 a-dam]
+Once the golem soil is collected,
+The food situation in the village will further improve.
+thank you.
+------------------------------------------------
+[00000318][アダム,char_006 a-dam]
+Were you able to collect the golem soil?
+------------------------------------------------
+[00000319][アダム,char_006 a-dam]
+thank you.
+Now everyone in the village can eat well.
+I think it will be a big improvement.
+------------------------------------------------
+[00000320][ピーター,char_520]
+for the animals
+I need the hair of a forest boar.
+It would be helpful if you could help me find it.
+------------------------------------------------
+[00000321][ピーター,char_520]
+How about the body hair of the Mori boar I asked for the other day?
+Please do your best for the sake of the animals.
+------------------------------------------------
+[00000322][ピーター,char_520]
+Did you bring the hair of the forest boar?
+------------------------------------------------
+[00000323][ピーター,char_520]
+thank you.
+Now your animals will grow up fast!
+------------------------------------------------
+[00000324][ピーター,char_520]
+For the animals
+Now I need some fancy red cloth.
+Could you please find me some high-quality red cloth...?
+------------------------------------------------
+[00000325][ピーター,char_520]
+How about some fancy red cloth?
+I'm counting on you, Freed!
+------------------------------------------------
+[00000326][ピーター,char_520]
+You found some high-quality red cloth for me, right?
+------------------------------------------------
+[00000327][ピーター,char_520]
+thanks so much!
+I'm sure the animals will love it too!
+------------------------------------------------
+[00000328][ジンガ,char_005 zynga]
+Oh, did you catch the fish I mentioned?
+------------------------------------------------
+[00000329][ジンガ,char_005 zynga]
+well done!
+This is a reward, take it.
+------------------------------------------------
+[00000330][ジンガ,char_005 zynga]
+Have you improved your fishing skills? Let's see how good you are!
+Catch the fish I say!
+------------------------------------------------
+[00000331][ジンガ,char_005 zynga]
+What's wrong, you still can't catch fish?
+------------------------------------------------
+[00000332][ジンガ,char_005 zynga]
+Well, it's only natural to catch this much.
+Next is the real thing.
+Come back in a while, Freed.
+------------------------------------------------
+[00000333][ジンガ,char_005 zynga]
+Have you been fishing lately?
+Alright, let's see how good you are!
+Catch the fish I say!
+------------------------------------------------
+[00000334][ジンガ,char_005 zynga]
+What's the matter? It shouldn't be a difficult opponent, right?
+------------------------------------------------
+[00000335][ジンガ,char_005 zynga]
+Maybe it was a little too easy...
+Next time, let's go for something a little more chewy!
+Come back in a while. Surely?
+------------------------------------------------
+[00000336][ジンガ,char_005 zynga]
+Are you improving your fishing skills?
+Let's show you how much you've improved!
+Catch the fish I say!
+------------------------------------------------
+[00000337][ジンガ,char_005 zynga]
+What's wrong, are you feeling unwell?
+------------------------------------------------
+[00000338][ジンガ,char_005 zynga]
+It's natural to catch this fish too.
+It will get more and more difficult from now on.
+Come back in a while. Be prepared, okay?
+------------------------------------------------
+[00000339][ジンガ,char_005 zynga]
+Are you fishing well? Okay, let's see how good you are!
+Catch the fish I say!
+------------------------------------------------
+[00000340][ジンガ,char_005 zynga]
+what up?
+With your skills, you should be able to catch a fish right away, right?
+------------------------------------------------
+[00000341][ジンガ,char_005 zynga]
+It was quite a big thing.
+Keep up the good work next time.
+Well, come back in a while.
+------------------------------------------------
+[00000342][ジンガ,char_005 zynga]
+Are you serious about fishing?
+Okay! Show me how serious you are!
+Catch the fish I say!
+------------------------------------------------
+[00000343][ジンガ,char_005 zynga]
+Don't give up, okay?
+It's not a fish you can't catch!
+------------------------------------------------
+[00000344][ジンガ,char_005 zynga]
+You'll do a great job too!
+Good luck next time!
+Well then. Come back in a while.
+------------------------------------------------
+[00000345][ジンガ,char_005 zynga]
+Have you improved your fishing skills?
+Ha ha ha, you say it!
+Then try to catch the fish I say!
+------------------------------------------------
+[00000346][ジンガ,char_005 zynga]
+What's wrong, are you having a hard time?
+Was it just your mouth that improved?
+------------------------------------------------
+[00000347][ジンガ,char_005 zynga]
+You weren't just talking after all!
+Good, good!
+Come back in a while! Keep raising your arms!
+------------------------------------------------
+[00000348][ジンガ,char_005 zynga]
+Have you been sluggish lately?
+Hey, let me inspire you!
+Show me how you caught the fish I said!
+------------------------------------------------
+[00000349][ジンガ,char_005 zynga]
+What's wrong, is it really difficult this time?
+------------------------------------------------
+[00000350][ジンガ,char_005 zynga]
+well done!
+It's time to escape the slump!
+Come back in a while. I'll guide you.
+------------------------------------------------
+[00000351][ジンガ,char_005 zynga]
+Did you get better at fishing again?
+Hahahaha!　You started to shout loudly!
+In that case, can you catch the fish I mentioned?
+------------------------------------------------
+[00000352][ジンガ,char_005 zynga]
+What happened, what happened?
+Didn't he raise his arm?
+------------------------------------------------
+[00000353][ジンガ,char_005 zynga]
+Your skill is also great!
+If this is the case, I can look forward to the next one!
+Come back in a while. I'll think about the problem.
+------------------------------------------------
+[00000354][ジンガ,char_005 zynga]
+You have also become quite an expert at fishing.
+Let me try out your skills!
+I'll catch the fish I said!
+------------------------------------------------
+[00000355][ジンガ,char_005 zynga]
+What's the matter? You should be able to catch fish with your skills, right?
+------------------------------------------------
+[00000356][ジンガ,char_005 zynga]
+Did you raise that by yourself...!
+Well done! I'm close to becoming a fishing expert!
+Come back in a while. Next is the final exam.
+------------------------------------------------
+[00000357][ジンガ,char_005 zynga]
+It's finally time for the final fishing test...Are you ready?
+If you clear this, you'll definitely be a fishing expert!
+Look, you're going to catch the fish I'm talking about!?
+------------------------------------------------
+[00000358][ジンガ,char_005 zynga]
+Is this fish difficult even for you?
+But don't give up, okay?
+The title of fishing expert is already in front of you!
+------------------------------------------------
+[00000359][ジンガ,char_005 zynga]
+You finally did it, Freed!　
+There's no fish you can't catch anymore. He's a great fishing expert!
+Keep working hard on fishing so you don't let your skills get dull!
+------------------------------------------------
+[00000360][リアン,char_514]
+It smells so good!
+Looks like you brought the bread I said.
+------------------------------------------------
+[00000361][リアン,char_514]
+oh dear! Yes, I'll reward you with a new recipe.
+------------------------------------------------
+[00000362][リアン,char_514]
+Freed, Pan's path is difficult.
+I'll give you a taste,
+Bake the bread as I tell you.
+------------------------------------------------
+[00000363][リアン,char_514]
+Is the bread toasted?
+I'll bring it to you when it's cooked.
+------------------------------------------------
+[00000364][リアン,char_514]
+Yes, it's well-cooked!
+But it's only natural to be able to do this much.
+I still have a long way to go to master the path of bread.
+------------------------------------------------
+[00000365][リアン,char_514]
+Freed wants to master the art of bread, right?
+If so, don't slack off.
+I'll taste it again, so go ahead and toast some bread.
+------------------------------------------------
+[00000366][リアン,char_514]
+When the bread is baked, please bring it to me.
+I'll be waiting.
+------------------------------------------------
+[00000367][リアン,char_514]
+...Yeah, it tastes fine.
+But don't skip baking bread, right?
+Next time, I'll give you a more difficult problem.
+------------------------------------------------
+[00000368][リアン,char_514]
+How has your bread baking level improved?
+I'll give you a taste,
+Please bake the bread as I say.
+------------------------------------------------
+[00000369][リアン,char_514]
+how are you?
+Bring me the bread when it's baked.
+------------------------------------------------
+[00000370][リアン,char_514]
+Yeah, it's quite an accomplishment.
+However, I think Freed will still be able to make good bread.
+Please continue to bake bread.
+------------------------------------------------
+[00000371][リアン,char_514]
+Freed, are you working hard on your bread career?
+I'll give you a taste,
+Bake the bread as I tell you. Good?
+------------------------------------------------
+[00000372][リアン,char_514]
+Surely you haven't forgotten about bread, have you?
+When it's cooked, bring it to me.
+------------------------------------------------
+[00000373][リアン,char_514]
+Yeah, it's pretty good.
+Freed seems to have gotten used to it quite a bit.
+Keep up the good work and keep up the good work.
+------------------------------------------------
+[00000374][リアン,char_514]
+The path of bread is profound, Freed.
+I'll test if you're working hard every day.
+Please bake the bread as I say.
+------------------------------------------------
+[00000375][リアン,char_514]
+Are you baking bread properly?
+Bring it to me when it's burnt.
+------------------------------------------------
+[00000376][リアン,char_514]
+...Yes, I passed. It's deliciously grilled.
+Next time I'll try a more difficult bread.
+------------------------------------------------
+[00000377][リアン,char_514]
+...Okay, Freed?
+Don't stop and move forward on the path of bread, okay?
+Now, go ahead and toast some bread so I can taste it.
+------------------------------------------------
+[00000378][リアン,char_514]
+You haven't forgotten how to make it, have you?
+Bring me the bread when it's baked.
+------------------------------------------------
+[00000379][リアン,char_514]
+...Oh, that's good!
+You've improved a lot, Freed.
+I'll taste it again, so try your best next time.
+------------------------------------------------
+[00000380][リアン,char_514]
+Freed's bread baking techniques,
+The level has risen considerably.
+Now, go ahead and toast some bread so I can taste it.
+------------------------------------------------
+[00000381][リアン,char_514]
+There's no need to panic.　
+When the bread is baked to your satisfaction,
+Bring it to me.
+------------------------------------------------
+[00000382][リアン,char_514]
+Very well done!
+It's so delicious!
+Now, what should I do next...?
+------------------------------------------------
+[00000383][リアン,char_514]
+I think it's time for me to show you how much I've improved.
+Please bake me the bread I asked for.
+...It's a little difficult this time, isn't it?
+------------------------------------------------
+[00000384][リアン,char_514]
+...Freed, are you having a hard time?
+But good luck! Master the art of bread!
+------------------------------------------------
+[00000385][リアン,char_514]
+Yes, you did very well!
+I think I've become quite skilled!
+But let's aim even higher!
+------------------------------------------------
+[00000386][リアン,char_514]
+Freed, the pinnacle of bread's path is right around the corner!
+Come on, I'll give you a taste.
+Bake bread as I say!
+------------------------------------------------
+[00000387][リアン,char_514]
+If you've come this far, there's no need to worry.
+Take your time with bread.
+------------------------------------------------
+[00000388][リアン,char_514]
+Delicious... from your bread,
+You can feel the kindness that they have for the people who eat them.
+If you've come this far, you're just one step away from becoming a top-notch baker!
+------------------------------------------------
+[00000389][リアン,char_514]
+Now, the final challenge, Freed!
+Bake the bread as I say!
+You can do it!!
+------------------------------------------------
+[00000390][リアン,char_514]
+I'll face Pan with all my heart and all my strength, okay?
+this is! 
+------------------------------------------------
+[00000391][リアン,char_514]
+Well done, Freed!
+There's no bread that can't be baked anymore!
+You are a top baker! Congratulations!
+------------------------------------------------
+[00000392][ガルゼー,char_501]
+yeah? what? Are you saying you'll give it to me? That makes me happy.
+------------------------------------------------
+[00000393][ガルゼー,char_501]
+Panis-chan, do you have any bread yet?
+I'm looking forward to it.
+------------------------------------------------
+[00000394][ガルゼー,char_501]
+Oh, Panis-chan.
+Did you bring bread?
+------------------------------------------------
+[00000395][ガルゼー,char_501]
+Panis-chan is a really nice girl.
+I'm so happy, thank you.
+I'll give you this as a thank you.
+------------------------------------------------
+[00000396][ヴァイオラ,char_003 Viola]
+For some reason, I suddenly felt like eating pie.
+I would be happy if you could bring it...
+Can I ask you a favor?
+------------------------------------------------
+[00000397][ヴァイオラ,char_003 Viola]
+Hey, Freed? Is the pie I ordered still available?
+I can't wait...
+------------------------------------------------
+[00000398][ヴァイオラ,char_003 Viola]
+You brought me pie, right?
+------------------------------------------------
+[00000399][ヴァイオラ,char_003 Viola]
+thank you! Ah, this smell... it's irresistible!!
+Thank you for this. Please take it.
+------------------------------------------------
+[00000400][カール,char_508]
+Ugh...I'm hungry...
+I want to eat bread rolls!
+Freed! Give me a roll!
+------------------------------------------------
+[00000401][カール,char_508]
+Hey, do you have any rolls yet?
+------------------------------------------------
+[00000402][カール,char_508]
+Did you bring me some rolls?
+------------------------------------------------
+[00000403][カール,char_508]
+Wow, so delicious!
+Thank you, Freed!
+I'll give you this as a thank you!
+------------------------------------------------
+[00000404][ベルベット,char_008 Velvet]
+I'm hungry...
+I want to eat a sandwich too...
+So, Freed. Oh, please, please♪
+------------------------------------------------
+[00000405][ベルベット,char_008 Velvet]
+You know, Freed...
+I want to eat a sandwich
+Didn't you tell me?
+------------------------------------------------
+[00000406][ベルベット,char_008 Velvet]
+Did you bring me a sandwich?
+------------------------------------------------
+[00000407][ベルベット,char_008 Velvet]
+It’s here, it’s here! I've been waiting!
+Thank you, Freed.
+Yes, this. A message from your sister♪
+------------------------------------------------
+[00000408][キルマリア,char_007 Kilmaria]
+Mr. Freed! I am now.
+I really want to eat a hamburger!
+Could you please deliver it to me? please!
+------------------------------------------------
+[00000409][キルマリア,char_007 Kilmaria]
+Mr. Freed!
+Hamburgers!? Hamburgers yet!?
+Please let me eat it soon!
+------------------------------------------------
+[00000410][キルマリア,char_007 Kilmaria]
+Could you bring me a hamburger?
+------------------------------------------------
+[00000411][キルマリア,char_007 Kilmaria]
+Ah, the hamburger is now in my hands!
+I'm happy! thank you!
+Please accept this as a token of our gratitude!
+------------------------------------------------
+[00000412][ジンガ,char_005 zynga]
+Hey, Freed.
+I suddenly felt like eating fish bread...
+I'm sorry, but could you bring it to me?
+------------------------------------------------
+[00000413][ジンガ,char_005 zynga]
+Hey, what happened to the fish bread?
+------------------------------------------------
+[00000414][ジンガ,char_005 zynga]
+Oh, Freed.
+Did you bring some fish bread?
+------------------------------------------------
+[00000415][ジンガ,char_005 zynga]
+oh! Thank you, Freed. Feel free to take it.
+Thank you for this. Please take it.
+------------------------------------------------
+[00000416][レヴィン,char_009 Levin]
+Hey, boy.
+I want to eat French bread, can you make it?
+If it's baked, I'll order some delivery.
+------------------------------------------------
+[00000417][レヴィン,char_009 Levin]
+Hey there, boy.
+Do you have French bread yet?
+------------------------------------------------
+[00000418][レヴィン,char_009 Levin]
+Oh, did you bring some French bread?
+------------------------------------------------
+[00000419][レヴィン,char_009 Levin]
+I've been waiting! Well, I like this...
+Thanks, boy!
+I don't want to say thank you, but please accept this.
+------------------------------------------------
+[00000420][アダム,char_006 a-dam]
+Sorry, Mr. Freed.
+Could you please make Chinese steamed buns?
+------------------------------------------------
+[00000421][アダム,char_006 a-dam]
+How is the production status of Chinese steamed buns?
+------------------------------------------------
+[00000422][アダム,char_006 a-dam]
+There is a thermal reaction to the sensor.
+It looks like you brought some Chinese steamed buns.
+------------------------------------------------
+[00000423][アダム,char_006 a-dam]
+Ah, this moderate temperature and softness...
+This "warmth" improves my processing speed.
+It's like that. Please accept this as a thank you.
+------------------------------------------------
+[00000424][ブレンダ,char_519]
+Freed, it's urgent, but could I place an order for you?
+My people like the donuts from your store.
+I'll run out of it soon.
+------------------------------------------------
+[00000425][ブレンダ,char_519]
+I'm sorry it happened so suddenly.
+When the donuts are ready, please bring them to me.
+------------------------------------------------
+[00000426][ブレンダ,char_519]
+Oh, did you bring me donuts?
+------------------------------------------------
+[00000427][ブレンダ,char_519]
+Thank you very much.
+Please give me this as a thank you.
+------------------------------------------------
+[00000428][ハイラム,char_513]
+I want to eat Shannon's special bread for the first time in a while...
+Freed, are you being taught by Shannon?
+Could you try baking one?
+------------------------------------------------
+[00000429][ハイラム,char_513]
+Do you still have Shannon's special bread?
+Ah, the bread my beloved son baked based on his beloved daughter's recipe...
+I'm sure it's incredibly delicious...
+------------------------------------------------
+[00000430][ハイラム,char_513]
+Hello, Freed.
+Maybe Shannon's special bread?
+Did you bring it?
+------------------------------------------------
+[00000431][ハイラム,char_513]
+thank you! To Freed, thank you for bringing it.
+Let me give you this.
+------------------------------------------------
+[00000432][ダニエル,char_518]
+To Roland in the central square,
+He wants me to deliver the milk he asked for.
+Please help me.
+------------------------------------------------
+[00000433][ダニエル,char_518]
+At Loran in the central square,
+Did you deliver the milk?
+------------------------------------------------
+[00000434][ロラン,char_507]
+Oh, milk! I was waiting!
+This is a stamp!
+------------------------------------------------
+[00000435][ダニエル,char_518]
+To Karl in the central square,
+Can you bring me some milk?
+I asked for it.
+------------------------------------------------
+[00000436][ダニエル,char_518]
+Karl is the central square.
+Did he give you milk?
+------------------------------------------------
+[00000437][カール,char_508]
+It's milk!
+This will make you taller than Roland!
+Yes, stamp!
+------------------------------------------------
+[00000438][ダニエル,char_518]
+Deliver milk to Shannon on the outskirts of the village.
+Apparently it's used for baking bread,
+It seems better to hurry, right?
+------------------------------------------------
+[00000439][ダニエル,char_518]
+Shannon is on the outskirts of the village.
+You know, right?
+------------------------------------------------
+[00000440][シャノン,char_004 Shannon]
+I'm glad you brought milk.
+Now I can bake bread.
+Yes, I'll give you a stamp.
+------------------------------------------------
+[00000441][ドルトン,char_506]
+Deliver the hunting bow to Hiram on the outskirts of the village.
+I asked for it.
+------------------------------------------------
+[00000442][ドルトン,char_506]
+Hiram is on the outskirts of the village.
+Please hurry.
+------------------------------------------------
+[00000443][ハイラム,char_513]
+You brought me a hunting bow.
+thank you.
+Now, let's give you a stamp.
+------------------------------------------------
+[00000444][ドルトン,char_506]
+Deliver the requested spear to Jim in the cove.
+I'll leave it to you.
+------------------------------------------------
+[00000445][ドルトン,char_506]
+At the cove, Jim is waiting for the spear.
+Please hurry.
+------------------------------------------------
+[00000446][ジム,char_502]
+Did you come to deliver the spear I asked Dalton for?
+Hey, that was a lot of work!
+Come on, let's do the stamps. I'm grateful.
+------------------------------------------------
+[00000447][ドルトン,char_506]
+Deliver the Vigilante Sword to Dario in the cove.
+I asked for it.
+------------------------------------------------
+[00000448][ドルトン,char_506]
+Dario will be waiting for you at the cove.
+Do it quickly.
+------------------------------------------------
+[00000449][ダリオ,char_515]
+Oh, I've been waiting!
+Thank you for delivering it to me, Freed!
+Look, this is a thank you stamp!
+------------------------------------------------
+[00000450][ダイアナ,char_505]
+To Adam who is on the outskirts of the village...
+Please bring me some firewood...
+Nice to meet you... Ufufufufu...
+------------------------------------------------
+[00000451][ダイアナ,char_505]
+Adam is on the outskirts of the village...
+Hurry up...hehehehe...
+------------------------------------------------
+[00000452][アダム,char_006 a-dam]
+Is it firewood? thank you.
+This increases the efficiency of cultivation.
+Now, please take a look at the stamps.
+------------------------------------------------
+[00000453][ダイアナ,char_505]
+Deliver animal food to Brenda at the farm...
+Don't eat it...?
+You don't eat...? yes……? 
+------------------------------------------------
+[00000454][ダイアナ,char_505]
+The recipient is Brenda at the ranch...
+Nice to meet you...hehehe...
+------------------------------------------------
+[00000455][ブレンダ,char_519]
+You delivered food for the animals.
+thank you as always.
+Yes, please give me a stamp.
+------------------------------------------------
+[00000456][ダイアナ,char_505]
+Deliver the rope to Peter at the ranch...
+I don't know what it's used for though...
+Fufufufufufu…
+------------------------------------------------
+[00000457][ダイアナ,char_505]
+Peter at the ranch...a rope...
+If you don't deliver it...I'll punish you...?
+What...hehehehehe...
+------------------------------------------------
+[00000458][ピーター,char_520]
+Did you bring a rope? thank you!
+You'll need it to build a fence.
+Yes, please give me a stamp.
+------------------------------------------------
+[00000459][アリーゼ,char_504]
+Daniel from the ranch is delivering wine!
+Good luck with the delivery!
+------------------------------------------------
+[00000460][アリーゼ,char_504]
+The delivery address is ~Daniel at the ranch~!
+Nice to meet you!
+------------------------------------------------
+[00000461][ダニエル,char_518]
+I've been waiting, thank you.
+I look forward to doing this every night.
+This is a thank you stamp.
+------------------------------------------------
+[00000462][アリーゼ,char_504]
+At the cove, Mirko...
+I'm waiting for the beer.
+Thank you for the delivery!
+------------------------------------------------
+[00000463][アリーゼ,char_504]
+Deliver to Mirko in the cove!
+Good luck!
+------------------------------------------------
+[00000464][ミルコ,char_516]
+oh! This is the only drink after work!
+Look, it's a stamp!
+------------------------------------------------
+[00000465][アリーゼ,char_504]
+Mr. Boris ~in the cove~
+Please bring me some whiskey.
+Please!
+------------------------------------------------
+[00000466][アリーゼ,char_504]
+Because it's Boris in the cove!
+Nice to meet you!
+------------------------------------------------
+[00000467][ボリス,char_511]
+Oh, sorry. Enjoy a quick drink while looking out at the sea.
+This is the secret to my health.
+I'll give you a stamp as a thank you for the delivery.
+------------------------------------------------
+[00000468][メリー,char_509]
+Freed~!
+I want to eat muffins!
+I like the cute ones!
+------------------------------------------------
+[00000469][メリー,char_509]
+Hey, Freed!
+Can't make muffins yet?
+------------------------------------------------
+[00000470][メリー,char_509]
+Did you bring me a muffin?
+------------------------------------------------
+[00000471][メリー,char_509]
+Wow! So cute!
+Thank you, Freed!
+Yes, thank you for baking this!
+------------------------------------------------
+[00000472][マイア,char_503]
+Oh, Freed-kun.
+I just have something to ask of you.
+Could you bake some tarts for the kids as a snack?
+------------------------------------------------
+[00000473][マイア,char_503]
+Do you still have the tart I ordered the other day?
+Please, before the kids start kneading Dada.
+------------------------------------------------
+[00000474][マイア,char_503]
+Oh, Freed-kun.
+Maybe he brought some tarts?
+------------------------------------------------
+[00000475][マイア,char_503]
+Well, it looks very delicious!
+Thank you, Freed-kun. The kids will love it too.
+Yes, this. Thank you for your help.
+------------------------------------------------
+[00000476][ラナ,char_528]
+Traveling by boat makes you hungry...
+Freed, please!
+Could you bake me some sweet bread?
+------------------------------------------------
+[00000477][ラナ,char_528]
+Hey, Freed.
+Do you still have sweet bread?
+------------------------------------------------
+[00000478][ラナ,char_528]
+Oh, Freed.
+Did you bring some sweet bread?
+------------------------------------------------
+[00000479][ラナ,char_528]
+thank you!
+Hehe, it will be delicious on the boat!
+Please get this as a thank you!
+------------------------------------------------
+[00000480][クープ,char_526]
+Bow-wow!
+------------------------------------------------
+[00000481][フリード,char_001 Fried]
+Coop, what are you holding in your mouth?
+picture?  thank you!
+------------------------------------------------
+[00000482][ハンス,char_510]
+Hey, Freed.
+I brought you something good!
+My souvenir from this adventure is... this guy!
+------------------------------------------------
+[00000483][ジンガ,char_005 zynga]
+There's a lake on the farm, right? That's a good fishing spot too.
+The pier is still broken due to the incident with the giant.
+I want to repair it, so could you please find some steel thread for me?
+------------------------------------------------
+[00000484][ジンガ,char_005 zynga]
+Let's fix the pier and revive the fishing spot!
+Please, Freed!
+Bring me the steel thread!
+------------------------------------------------
+[00000485][ジンガ,char_005 zynga]
+Oh, Freed!
+Did you bring steel thread?
+------------------------------------------------
+[00000486][ジンガ,char_005 zynga]
+Sorry, Freed. That was helpful.
+Alright! Now you can fix the ranch pier!
+It will take a whole day, so try going tomorrow.
+------------------------------------------------
+[00000487][ダイアナ,char_505]
+Thank you... hehehe...
+------------------------------------------------
+[00000488][シャノン,char_004 Shannon]
+Thank you for this.
+------------------------------------------------
+[00000489][ドルトン,char_506]
+Here you go.
+------------------------------------------------
+[00000490][アリーゼ,char_504]
+Thank you for your hard work!
+------------------------------------------------
+[00000491][アリーゼ,char_504]
+Thank you...
+Good luck!
+------------------------------------------------
+[00000492][]
+panis costume
+@fcFF55AAFF "Angel Swimsuit" @fci is now available.
+------------------------------------------------
+[00000493][]
+panis costume
+@fcFF55AAFF "Sailor Angel" @fci is now available.
+------------------------------------------------
+[00000494][]
+panis costume
+@fcFF55AAFF “Angel camouflage uniform” @fci is now available.
+------------------------------------------------
+[00000495][]
+panis costume
+@fcFF55AAFF "Mermaid Angel" @fci is now available.
+------------------------------------------------
+[00000496][]
+viola's mode
+@fcFFFFBBBB "Mode: Seraphim" @fci is now available.
+------------------------------------------------
+[00000497][]
+panis costume
+@fcFF55AAFF "Sailor Angel" @fci has been released.
+@fcFFFF7C80 *Available from Chapter 3.
+------------------------------------------------
+[00000498][]
+panis costume
+@fcFF55AAFF “Angel camouflage uniform” @fci has been released.
+@fcFFFF7C80 *Available from Chapter 3.
+------------------------------------------------
+[00000499][]
+panis costume
+@fcFF55AAFF "Mermaid Angel" @fci has been released.
+@fcFFFF7C80 *After clearing Panis' substory
+It will be available for use.
+------------------------------------------------
+[00000500][]
+viola's mode
+@fcFFFFBBBB "Mode: Seraphim" @fci has been released.
+@fcFFFF7C80 *Available from EX chapter.
+------------------------------------------------
+[00000501][]
+Lorna has been released.
+@fcFFFF7C80 *Available from Chapter 2.
+------------------------------------------------
+[00000502][]
+panis costume
+@fcFF55AAFF "Sailor Angel" @fci has been released.
+@fcFFFF7C80 *Available from Chapter 2.
+------------------------------------------------
+[00000503][]
+panis costume
+@fcFF55AAFF “Angel camouflage uniform” @fci has been released.
+@fcFFFF7C80 *Available from Chapter 2.
+------------------------------------------------
+[00000504][]
+panis costume
+@fcFF55AAFF "Mermaid Angel" @fci has been released.
+@fcFFFF7C80 *Available from Chapter 2.
+------------------------------------------------
+[00000505][]
+viola's mode
+@fcFFFFBBBB "Mode: Seraphim" @fci has been released.
+@fcFFFF7C80 *Can be used after Viola joins.
+------------------------------------------------
+[00000506][パニス,char_002 Panis]
+You know, Freed! L give this to you!
+------------------------------------------------
+[00000507][パニス,char_002 Panis]
+Thank you, Freed.
+Thanks to you, I feel better.
+Use this if you like.
+------------------------------------------------
+[00000508][ヴァイオラ,char_003 Viola]
+Freed, take this.
+I hope it's helpful.
+------------------------------------------------
+[00000509][シャノン,char_004 Shannon]
+Freed, I'll give you this.
+A reward from your sister!
+------------------------------------------------
+[00000510][ジンガ,char_005 zynga]
+Yes, take this with you.
+I'm sure it will be useful.
+------------------------------------------------
+[00000511][アダム,char_006 a-dam]
+Mr. Freed, please take this.
+I think it might be of some use.
+------------------------------------------------
+[00000512][キルマリア,char_007 Kilmaria]
+Mr. Freed! thank you always!
+It's boring, but please take this!
+------------------------------------------------
+[00000513][ベルベット,char_008 Velvet]
+Ah, that's right. I'll give you this.
+What if I use it or sell it?
+------------------------------------------------
+[00000514][レヴィン,char_009 Levin]
+There is something like this,
+I don't need it at the moment.
+Take it if you like.
+------------------------------------------------
+[00000515][ラナ,char_528]
+Freed!　Thank you for your hard work!
+Yes, this. Special service!　
+------------------------------------------------
+[00000516][ロラン,char_507]
+Freed! I'll do this!
+Please use it with care!
+------------------------------------------------
+[00000517][カール,char_508]
+Freed, I'll give you this!
+thank you as always!
+------------------------------------------------
+[00000518][メリー,char_509]
+Freed, this is a present!
+Always working hard for everyone,
+thank you!
+------------------------------------------------
+[00000519][ハイラム,char_513]
+That's right, Freed. Do you want to use this?
+You can take it with you if you like.
+------------------------------------------------
+[00000520][リアン,char_514]
+Freed, I'll give you this.
+It seems like you're always working hard, so it's a reward for that.
+------------------------------------------------
+[00000521][ジム,char_502]
+...I'll do this.
+No, I don't need it, just do it!
+Don't get me wrong!
+------------------------------------------------
+[00000522][ダリオ,char_515]
+Please take this!
+Please help us protect the village!
+------------------------------------------------
+[00000523][ブレンダ,char_519]
+Thank you for everything.
+Please use this if you like.
+------------------------------------------------
+[00000524][ピーター,char_520]
+Freed, I'll give you this.
+I don't need it, so use it.
+------------------------------------------------
+[00000525][フリード,char_001 Fried]
+My name is Freed Karim.
+With this sword as a weapon, Shannon, Zinga and others,
+They protect the village from monsters and pirates.
+------------------------------------------------
+[00000526][フリード,char_001 Fried]
+Apparently I washed up on this island when I was small.
+The village chief says that it was shining brightly at that time.
+To be honest, I don't really remember.
+------------------------------------------------
+[00000527][パニス,char_002 Panis]
+It's Panis!
+They say everyone is an angel, but
+Panis, I don't understand.
+------------------------------------------------
+[00000528][パニス,char_002 Panis]
+Well, Panis, it's magic!
+Also, I love singing!
+When Panis sings, many things happen!
+------------------------------------------------
+[00000529][ヴァイオラ,char_003 Viola]
+My name is Viola. The god of death in the dark purple darkness.
+My mission is to avenge those who harm this world...
+------------------------------------------------
+[00000530][ヴァイオラ,char_003 Viola]
+I feel really sorry for Panis...
+But I won't be mistaken anymore.
+I will point the tip of this Grim Reaper's scythe at the true enemy!
+------------------------------------------------
+[00000531][ヴァイオラ,char_003 Viola]
+This figure is Seraphim.
+A white guardian who protects this world with a bow of light and melodies.
+------------------------------------------------
+[00000532][ヴァイオラ,char_003 Viola]
+Songs connect hearts and convey feelings.
+Your strong feelings have touched my heart.
+If so, let me lend you this power.
+------------------------------------------------
+[00000533][シャノン,char_004 Shannon]
+I'm Shannon Milfi. Freed's older sister.
+Of course, they aren't related by blood.
+I run a bakery on the outskirts of the village.
+------------------------------------------------
+[00000534][シャノン,char_004 Shannon]
+I'm an elf, so I'm friends with the wind spirit,
+The handling of the bow is also quite good.
+Leave the support of your friends to me!
+------------------------------------------------
+[00000535][ジンガ,char_005 zynga]
+My name is Zinga Varga.
+He works as a fisherman in the village. Water-related matters are handy.
+Fishing is great! It's the pinnacle of culture created by humans!
+------------------------------------------------
+[00000536][ジンガ,char_005 zynga]
+Oh, that doesn't mean you're weak on land, right?
+Switch your treasure from a fishing rod to a halberd and shield,
+I'll protect my friends from the enemy!
+------------------------------------------------
+[00000537][アダム,char_006 a-dam]
+My type is "α-D.A.M."
+Please call me Adam.
+------------------------------------------------
+[00000538][アダム,char_006 a-dam]
+My arms have built-in weapons, so
+I think it will be useful in battle.
+But why something like this...?
+------------------------------------------------
+[00000539][キルマリア,char_007 Kilmaria]
+My name is Kilmaria Aideen!
+With these two-handed guns and the light of God,
+I am an exorcist who exorcises evil spirits from the world!
+------------------------------------------------
+[00000540][キルマリア,char_007 Kilmaria]
+Whether it's a monster or a pirate,
+Bang bang in the name of heaven, earth, and justice!
+Come on, everyone! Let's come together!!
+------------------------------------------------
+[00000541][ベルベット,char_008 Velvet]
+Yay♪ I'm Velvet Battras.
+She's a pretty well-known pirate.
+From now on, yo-ro-shi-ku-ne♪
+------------------------------------------------
+[00000542][ベルベット,char_008 Velvet]
+Her weapons are a rapier, and her beauty and brain.
+One wink can make a man fall in love with you.
+Please be careful not to fall into the deep darkness♪
+------------------------------------------------
+[00000543][レヴィン,char_009 Levin]
+My name is Levin Williams.
+He is a pirate seeking new territory in this ocean.
+If the bayonet bursts into flames, the enemy will die, right?
+------------------------------------------------
+[00000544][レヴィン,char_009 Levin]
+Please note that this is a temporary alliance.
+It's not like I've given up on this island, right?
+Well, in short, I don't like getting to know each other.
+------------------------------------------------
+[00000545][ローナ,char_010 rohna]
+I-I'm Lorna.
+I work as a maid to the princess in the monkey kingdom.
+Thank you very much.
+------------------------------------------------
+[00000546][ローナ,char_010 rohna]
+I like cooking more than fighting...
+In an emergency, you can freely manipulate this sword and flame,
+I'll cook the singer!
+------------------------------------------------
+[00000547][鋼鱗丸,char_530]
+Yes♪
+------------------------------------------------
+[00000548][パニス,char_002 Panis]
+Kourinmaru looks like fun!
+Hehehe, Panis is getting kind of fun too!
+------------------------------------------------
+[00000549][鋼鱗丸,char_530]
+Yay!
+------------------------------------------------
+[00000550][フリード,char_001 Fried]
+Ah, that...?
+Kourinmaru, maybe you're angry?
+Oh, did I do something...?
+------------------------------------------------
+[00000551][鋼鱗丸,char_530]
+Too...
+------------------------------------------------
+[00000552][パニス,char_002 Panis]
+Koirinmaru, what happened? Are you not feeling well?
+……That's it!
+I'll give you a spell to make Panis feel better!
+------------------------------------------------
+[00000553][パニス,char_002 Panis]
+Be well!
+Be well!
+Stay well!
+------------------------------------------------
+[00000554][鋼鱗丸,char_530]
+Moimoi?
+------------------------------------------------
+[00000555][フリード,char_001 Fried]
+……yeah? Is there something you want to ask me?
+------------------------------------------------
+[00000556][鋼鱗丸,char_530]
+Moi? Moi moi moi?
+------------------------------------------------
+[00000557][フリード,char_001 Fried]
+...I'm sorry, Kourinkomaru.
+I want to answer it, but
+I don't know what you're asking...
+------------------------------------------------
+[00000558][鋼鱗丸,char_530]
+Momoi!
+------------------------------------------------
+[00000559][パニス,char_002 Panis]
+Yes, that's right, Haganemaru.
+------------------------------------------------
+[00000560][フリード,char_001 Fried]
+that?
+Panis, are you now able to understand Korinkomaru's words?
+------------------------------------------------
+[00000561][パニス,char_002 Panis]
+No. 
+------------------------------------------------
+[00000562][フリード,char_001 Fried]
+…………I see.
+------------------------------------------------
+[00000563][鋼鱗丸,char_530]
+Too...
+------------------------------------------------
+[00000564][フリード,char_001 Fried]
+Kourinmaru looks sleepy.
+Sorry, did I interrupt you?
+good night……
+------------------------------------------------
+[00000565][鋼鱗丸,char_530]
+Mo-moi!?
+------------------------------------------------
+[00000566][パニス,char_002 Panis]
+eh? ...Oh, I'm drooling.
+What? Kourinmaru, you were just sleepy.
+------------------------------------------------
+[00000567][鋼鱗丸,char_530]
+Moi~♪ Moi moi~i♪
+------------------------------------------------
+[00000568][フリード,char_001 Fried]
+Delicious, delicious, Hagane Maru!
+Aren't you good at singing?
+------------------------------------------------
+[00000569][鋼鱗丸,char_530]
+Moi! Moimoi!
+------------------------------------------------
+[00000570][フリード,char_001 Fried]
+What's wrong, Korinkomaru? I feel extremely confident today...
+...Oh!? Isn't your skin so shiny!
+That's amazing, Hagane Maru! It must have been a lot of polish!
+------------------------------------------------
+[00000571][鋼鱗丸,char_530]
+Moi moi moi♪
+------------------------------------------------
+[00000572][パニス,char_002 Panis]
+Ahaha! It's ticklish, Haganemaru!
+Hahahaha, if it doesn't work, then that's it!
+Ahahahahahahaha!
+------------------------------------------------
+[00000573][パニス,char_002 Panis]
+Panis, I feel like singing!
+------------------------------------------------
+[00000574][パニス,char_002 Panis]
+Oh, the butterflies are flying!
+Fufufu~♪ Fufufu~♪
+------------------------------------------------
+[00000575][マイア,char_503]
+Panis-chan's song was really good.
+This is my heartfelt thank you.
+------------------------------------------------
+[00000576][ロラン,char_507]
+Awesome! Panis, let's do this!
+------------------------------------------------
+[00000577][カール,char_508]
+Panis' song was really good!
+I'll give you this, so sing it again!
+------------------------------------------------
+[00000578][メリー,char_509]
+Panis was amazing!
+I'll give you this!
+------------------------------------------------
+[00000579][アリーゼ,char_504]
+Good!
+I'll give you this!
+------------------------------------------------
+[00000580][ガルゼー,char_501]
+That was amazing, Panis!
+Come on, let me give you this.
+------------------------------------------------
+[00000581][ダイアナ,char_505]
+Hehehe... that was a good song...
+I'll give you this...
+------------------------------------------------
+[00000582][ドルトン,char_506]
+Hmm, that was a good song. I think I'll be able to make some good weapons today.
+Let's do this as a thank you.
+------------------------------------------------
+[00000583][ハンス,char_510]
+Panis, that was a great song!
+Woooooo! I feel like I'm on fire!
+This is what I found in the ruins! I'll do it as a thank you!
+------------------------------------------------
+[00000584][ガルゼー,char_501]
+Good... really good...!　
+I heard a nice song, Panis-chan...!
+------------------------------------------------
+[00000585][ガルゼー,char_501]
+This needs to be stamped!
+------------------------------------------------
+[00000586][アリーゼ,char_504]
+Panis' song is a really good song!
+I feel so good!
+------------------------------------------------
+[00000587][アリーゼ,char_504]
+Today we're going to give you a special service!
+We'll make it cheaper, so buy as much as you can!
+------------------------------------------------
+[00000588][フリード,char_001 Fried]
+Thank you, Panis! I feel more energetic!
+Thanks to you, I think I'll be able to bake bread well today!
+------------------------------------------------
+[00000589][ラナ,char_528]
+You're really good at singing! I was enchanted!
+Looks like I'll be able to make some good deals today!
+Thanks dear!
+------------------------------------------------
+[00000590][パニス,char_002 Panis]
+Ah! 
+------------------------------------------------
+[00000591][ヒツジ,char_521]
+Meh
+------------------------------------------------
+[00000592][ヒツジ,char_521]
+Nmeeeeeeeee...
+------------------------------------------------
+[00000593][ヒツジ,char_521]
+Meh, meh
+------------------------------------------------
+[00000594][大きなヒツジ,char_522]
+Meh
+------------------------------------------------
+[00000595][大きなヒツジ,char_522]
+Nmeeeeeeeee...
+------------------------------------------------
+[00000596][大きなヒツジ,char_522]
+Meh, meh
+------------------------------------------------
+[00000597][小さなヒツジ,char_523]
+Meh
+------------------------------------------------
+[00000598][小さなヒツジ,char_523]
+Nmeeeeeeeee...
+------------------------------------------------
+[00000599][小さなヒツジ,char_523]
+Meh, meh
+------------------------------------------------
+[00000600][オスのニワトリ,char_524]
+Kokke kokko!!
+------------------------------------------------
+[00000601][オスのニワトリ,char_524]
+Coccocco...
+------------------------------------------------
+[00000602][オスのニワトリ,char_524]
+Wow!
+Coccocco...
+------------------------------------------------
+[00000603][メスのニワトリ,char_525]
+Kokke kokko!!
+------------------------------------------------
+[00000604][メスのニワトリ,char_525]
+Coccocco...
+------------------------------------------------
+[00000605][メスのニワトリ,char_525]
+Wow!
+Coccocco...
+------------------------------------------------
+[00000606][クープ,char_526]
+Wahoo!
+------------------------------------------------
+[00000607][クープ,char_526]
+one! 
+------------------------------------------------
+[00000608][クープ,char_526]
+Coon...
+------------------------------------------------
+[00000609][クープ,char_526]
+Ahhh!
+------------------------------------------------
+

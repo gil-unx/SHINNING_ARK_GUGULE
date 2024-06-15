@@ -1,0 +1,106 @@
+[0029]
+*****************
+[00000000][フリード,char_001 Fried]
+You guys! Stop being violent on this island!
+Get off the island now!
+------------------------------------------------
+[00000001][ジンガ,char_005 zynga]
+Hey, can't you hear me!?
+------------------------------------------------
+[00000002][パニス,char_002 Panis]
+I don't think you're listening.
+------------------------------------------------
+[00000003][ジンガ,char_005 zynga]
+It's superior.
+So why not make it impossible to ignore?
+Let's go, Freed!
+------------------------------------------------
+[00000004][フリード,char_001 Fried]
+ah!
+------------------------------------------------
+[00000005][海賊,char_602]
+Hey, hey! Oh, it was my fault!
+Forgive me! 
+------------------------------------------------
+[00000006][フリード,char_001 Fried]
+I didn't say anything about killing anyone.
+You'll never come to this village again, will you?
+------------------------------------------------
+[00000007][ジンガ,char_005 zynga]
+…………
+------------------------------------------------
+[00000008][海賊,char_602]
+Hey, he’s not coming! Will not come!
+So forgive me!
+------------------------------------------------
+[00000009][フリード,char_001 Fried]
+In that case, go somewhere quickly!
+------------------------------------------------
+[00000010][ジンガ,char_005 zynga]
+Hey, Freed...
+------------------------------------------------
+[00000011][海賊,char_602]
+Ha, yes! sorry!thank you!
+------------------------------------------------
+[00000012][ジンガ,char_005 zynga]
+Wait, Freed!
+Are you going to let it go like this?
+------------------------------------------------
+[00000013][フリード,char_001 Fried]
+That's okay, Zynga.
+I'm sure they won't come to the island because of this, so let's leave it alone.
+------------------------------------------------
+[00000014][ジンガ,char_005 zynga]
+That won't happen, will it? I'll chase you!
+------------------------------------------------
+[00000015][フリード,char_001 Fried]
+Wait a minute, Zynga!
+------------------------------------------------
+[00000016][フリード,char_001 Fried]
+you! You promised!
+------------------------------------------------
+[00000017][海賊,char_602]
+Promise? I don't know!
+I was probably chased away once or twice,
+Can you give up on the village that is rumored to contain treasure?
+------------------------------------------------
+[00000018][フリード,char_001 Fried]
+you……!
+------------------------------------------------
+[00000019][ジンガ,char_005 zynga]
+Freed, there's no point in talking.
+I'll fuck you soon.
+------------------------------------------------
+[00000020][フリード,char_001 Fried]
+……Yeah!
+------------------------------------------------
+[00000021][海賊,char_602]
+Hey, hey! It was bad!
+I'll never come again this time! Please forgive me for not coming!
+No, it's all about life...!
+------------------------------------------------
+[00000022][ジンガ,char_005 zynga]
+Isn't it nice to have a different promise once?
+Do you think you can trust me?
+Rather than that, I want to make sure I can't come again...
+------------------------------------------------
+[00000023][フリード,char_001 Fried]
+Wait, Zynga!
+------------------------------------------------
+[00000024][ジンガ,char_005 zynga]
+I tried not to kill him, but I was too naive.
+From people like this, he has no choice but to take his life...
+------------------------------------------------
+[00000025][フリード,char_001 Fried]
+Zynga! stop!
+------------------------------------------------
+[00000026][海賊,char_602]
+Hey, help me!
+------------------------------------------------
+[00000027][ジンガ,char_005 zynga]
+wait! 
+------------------------------------------------
+[00000028][フリード,char_001 Fried]
+Zinga!
+------------------------------------------------
+

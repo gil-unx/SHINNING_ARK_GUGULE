@@ -1,0 +1,784 @@
+[0184]
+*****************
+[00000000][シャノン,char_004 Shannon]
+Shannon, let's do our best together!
+------------------------------------------------
+[00000001][シャノン,char_004 Shannon]
+Leave it to me!
+------------------------------------------------
+[00000002][シャノン,char_004 Shannon]
+It's become a big deal.
+------------------------------------------------
+[00000003][シャノン,char_004 Shannon]
+Come on, Freed. I'm going to be busy from now on!
+We have to do our best and get the village back on track!
+------------------------------------------------
+[00000004][シャノン,char_004 Shannon]
+That's right. I have to be with Freed.
+Freed, don't worry.
+I'll take good care of you.
+------------------------------------------------
+[00000005][シャノン,char_004 Shannon]
+Instead, to help everyone,
+Work hard!
+------------------------------------------------
+[00000006][シャノン,char_004 Shannon]
+Good luck!
+...That said, I'm worried about Freed alone.
+------------------------------------------------
+[00000007][シャノン,char_004 Shannon]
+I'll take good care of you,
+Work hard! Freed!
+------------------------------------------------
+[00000008][シャノン,char_004 Shannon]
+This is not the time to whine!
+Stay strong!
+------------------------------------------------
+[00000009][シャノン,char_004 Shannon]
+a little bit! I can't rely on it anymore...
+------------------------------------------------
+[00000010][シャノン,char_004 Shannon]
+I made a new bread
+Why can't everyone try it?
+This time I'm proud of my work...
+------------------------------------------------
+[00000011][シャノン,char_004 Shannon]
+Um, Freed?
+I would like to discuss something with you
+But...
+------------------------------------------------
+[00000012][シャノン,char_004 Shannon]
+It's already late today,
+Will you come to me again tomorrow?
+------------------------------------------------
+[00000013][シャノン,char_004 Shannon]
+Panis' singing voice is so beautiful.
+And it has a mysterious power...
+------------------------------------------------
+[00000014][シャノン,char_004 Shannon]
+Maybe with the power of Panis' song,
+There are many wonderful things happening in this village.
+It might happen!
+------------------------------------------------
+[00000015][シャノン,char_004 Shannon]
+What on earth is that woman named Velvet?
+What about you guys too? Did you put it under your nose?
+It's sloppy and useless!
+------------------------------------------------
+[00000016][シャノン,char_004 Shannon]
+Lately, a lot of things have been happening one after another...
+The village chief says there's nothing to worry about.
+I think he'll be okay though...
+------------------------------------------------
+[00000017][ジンガ,char_005 zynga]
+Prioritize food, maybe a boat.
+------------------------------------------------
+[00000018][ジンガ,char_005 zynga]
+My top priority is my home, right?
+------------------------------------------------
+[00000019][ジンガ,char_005 zynga]
+Before that, let's take a break and recover our strength.
+------------------------------------------------
+[00000020][ジンガ,char_005 zynga]
+Good grief. Where did you get it...
+Freed, what would you do?
+------------------------------------------------
+[00000021][ジンガ,char_005 zynga]
+Hey, don't say anything nice, Freed!
+Yes, food is important!
+If you can't go fishing, you won't be able to catch fish!
+------------------------------------------------
+[00000022][ジンガ,char_005 zynga]
+But don't worry. The ship is safe except for the sails.
+I'll catch as many fish as you want later.
+Look forward to it!
+------------------------------------------------
+[00000023][ジンガ,char_005 zynga]
+Ah, that's certainly true.
+It would be a shame if the house remained broken forever.
+Well, I'm about to get busy!
+------------------------------------------------
+[00000024][ジンガ,char_005 zynga]
+It's true that recovering your physical strength is important, but...
+Freed, is it okay to be so relaxed?
+Don't you understand the seriousness of the matter?
+------------------------------------------------
+[00000025][ジンガ,char_005 zynga]
+...Ah, I'm definitely confused.
+After all, start from every visible place.
+I have no choice but to clean it up.
+------------------------------------------------
+[00000026][ジンガ,char_005 zynga]
+Fishing is great!
+Drop a fishing line on the wide blue sea surface and wait for your prey...
+This is a man's romance!
+------------------------------------------------
+[00000027][ジンガ,char_005 zynga]
+Something terrible has happened...
+But at times like this
+We have to do our best.
+------------------------------------------------
+[00000028][ジンガ,char_005 zynga]
+Repairs to the pier have finally been completed.
+Just when I thought I could finally go fishing,
+The sail of the fishing boat was torn...
+------------------------------------------------
+[00000029][ジンガ,char_005 zynga]
+...Fishing by boat has been postponed for a while.
+Well, I can't help it. Fishing, casting nets, etc.
+I will concentrate on fishing that can be done on land.
+------------------------------------------------
+[00000030][ジンガ,char_005 zynga]
+Is it velvet...
+She's the type of woman that doesn't exist on this island.
+------------------------------------------------
+[00000031][ジンガ,char_005 zynga]
+Suddenly "I-I-Ko-to"
+I started saying something like that...
+What on earth are you thinking?
+------------------------------------------------
+[00000032][ジンガ,char_005 zynga]
+Apparently, there was no damage to the village.
+It's safe for now.
+But...what was that shaking?
+------------------------------------------------
+[00000033][アダム,char_006 a-dam]
+Get some rest now.
+------------------------------------------------
+[00000034][アダム,char_006 a-dam]
+There's nothing for now.
+------------------------------------------------
+[00000035][アダム,char_006 a-dam]
+I don't think you'll be in trouble if you ask me.
+------------------------------------------------
+[00000036][アダム,char_006 a-dam]
+In addition to restoration work,
+Is there anything I can do to help you?
+------------------------------------------------
+[00000037][アダム,char_006 a-dam]
+thank you.
+Now, let's go into maintenance mode.
+We will resume assistance as soon as we receive instructions.
+------------------------------------------------
+[00000038][アダム,char_006 a-dam]
+is that so.
+If you need anything, please give me an order at any time.
+------------------------------------------------
+[00000039][アダム,char_006 a-dam]
+is that so.
+Now, I would like to take a moment to ask everyone in the village.
+------------------------------------------------
+[00000040][アダム,char_006 a-dam]
+If you need anything, please give me an order at any time.
+------------------------------------------------
+[00000041][アダム,char_006 a-dam]
+I will be managing this farm.
+Please let us know when you need it.
+------------------------------------------------
+[00000042][アダム,char_006 a-dam]
+Regarding the stone statues at that ruins,
+There's something that's bothering me,
+Unable to load data.
+------------------------------------------------
+[00000043][アダム,char_006 a-dam]
+...In other words, I can't remember.
+------------------------------------------------
+[00000044][ガルゼー,char_501]
+From now on, Freed and his friends will
+I find myself asking for things more often.
+Thank you very much.
+------------------------------------------------
+[00000045][ガルゼー,char_501]
+When leaving the village, be sure to prepare properly.
+You can buy everything you need at this plaza.
+------------------------------------------------
+[00000046][ガルゼー,char_501]
+It's become a really big deal...
+But this is not the time to complain. Immediate recovery measures
+I have to stand up. Don't let your true worth as the village chief be questioned.
+------------------------------------------------
+[00000047][ガルゼー,char_501]
+It's good that the road to the ruins has been restored,
+I don't know what will happen next...
+------------------------------------------------
+[00000048][ガルゼー,char_501]
+Freed, if you're going to the ruins, be sure to do it while it's daylight.
+You always have Panis-chan with you.
+Don't forget that.
+------------------------------------------------
+[00000049][ガルゼー,char_501]
+Speaking of which, Peter saw something in the ruins.
+he said that. Because of a strange feeling in my chest,
+He accidentally forgot. I'm sorry.
+------------------------------------------------
+[00000050][ジム,char_502]
+I was also saved thanks to Panis.
+------------------------------------------------
+[00000051][ジム,char_502]
+Even Jim can't talk about other people!
+------------------------------------------------
+[00000052][ジム,char_502]
+Even though I haven't even fought...
+------------------------------------------------
+[00000053][ジム,char_502]
+I wondered what would happen for a while, but
+Panis saved my life!
+Well done, you're an angel!
+------------------------------------------------
+[00000054][ジム,char_502]
+In exchange, what were you doing?
+------------------------------------------------
+[00000055][ジム,char_502]
+oh? Well, from now on, follow me,
+Be honest and humble...
+------------------------------------------------
+[00000056][ジム,char_502]
+What, why are you laughing?
+------------------------------------------------
+[00000057][ジム,char_502]
+Oh, how noisy!
+------------------------------------------------
+[00000058][ジム,char_502]
+I wasn't feeling cold at that time either.
+Unexplained numbness in the hands
+If only my big toe didn't hurt...
+------------------------------------------------
+[00000059][ジム,char_502]
+Ah, that time was just a coincidence!
+Look at me, it's all about you forever,
+I won't let you get any big trouble!
+------------------------------------------------
+[00000060][ジム,char_502]
+One of these days, I
+I'll become the hero of this village!
+------------------------------------------------
+[00000061][ジム,char_502]
+Hmph, it seems like I can't say anything back.
+Well, next time at most,
+Try not to cause any trouble to Panis!
+------------------------------------------------
+[00000062][ジム,char_502]
+Wow!
+Angels really existed!
+------------------------------------------------
+[00000063][ジム,char_502]
+Hey, can I touch your feathers?
+Just a little bit is enough! What!?
+------------------------------------------------
+[00000064][ジム,char_502]
+Kyo, Kyo, giant...
+I-I wasn't scared at all...!
+------------------------------------------------
+[00000065][ジム,char_502]
+If you don't understand something,
+Go to the village chief.
+Maybe you know something?
+------------------------------------------------
+[00000066][マイア,char_503]
+Freed-kun.
+Helping the village is very important, but
+Is studying important?
+------------------------------------------------
+[00000067][マイア,char_503]
+Because the village is in such a situation,
+Don't neglect your studies. Good?
+------------------------------------------------
+[00000068][マイア,char_503]
+The school building was completely destroyed,
+With this, it will be impossible to hold classes for the time being...
+But I'm so glad all the kids are safe!
+------------------------------------------------
+[00000069][マイア,char_503]
+I'm glad to see the smiles on the children's faces again!
+Freed and Shannon's bread is
+Great effect! thanks so much!
+------------------------------------------------
+[00000070][マイア,char_503]
+I feel relieved when I look up at the school bell...
+Once again, the village has returned to normal life.
+------------------------------------------------
+[00000071][マイア,char_503]
+Now everyone, let's make up for the missed classes!
+We'll give you plenty of homework!
+...Oh my god♪
+------------------------------------------------
+[00000072][アリーゼ,char_504]
+Welcome.
+This is a restaurant where you can drink alcohol, but you can also eat there.
+I also manage quests.
+------------------------------------------------
+[00000073][アリーゼ,char_504]
+Panis may not know it yet...
+A quest is basically a request.
+If she listens to my request, I'll give you a reward!
+------------------------------------------------
+[00000074][アリーゼ,char_504]
+What was that giant after all?
+It was scary...
+I don't want you to come again...
+------------------------------------------------
+[00000075][ダイアナ,char_505]
+Welcome...Medicinal herbs...Ingredients...
+We also have various other items...
+Fufufufufu……
+------------------------------------------------
+[00000076][ダイアナ,char_505]
+You... you were Panis, right...?
+good……? Everyone comes here to buy items...
+------------------------------------------------
+[00000077][ダイアナ,char_505]
+Because we are the only item store...
+It's obvious...hehehehehe...
+------------------------------------------------
+[00000078][ダイアナ,char_505]
+I feel dizzy for some reason...
+I think I saw something like a big giant...
+Maybe he was drunk...hehe...
+------------------------------------------------
+[00000079][ドルトン,char_506]
+What, doesn't that girl know about blacksmiths?
+A blacksmith is someone who creates weapons with his spirit and strength.
+------------------------------------------------
+[00000080][ドルトン,char_506]
+To get rid of the monsters and pirates roaming the island,
+I need a weapon made by me. Please call me anytime.
+I'll be happy to make you a weapon.
+------------------------------------------------
+[00000081][ドルトン,char_506]
+I wonder what time it is now...?
+The school bell broke,
+Not knowing the time is inconvenient.
+------------------------------------------------
+[00000082][ロラン,char_507]
+Panis has wings and is so cool!
+Will it fly through the air after all?
+I want to see it! I want to see it! I want to see it!
+------------------------------------------------
+[00000083][ロラン,char_507]
+It was nice to see everyone again...
+Something like that happened to me...
+I'm afraid I won't be able to meet everyone anymore...
+------------------------------------------------
+[00000084][ロラン,char_507]
+Freed! Panis! Thank you for the delicious bread!
+Hey, let's play together!
+We're off to school for a while!
+------------------------------------------------
+[00000085][カール,char_508]
+Hey, Panis, come to school too!
+Let's play with us at school!
+------------------------------------------------
+[00000086][カール,char_508]
+Freed... Panis...
+I'm scared...
+It looks like both the school and the house have been destroyed...
+------------------------------------------------
+[00000087][カール,char_508]
+Thank you for the meal, Freed! Panis!
+The bread I received was very delicious!
+------------------------------------------------
+[00000088][メリー,char_509]
+Isn't Mary a strong girl?
+------------------------------------------------
+[00000089][メリー,char_509]
+The scary thing is that we're all the same.
+------------------------------------------------
+[00000090][メリー,char_509]
+Don't embarrass me...
+------------------------------------------------
+[00000091][メリー,char_509]
+Hey, Freed...
+I'm a little scared...
+Won't you stay here with me...?
+------------------------------------------------
+[00000092][メリー,char_509]
+……Yeah!
+I'll do my best by myself!
+------------------------------------------------
+[00000093][メリー,char_509]
+She was much more scared than I was,
+There may be some people who are confused!
+------------------------------------------------
+[00000094][メリー,char_509]
+...I'm sorry for being selfish.
+It's scary, but I'll do my best!
+------------------------------------------------
+[00000095][メリー,char_509]
+sorry……
+Freed is working hard for the village...
+Take care……
+------------------------------------------------
+[00000096][メリー,char_509]
+Freed is so busy...
+------------------------------------------------
+[00000097][メリー,char_509]
+I want to talk to Panis.
+Hey, isn't that okay?
+Please tell me a lot about Panis!
+------------------------------------------------
+[00000098][メリー,char_509]
+Our school...is gone...
+What should I do from now on...?
+------------------------------------------------
+[00000099][メリー,char_509]
+The bread was delicious! Because we all ate,
+It was even more delicious than usual!
+------------------------------------------------
+[00000100][メリー,char_509]
+Dear Shannon sister,
+Please say thank you!
+------------------------------------------------
+[00000101][ハンス,char_510]
+Walk around the island for a bit,
+I've gathered all sorts of things along with supplies.
+Please ask Alise at the store.
+------------------------------------------------
+[00000102][ハンス,char_510]
+I can't help it if I'm really busy...
+If we are to rebuild a village that has suffered so much damage,
+No matter how much supplies we have, it's never enough...
+------------------------------------------------
+[00000103][ハンス,char_510]
+When you can't see me,
+Even if it’s to go somewhere to procure supplies.
+Think I'm going out.
+------------------------------------------------
+[00000104][ハンス,char_510]
+Well, by the way,
+Just a little bit of exploration...!
+Ushishishishishishishi!
+------------------------------------------------
+[00000105][ボリス,char_511]
+Take a walk from the square to this cove,
+It's my daily routine to relax and look at the sea.
+------------------------------------------------
+[00000106][ボリス,char_511]
+The sea is nice!
+It's full of manly romance.
+------------------------------------------------
+[00000107][ボリス,char_511]
+When I saw that monster,
+Honestly, I thought it was over...
+------------------------------------------------
+[00000108][ボリス,char_511]
+That pirate sister,
+Great Beppin-san!
+I'd love to have some tea with you!
+------------------------------------------------
+[00000109][デボラ,char_512]
+The road leading to the ruins
+It's blocked by a fallen tree.
+I can't go to pray to the guardian deity.
+------------------------------------------------
+[00000110][デボラ,char_512]
+Please pray every single day
+Even though I never missed it...
+------------------------------------------------
+[00000111][デボラ,char_512]
+You moved the tree away. thank you.
+Now you can go to pray to the guardian deity.
+------------------------------------------------
+[00000112][デボラ,char_512]
+I never expected that the guardian deity of the ruins would make a move.
+You can live a long life.
+------------------------------------------------
+[00000113][デボラ,char_512]
+Lately, bad things have been happening in the village,
+Doesn't it mean that you will move and protect yourself?
+That's a blessing.
+------------------------------------------------
+[00000114][ハイラム,char_513]
+Leave it to me!
+------------------------------------------------
+[00000115][ハイラム,char_513]
+understood.
+------------------------------------------------
+[00000116][ハイラム,char_513]
+There's something else I need to do...
+------------------------------------------------
+[00000117][ハイラム,char_513]
+The reconstruction of the village...
+I will also do my best to repair buildings and equipment.
+I have to show my skills.
+------------------------------------------------
+[00000118][ハイラム,char_513]
+Freed, please lend me a hand too?
+------------------------------------------------
+[00000119][ハイラム,char_513]
+Oh, so reliable!
+I'm looking forward to it, Freed!
+------------------------------------------------
+[00000120][ハイラム,char_513]
+I asked for it, Freed.
+My uncle is good with his hands, but
+I don't have confidence in my strength.
+------------------------------------------------
+[00000121][ハイラム,char_513]
+I understand that, but...
+Such a lonely thing,
+I wish you didn't say that...
+------------------------------------------------
+[00000122][ハイラム,char_513]
+What's wrong, Freed?
+Uncle, did I say something to embarrass you?
+------------------------------------------------
+[00000123][ハイラム,char_513]
+Every morning we wake up to the sound of chickens,
+I am receiving their eggs.
+We receive many benefits from animals.
+------------------------------------------------
+[00000124][ハイラム,char_513]
+Chickens today,
+I wonder how many eggs she gave birth to...?
+------------------------------------------------
+[00000125][ハイラム,char_513]
+Freed, look at this.
+Because of the gust of wind caused by the giant
+The farm has gone bad...
+------------------------------------------------
+[00000126][ハイラム,char_513]
+It's a shame because I've grown this far...
+------------------------------------------------
+[00000127][ハイラム,char_513]
+Well, I'm really tired. I'm exhausted.
+But I'm glad I was able to help the village.
+------------------------------------------------
+[00000128][ハイラム,char_513]
+Although there is much to be done,
+There just isn't enough time.
+------------------------------------------------
+[00000129][ハイラム,char_513]
+At times like this, Adam who can work without sleep
+I feel jealous of him.
+------------------------------------------------
+[00000130][リアン,char_514]
+Panis-chan, the dog that often runs in front of my house is Coop.
+Well, he's also the guard dog of this village...
+------------------------------------------------
+[00000131][リアン,char_514]
+That child was very scared during the commotion the other day.
+You were on my lap the whole time?
+That's really a problem, haha.
+------------------------------------------------
+[00000132][リアン,char_514]
+Warm bread for everyone in the village
+I want to behave, but
+I ran out of milk...
+------------------------------------------------
+[00000133][リアン,char_514]
+I'm in trouble...
+------------------------------------------------
+[00000134][リアン,char_514]
+Yes Yes. I can now bake bread.
+With these arms, I can serve customers well.
+------------------------------------------------
+[00000135][リアン,char_514]
+If you have time, help me bake bread at home.
+------------------------------------------------
+[00000136][リアン,char_514]
+Thanks to Adam, the farm is back on track.
+It really helped me.
+------------------------------------------------
+[00000137][リアン,char_514]
+Come to think of it, Zynga was also in need of labor, so
+Why don't he go to the cove and help?
+------------------------------------------------
+[00000138][ダリオ,char_515]
+Panis washed up on this beach.
+She made it all the way here safely...
+------------------------------------------------
+[00000139][ダリオ,char_515]
+Well, if you say so, Freed, you too.
+------------------------------------------------
+[00000140][ダリオ,char_515]
+Damn that giant!
+You're making a mess of the village...!
+If he shows up again, we, the vigilantes, will crush him!
+------------------------------------------------
+[00000141][ダリオ,char_515]
+Even though it's such a small island,
+Why do pirates appear so often?
+I'm totally in trouble!
+------------------------------------------------
+[00000142][ミルコ,char_516]
+Pirates often appear in this cove.
+That's why we're keeping watch like this.
+------------------------------------------------
+[00000143][ミルコ,char_516]
+The pier was destroyed, and instead of going fishing by boat,
+I can't even go fishing anymore...
+Jinga-san... you must be depressed...
+------------------------------------------------
+[00000144][ミルコ,char_516]
+A female pirate...I've never seen one before.
+Hey, it's pretty good!
+Wow, I was so excited!
+------------------------------------------------
+[00000145][ロドリゴ,char_517]
+Our job as vigilantes is to protect the village.
+If you have any trouble, please tell me anything.
+------------------------------------------------
+[00000146][ロドリゴ,char_517]
+I wasn't running away.
+I was leading everyone to a safe place.
+Damn it, I wanted to fight too!
+------------------------------------------------
+[00000147][ロドリゴ,char_517]
+It is the job of the vigilante group to protect the village, but
+When strong monsters or pirates appear,
+He will rely on Freed and Zinga-san.
+------------------------------------------------
+[00000148][ロドリゴ,char_517]
+After all, we are not strong enough.
+Raise your skills quickly and defeat monsters and pirates with just your vigilante group.
+I wish I could get rid of it.
+------------------------------------------------
+[00000149][ダニエル,char_518]
+Did my Peter take care of the sheep properly?
+------------------------------------------------
+[00000150][ダニエル,char_518]
+That child still has
+There are so many things I have to teach you.
+First of all, I need you to remember the basics of work...
+------------------------------------------------
+[00000151][ダニエル,char_518]
+With the wind created by the giant,
+All the fences on the farm have been destroyed.
+------------------------------------------------
+[00000152][ダニエル,char_518]
+It's like a storm...
+No, the wind was even more ferocious than the storm...
+------------------------------------------------
+[00000153][ダニエル,char_518]
+Freed, thank you for bringing the animals back.
+Now you can get milk as usual again.
+------------------------------------------------
+[00000154][ブレンダ,char_519]
+Panis-chan, would you like to try milking a sheep next time?
+------------------------------------------------
+[00000155][ブレンダ,char_519]
+It's not difficult,
+Even my peter
+I was able to do it right away.
+------------------------------------------------
+[00000156][ブレンダ,char_519]
+The animals are gone,
+Peter is depressed...
+I'm worried about that child and the animals...
+------------------------------------------------
+[00000157][ブレンダ,char_519]
+Until the animals come back
+My whole family was worried and couldn't sleep.
+I'm glad everyone came back.
+------------------------------------------------
+[00000158][ブレンダ,char_519]
+Thank you very much for returning me safely.
+Freed, Panis-chan.
+------------------------------------------------
+[00000159][ピーター,char_520]
+Thank you, that helps!
+------------------------------------------------
+[00000160][ピーター,char_520]
+Let's do our best together!
+------------------------------------------------
+[00000161][ピーター,char_520]
+Don't you need help now?
+------------------------------------------------
+[00000162][ピーター,char_520]
+It looks like Freed will be busy from now on.
+So that I can help Freed even a little,
+I do my best!
+------------------------------------------------
+[00000163][ピーター,char_520]
+It's okay, we're friends!
+I probably can't do much, but
+I'll try my best!
+------------------------------------------------
+[00000164][ピーター,char_520]
+Yeah!
+I think Freed can be dangerous though...
+be careful?
+------------------------------------------------
+[00000165][ピーター,char_520]
+picture……?
+Oh, that's right...
+In that case it's fine.
+------------------------------------------------
+[00000166][ピーター,char_520]
+Well then, the animals are waiting!
+see you!
+------------------------------------------------
+[00000167][ピーター,char_520]
+No, my father worries too much.
+He's not even a kid anymore...
+You know it's Freed, right? This feeling.
+------------------------------------------------
+[00000168][ピーター,char_520]
+Because the fence was broken.
+All the animals have disappeared...
+I hope all those kids are safe...
+------------------------------------------------
+[00000169][ピーター,char_520]
+I'm glad all the animals are safe!
+To us, those kids are like family.
+------------------------------------------------
+[00000170][ラナ,char_528]
+I just wanted to talk to Lana.
+------------------------------------------------
+[00000171][ラナ,char_528]
+I was asked to go shopping.
+------------------------------------------------
+[00000172][ラナ,char_528]
+Any bargains?
+------------------------------------------------
+[00000173][ラナ,char_528]
+Freed, welcome!
+Do you need something from me?
+Or did you come shopping?
+------------------------------------------------
+[00000174][ラナ,char_528]
+Oh, you say something nice ♪
+Me too, with Freed and Panis.
+I've been wanting to talk to you about various things!
+------------------------------------------------
+[00000175][ラナ,char_528]
+...But I'm sorry.
+I'm a little busy right now.
+Let's talk slowly this time!
+------------------------------------------------
+[00000176][ラナ,char_528]
+That's right. ...What about this memo?
+------------------------------------------------
+[00000177][ラナ,char_528]
+Oh my... I'm sorry, Freed.
+It's currently out of stock.
+I'll get it soon, so please come again.
+------------------------------------------------
+[00000178][ラナ,char_528]
+What a bargain...
+How about this goblin figurine?
+You have a pretty unique look, don't you?
+------------------------------------------------
+[00000179][ラナ,char_528]
+……I do not need?
+Yes, unfortunately...
+------------------------------------------------
+[00000180][ラナ,char_528]
+……what happened? Ufufu, okay. Please remember slowly.
+------------------------------------------------
+[00000181][ラナ,char_528]
+Once you have something you can trade,
+Bring it to me.
+I'll come and exchange you for something nice on the continent!
+------------------------------------------------
+[00000182][ラナ,char_528]
+If there's anything you want, let me know!
+I'll stock it next time I come.
+It'll take some time though.
+------------------------------------------------
+[00000183][フリード,char_001 Fried]
+This is the stone statue that the village chief was talking about...
+It's dark and you can't see clearly, right?
+Let's come back tomorrow while it's still bright, Panis.
+------------------------------------------------
+

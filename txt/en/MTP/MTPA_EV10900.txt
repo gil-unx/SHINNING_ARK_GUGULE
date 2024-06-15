@@ -1,0 +1,1784 @@
+[0449]
+*****************
+[00000000][ヴァイオラ,char_003 Viola]
+Freed, just in the right place.
+I want to ask a favor of you.
+------------------------------------------------
+[00000001][フリード,char_001 Fried]
+OK. 
+------------------------------------------------
+[00000002][ヴァイオラ,char_003 Viola]
+I'd like to help you,
+I would like to know about your abilities.
+You see, I often use it during battles...
+------------------------------------------------
+[00000003][フリード,char_001 Fried]
+Time for battle?
+------------------------------------------------
+[00000004][シャノン,char_004 Shannon]
+Oh, isn't that it?
+Look, I can see several Freeds...
+------------------------------------------------
+[00000005][ヴァイオラ,char_003 Viola]
+Yes, that.
+How did you acquire that ability?
+------------------------------------------------
+[00000006][鋼刃丸,char_531]
+Pipi~?
+------------------------------------------------
+[00000007][ベルベット,char_008 Velvet]
+Ah! I was really curious about that ability...
+------------------------------------------------
+[00000008][レヴィン,char_009 Levin]
+Certainly, that was used,
+The situation of the war was often turned upside down.
+I'm curious as to how he learned it.
+------------------------------------------------
+[00000009][フリード,char_001 Fried]
+No, no matter how you ask me...
+By the time I realized it, I was already able to use it.
+------------------------------------------------
+[00000010][ジンガ,char_005 zynga]
+That's right, ever since Freed was little,
+Me and everyone in the village,
+I guess that power has helped me a lot.
+------------------------------------------------
+[00000011][キルマリア,char_007 Kilmaria]
+I see... So, what are innate abilities?
+Is that what you mean?
+------------------------------------------------
+[00000012][シャノン,char_004 Shannon]
+Probably so.
+------------------------------------------------
+[00000013][ヴァイオラ,char_003 Viola]
+Hmm...I see.
+After all...
+------------------------------------------------
+[00000014][フリード,char_001 Fried]
+What do you mean after all?
+------------------------------------------------
+[00000015][ヴァイオラ,char_003 Viola]
+When ancient civilizations flourished,
+Apparently there was someone who could use this kind of ability.
+------------------------------------------------
+[00000016][ヴァイオラ,char_003 Viola]
+This island has a strange connection to ancient civilizations.
+I don't think it has anything to do with Freed's ability.
+------------------------------------------------
+[00000017][フリード,char_001 Fried]
+I-I guess so...?
+------------------------------------------------
+[00000018][アダム,char_006 a-dam]
+In ancient times, there was a person with abilities like Mr. Freed...
+No such record exists in my memory.
+------------------------------------------------
+[00000019][キルマリア,char_007 Kilmaria]
+This is also the first time I've heard of such a story.
+Viola, you are very knowledgeable.
+------------------------------------------------
+[00000020][ベルベット,char_008 Velvet]
+I mean, how do you know?
+Such a thing……
+------------------------------------------------
+[00000021][ヴァイオラ,char_003 Viola]
+it is……
+Hi・mi・tsu♪
+------------------------------------------------
+[00000022][レヴィン,char_009 Levin]
+...Oh my gosh.
+However, there are certainly many traces of ancient times on this island.
+------------------------------------------------
+[00000023][レヴィン,char_009 Levin]
+When I looked into them, I found out about the boy's abilities.
+Don't you know something?
+------------------------------------------------
+[00000024][ベルベット,char_008 Velvet]
+It looks interesting! Now I can use that ability!
+------------------------------------------------
+[00000025][フリード,char_001 Fried]
+I don't know about that...
+How could I do something like that too?
+I'd like to know something.
+------------------------------------------------
+[00000026][ヴァイオラ,char_003 Viola]
+If so, let's go find out.
+There must be some ruins that haven't been explored yet.
+Let's start from there.
+------------------------------------------------
+[00000027][ベルベット,char_008 Velvet]
+Ruins that haven't been investigated yet...?
+------------------------------------------------
+[00000028][キルマリア,char_007 Kilmaria]
+Is there such a thing?
+What I did was
+I didn't notice it at all...!
+------------------------------------------------
+[00000029][キルマリア,char_007 Kilmaria]
+Where on earth is it?
+please tell me! 
+------------------------------------------------
+[00000030][アダム,char_006 a-dam]
+But...why Viola-san?
+Are you even aware of that?
+------------------------------------------------
+[00000031][ヴァイオラ,char_003 Viola]
+That’s also true♪
+This way, follow me.
+------------------------------------------------
+[00000032][シャノン,char_004 Shannon]
+Hey, there was a place like this on the island.
+I didn't know at all...
+------------------------------------------------
+[00000033][ジンガ,char_005 zynga]
+Me too. Well, it's an inconvenient place to come to,
+There are no good fishing spots nearby.
+Isn't it strange that you don't notice it...
+------------------------------------------------
+[00000034][アダム,char_006 a-dam]
+caveat!Someone is approaching!
+------------------------------------------------
+[00000035][キルマリア,char_007 Kilmaria]
+Are you a monster!?
+In that case, in the name of Justice, I will exorcise you!
+------------------------------------------------
+[00000036][バッカス,char_527]
+You guys! 
+------------------------------------------------
+[00000037][ケルビム,char_529]
+Intruder found! Intruder found!
+------------------------------------------------
+[00000038][鋼鱗丸,char_530]
+Moi!?
+------------------------------------------------
+[00000039][レヴィン,char_009 Levin]
+Isn't it Bacchus?
+What are you doing? At a place like this.
+------------------------------------------------
+[00000040][バッカス,char_527]
+That's the line!
+You are our hideout.
+What are you doing!
+------------------------------------------------
+[00000041][ベルベット,char_008 Velvet]
+Your hideout!? This is it!?
+------------------------------------------------
+[00000042][バッカス,char_527]
+that's right! 
+------------------------------------------------
+[00000043][キルマリア,char_007 Kilmaria]
+Mr. Viola...
+What does this mean?
+Is there some kind of mistake...?
+------------------------------------------------
+[00000044][ヴァイオラ,char_003 Viola]
+No, it's not a mistake.
+I never thought Bacchus would be there.
+You know, Bacchus...
+------------------------------------------------
+[00000045][バッカス,char_527]
+What the hell! What on earth is that for?
+Ah... now you guys...
+You came to attack my hideout!?
+------------------------------------------------
+[00000046][アダム,char_006 a-dam]
+wrong.
+We came to investigate the ruins.
+------------------------------------------------
+[00000047][ヴァイオラ,char_003 Viola]
+That's right, in this cave where you hide out,
+There are ruins of an ancient civilization.
+I'd like you to investigate that.
+------------------------------------------------
+[00000048][バッカス,char_527]
+Noisy! Such a blatant lie
+I'm not the type of person who gets caught!
+Deputy chief! I'll kick these guys out!
+------------------------------------------------
+[00000049][ケルビム,char_529]
+But the captain.
+They don't seem to have any intention of fighting.
+Is it okay if I listen to your story?
+------------------------------------------------
+[00000050][フリード,char_001 Fried]
+@fcFFAAFFAA (Good...
+This person seems to be willing to listen to me...)
+------------------------------------------------
+[00000051][バッカス,char_527]
+I'm sure they'll attack even if they don't have the will to do so!
+It's okay, Deputy Chief!
+These guys are trying to steal our dreams!
+------------------------------------------------
+[00000052][ケルビム,char_529]
+dream……?
+------------------------------------------------
+[00000053][バッカス,char_527]
+That's it! They're trying to destroy the strongest pirate group's hideout!
+Are you going to just ignore it!? Vice-commander!
+------------------------------------------------
+[00000054][ケルビム,char_529]
+That's...unforgivable!
+------------------------------------------------
+[00000055][ケルビム,char_529]
+...I understand, my friend.
+Let's fight together to protect the pride of pirates!
+------------------------------------------------
+[00000056][フリード,char_001 Fried]
+@fcFFAAFFAA (Ah...I guess this person is no good either...)
+------------------------------------------------
+[00000057][ベルベット,char_008 Velvet]
+Hmm...
+It can't be helped, these guys!
+------------------------------------------------
+[00000058][レヴィン,char_009 Levin]
+So, follow the pirate's style,
+Let's talk with swords!
+------------------------------------------------
+[00000059][ヴァイオラ,char_003 Viola]
+...That's not to say.
+We just came to find out.
+------------------------------------------------
+[00000060][バッカス,char_527]
+Geez!If that's the case, why not say so from the beginning?
+They're alarmist guys.
+------------------------------------------------
+[00000061][ケルビム,char_529]
+Absolutely, Captain.
+------------------------------------------------
+[00000062][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000063][ベルベット,char_008 Velvet]
+This kid became a friend, and the Bacchus Pirates also joined.
+I think it's gotten a little better...
+It’s not just that there are now two Tonchiki!
+------------------------------------------------
+[00000064][シャノン,char_004 Shannon]
+They say you call your friends...
+------------------------------------------------
+[00000065][キルマリア,char_007 Kilmaria]
+Let's put that matter aside for now.
+First, we have to check out the ruins!
+------------------------------------------------
+[00000066][ベルベット,char_008 Velvet]
+That's right! You might find something interesting!
+Look! You guys should help too!
+------------------------------------------------
+[00000067][バッカス,char_527]
+Oh, oh...
+------------------------------------------------
+[00000068][ケルビム,char_529]
+I got it.
+------------------------------------------------
+[00000069][ヴァイオラ,char_003 Viola]
+I see……
+This is interesting.
+------------------------------------------------
+[00000070][キルマリア,char_007 Kilmaria]
+Yeah. 
+------------------------------------------------
+[00000071][ベルベット,char_008 Velvet]
+What? 
+------------------------------------------------
+[00000072][キルマリア,char_007 Kilmaria]
+A message remains on the wall.
+It seems like it's some sort of write-up.
+------------------------------------------------
+[00000073][レヴィン,char_009 Levin]
+Write it down?
+Who the hell left it in a place like this?
+------------------------------------------------
+[00000074][ジンガ,char_005 zynga]
+What does it say?
+------------------------------------------------
+[00000075][アダム,char_006 a-dam]
+I will try to decipher it.
+Please wait.
+------------------------------------------------
+[00000076][パニス,char_002 Panis]
+Adam, can you do it?
+------------------------------------------------
+[00000077][アダム,char_006 a-dam]
+yes. 
+------------------------------------------------
+[00000078][アダム,char_006 a-dam]
+……Sorry I made you wait.
+I was able to do it, albeit in fragments.
+------------------------------------------------
+[00000079][ベルベット,char_008 Velvet]
+It's quite early, isn't it!?
+------------------------------------------------
+[00000080][アダム,char_006 a-dam]
+Yeah. I used it, but the expression, word selection, etc.
+Because they had a lot in common.
+------------------------------------------------
+[00000081][ヴァイオラ,char_003 Viola]
+Does that mean it was written by the same person?
+------------------------------------------------
+[00000082][アダム,char_006 a-dam]
+It seems that it is.
+Now, let's output the analyzed part as audio.
+------------------------------------------------
+[00000083][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000Those who read the records I wrote,
+Will he really show up? I feel so uneasy.
+Still, I have to leave it for posterity.
+------------------------------------------------
+[00000084][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000Hopefully,
+I hope my record doesn't catch anyone's attention...
+------------------------------------------------
+[00000085][ベルベット,char_008 Velvet]
+what's this? In some way, I was prepared to die...
+It's like it was written at the time of destruction...
+------------------------------------------------
+[00000086][アダム,char_006 a-dam]
+……yes.
+In fact, it appears to have been written at the time of destruction.
+------------------------------------------------
+[00000087][ヴァイオラ,char_003 Viola]
+You mean during the ancient war?
+------------------------------------------------
+[00000088][アダム,char_006 a-dam]
+It seems so. Continue audio output.
+------------------------------------------------
+[00000089][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000We moved to this island because we were fed up with civilization.
+To be involved in a war like this,
+How ironic.
+------------------------------------------------
+[00000090][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000But that's why,
+I have to write it down.
+About the destruction and tragedy that this war brought.
+------------------------------------------------
+[00000091][アダム,char_006 a-dam]
+Unfortunately, this post ends here.
+------------------------------------------------
+[00000092][ヴァイオラ,char_003 Viola]
+At the time of war with another world,
+There was someone who lived on this island...
+------------------------------------------------
+[00000093][キルマリア,char_007 Kilmaria]
+Records of the time left by people caught up in the war...
+This is very interesting...!
+------------------------------------------------
+[00000094][キルマリア,char_007 Kilmaria]
+No, it's not interesting,
+Isn't this the most valuable historical testimony?
+I want to read it! It's me! Continuation of this!
+------------------------------------------------
+[00000095][キルマリア,char_007 Kilmaria]
+If you left this note,
+The person who left the inscription that has been in the ruins until now,
+It's the same person, right?
+------------------------------------------------
+[00000096][アダム,char_006 a-dam]
+yes. I think you can say that.
+------------------------------------------------
+[00000097][キルマリア,char_007 Kilmaria]
+...That means that if we re-investigate the ruins,
+You might find more notes,
+Isn't that what you mean?
+------------------------------------------------
+[00000098][キルマリア,char_007 Kilmaria]
+From this point of view, until now,
+Of course I didn't do any research...
+This requires a thorough investigation!
+------------------------------------------------
+[00000099][ベルベット,char_008 Velvet]
+I’m curious too!
+The owner of this note is probably more than just a record.
+I might be leaving something behind!
+------------------------------------------------
+[00000100][レヴィン,char_009 Levin]
+I don't know what will come out...
+Regarding my future territory,
+I'd like to know more about it.
+------------------------------------------------
+[00000101][フリード,char_001 Fried]
+It seems like everyone has a lot of ideas...
+Yeah, I guess I should check it out after all.
+Viola, could you lend me a hand?
+------------------------------------------------
+[00000102][ヴァイオラ,char_003 Viola]
+Yes, of course.
+I was the one who proposed this investigation.
+------------------------------------------------
+[00000103][ヴァイオラ,char_003 Viola]
+Besides, I want to know too.
+What happened on this island in the past?
+------------------------------------------------
+[00000104][ベルベット,char_008 Velvet]
+Freed!
+Let's go investigate the ruins!
+------------------------------------------------
+[00000105][ベルベット,char_008 Velvet]
+Start with the ruins near the cove!
+I'll do my best to do what I want...
+------------------------------------------------
+[00000106][ベルベット,char_008 Velvet]
+Not! Look for the ancients' notes!
+------------------------------------------------
+[00000107][ベルベット,char_008 Velvet]
+Did everyone find anything?
+------------------------------------------------
+[00000108][キルマリア,char_007 Kilmaria]
+That being said, this place was previously
+I have already investigated...
+I don't think you'll find any omissions in the investigation?
+------------------------------------------------
+[00000109][フリード,char_001 Fried]
+That's true……
+There doesn't seem to be anything here either.
+------------------------------------------------
+[00000110][ベルベット,char_008 Velvet]
+Hey. Is this the wrong place...?
+disappointing.
+------------------------------------------------
+[00000111][シャノン,char_004 Shannon]
+…………
+------------------------------------------------
+[00000112][パニス,char_002 Panis]
+Sister, what's wrong?
+------------------------------------------------
+[00000113][シャノン,char_004 Shannon]
+I remembered the last time I came here.
+When Panis approached the stone statue here,
+Something strange happened, I thought.
+------------------------------------------------
+[00000114][ジンガ,char_005 zynga]
+That's right. Suddenly an earthquake occurs,
+Immediately after that, the red moon rose,
+A monster attacks...
+------------------------------------------------
+[00000115][ヴァイオラ,char_003 Viola]
+...This is not a stone statue.
+------------------------------------------------
+[00000116][ジンガ,char_005 zynga]
+Isn't it a stone statue?
+So what is it? this is.
+------------------------------------------------
+[00000117][鋼刃丸,char_531]
+Pee?
+------------------------------------------------
+[00000118][ヴァイオラ,char_003 Viola]
+This is an ancient weapon.
+It has almost stopped functioning.
+------------------------------------------------
+[00000119][レヴィン,char_009 Levin]
+Ancient weapon?　
+Well then, the vice-commander at Bacchus's place, etc.
+Is it like that iron boy over there?
+------------------------------------------------
+[00000120][アダム,char_006 a-dam]
+…………
+------------------------------------------------
+[00000121][レヴィン,char_009 Levin]
+Oops, sorry.
+I guess I was worried.
+------------------------------------------------
+[00000122][アダム,char_006 a-dam]
+No, it's fine.
+That's already...
+------------------------------------------------
+[00000123][アダム,char_006 a-dam]
+…………
+------------------------------------------------
+[00000124][キルマリア,char_007 Kilmaria]
+Anyway,
+I have something to worry about...
+------------------------------------------------
+[00000125][キルマリア,char_007 Kilmaria]
+Weapons here include
+Is there no more danger?
+------------------------------------------------
+[00000126][ヴァイオラ,char_003 Viola]
+It's probably okay.
+It's only alive with limited functionality.
+Even when Panis touched it earlier, it didn't start, right?
+------------------------------------------------
+[00000127][ジンガ,char_005 zynga]
+But when Panis touched me before,
+Something strange happened?
+------------------------------------------------
+[00000128][ヴァイオラ,char_003 Viola]
+Maybe that was this child's final reaction...
+I tried to activate it in response to the enemy Panis, but I couldn't.
+In the end, it only stimulated Panis' trauma.
+------------------------------------------------
+[00000129][キルマリア,char_007 Kilmaria]
+Panis-san's trauma...?
+------------------------------------------------
+[00000130][ヴァイオラ,char_003 Viola]
+Yeah, probably.
+And Panis unconsciously opens the door to another world...
+------------------------------------------------
+[00000131][フリード,char_001 Fried]
+……I see.
+Then, a red moon appeared and a scream from another world
+It has flowed in...
+------------------------------------------------
+[00000132][ベルベット,char_008 Velvet]
+...But, Viola.
+Why do you know so much?
+------------------------------------------------
+[00000133][ヴァイオラ,char_003 Viola]
+it is……
+H-mi-tsu, yo...
+------------------------------------------------
+[00000134][フリード,char_001 Fried]
+But to think that such a weapon was used...
+The battle between the ancients and the aliens is
+I wonder how intense it must have been...
+------------------------------------------------
+[00000135][レヴィン,char_009 Levin]
+That's right...
+------------------------------------------------
+[00000136][ヴァイオラ,char_003 Viola]
+…………
+------------------------------------------------
+[00000137][キルマリア,char_007 Kilmaria]
+Why don't you all go to the ice field ruins next?
+------------------------------------------------
+[00000138][キルマリア,char_007 Kilmaria]
+Although it is a ruin that I previously investigated,
+I haven't been able to fully investigate every detail.
+Because there is not...
+------------------------------------------------
+[00000139][キルマリア,char_007 Kilmaria]
+There is still a possibility that there will be more undiscovered things.
+I think there is enough!
+------------------------------------------------
+[00000140][フリード,char_001 Fried]
+That's right, let's go!
+------------------------------------------------
+[00000141][キルマリア,char_007 Kilmaria]
+Although there may be an oversight,
+I am sure that I have done a thorough investigation,
+If there's a new discovery, it's probably in the corner...
+------------------------------------------------
+[00000142][ジンガ,char_005 zynga]
+nothing?
+------------------------------------------------
+[00000143][キルマリア,char_007 Kilmaria]
+Did you find anything?
+------------------------------------------------
+[00000144][ジンガ,char_005 zynga]
+It looks like there's something written in the corner of the wall.
+Let Adam read it.
+------------------------------------------------
+[00000145][キルマリア,char_007 Kilmaria]
+I agree.
+Adam, please!
+------------------------------------------------
+[00000146][アダム,char_006 a-dam]
+I got it. Start scanning...
+------------------------------------------------
+[00000147][レヴィン,char_009 Levin]
+However, the iron boy also has great skills.
+I guess I have it.
+------------------------------------------------
+[00000148][レヴィン,char_009 Levin]
+Eventually, I would like to serve as a translator for the imperial court.
+Maybe I should consider it...
+------------------------------------------------
+[00000149][アダム,char_006 a-dam]
+Has completed. 
+------------------------------------------------
+[00000150][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000The war is becoming more and more intense.
+A land covered in ice.
+It's a distorted scene, unbecoming of a southern island.
+------------------------------------------------
+[00000151][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000 The distortion of civilization has also distorted the workings of nature.
+What will happen to us from now on?
+How much destruction can a foolish fight bring?
+------------------------------------------------
+[00000152][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000 I feel sorry for my newborn son.
+Until this child grows up
+Can we leave this island behind?
+------------------------------------------------
+[00000153][ジンガ,char_005 zynga]
+This too...
+Was it written by the same person as the previous note?
+------------------------------------------------
+[00000154][アダム,char_006 a-dam]
+Judging from the handwriting, I think it's almost certain.
+------------------------------------------------
+[00000155][キルマリア,char_007 Kilmaria]
+What do you mean...
+After all, this topography is due to the effects of the war.
+It was...
+------------------------------------------------
+[00000156][シャノン,char_004 Shannon]
+He said "son".
+An innocent family gets caught up in the war,
+You were making me feel bad...
+------------------------------------------------
+[00000157][ヴァイオラ,char_003 Viola]
+That's right...
+That's really sad...
+------------------------------------------------
+[00000158][ベルベット,char_008 Velvet]
+…………
+------------------------------------------------
+[00000159][ベルベット,char_008 Velvet]
+Hey, look! How long will everyone be depressed?
+For now, here is
+So you found what you were looking for?
+------------------------------------------------
+[00000160][キルマリア,char_007 Kilmaria]
+Yeah……
+That's what it means.
+------------------------------------------------
+[00000161][ベルベット,char_008 Velvet]
+In that case, why don't you change your mind and go home for today?
+Also, where to check next
+I have to think about it!
+------------------------------------------------
+[00000162][ヴァイオラ,char_003 Viola]
+That's true too...
+------------------------------------------------
+[00000163][ジンガ,char_005 zynga]
+That's right. Will you do that?
+Let's pull up.
+------------------------------------------------
+[00000164][ジンガ,char_005 zynga]
+Even Velvet was drawn to everyone,
+Before I get bored...what?
+------------------------------------------------
+[00000165][ベルベット,char_008 Velvet]
+What! Ah, not me...
+------------------------------------------------
+[00000166][レヴィン,char_009 Levin]
+Hahaha, well, that's fine!
+Don't be so pushy.
+Now, let's go home!
+------------------------------------------------
+[00000167][ベルベット,char_008 Velvet]
+So I...
+ah!
+------------------------------------------------
+[00000168][ジンガ,char_005 zynga]
+Hey, you guys.
+Since then, I've been thinking about a lot of things.
+------------------------------------------------
+[00000169][ジンガ,char_005 zynga]
+It is said that those ice fields are the scars of war.
+Maybe the desert is like that too?
+------------------------------------------------
+[00000170][ジンガ,char_005 zynga]
+It is strange that there is an ice field on a southern island,
+This island is surrounded by the sea and receives a lot of rain.
+There's no way you can do that in the desert either.
+------------------------------------------------
+[00000171][フリード,char_001 Fried]
+I'm definitely curious...
+Okay, let's go check it out!
+------------------------------------------------
+[00000172][ジンガ,char_005 zynga]
+The burnt walls of the cave,
+If this desert is also the scar of war...
+------------------------------------------------
+[00000173][ジンガ,char_005 zynga]
+How violent were ancient wars?
+It must have been tragic...
+------------------------------------------------
+[00000174][レヴィン,char_009 Levin]
+The power of ancient weapons is
+It's really scary...
+------------------------------------------------
+[00000175][レヴィン,char_009 Levin]
+The side using weapons is stronger,
+Something stronger than that.
+I'm looking for an endlessly powerful weapon...
+------------------------------------------------
+[00000176][レヴィン,char_009 Levin]
+There are limits to that.
+Such destruction is unreasonable.
+That's all I can say...
+------------------------------------------------
+[00000177][ヴァイオラ,char_003 Viola]
+That's right...
+I think that was really stupid...
+------------------------------------------------
+[00000178][アダム,char_006 a-dam]
+…………
+------------------------------------------------
+[00000179][パニス,char_002 Panis]
+What happened to both of you?
+Are you not feeling well...?
+------------------------------------------------
+[00000180][アダム,char_006 a-dam]
+No, it's nothing...
+Don't worry……
+------------------------------------------------
+[00000181][レヴィン,char_009 Levin]
+Oops, it's gone.
+What happened to me again...
+------------------------------------------------
+[00000182][レヴィン,char_009 Levin]
+Sorry, iron boy.
+I just can't say too many words.
+------------------------------------------------
+[00000183][アダム,char_006 a-dam]
+No, don't worry...
+------------------------------------------------
+[00000184][鋼鱗丸,char_530]
+Moi?
+------------------------------------------------
+[00000185][アダム,char_006 a-dam]
+No problem.
+Don't worry, really.
+------------------------------------------------
+[00000186][キルマリア,char_007 Kilmaria]
+Hmm...
+------------------------------------------------
+[00000187][シャノン,char_004 Shannon]
+Oh, Kilmaria.
+Has the investigation finished?
+------------------------------------------------
+[00000188][ジンガ,char_005 zynga]
+From that face, it didn't seem like anything was coming out.
+------------------------------------------------
+[00000189][キルマリア,char_007 Kilmaria]
+Yes, unfortunately...
+There is nothing that looks like a note anywhere...
+------------------------------------------------
+[00000190][ベルベット,char_008 Velvet]
+Well then, I can't help it.
+Shall we pull it up for today?
+------------------------------------------------
+[00000191][ジンガ,char_005 zynga]
+That's right. Freed, do you want to go home?
+------------------------------------------------
+[00000192][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000193][ジンガ,char_005 zynga]
+Freed? what up?
+------------------------------------------------
+[00000194][フリード,char_001 Fried]
+No, it's nothing. just……
+Before this happened, this island was even more beautiful than it is now.
+I thought it must have been...
+------------------------------------------------
+[00000195][ジンガ,char_005 zynga]
+Really……
+That's right...
+------------------------------------------------
+[00000196][シャノン,char_004 Shannon]
+This island at that time,
+I wanted to see it once...
+------------------------------------------------
+[00000197][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000198][シャノン,char_004 Shannon]
+Hey, Freed.
+We are all over the place
+I've been re-examining the ruins, but...
+------------------------------------------------
+[00000199][シャノン,char_004 Shannon]
+The closest place to the village is
+You haven't gone yet, have you?
+------------------------------------------------
+[00000200][フリード,char_001 Fried]
+When you say closest to the village, do you mean the ruins on the cape?
+------------------------------------------------
+[00000201][シャノン,char_004 Shannon]
+yes! Maybe this time I'll find something?
+------------------------------------------------
+[00000202][シャノン,char_004 Shannon]
+Everyone, please check carefully.
+Especially in corners or near walls.
+If I'm missing something, that's it.
+------------------------------------------------
+[00000203][シャノン,char_004 Shannon]
+When Freed cleans the room,
+Almost without a doubt
+I miss the trash around there.
+------------------------------------------------
+[00000204][フリード,char_001 Fried]
+Sister!
+You don't have to say that now, right?
+------------------------------------------------
+[00000205][パニス,char_002 Panis]
+i got you! Not...Kakioki!
+------------------------------------------------
+[00000206][フリード,char_001 Fried]
+Even Panis is like that...
+------------------------------------------------
+[00000207][ジンガ,char_005 zynga]
+Well, that's fine.
+So, what does it say?
+------------------------------------------------
+[00000208][アダム,char_006 a-dam]
+...Decoding is complete. Output as audio.
+------------------------------------------------
+[00000209][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000I was surprised when he came,
+Apparently that was a ship from another world.
+------------------------------------------------
+[00000210][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000 It looks like they're at war with Enfield's army,
+I took the plunge and contacted him.
+Apparently, the people on the ship weren't at fault.
+------------------------------------------------
+[00000211][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000From what I hear, it's the people of this world who are at fault.
+This must be written down.
+To prevent future people from repeating the same mistakes.
+------------------------------------------------
+[00000212][ヴァイオラ,char_003 Viola]
+…That’s right.
+It's important.
+------------------------------------------------
+[00000213][レヴィン,char_009 Levin]
+It looks like we're getting to the core of it.
+So what's next?
+------------------------------------------------
+[00000214][アダム,char_006 a-dam]
+The last part reads:
+------------------------------------------------
+[00000215][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000We are tired of the distortion of civilization,
+Also, we fear that our "abilities" will be misused.
+I was supposed to have secluded myself on this island, but...
+------------------------------------------------
+[00000216][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000Depending on the progress of the battle,
+You may be forced to use it.
+However, it is unavoidable...
+------------------------------------------------
+[00000217][アダム,char_006 a-dam]
+……that's all.
+------------------------------------------------
+[00000218][ベルベット,char_008 Velvet]
+"ability"? What kind of power is that!?
+------------------------------------------------
+[00000219][ベルベット,char_008 Velvet]
+Maybe it's about Freed's abilities?
+In the first place, we started thinking about that.
+You were trying to find out, right?
+------------------------------------------------
+[00000220][シャノン,char_004 Shannon]
+Hey, hey, Velvet!
+calm down!
+------------------------------------------------
+[00000221][アダム,char_006 a-dam]
+Unfortunately, the detailed description of "ability" is
+Could not be found.
+------------------------------------------------
+[00000222][ベルベット,char_008 Velvet]
+I see... this time,
+Some kind of clue about "power"
+I thought I would find it...
+------------------------------------------------
+[00000223][キルマリア,char_007 Kilmaria]
+Well, see you soon,
+Maybe you can find something new?
+Let's explore some other places!
+------------------------------------------------
+[00000224][ベルベット,char_008 Velvet]
+Yeah, you're right.
+After all, I have no choice but to investigate steadily...
+------------------------------------------------
+[00000225][ヴァイオラ,char_003 Viola]
+I see.
+One by one, we look at the ruins that have not been re-examined.
+Don't worry, let's take a look.
+------------------------------------------------
+[00000226][ヴァイオラ,char_003 Viola]
+We're getting closer to the core, and we're getting a good response...
+------------------------------------------------
+[00000227][アダム,char_006 a-dam]
+…………
+------------------------------------------------
+[00000228][パニス,char_002 Panis]
+Adam, what's wrong? Are you not feeling well?
+------------------------------------------------
+[00000229][レヴィン,char_009 Levin]
+Oh, Freed to Miss.
+Actually, the iron boy is now
+It seems like he's having a bit of a problem.
+------------------------------------------------
+[00000230][フリード,char_001 Fried]
+worries?
+------------------------------------------------
+[00000231][アダム,char_006 a-dam]
+Mr. Panis, Mr. Freed.
+I am an ancient weapon.
+------------------------------------------------
+[00000232][アダム,char_006 a-dam]
+Visiting the ruins of this island once again,
+The devastation caused by ancient wars
+As soon as I saw it...
+------------------------------------------------
+[00000233][アダム,char_006 a-dam]
+I wonder if I was born for such a thing,
+Somehow, the blank area of ​​memory is
+I am attacked by the feeling that I am increasing my weight unintentionally.
+------------------------------------------------
+[00000234][アダム,char_006 a-dam]
+You probably feel this way,
+I think it might be called "empty".
+Is that okay?
+------------------------------------------------
+[00000235][フリード,char_001 Fried]
+I don't really understand that...
+I can kind of understand how Adam feels.
+------------------------------------------------
+[00000236][鋼鱗丸,char_530]
+Moimoi...
+------------------------------------------------
+[00000237][アダム,char_006 a-dam]
+thank you……
+------------------------------------------------
+[00000238][レヴィン,char_009 Levin]
+Those worries are all ours.
+I can't help but...
+------------------------------------------------
+[00000239][レヴィン,char_009 Levin]
+At this moment, something that is stuck in my heart,
+Why don't you just blow it all away?
+------------------------------------------------
+[00000240][アダム,char_006 a-dam]
+I agree……
+In fact, this tragic war
+Why did it happen...
+------------------------------------------------
+[00000241][アダム,char_006 a-dam]
+I just can't remember that.
+That also slows down my processing speed...
+------------------------------------------------
+[00000242][フリード,char_001 Fried]
+Is this the reason why the war broke out?
+By the way, Pani before...
+I heard a few things from people...
+------------------------------------------------
+[00000243][パニス,char_002 Panis]
+picture?
+------------------------------------------------
+[00000244][シャノン,char_004 Shannon]
+No, it's nothing.
+Don't worry about Panis.
+------------------------------------------------
+[00000245][フリード,char_001 Fried]
+Anyway... just the story of that person...
+What happened at that time?
+I didn't quite understand it.
+------------------------------------------------
+[00000246][ジンガ,char_005 zynga]
+That's right.
+Why did the war come?
+I couldn't hear the details.
+------------------------------------------------
+[00000247][ヴァイオラ,char_003 Viola]
+The circumstances that led to the war...?
+------------------------------------------------
+[00000248][ジンガ,char_005 zynga]
+Viola, do you know anything?
+------------------------------------------------
+[00000249][ヴァイオラ,char_003 Viola]
+No, I...
+------------------------------------------------
+[00000250][ジンガ,char_005 zynga]
+……Really.
+------------------------------------------------
+[00000251][ベルベット,char_008 Velvet]
+If you want to find out about the war,
+Shouldn't we go to the ruins beyond the Valley of Miasma?
+The damage there was terrible...
+------------------------------------------------
+[00000252][ベルベット,char_008 Velvet]
+But that's why I overlooked it until now.
+Maybe there's something left over about the war.
+If only Adam was okay with it...but...
+------------------------------------------------
+[00000253][アダム,char_006 a-dam]
+I am……
+Well, let's go.
+No, maybe I should look into it.
+------------------------------------------------
+[00000254][アダム,char_006 a-dam]
+My memory and processing unit are confused,
+In order to optimize...
+------------------------------------------------
+[00000255][ベルベット,char_008 Velvet]
+Kilmaria, is your investigation complete?
+------------------------------------------------
+[00000256][キルマリア,char_007 Kilmaria]
+Yes, that's one thing.
+But unfortunately there is no harvest...
+Nothing particularly new...
+------------------------------------------------
+[00000257][レヴィン,char_009 Levin]
+Is that the guy who swings in the air?
+That's a shame.
+------------------------------------------------
+[00000258][ベルベット,char_008 Velvet]
+Well, I can't help it.
+Well then, let's pull it up.
+------------------------------------------------
+[00000259][シャノン,char_004 Shannon]
+That's right.
+Freed, Adam, shall we go?
+------------------------------------------------
+[00000260][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000261][シャノン,char_004 Shannon]
+what happened?
+------------------------------------------------
+[00000262][フリード,char_001 Fried]
+picture? I was looking around.
+It's always a horrifying sight to see.
+here……
+------------------------------------------------
+[00000263][アダム,char_006 a-dam]
+I agree……
+I think so too...
+------------------------------------------------
+[00000264][シャノン,char_004 Shannon]
+Freed...Adam...
+------------------------------------------------
+[00000265][ベルベット,char_008 Velvet]
+I'm sorry, but it would have been better if you hadn't come.
+------------------------------------------------
+[00000266][アダム,char_006 a-dam]
+No, it's fine.
+If you avoid facing your past,
+That would make the problem even more widespread.
+------------------------------------------------
+[00000267][アダム,char_006 a-dam]
+However, the fact that I was complicit in this...
+It puts a considerable burden on my processing ability,
+I have to say that this is a serious fact...
+------------------------------------------------
+[00000268][ヴァイオラ,char_003 Viola]
+...I don't know if it's any consolation, but...
+If you had feelings at that time,
+You must have thought that this attack was nothing more than revenge for your friends.
+------------------------------------------------
+[00000269][アダム,char_006 a-dam]
+What do you mean?
+------------------------------------------------
+[00000270][ヴァイオラ,char_003 Viola]
+Because up until this point,
+The other world side attacks various parts of Endias,
+It caused a lot of damage...
+------------------------------------------------
+[00000271][ヴァイオラ,char_003 Viola]
+They were the ones who started the war.
+Suddenly one day, without any warning.
+------------------------------------------------
+[00000272][キルマリア,char_007 Kilmaria]
+However, from someone who knows the situation...
+According to what I heard, there are also people from other worlds.
+I heard that you were being cornered quite a bit...?
+------------------------------------------------
+[00000273][ヴァイオラ,char_003 Viola]
+Yeah, I think that's definitely true.
+In the end, what drove them to this point was
+The stupidity of the Enfield people.
+------------------------------------------------
+[00000274][ヴァイオラ,char_003 Viola]
+That's totally...stupid.
+A smart way to avoid this is to
+There should have been plenty of both.
+------------------------------------------------
+[00000275][ジンガ,char_005 zynga]
+This is the result of not being able to do that...
+A nightmarish place filled with lava and hot air...
+------------------------------------------------
+[00000276][フリード,char_001 Fried]
+I wonder how terrifying the battle was...
+And a weapon that can do this much...
+How terrifying must it have been...
+------------------------------------------------
+[00000277][ヴァイオラ,char_003 Viola]
+Hey, Freed.
+I just remembered something.
+------------------------------------------------
+[00000278][フリード,char_001 Fried]
+what? 
+------------------------------------------------
+[00000279][ヴァイオラ,char_003 Viola]
+I took you before,
+You remember the ruins in the sky, right?　
+I think I saw a note there too.
+------------------------------------------------
+[00000280][ベルベット,char_008 Velvet]
+What was that!?
+------------------------------------------------
+[00000281][キルマリア,char_007 Kilmaria]
+Oh, is it true!?
+------------------------------------------------
+[00000282][ヴァイオラ,char_003 Viola]
+I just glanced at it,
+I didn't think anything of it at the time, but
+Now that I think about it, it must have been...
+------------------------------------------------
+[00000283][ヴァイオラ,char_003 Viola]
+That's why I'm so curious.
+Why don't you go check it out?
+------------------------------------------------
+[00000284][パニス,char_002 Panis]
+In the sky?
+Oh!  i wanna go!
+------------------------------------------------
+[00000285][シャノン,char_004 Shannon]
+Hey, wait a minute!
+Even if I was told to write it down,
+Who left it there?
+------------------------------------------------
+[00000286][シャノン,char_004 Shannon]
+How did you get there?
+Can you go to a place like that?
+Isn't it just like Viola!?
+------------------------------------------------
+[00000287][アダム,char_006 a-dam]
+If you have the ability to fly, it's easy.
+------------------------------------------------
+[00000288][シャノン,char_004 Shannon]
+Don't say such nonsense!
+I mean, that kind of ability,
+Not even for you!
+------------------------------------------------
+[00000289][ヴァイオラ,char_003 Viola]
+Even without the ability to fly,
+As long as you have teleportation magic or a warp system, there will be no problem.
+------------------------------------------------
+[00000290][ジンガ,char_005 zynga]
+Even if you say that,
+I don't know what you mean!?
+------------------------------------------------
+[00000291][ヴァイオラ,char_003 Viola]
+In other words, when I went to that ruins before,
+Just use the same method you used when entering the ship.
+------------------------------------------------
+[00000292][ヴァイオラ,char_003 Viola]
+so,
+This time, just like before, I'll use my magic!
+------------------------------------------------
+[00000293][ヴァイオラ,char_003 Viola]
+there were! Look, everyone! here!
+------------------------------------------------
+[00000294][キルマリア,char_007 Kilmaria]
+Where, where!? Where?
+……a! 
+------------------------------------------------
+[00000295][フリード,char_001 Fried]
+It's true……
+Viola, you've noticed this often.
+------------------------------------------------
+[00000296][レヴィン,char_009 Levin]
+What I'm concerned about is the content.
+What does it say?
+------------------------------------------------
+[00000297][アダム,char_006 a-dam]
+Deciphering is complete.
+Now, output as audio as usual.
+------------------------------------------------
+[00000298][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000 The battle is becoming more intense, no, it is becoming more and more mired.
+Under the influence of this,
+There is no trace of the once beautiful island now.
+------------------------------------------------
+[00000299][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000Both sides,
+With each passing day, I become visibly tired.
+At this rate, the day will come when there will be a winner or loser.
+------------------------------------------------
+[00000300][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000 Win/Loss...?　No, that's not true.
+There can be no winner in this battle.
+What a vain and sad battle.
+------------------------------------------------
+[00000301][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000, but no matter what the outcome of the battle is,
+The idiots at Enfield put it in.
+``That'' is the only thing that cannot be left as is.
+------------------------------------------------
+[00000302][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000Before the battle, my son and my wife used all their abilities.
+They were evacuated to a place deemed safe.
+However, whether it is really safe there...
+------------------------------------------------
+[00000303][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000 It is possible to block “that”
+It depends on whether you can do it or not.
+If you leave "that" as it is...
+------------------------------------------------
+[00000304][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000 Far from fighting,
+Because this world could end.
+------------------------------------------------
+[00000305][アダム,char_006 a-dam]
+……that's all.
+------------------------------------------------
+[00000306][キルマリア,char_007 Kilmaria]
+...Somehow, more than ever
+It's a tragic piece of writing.
+------------------------------------------------
+[00000307][シャノン,char_004 Shannon]
+When I think about the people who left behind notes,
+I feel like tears are falling...
+------------------------------------------------
+[00000308][フリード,char_001 Fried]
+It's a little cloudy right now so I can't see...
+Maybe looking down on the island from here
+I guess I wrote it...
+------------------------------------------------
+[00000309][フリード,char_001 Fried]
+If you can see the island...
+What did we think...
+------------------------------------------------
+[00000310][ベルベット,char_008 Velvet]
+The same goes for the island...
+In this note,
+There were some words that caught my attention.
+------------------------------------------------
+[00000311][レヴィン,char_009 Levin]
+Are you talking about "ability"?
+------------------------------------------------
+[00000312][ベルベット,char_008 Velvet]
+That's true too...
+As for the guy who is called “that”,
+I'm kind of curious.
+------------------------------------------------
+[00000313][ベルベット,char_008 Velvet]
+Apparently, for the person who left the note
+It seems like an enemy...
+I wonder what happened to “that” after this?
+------------------------------------------------
+[00000314][ジンガ,char_005 zynga]
+That's right.
+Did I win or...
+------------------------------------------------
+[00000315][キルマリア,char_007 Kilmaria]
+I can't say anything at this point.
+Anyway, I need to gather more information.
+------------------------------------------------
+[00000316][フリード,char_001 Fried]
+Let's continue the investigation.
+...I have to try hard!
+------------------------------------------------
+[00000317][レヴィン,char_009 Levin]
+Hello, Freed.
+Did you come to invite me to investigate?
+------------------------------------------------
+[00000318][フリード,char_001 Fried]
+That's right, actually...
+------------------------------------------------
+[00000319][レヴィン,char_009 Levin]
+Shall I guess the destination?
+It's a ruin in a cave on a cliff, right?
+------------------------------------------------
+[00000320][フリード,char_001 Fried]
+U-Yeah, but...
+Understood well, right?
+------------------------------------------------
+[00000321][レヴィン,char_009 Levin]
+That's the only ruin that hasn't been re-examined.
+Simple story. Well then, let's go!
+------------------------------------------------
+[00000322][ヴァイオラ,char_003 Viola]
+this is……!
+------------------------------------------------
+[00000323][キルマリア,char_007 Kilmaria]
+What's up, Viola?
+Did you find something?
+------------------------------------------------
+[00000324][ヴァイオラ,char_003 Viola]
+Yes, that's a great discovery. It's a data disk!
+------------------------------------------------
+[00000325][キルマリア,char_007 Kilmaria]
+Disk...? Is that the disc?
+Is it a decoration or something?
+------------------------------------------------
+[00000326][レヴィン,char_009 Levin]
+There are no words or pictures written...
+------------------------------------------------
+[00000327][パニス,char_002 Panis]
+It's sparkling!
+------------------------------------------------
+[00000328][ヴァイオラ,char_003 Viola]
+Oh, I see. Don't know about discs?
+This is...Adam!　Just a little please.
+------------------------------------------------
+[00000329][ジンガ,char_005 zynga]
+A disk inside Adam's belly!?
+------------------------------------------------
+[00000330][シャノン,char_004 Shannon]
+what's this! 
+------------------------------------------------
+[00000331][アダム,char_006 a-dam]
+Yeah, it's okay.
+I was surprised that I had such a function.
+...Loading has completed.
+------------------------------------------------
+[00000332][ヴァイオラ,char_003 Viola]
+What kind of data does it contain?
+------------------------------------------------
+[00000333][アダム,char_006 a-dam]
+this is……!
+The performance of the ancient weapon named "Thor",
+It seems to be various data that analyzed its combat power.
+------------------------------------------------
+[00000334][ヴァイオラ,char_003 Viola]
+Thor...?
+------------------------------------------------
+[00000335][レヴィン,char_009 Levin]
+Viola, do you know anything?
+------------------------------------------------
+[00000336][ヴァイオラ,char_003 Viola]
+Yeah, just a little...
+I see...I left this disc behind.
+If you are the owner of the notes...
+------------------------------------------------
+[00000337][ヴァイオラ,char_003 Viola]
+“That” that must be sealed away is
+I'm sure it's about "Thor"...
+------------------------------------------------
+[00000338][キルマリア,char_007 Kilmaria]
+Now, let's talk about the opponent that the owner of the note fought against.
+Inside this "Disk" thing...?
+------------------------------------------------
+[00000339][レヴィン,char_009 Levin]
+That was a great discovery.
+------------------------------------------------
+[00000340][ヴァイオラ,char_003 Viola]
+Let's go back to the village and analyze the data.
+I need more information. Adam, please help me.
+------------------------------------------------
+[00000341][アダム,char_006 a-dam]
+I got it.
+------------------------------------------------
+[00000342][フリード,char_001 Fried]
+@fcFFAAFFAA (I wonder what kind of information will come out...)
+------------------------------------------------
+[00000343][ヴァイオラ,char_003 Viola]
+I have good news and bad news.
+The good news is that the disk analysis has been completed.
+------------------------------------------------
+[00000344][レヴィン,char_009 Levin]
+...What remains is bad news.
+That means that inside the disk,
+I mean, it contained incredible information.
+------------------------------------------------
+[00000345][アダム,char_006 a-dam]
+yes. This Thor was born at the end of the ancient war.
+It looks like a weapon that was thrown into the mix in a crazy way.
+------------------------------------------------
+[00000346][シャノン,char_004 Shannon]
+What do you mean by “fuck it”?
+------------------------------------------------
+[00000347][ヴァイオラ,char_003 Viola]
+This weapon doesn't seem to be able to be controlled properly.
+Once you lose control, your friends and foes will indiscriminately attack you.
+Apparently it can destroy everything in sight.
+------------------------------------------------
+[00000348][ヴァイオラ,char_003 Viola]
+Moreover, the destructive power of Thor alone is
+It's said to be comparable to that "Doomsday Titan"...
+------------------------------------------------
+[00000349][ジンガ,char_005 zynga]
+The same destructive power as the Titan of the End!?
+Did the ancients create it themselves?
+------------------------------------------------
+[00000350][キルマリア,char_007 Kilmaria]
+No way...!
+Why something like that...
+------------------------------------------------
+[00000351][レヴィン,char_009 Levin]
+While fearing the titan of the end,
+Did he release something with the same destructive power onto the ground?
+How ironic...
+------------------------------------------------
+[00000352][ベルベット,char_008 Velvet]
+I don't think this is insane...
+No matter how much power you want, that much power,
+There's no way humans can master it!
+------------------------------------------------
+[00000353][ヴァイオラ,char_003 Viola]
+Yes, Velvet is right...
+This Thor belongs to the Enfield people.
+A weapon of mass destruction created by distortion.
+------------------------------------------------
+[00000354][ヴァイオラ,char_003 Viola]
+Probably people from other worlds
+The “results” of the group that was researching,
+It should have been fed back...
+------------------------------------------------
+[00000355][フリード,char_001 Fried]
+What did you say……!
+------------------------------------------------
+[00000356][ヴァイオラ,char_003 Viola]
+According to the records left on the disk, Thor is now
+It seems like it's sealed somewhere...
+------------------------------------------------
+[00000357][ヴァイオラ,char_003 Viola]
+Like other ancient weapons,
+There's no guarantee that it won't come back anytime in response to Panis.
+I have to do something before that happens...
+------------------------------------------------
+[00000358][ジンガ,char_005 zynga]
+That's right, if it's a weapon like that,
+I have to destroy it no matter what...
+------------------------------------------------
+[00000359][キルマリア,char_007 Kilmaria]
+This is exactly the devil!
+In the name of Justice, let's exorcise!
+------------------------------------------------
+[00000360][アダム,char_006 a-dam]
+Weapons of mass destruction that endanger the world...
+If I don't bury it with my own hands...!
+------------------------------------------------
+[00000361][フリード,char_001 Fried]
+Everyone is right.
+I have to defeat Thor no matter what...!
+Viola, could you lend me a hand?
+------------------------------------------------
+[00000362][ヴァイオラ,char_003 Viola]
+Of course. To defeat him is
+It's like fate for me too.
+------------------------------------------------
+[00000363][フリード,char_001 Fried]
+What do you mean?
+------------------------------------------------
+[00000364][ヴァイオラ,char_003 Viola]
+No, it's fine. never mind.
+Anyway, where Thor is sealed
+Let's head over.
+------------------------------------------------
+[00000365][ヴァイオラ,char_003 Viola]
+Before that...Freed.
+One more thing for you
+There's something I want to let you know.
+------------------------------------------------
+[00000366][ヴァイオラ,char_003 Viola]
+It's on the example disc.
+There were signatures from people who left data and notes.
+------------------------------------------------
+[00000367][ヴァイオラ,char_003 Viola]
+Name is……
+Alastor Karim and Miria Karim.
+------------------------------------------------
+[00000368][フリード,char_001 Fried]
+Karim...!?
+------------------------------------------------
+[00000369][シャノン,char_004 Shannon]
+What was that!?
+------------------------------------------------
+[00000370][バッカス,char_527]
+...But I understand the story.
+An ancient weapon like Thor or something.
+Is that really the one inside here?
+------------------------------------------------
+[00000371][レヴィン,char_009 Levin]
+ah. There seems to be no mistake.
+------------------------------------------------
+[00000372][ケルビム,char_529]
+This is an unexpected situation.
+------------------------------------------------
+[00000373][バッカス,char_527]
+Totally. Did I live in such a dangerous place...
+------------------------------------------------
+[00000374][シャノン,char_004 Shannon]
+I think it's possible that you don't notice...
+------------------------------------------------
+[00000375][ヴァイオラ,char_003 Viola]
+The seal has been broken.
+Let's go!
+------------------------------------------------
+[00000376][フリード,char_001 Fried]
+Understood!
+------------------------------------------------
+[00000377][バッカス,char_527]
+Understood! Let's go, Deputy Chief!
+------------------------------------------------
+[00000378][ケルビム,char_529]
+yes!
+------------------------------------------------
+[00000379][ベルベット,char_008 Velvet]
+Wait a minute, Bacchus.
+You and Cherubim go to the village.
+I want everyone to be protected just in case.
+------------------------------------------------
+[00000380][バッカス,char_527]
+Oh, hey!? What are you saying?
+This is me, right?
+What will happen if I don't fight?
+------------------------------------------------
+[00000381][ケルビム,char_529]
+me too.
+I cannot accept Velvet-san's instructions.
+------------------------------------------------
+[00000382][ベルベット,char_008 Velvet]
+It's not an instruction. I'm asking for it.
+In times of emergency, you can rely on the village.
+Only you guys exist.
+------------------------------------------------
+[00000383][レヴィン,char_009 Levin]
+That's right. And Bacchus
+If you could stay as a backup,
+He feels safe when he has to retreat.
+------------------------------------------------
+[00000384][フリード,char_001 Fried]
+Bacchus, Cherubim. I'll ask you too.
+Make everyone in the village feel safe.
+------------------------------------------------
+[00000385][バッカス,char_527]
+……Really.
+If that's the case, I can't help it.
+------------------------------------------------
+[00000386][ケルビム,char_529]
+I got it.
+We will stand by as a rear guard unit.
+------------------------------------------------
+[00000387][フリード,char_001 Fried]
+Yes, I asked for it! Well then, hurry to the village!
+See you later!
+------------------------------------------------
+[00000388][バッカス,char_527]
+……Understood! You guys, get back safely!?
+If it looks dangerous, I'll rush right away!
+------------------------------------------------
+[00000389][ベルベット,char_008 Velvet]
+...I said something that was out of character,
+Before fighting a strong enemy, preparation is important.
+------------------------------------------------
+[00000390][レヴィン,char_009 Levin]
+That's right.
+Now then, let's take a look at Thor and the others' preparations.
+------------------------------------------------
+[00000391][ジンガ,char_005 zynga]
+Strike here before you cause harm to the village!
+------------------------------------------------
+[00000392][キルマリア,char_007 Kilmaria]
+All for Justice!
+------------------------------------------------
+[00000393][アダム,char_006 a-dam]
+If we don't correct the ancient distortions...!
+------------------------------------------------
+[00000394][シャノン,char_004 Shannon]
+Panis, Freed.
+Are you ready?
+------------------------------------------------
+[00000395][パニス,char_002 Panis]
+Panis is fine!
+Freed and everyone else are together!
+------------------------------------------------
+[00000396][フリード,char_001 Fried]
+I'm fine too.
+As long as everyone is here, we can always fight!
+------------------------------------------------
+[00000397][ヴァイオラ,char_003 Viola]
+Well then, isn't that good?
+Everyone, let's go!
+------------------------------------------------
+[00000398][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000 Thor was somehow able to seal it away.
+However, we were also seriously injured and exhausted our strength.
+------------------------------------------------
+[00000399][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000The way he spells out the notes is also unsteady.
+At this rate, my life won't be long.
+But now my heart is full of joy.
+------------------------------------------------
+[00000400][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000My wife and I live in the world where our beloved son lives...
+In other words, he protected the future of Endias.
+As a parent, have you ever been so happy?
+------------------------------------------------
+[00000401][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000With our ability to manipulate time,
+Letting my son escape into the future
+Apparently it was the right decision.
+------------------------------------------------
+[00000402][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000 Endias where he lives 1000 years from now,
+What kind of world is it like?
+We can't even predict.
+------------------------------------------------
+[00000403][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000However, no matter what kind of world it is,
+I want my son to be happy.
+That's what we fought for.
+------------------------------------------------
+[00000404][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000 My beloved son Freed.
+You'll never see this note,
+You won't even know about us...
+------------------------------------------------
+[00000405][アダム,char_006 a-dam]
+@lt1@fs16@dt2@db1@dcFF000000 We wish you happiness forever.
+Goodbye, Freed...
+------------------------------------------------
+[00000406][ベルベット,char_008 Velvet]
+The ability to manipulate time... huh? Freed's power is
+It was something he inherited from his parents.
+------------------------------------------------
+[00000407][ベルベット,char_008 Velvet]
+Of course,
+I can practice and use it too,
+I guess that's not possible...
+------------------------------------------------
+[00000408][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000409][シャノン,char_004 Shannon]
+Freed...
+------------------------------------------------
+[00000410][フリード,char_001 Fried]
+Sister...
+My...father and mother...
+here……
+------------------------------------------------
+[00000411][フリード,char_001 Fried]
+Trying to protect me...
+My father and mother...
+Ugh...uuuuuu...
+------------------------------------------------
+[00000412][シャノン,char_004 Shannon]
+Don't cry, Freed...
+------------------------------------------------
+[00000413][ジンガ,char_005 zynga]
+That's right, Freed.
+I understand how you feel, but don't lose heart...
+------------------------------------------------
+[00000414][キルマリア,char_007 Kilmaria]
+you were crying so much,
+Your parents will probably feel sad too...
+So let's cheer up...
+------------------------------------------------
+[00000415][フリード,char_001 Fried]
+Sorry, everyone...
+But... I...
+------------------------------------------------
+[00000416][パニス,char_002 Panis]
+…………Freed.
+------------------------------------------------
+[00000417][フリード,char_001 Fried]
+...Panis?
+------------------------------------------------
+[00000418][パニス,char_002 Panis]
+Freed...
+sorry Sorry……
+------------------------------------------------
+[00000419][フリード,char_001 Fried]
+Panis...?
+Maybe... you have a memory?
+------------------------------------------------
+[00000420][パニス,char_002 Panis]
+Keep it...? do not know……
+but……
+------------------------------------------------
+[00000421][パニス,char_002 Panis]
+sorry……
+------------------------------------------------
+[00000422][フリード,char_001 Fried]
+Panis...
+------------------------------------------------
+[00000423][パニス,char_002 Panis]
+…………
+------------------------------------------------
+[00000424][フリード,char_001 Fried]
+Panis...don't look so sad.
+Because... I'm fine.
+------------------------------------------------
+[00000425][フリード,char_001 Fried]
+I found a letter from my father and mother,
+If you think that no matter what you do, you won't be able to meet...
+------------------------------------------------
+[00000426][フリード,char_001 Fried]
+But I have Panis...
+I also have older sisters, uncles, and aunts.
+------------------------------------------------
+[00000427][フリード,char_001 Fried]
+Even if my father and mother are no longer here,
+I do have a family.
+------------------------------------------------
+[00000428][パニス,char_002 Panis]
+Freed...
+Ehehe...
+------------------------------------------------
+[00000429][シャノン,char_004 Shannon]
+That's right, Freed.
+Panis and I will always be with you.
+------------------------------------------------
+[00000430][シャノン,char_004 Shannon]
+After all, we're family!
+------------------------------------------------
+[00000431][フリード,char_001 Fried]
+thank you……
+Shannon, Panis...
+------------------------------------------------
+[00000432][フリード,char_001 Fried]
+Besides, it's not just my sister and Panis.
+Zynga, Adam, Kill Maria, Velvet,
+Levin, Viola-san, and everyone else in the village...
+------------------------------------------------
+[00000433][フリード,char_001 Fried]
+Like family, no matter the hardships or pleasures,
+I also have friends that I have shared with.
+So I don't feel lonely.
+------------------------------------------------
+[00000434][フリード,char_001 Fried]
+Come on, everyone! Let's go back to our village!
+------------------------------------------------
+[00000435][レヴィン,char_009 Levin]
+Well, the job is done.
+Are you going to raise it?
+------------------------------------------------
+[00000436][キルマリア,char_007 Kilmaria]
+I told everyone in the village that the crisis was over.
+I have to report it.
+------------------------------------------------
+[00000437][ベルベット,char_008 Velvet]
+Well, I have to look for another piece of information.
+------------------------------------------------
+[00000438][ジンガ,char_005 zynga]
+This time for real
+It looks like a peaceful life will return.
+Will I finally be able to concentrate on my main job as a fisherman?
+------------------------------------------------
+[00000439][アダム,char_006 a-dam]
+If possible, I would also like to devote myself to the farm.
+Growing plants is
+It's a really rewarding job.
+------------------------------------------------
+[00000440][シャノン,char_004 Shannon]
+Panis, Freed! let's go!
+------------------------------------------------
+[00000441][パニス,char_002 Panis]
+Yeah! 
+------------------------------------------------
+[00000442][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000443][パニス,char_002 Panis]
+Freed?
+------------------------------------------------
+[00000444][フリード,char_001 Fried]
+Oh, no, it's nothing.
+Come on, let's go home!
+------------------------------------------------
+[00000445][パニス,char_002 Panis]
+Yeah!
+------------------------------------------------
+[00000446][フリード,char_001 Fried]
+@fcFFAAFFAA (Thank you, Mom and Dad.
+I'm living happily on this island now.)
+------------------------------------------------
+[00000447][フリード,char_001 Fried]
+@fcFFAAFFAA (surrounded by family and friends...)
+------------------------------------------------
+[00000448][フリード,char_001 Fried]
+@fcFFAAFFAA (See you, Dad! Mom!)
+------------------------------------------------
+

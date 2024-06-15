@@ -1,0 +1,1696 @@
+[0465]
+*****************
+[00000000][パニス,char_002 Panis]
+I want panis to be fluffy!
+------------------------------------------------
+[00000001][ジンガ,char_005 zynga]
+Fluffy? What is that?
+------------------------------------------------
+[00000002][パニス,char_002 Panis]
+Panis, I want to be fluffy with Zynga's tail!
+------------------------------------------------
+[00000003][ジンガ,char_005 zynga]
+Does that mean I shouldn't touch it?
+------------------------------------------------
+[00000004][パニス,char_002 Panis]
+Yeah!
+------------------------------------------------
+[00000005][フリード,char_001 Fried]
+Sorry, Zynga.
+Could you please let me touch your panis a little?
+------------------------------------------------
+[00000006][ジンガ,char_005 zynga]
+Well, I don't mind if it's just a little bit.
+------------------------------------------------
+[00000007][パニス,char_002 Panis]
+Wow!
+Fluffy, fluffy...
+------------------------------------------------
+[00000008][ジンガ,char_005 zynga]
+@fcFFAAFFAA (I can't beat it because it tickles...)
+------------------------------------------------
+[00000009][パニス,char_002 Panis]
+…………………
+...That's enough. Thank you, Zynga.
+------------------------------------------------
+[00000010][ジンガ,char_005 zynga]
+Is it okay now?
+------------------------------------------------
+[00000011][フリード,char_001 Fried]
+You don't have to hold back, Panis.
+------------------------------------------------
+[00000012][パニス,char_002 Panis]
+okay.
+Because Soncho's beard is better.
+It's so fluffy.
+------------------------------------------------
+[00000013][フリード,char_001 Fried]
+Ah, that's right...
+------------------------------------------------
+[00000014][ジンガ,char_005 zynga]
+@fcFFAAFFAA (Did I... lose to the village chief...?)
+------------------------------------------------
+[00000015][フリード,char_001 Fried]
+Zynga, what's wrong?
+------------------------------------------------
+[00000016][ジンガ,char_005 zynga]
+No, it's nothing...
+------------------------------------------------
+[00000017][ジム,char_502]
+Hey Panis, let me hear from you.
+I can't believe it.
+------------------------------------------------
+[00000018][パニス,char_002 Panis]
+what happened?
+------------------------------------------------
+[00000019][ジム,char_502]
+Why is Panis always with Freed?
+Are you with me?
+------------------------------------------------
+[00000020][パニス,char_002 Panis]
+because I like.
+------------------------------------------------
+[00000021][ジム,char_502]
+There it is! I can't accept that!
+------------------------------------------------
+[00000022][ジム,char_502]
+Panis, the angel who saved the village,
+Why are you talking about Saekano Freed?
+I don't know if I like it!
+------------------------------------------------
+[00000023][ジム,char_502]
+Planned to become the village's hero and savior,
+Shouldn't you just follow me around?
+------------------------------------------------
+[00000024][パニス,char_002 Panis]
+Eh?
+------------------------------------------------
+[00000025][フリード,char_001 Fried]
+Hey Jim!
+If you had just shut up and listened,
+That's a terrible thing to say!
+------------------------------------------------
+[00000026][ジム,char_502]
+Stop being Freed and come stay with me, okay?
+What, Panis?
+------------------------------------------------
+[00000027][パニス,char_002 Panis]
+Hmm... I feel so tired when I'm with Jim.
+------------------------------------------------
+[00000028][ジム,char_502]
+Yeah!? Why?
+------------------------------------------------
+[00000029][パニス,char_002 Panis]
+Freed is about Panis, even if it's dangerous.
+He will protect me, but...
+Jim looks like he's about to run away...
+------------------------------------------------
+[00000030][ジム,char_502]
+Don't run away! ……perhaps.
+------------------------------------------------
+[00000031][フリード,char_001 Fried]
+Jim...let's just say that...
+------------------------------------------------
+[00000032][パニス,char_002 Panis]
+But Panis, you love Jim too, right?
+------------------------------------------------
+[00000033][ジム,char_502]
+……picture?
+------------------------------------------------
+[00000034][パニス,char_002 Panis]
+Sister Shannon and Zynga,
+I love both Soncho and Maia Sensei!
+But the person I want to be with is Freed.
+------------------------------------------------
+[00000035][ジム,char_502]
+So, so... Okay!
+I'll be the man who makes Panis want to be with me!
+Prepare yourself, Freed!!
+------------------------------------------------
+[00000036][フリード,char_001 Fried]
+@fcFFAAFFAA (I-I can't lose to this...!)
+------------------------------------------------
+[00000037][ラナ,char_528]
+I really get goosebumps when I look at Panis' wings...
+It looks fluffy and soft, and the color is nice...
+------------------------------------------------
+[00000038][パニス,char_002 Panis]
+Hehe, thank you!
+------------------------------------------------
+[00000039][ラナ,char_528]
+Hey, I have a request...
+Can I touch Panis's wings?
+------------------------------------------------
+[00000040][パニス,char_002 Panis]
+If it's just a little bit, that's fine.
+------------------------------------------------
+[00000041][ラナ,char_528]
+thanks! 
+------------------------------------------------
+[00000042][ラナ,char_528]
+Wow! 
+------------------------------------------------
+[00000043][パニス,char_002 Panis]
+Ehehe...
+------------------------------------------------
+[00000044][ラナ,char_528]
+It's different from freshly baked bread...
+I want to eat it!
+------------------------------------------------
+[00000045][パニス,char_002 Panis]
+Eh!?
+Panis is not food!
+------------------------------------------------
+[00000046][ラナ,char_528]
+Ah, I want to touch you forever...
+------------------------------------------------
+[00000047][パニス,char_002 Panis]
+...That's enough, right? It tickles...
+------------------------------------------------
+[00000048][ラナ,char_528]
+A little longer! 
+------------------------------------------------
+[00000049][フリード,char_001 Fried]
+It's okay, Panis. Is your face somehow red?
+------------------------------------------------
+[00000050][パニス,char_002 Panis]
+U-uh...it's okay...
+But...it doesn't feel right...
+------------------------------------------------
+[00000051][フリード,char_001 Fried]
+However……
+------------------------------------------------
+[00000052][ラナ,char_528]
+Hmm, fluffy♪
+Ah, I'm so happy♪
+------------------------------------------------
+[00000053][パニス,char_002 Panis]
+Hmm...
+------------------------------------------------
+[00000054][パニス,char_002 Panis]
+Well, I guess I'll end this now...
+------------------------------------------------
+[00000055][ラナ,char_528]
+……yes? 
+------------------------------------------------
+[00000056][ラナ,char_528]
+Even so, it was a great touch!
+Panis, let me touch you again soon!
+------------------------------------------------
+[00000057][パニス,char_002 Panis]
+No……
+------------------------------------------------
+[00000058][ボリス,char_511]
+Hello, Panis-chan.
+Did you play well and have fun today as well?
+------------------------------------------------
+[00000059][パニス,char_002 Panis]
+Yes, we played a lot!
+------------------------------------------------
+[00000060][ボリス,char_511]
+Ah, I see I see. 
+------------------------------------------------
+[00000061][パニス,char_002 Panis]
+That's not all.
+Panis, I helped you too!
+------------------------------------------------
+[00000062][ボリス,char_511]
+That's impressive. Panis-chan is a good girl.
+How was Freed?
+------------------------------------------------
+[00000063][フリード,char_001 Fried]
+I also played with Panis and helped out in various ways.
+Today was another fun day.
+------------------------------------------------
+[00000064][ボリス,char_511]
+Yes Yes. I hope tomorrow will be another wonderful day,
+I'll pray for you.
+------------------------------------------------
+[00000065][フリード,char_001 Fried]
+Thank you, Boris!
+------------------------------------------------
+[00000066][パニス,char_002 Panis]
+Hey, what was grandpa doing today?
+------------------------------------------------
+[00000067][ボリス,char_511]
+Of course, I also had a good time playing all day.
+------------------------------------------------
+[00000068][パニス,char_002 Panis]
+That's right!
+What was Grandpa playing with?
+------------------------------------------------
+[00000069][ボリス,char_511]
+All I do is surf.
+------------------------------------------------
+[00000070][フリード,char_001 Fried]
+My goodness!?
+Boris, do you go surfing...
+------------------------------------------------
+[00000071][ジンガ,char_005 zynga]
+Hey, Adam! Don't you have time?
+------------------------------------------------
+[00000072][アダム,char_006 a-dam]
+yes.
+There is no work ordered at the moment.
+It's in standby mode.
+------------------------------------------------
+[00000073][ジンガ,char_005 zynga]
+Okay! Then come with me!
+------------------------------------------------
+[00000074][アダム,char_006 a-dam]
+I don't mind, but what kind of work is it?
+------------------------------------------------
+[00000075][ジンガ,char_005 zynga]
+It's not work!
+Fishing! Fishing!
+------------------------------------------------
+[00000076][アダム,char_006 a-dam]
+Fishing?
+Unfortunately, I don't have much knowledge about fishing.
+I don't have any work experience, so I hope I can help you.
+------------------------------------------------
+[00000077][ジンガ,char_005 zynga]
+I know that!
+But leave it to me!
+I'll make you a first-class fisherman!
+------------------------------------------------
+[00000078][アダム,char_006 a-dam]
+Do you want me to become a first-rate fisherman?
+------------------------------------------------
+[00000079][ジンガ,char_005 zynga]
+Yes! After all, you're so patient.
+I've always thought it was good for fishing.
+------------------------------------------------
+[00000080][ジンガ,char_005 zynga]
+Beginners can't catch a fish right away by dropping a line.
+They say it's boring and leave it out!
+But if it's you, I'm sure you won't make a sound until you catch a fish.
+------------------------------------------------
+[00000081][アダム,char_006 a-dam]
+I agree.
+Unless it is necessary to take emergency action,
+You will not abandon your mission mid-way.
+------------------------------------------------
+[00000082][ジンガ,char_005 zynga]
+That's why you definitely have the qualities of a top-notch fisherman!
+I guarantee it!
+What do you think? Are you motivated?
+------------------------------------------------
+[00000083][アダム,char_006 a-dam]
+yes. 
+------------------------------------------------
+[00000084][ジンガ,char_005 zynga]
+Then get ready now!
+Kuu! I was so excited!
+------------------------------------------------
+[00000085][アダム,char_006 a-dam]
+I'm starting to look forward to it too!
+------------------------------------------------
+[00000086][ジンガ,char_005 zynga]
+Right? Fishing is great to do, but
+It's also great to be prepared!
+Hahahahaha!
+------------------------------------------------
+[00000087][フリード,char_001 Fried]
+@fcFFAAFFAA (Zynga and Adam look like fun...)
+------------------------------------------------
+[00000088][ジム,char_502]
+Well, what surprised me!
+Anyway, it was a big deal!
+------------------------------------------------
+[00000089][キルマリア,char_007 Kilmaria]
+Was it that big of a fish?
+------------------------------------------------
+[00000090][ジム,char_502]
+Hey, are you doubting me?
+There is no doubt that it has become a legend in this village.
+There is no doubt that he is the “Lord of the Sea”!
+------------------------------------------------
+[00000091][キルマリア,char_007 Kilmaria]
+“Lord of the sea”!? Such a legend!?
+That's interesting. Please tell us more details...
+------------------------------------------------
+[00000092][ジンガ,char_005 zynga]
+Wait a minute!
+------------------------------------------------
+[00000093][キルマリア,char_007 Kilmaria]
+Oh, Mr. Zinga. What's wrong?
+------------------------------------------------
+[00000094][ジンガ,char_005 zynga]
+Didn't the "Lord of the Sea" say something just now?
+------------------------------------------------
+[00000095][ジム,char_502]
+That's right, Jinga's brother!
+I saw it! In this cove!!
+------------------------------------------------
+[00000096][ジンガ,char_005 zynga]
+What!? Really!?
+------------------------------------------------
+[00000097][ジム,char_502]
+I was watching the sea, watching out for pirate ships,
+A monster-sized big shadow,
+I could see it in the cove!
+------------------------------------------------
+[00000098][キルマリア,char_007 Kilmaria]
+Is it a monster fish?
+That's amazing!
+------------------------------------------------
+[00000099][ジンガ,char_005 zynga]
+Make no mistake, it's the "Lord of the Sea"...
+I can't do this!
+------------------------------------------------
+[00000100][フリード,char_001 Fried]
+Wow! What's that big fishing rod!?
+------------------------------------------------
+[00000101][パニス,char_002 Panis]
+Okki!
+------------------------------------------------
+[00000102][ジンガ,char_005 zynga]
+I guess it's decided!
+It's a fishing rod I made for use against the "Lord of the Sea"!
+------------------------------------------------
+[00000103][キルマリア,char_007 Kilmaria]
+You're fishing for the "Lord of the Sea"!
+Zinga-san, we can help you!
+------------------------------------------------
+[00000104][ジンガ,char_005 zynga]
+Sorry, Kill Maria!
+“Lord of the Sea”, I’ll definitely catch him!
+------------------------------------------------
+[00000105][キルマリア,char_007 Kilmaria]
+yes!
+------------------------------------------------
+[00000106][フリード,char_001 Fried]
+@fcFFAAFFAA (Zinga and Killmaria are getting excited about fishing...
+No one can stop this duo...)
+------------------------------------------------
+[00000107][パニス,char_002 Panis]
+The sun is going into the sea...
+------------------------------------------------
+[00000108][ラナ,char_528]
+Well, I'm not talking about it,
+It's sinking on the other side of the sea.
+------------------------------------------------
+[00000109][パニス,char_002 Panis]
+Have you ever been there?
+------------------------------------------------
+[00000110][ラナ,char_528]
+That's right, on the other side of the sea,
+No matter how much I go, I can't get there.
+------------------------------------------------
+[00000111][パニス,char_002 Panis]
+Hmm, that's right.
+------------------------------------------------
+[00000112][シャノン,char_004 Shannon]
+Even if you can't go, you can enjoy a beautiful sunset here.
+I can see it, so that's fine, right?
+------------------------------------------------
+[00000113][ラナ,char_528]
+The sunset you can see from here is truly amazing!
+The sky is dyed such a beautiful red.
+------------------------------------------------
+[00000114][キルマリア,char_007 Kilmaria]
+Me too, just for this moment
+I can't help but forget my mission...
+------------------------------------------------
+[00000115][ラナ,char_528]
+...But why is the sunset red?
+Do you know Zynga?
+------------------------------------------------
+[00000116][ジンガ,char_005 zynga]
+Unfortunately, I don't know...
+What is it, Freed?
+------------------------------------------------
+[00000117][フリード,char_001 Fried]
+Even I don't know.
+Adam would know, wouldn't he?
+------------------------------------------------
+[00000118][アダム,char_006 a-dam]
+Because light at sunset passes horizontally through the atmospheric layers,
+Most of the visible light is blocked, and red light with a long wavelength
+Only this has reached our eyes.
+------------------------------------------------
+[00000119][フリード,char_001 Fried]
+……picture?
+Adam, what are you saying...
+------------------------------------------------
+[00000120][ラナ,char_528]
+I see, is the red one long?
+------------------------------------------------
+[00000121][フリード,char_001 Fried]
+Did Lana understand?
+------------------------------------------------
+[00000122][ラナ,char_528]
+Hmm, I didn't know exactly.
+But doesn't it seem like it's easier to reach anything if it's long?
+------------------------------------------------
+[00000123][ラナ,char_528]
+And the story of Adam,
+I feel like it fits somehow.
+------------------------------------------------
+[00000124][キルマリア,char_007 Kilmaria]
+I understand!
+My Justice too.
+Adam's explanation is correct!
+------------------------------------------------
+[00000125][フリード,char_001 Fried]
+@fcFFAAFFAA (I don't really understand though...
+Lana and Kilmaria...maybe they're amazing? )
+------------------------------------------------
+[00000126][ダリオ,char_515]
+Mirko, Rodrigo, be careful.
+I feel suspicious... someone is here!
+------------------------------------------------
+[00000127][ミルコ,char_516]
+Huh!? Where is it?
+------------------------------------------------
+[00000128][ロドリゴ,char_517]
+That's it, that's it!
+------------------------------------------------
+[00000129][フリード,char_001 Fried]
+What!? Maybe it's about us?
+------------------------------------------------
+[00000130][ダリオ,char_515]
+What is it, Freed...?
+Don't startle me.
+------------------------------------------------
+[00000131][フリード,char_001 Fried]
+Sorry Sorry……
+Mr. Gokurou looking around.
+------------------------------------------------
+[00000132][パニス,char_002 Panis]
+Everyone, it's a big deal.
+------------------------------------------------
+[00000133][ダリオ,char_515]
+Hey, I'm used to it now.
+------------------------------------------------
+[00000134][ミルコ,char_516]
+You guys are a vigilante group that will silence even crying children!
+------------------------------------------------
+[00000135][ロドリゴ,char_517]
+I never meet a crying child in the middle of the night like this.
+------------------------------------------------
+[00000136][フリード,char_001 Fried]
+Sorry for interrupting you.
+------------------------------------------------
+[00000137][ダリオ,char_515]
+Gonna be good.
+Well then, we have a mission so this is it.
+------------------------------------------------
+[00000138][ミルコ,char_516]
+Be careful on your way home!
+Leave the safety of the island to us!
+------------------------------------------------
+[00000139][ロドリゴ,char_517]
+Good night, Panis!
+I'll go home early and sleep.
+------------------------------------------------
+[00000140][パニス,char_002 Panis]
+Yeah. 
+------------------------------------------------
+[00000141][ミルコ,char_516]
+I'm sleepy too, but I'll try harder...
+------------------------------------------------
+[00000142][フリード,char_001 Fried]
+@fcFFAAFFAA (Everyone is working hard...)
+------------------------------------------------
+[00000143][キルマリア,char_007 Kilmaria]
+As an exorcist, all knowledge and skills
+must be worn.
+------------------------------------------------
+[00000144][キルマリア,char_007 Kilmaria]
+As part of this, I have been
+I've always been interested in fishing.
+------------------------------------------------
+[00000145][ジンガ,char_005 zynga]
+HM……
+------------------------------------------------
+[00000146][キルマリア,char_007 Kilmaria]
+So, I have a request to Mr. Zynga.
+Please give me Mr. Zynga about fishing.
+Could you please teach me all your knowledge and skills?
+------------------------------------------------
+[00000147][ジンガ,char_005 zynga]
+……All right.
+But fishing training is tough, isn't it?
+------------------------------------------------
+[00000148][キルマリア,char_007 Kilmaria]
+Of course, I am prepared!
+Just like the training of an exorcist, I don't want to be half-hearted.
+I don't think I'll get used to it!
+------------------------------------------------
+[00000149][ジンガ,char_005 zynga]
+I understand how you feel.
+------------------------------------------------
+[00000150][キルマリア,char_007 Kilmaria]
+So, you understand?
+Mr. Zinga!
+------------------------------------------------
+[00000151][ジンガ,char_005 zynga]
+Call me master!
+------------------------------------------------
+[00000152][キルマリア,char_007 Kilmaria]
+eh……!?
+------------------------------------------------
+[00000153][ジンガ,char_005 zynga]
+From this moment on, our relationship has changed!
+------------------------------------------------
+[00000154][キルマリア,char_007 Kilmaria]
+Ha, yes! Master!
+------------------------------------------------
+[00000155][ジンガ,char_005 zynga]
+No boring stories.
+Let's go to the field training right away! Follow me!
+------------------------------------------------
+[00000156][キルマリア,char_007 Kilmaria]
+Yes, master!
+------------------------------------------------
+[00000157][キルマリア,char_007 Kilmaria]
+...Ah, but the investigation has to be done in parallel.
+Please complete your training efficiently and in a short period of time.
+------------------------------------------------
+[00000158][ジンガ,char_005 zynga]
+What!?
+------------------------------------------------
+[00000159][キルマリア,char_007 Kilmaria]
+Let's go, Master!
+------------------------------------------------
+[00000160][ジンガ,char_005 zynga]
+...Oh, oh.
+------------------------------------------------
+[00000161][フリード,char_001 Fried]
+@fcFFAAFFAA (I wonder if the Exorcist needs fishing...?)
+------------------------------------------------
+[00000162][ベルベット,char_008 Velvet]
+Hey Panis. I have always been
+I was thinking that I wanted to become friends with Panis.
+------------------------------------------------
+[00000163][パニス,char_002 Panis]
+Panis and Velvet have been good friends for a long time, right?
+------------------------------------------------
+[00000164][ベルベット,char_008 Velvet]
+That's right. But I want to become even closer!
+Good idea?
+------------------------------------------------
+[00000165][パニス,char_002 Panis]
+OK!
+------------------------------------------------
+[00000166][ベルベット,char_008 Velvet]
+That's why.
+Panis, would you like to come to my house?
+------------------------------------------------
+[00000167][パニス,char_002 Panis]
+A velvet house?
+i wanna go!
+------------------------------------------------
+[00000168][ベルベット,char_008 Velvet]
+No, it's not me.
+I want you to join my pirate crew.
+------------------------------------------------
+[00000169][フリード,char_001 Fried]
+Stop it, Velvet-san!
+He's trying to recruit Panis into the pirate crew!
+------------------------------------------------
+[00000170][ベルベット,char_008 Velvet]
+Whatever, Freed. Are you sad to part with Panis?
+Well then, you should come with me. You're welcome, okay?
+------------------------------------------------
+[00000171][フリード,char_001 Fried]
+picture……?
+------------------------------------------------
+[00000172][パニス,char_002 Panis]
+What about your sister and Jinga?
+------------------------------------------------
+[00000173][ベルベット,char_008 Velvet]
+Shannon, Zynga, Adam, Killmaria,
+It would be a good idea to get everyone from the village together!
+------------------------------------------------
+[00000174][パニス,char_002 Panis]
+Yay! Let's have fun!
+------------------------------------------------
+[00000175][フリード,char_001 Fried]
+No, no, you can't be a pirate...
+------------------------------------------------
+[00000176][ベルベット,char_008 Velvet]
+Why? 
+------------------------------------------------
+[00000177][フリード,char_001 Fried]
+If it doesn't work, it doesn't work!
+------------------------------------------------
+[00000178][ベルベット,char_008 Velvet]
+Hey... that's a shame.
+------------------------------------------------
+[00000179][フリード,char_001 Fried]
+@fcFFAAFFAA (just a little bit, I thought it would be fun too)
+That's what I thought...)
+------------------------------------------------
+[00000180][ジンガ,char_005 zynga]
+Kedamauo? That's a fish I've never heard of.
+There was still a fish on this island that I didn't know about...
+Hey, tell me more details!
+------------------------------------------------
+[00000181][ラナ,char_528]
+Hairball fish.
+Literally, there are hairs instead of scales.
+It looks like a fish with lots of fish.
+------------------------------------------------
+[00000182][キルマリア,char_007 Kilmaria]
+A very cute and fluffy image
+It's floating!
+------------------------------------------------
+[00000183][ジンガ,char_005 zynga]
+A fish with hair...? cute……?
+...So, is it delicious?
+------------------------------------------------
+[00000184][ラナ,char_528]
+It's not a fish to eat, it's a fish to keep!
+------------------------------------------------
+[00000185][ジンガ,char_005 zynga]
+Keep fish?
+Is it something like a goldfish or medaka?
+------------------------------------------------
+[00000186][ラナ,char_528]
+Geez, is it about that size?
+------------------------------------------------
+[00000187][ジンガ,char_005 zynga]
+In that case, it doesn't seem like it would be much fun to fish...
+------------------------------------------------
+[00000188][キルマリア,char_007 Kilmaria]
+I would love to own one!
+------------------------------------------------
+[00000189][ラナ,char_528]
+Right? It seems like he's on this island,
+I'm trying my best to get some in stock.
+After all, it's a phantom fish...
+------------------------------------------------
+[00000190][ジンガ,char_005 zynga]
+...A fish with hair looks like a caterpillar.
+Isn't it disgusting? That kind of crazy thing,
+I don't think everyone will buy it though...
+------------------------------------------------
+[00000191][ラナ,char_528]
+I'm sorry for calling you such a jerk!
+There will definitely be a scramble!
+------------------------------------------------
+[00000192][キルマリア,char_007 Kilmaria]
+Become!My Justice too.
+I'm sure it will become a boom!
+------------------------------------------------
+[00000193][ジンガ,char_005 zynga]
+...I see, I understand.
+------------------------------------------------
+[00000194][ラナ,char_528]
+Did you understand?
+------------------------------------------------
+[00000195][キルマリア,char_007 Kilmaria]
+Did you understand!
+------------------------------------------------
+[00000196][ジンガ,char_005 zynga]
+Ah, your senses are strange.
+That's not true.
+------------------------------------------------
+[00000197][ラナ,char_528]
+a little bit! 
+------------------------------------------------
+[00000198][キルマリア,char_007 Kilmaria]
+I-Is my sense strange?
+------------------------------------------------
+[00000199][フリード,char_001 Fried]
+@fcFFAAFFAA (I also agree with Zynga...I guess?)
+------------------------------------------------
+[00000200][ダリオ,char_515]
+We will protect Arcadia Island!!
+------------------------------------------------
+[00000201][ミルコ,char_516]
+Azel village is the best!!
+------------------------------------------------
+[00000202][ロドリゴ,char_517]
+I'll do my best too!!
+------------------------------------------------
+[00000203][パニス,char_002 Panis]
+Hey Freed. What is everyone doing?
+------------------------------------------------
+[00000204][フリード,char_001 Fried]
+Hmm, I don't know what to say...
+It's a staple at the beach in the evening...
+Anyway, I'm making a vow into the sunset.
+------------------------------------------------
+[00000205][パニス,char_002 Panis]
+Hmm...
+------------------------------------------------
+[00000206][ロドリゴ,char_517]
+Protect the village and become a hero...
+I want to be popular with girls!!
+------------------------------------------------
+[00000207][ダリオ,char_515]
+Shit, me too...
+Before Rodrigo, before Mirko,
+I want to get her!!
+------------------------------------------------
+[00000208][ミルコ,char_516]
+You're the coolest person in the village!
+------------------------------------------------
+[00000209][フリード,char_001 Fried]
+@fcFFAAFFAA (It's starting to go in a strange direction...)
+------------------------------------------------
+[00000210][パニス,char_002 Panis]
+Looks interesting! We also do panis!
+------------------------------------------------
+[00000211][フリード,char_001 Fried]
+eh!?
+------------------------------------------------
+[00000212][パニス,char_002 Panis]
+Panis, I ate delicious bread!!
+------------------------------------------------
+[00000213][ダリオ,char_515]
+I want to eat it too!!
+------------------------------------------------
+[00000214][ミルコ,char_516]
+Eat your fill too!
+------------------------------------------------
+[00000215][ロドリゴ,char_517]
+I’m hungry too!!
+------------------------------------------------
+[00000216][フリード,char_001 Fried]
+@fcFFAAFFAA (I wonder what everyone is saying...)
+------------------------------------------------
+[00000217][ベルベット,char_008 Velvet]
+Hmm, that's pretty well done.
+------------------------------------------------
+[00000218][ジンガ,char_005 zynga]
+Oh, really?
+------------------------------------------------
+[00000219][ベルベット,char_008 Velvet]
+If it's an amateur's doodle, it's fine.
+------------------------------------------------
+[00000220][ジンガ,char_005 zynga]
+Is it graffiti?
+------------------------------------------------
+[00000221][ベルベット,char_008 Velvet]
+Because, isn't it?
+With a nautical chart of this level,
+You could even write about an apprentice who only spent a day or two on a ship.
+------------------------------------------------
+[00000222][ジンガ,char_005 zynga]
+……Really. I was trying to do my best, but...
+------------------------------------------------
+[00000223][ジンガ,char_005 zynga]
+Even though I go on a boat for fishing, I still use nautical charts.
+I never went out to sea, but from now on,
+I can't even say that...
+------------------------------------------------
+[00000224][ベルベット,char_008 Velvet]
+Nautical charts that can be used in naval battles are:
+This is what I'm saying.
+Here, I'll show you a little special.
+------------------------------------------------
+[00000225][ジンガ,char_005 zynga]
+Oh! That's amazing...
+Did Velvet write it?
+------------------------------------------------
+[00000226][ベルベット,char_008 Velvet]
+Yes, that's right.
+By the way, Zynga.
+It's one thing to write, but are you able to read it properly?
+------------------------------------------------
+[00000227][ジンガ,char_005 zynga]
+...Somehow, huh?
+------------------------------------------------
+[00000228][ベルベット,char_008 Velvet]
+I also need to learn how to read nautical charts.
+------------------------------------------------
+[00000229][ジンガ,char_005 zynga]
+There are surprisingly many kinds of pirates.
+I guess I have something to study.
+------------------------------------------------
+[00000230][ベルベット,char_008 Velvet]
+What do you mean by surprise?　I'm sorry.
+I won't tell you anymore.
+------------------------------------------------
+[00000231][ジンガ,char_005 zynga]
+Sorry, that's not what I meant.
+Forgive me.
+------------------------------------------------
+[00000232][ジンガ,char_005 zynga]
+For this village too,
+I want to become stronger in naval battles.
+Could you let me copy that chart for study purposes?
+------------------------------------------------
+[00000233][ベルベット,char_008 Velvet]
+Everything in this world is about give and take.
+So what can you do for me?
+------------------------------------------------
+[00000234][ジンガ,char_005 zynga]
+That's right...
+Next time, I'll show you how to make a fishing rod that will never break.
+So what do you think?
+------------------------------------------------
+[00000235][ベルベット,char_008 Velvet]
+Hehe, I guess that's also "power".
+Limited to fish though.
+That's okay. So let's clap our hands.
+------------------------------------------------
+[00000236][ベルベット,char_008 Velvet]
+Hey, Zynga.
+What do you think of me?
+------------------------------------------------
+[00000237][ジンガ,char_005 zynga]
+That's right...
+I owe a lot to you regarding naval battles,
+I think he is a difficult friend to have.
+------------------------------------------------
+[00000238][ベルベット,char_008 Velvet]
+It is not like that……
+As an O/N, what do you think?
+------------------------------------------------
+[00000239][ジンガ,char_005 zynga]
+W-what happened all of a sudden? What do you want to say?
+------------------------------------------------
+[00000240][ベルベット,char_008 Velvet]
+Hmmm! Are you going to make the lady say that much?
+------------------------------------------------
+[00000241][シャノン,char_004 Shannon]
+a little bit! 
+------------------------------------------------
+[00000242][ベルベット,char_008 Velvet]
+Well, a troublesome insect has arrived.
+------------------------------------------------
+[00000243][シャノン,char_004 Shannon]
+What is a nuisance insect?
+------------------------------------------------
+[00000244][ベルベット,char_008 Velvet]
+It's about you, Shannon.
+Zynga is with me
+I thought they would put it together.
+------------------------------------------------
+[00000245][ジンガ,char_005 zynga]
+Ah, I see.
+Was he trying to pull me in to find "power"?
+------------------------------------------------
+[00000246][シャノン,char_004 Shannon]
+velvet!
+Please don't involve Zynga!
+------------------------------------------------
+[00000247][ベルベット,char_008 Velvet]
+It's been noisy for a while now...
+Do you like Zynga by any chance?
+------------------------------------------------
+[00000248][シャノン,char_004 Shannon]
+……eh? What do you say! 
+------------------------------------------------
+[00000249][ベルベット,char_008 Velvet]
+Ah, I feel sorry for Zynga too♪
+It seems like Shannon hated you?
+------------------------------------------------
+[00000250][ジンガ,char_005 zynga]
+...I see, was that so?
+It was easily denied.
+I was hated...
+------------------------------------------------
+[00000251][シャノン,char_004 Shannon]
+……picture?
+Hey, hey, that’s not right, Zynga?
+I don't particularly dislike Zynga...
+------------------------------------------------
+[00000252][ベルベット,char_008 Velvet]
+If that's the case, then there aren't any regrets in the village anymore, right?
+Are you coming with me?
+------------------------------------------------
+[00000253][ジンガ,char_005 zynga]
+...That's right.
+Maybe that's not bad either.
+Shannon, thank you for all your help today...
+------------------------------------------------
+[00000254][シャノン,char_004 Shannon]
+What!? Wait a minute!
+Oh no, Zynga!
+Do not go! 
+------------------------------------------------
+[00000255][ベルベット,char_008 Velvet]
+...Pup!
+------------------------------------------------
+[00000256][シャノン,char_004 Shannon]
+……fart?
+------------------------------------------------
+[00000257][ジンガ,char_005 zynga]
+... Kuku... Kuku!
+Hahahahahaha!
+------------------------------------------------
+[00000258][シャノン,char_004 Shannon]
+Oh, that's terrible!
+They were both making fun of me!
+------------------------------------------------
+[00000259][ラナ,char_528]
+Sailing is hard, isn't it?
+Things like the weather and the tides can change suddenly.
+------------------------------------------------
+[00000260][ベルベット,char_008 Velvet]
+That's right.
+But even with all the hardships, it's the joy of sailing!
+------------------------------------------------
+[00000261][ラナ,char_528]
+I know, I know!
+Coming to this island is already a big adventure!
+I'm always so excited!
+------------------------------------------------
+[00000262][ジンガ,char_005 zynga]
+After all, sailing on the open sea is...
+Is it good?
+------------------------------------------------
+[00000263][ラナ,char_528]
+of course!
+Even Zynga wants to go offshore more.
+You have something to think about, right?
+------------------------------------------------
+[00000264][ジンガ,char_005 zynga]
+That's right. I like this island and the surrounding sea, but
+I have always been interested in offshore pole and line fishing.
+------------------------------------------------
+[00000265][ジンガ,char_005 zynga]
+In the middle of a far away ocean,
+A battle with an unknown fish...!
+------------------------------------------------
+[00000266][ベルベット,char_008 Velvet]
+What is deep sea fishing? It's okay.
+But to do that,
+I'll have to do some work on my current ship though.
+------------------------------------------------
+[00000267][ジンガ,char_005 zynga]
+Really……
+Looks like I don't have time for that right now...
+------------------------------------------------
+[00000268][ラナ,char_528]
+Why don't you go out on my ship?
+------------------------------------------------
+[00000269][ジンガ,char_005 zynga]
+I appreciate you saying that, but
+Let's refrain from it.
+------------------------------------------------
+[00000270][ジンガ,char_005 zynga]
+I can go out to sea and fish using my own skills!
+Only then can you truly compete with the fish off the coast.
+I can say it!
+------------------------------------------------
+[00000271][ベルベット,char_008 Velvet]
+oh! That's why, my disciple!
+------------------------------------------------
+[00000272][ジンガ,char_005 zynga]
+Wait for me, fish in the distant sea!
+Someday I'll fish you out!
+------------------------------------------------
+[00000273][パニス,char_002 Panis]
+The sea at night is a little scary...
+------------------------------------------------
+[00000274][フリード,char_001 Fried]
+I do not think so?
+------------------------------------------------
+[00000275][パニス,char_002 Panis]
+It's pitch black and quiet...
+------------------------------------------------
+[00000276][フリード,char_001 Fried]
+That's not true.
+Please listen carefully.
+------------------------------------------------
+[00000277][パニス,char_002 Panis]
+…………
+------------------------------------------------
+[00000278][フリード,char_001 Fried]
+Can't you hear the gentler sound of the waves than during the day?
+------------------------------------------------
+[00000279][パニス,char_002 Panis]
+……It's true!
+------------------------------------------------
+[00000280][フリード,char_001 Fried]
+Besides, the moon is shining brightly on Panis.
+Even the stars are so beautiful.
+------------------------------------------------
+[00000281][パニス,char_002 Panis]
+Wow!! Awesome!!
+------------------------------------------------
+[00000282][パニス,char_002 Panis]
+When I look at it like this, I feel like it's just me and Freed.
+It looks like it's floating in the sky...
+------------------------------------------------
+[00000283][フリード,char_001 Fried]
+@fcFFAAFFAA (It's kind of a nice atmosphere...
+In other words, now is the time! )
+------------------------------------------------
+[00000284][フリード,char_001 Fried]
+Hey, hey, Panis...
+------------------------------------------------
+[00000285][パニス,char_002 Panis]
+What?
+------------------------------------------------
+[00000286][フリード,char_001 Fried]
+Oh, I... about Panis...
+------------------------------------------------
+[00000287][パニス,char_002 Panis]
+Hey Freed, stay still...
+------------------------------------------------
+[00000288][フリード,char_001 Fried]
+@fcFFAAFFAA (What!? What do you mean!?)
+------------------------------------------------
+[00000289][パニス,char_002 Panis]
+yay! 
+------------------------------------------------
+[00000290][フリード,char_001 Fried]
+Ah, yes... that's good.
+Yeah, good, good.
+------------------------------------------------
+[00000291][フリード,char_001 Fried]
+@fcFFAAFFAA (I feel more relaxed all at once...)
+------------------------------------------------
+[00000292][ジンガ,char_005 zynga]
+Oh, Freed.
+Is the timing really good or bad?
+------------------------------------------------
+[00000293][シャノン,char_004 Shannon]
+Really.
+Besides, I'm with Panis today as well.
+------------------------------------------------
+[00000294][フリード,char_001 Fried]
+...?
+What are you talking about, Zynga? Sister?
+------------------------------------------------
+[00000295][ジンガ,char_005 zynga]
+Shannon, Freed recently
+It's lonely being with Panis all the time.
+------------------------------------------------
+[00000296][フリード,char_001 Fried]
+picture?
+------------------------------------------------
+[00000297][シャノン,char_004 Shannon]
+Hey, Zynga!?
+I didn't say that, right?
+------------------------------------------------
+[00000298][シャノン,char_004 Shannon]
+Just... that...
+Before Panis came... a little more...
+The three of us spent a lot of time together, didn't we?
+------------------------------------------------
+[00000299][ジンガ,char_005 zynga]
+That's right. Until a while ago,
+Protecting the village, fetching something,
+These three did everything.
+------------------------------------------------
+[00000300][ジンガ,char_005 zynga]
+Panis is there, Adam and Kilmaria,
+Added velvet...
+Indeed, this village has become very lively.
+------------------------------------------------
+[00000301][ジンガ,char_005 zynga]
+I just wonder what it is...
+That time just the three of us...
+I feel very nostalgic now.
+------------------------------------------------
+[00000302][フリード,char_001 Fried]
+Zynga...
+------------------------------------------------
+[00000303][ジンガ,char_005 zynga]
+Well, in short, me and Shannon are...
+It means I want to spend more time with Freed.
+------------------------------------------------
+[00000304][シャノン,char_004 Shannon]
+that's why! ...It's not embarrassing.
+------------------------------------------------
+[00000305][フリード,char_001 Fried]
+Sister...
+------------------------------------------------
+[00000306][ジンガ,char_005 zynga]
+Well, next time, let's go fishing together.
+------------------------------------------------
+[00000307][シャノン,char_004 Shannon]
+I-I'll bake bread with you too...!
+------------------------------------------------
+[00000308][フリード,char_001 Fried]
+……Yeah! Next time for sure!
+------------------------------------------------
+[00000309][ベルベット,char_008 Velvet]
+Hey, Adam.
+It is said that the power of an ancient civilization lies dormant on this island.
+I asked you, but you don't know anything?
+------------------------------------------------
+[00000310][アダム,char_006 a-dam]
+very sorry.
+Unfortunately, such information
+We do not have any.
+------------------------------------------------
+[00000311][ベルベット,char_008 Velvet]
+Kill Maria, what about you?
+I've been investigating various ruins.
+Didn't that story come up?
+------------------------------------------------
+[00000312][キルマリア,char_007 Kilmaria]
+Hmm, that's right...
+The kind of discovery that Velvet expects to make is
+Not at the moment.
+------------------------------------------------
+[00000313][ベルベット,char_008 Velvet]
+I see. 
+------------------------------------------------
+[00000314][キルマリア,char_007 Kilmaria]
+Haven't you researched it yourself?
+------------------------------------------------
+[00000315][ベルベット,char_008 Velvet]
+I'm doing it though...
+I can't seem to get any results...
+------------------------------------------------
+[00000316][キルマリア,char_007 Kilmaria]
+That's what research is all about.
+I continued steadily and steadily until one day suddenly...
+------------------------------------------------
+[00000317][ベルベット,char_008 Velvet]
+Will it bloom?
+------------------------------------------------
+[00000318][キルマリア,char_007 Kilmaria]
+The trouble is that this is not always the case.
+------------------------------------------------
+[00000319][ベルベット,char_008 Velvet]
+That's right.
+Hmm, I guess there's nothing on this island...?
+------------------------------------------------
+[00000320][キルマリア,char_007 Kilmaria]
+No, no! There is still more to this island.
+There are many things we don't know!
+That's what Justice says!
+------------------------------------------------
+[00000321][アダム,char_006 a-dam]
+If I remember something too
+I'll tell Velvet.
+------------------------------------------------
+[00000322][ベルベット,char_008 Velvet]
+yes? Should I try my best?
+------------------------------------------------
+[00000323][キルマリア,char_007 Kilmaria]
+That's right!
+Let's do our best together!
+------------------------------------------------
+[00000324][ベルベット,char_008 Velvet]
+Thank you, Kilmaria, Adam.
+I, too, will not give up and will continue to search for "power".
+------------------------------------------------
+[00000325][ラナ,char_528]
+Artina, are you doing well?
+------------------------------------------------
+[00000326][フリード,char_001 Fried]
+Altina?
+------------------------------------------------
+[00000327][ラナ,char_528]
+Wow!
+Freed, how long have you been here!?
+------------------------------------------------
+[00000328][フリード,char_001 Fried]
+No, it's been a while...
+------------------------------------------------
+[00000329][ラナ,char_528]
+I didn't notice it at all.
+It's all about Altina.
+My head was full, wasn't it?
+------------------------------------------------
+[00000330][フリード,char_001 Fried]
+So, who is it?
+That person is Altina.
+------------------------------------------------
+[00000331][ラナ,char_528]
+Altina is my younger sister.
+------------------------------------------------
+[00000332][フリード,char_001 Fried]
+Yeah, that's right.
+------------------------------------------------
+[00000333][ラナ,char_528]
+Sometimes when I look at the ocean, I suddenly remember.
+About that child who is on the other side.
+------------------------------------------------
+[00000334][フリード,char_001 Fried]
+What kind of sister is she?
+------------------------------------------------
+[00000335][ラナ,char_528]
+She's such a cute and sturdy child!
+I can't believe she's my sister!
+------------------------------------------------
+[00000336][ラナ,char_528]
+His archery skills are amazing too,
+She's a really nice girl who makes me feel at ease when I'm with her.
+If I were a man, I would never leave you alone.
+------------------------------------------------
+[00000337][フリード,char_001 Fried]
+Hahaha, it's sticky...
+------------------------------------------------
+[00000338][ラナ,char_528]
+I'm sure Freed will go crazy if he meets him!
+Ah, I want to meet you...
+------------------------------------------------
+[00000339][ラナ,char_528]
+Or rather, I want to meet you.
+It's becoming unbearable...
+------------------------------------------------
+[00000340][フリード,char_001 Fried]
+@fcFFAAFFAA (I really love my sister...)
+------------------------------------------------
+[00000341][ジム,char_502]
+Today is the end of another day...
+------------------------------------------------
+[00000342][フリード,char_001 Fried]
+ah.
+------------------------------------------------
+[00000343][ジム,char_502]
+The sun rises in the morning and sets in the evening. Of course, but
+Repeating such obvious things normally,
+I'm actually really happy...
+------------------------------------------------
+[00000344][フリード,char_001 Fried]
+I agree.
+------------------------------------------------
+[00000345][ジム,char_502]
+We wish everyone that happiness
+I have to protect it.
+------------------------------------------------
+[00000346][フリード,char_001 Fried]
+Yes, that's right.
+------------------------------------------------
+[00000347][シャノン,char_004 Shannon]
+Today's gym looks so cool!
+------------------------------------------------
+[00000348][ジム,char_502]
+Notice it, Oseyo!
+------------------------------------------------
+[00000349][シャノン,char_004 Shannon]
+... Huh?
+------------------------------------------------
+[00000350][ジム,char_502]
+I wonder, how can I always be myself?
+I kept thinking about how cool it would look!
+------------------------------------------------
+[00000351][シャノン,char_004 Shannon]
+Oh is that so……
+------------------------------------------------
+[00000352][ジム,char_502]
+Well, how much did I say?
+Have you already said, "I'm the one who protects the village!"?
+------------------------------------------------
+[00000353][パニス,char_002 Panis]
+I didn't say that.
+------------------------------------------------
+[00000354][ジム,char_502]
+I see, then...
+I'm the one who protects the village!
+and……
+------------------------------------------------
+[00000355][シャノン,char_004 Shannon]
+Please do your best.
+------------------------------------------------
+[00000356][ジム,char_502]
+Wait a minute! There's more to come!
+------------------------------------------------
+[00000357][フリード,char_001 Fried]
+Shall we go home soon?
+------------------------------------------------
+[00000358][パニス,char_002 Panis]
+That's right.
+------------------------------------------------
+[00000359][ジム,char_502]
+Hey, please listen till the end!
+------------------------------------------------
+[00000360][ジンガ,char_005 zynga]
+Hey there, Levin.
+I'm sorry about last time.
+------------------------------------------------
+[00000361][レヴィン,char_009 Levin]
+What are you talking about?
+------------------------------------------------
+[00000362][ジンガ,char_005 zynga]
+This is Hans' store account.
+I heard you paid first.
+------------------------------------------------
+[00000363][レヴィン,char_009 Levin]
+Ah, I see...
+My wallet was lighter on the street.
+------------------------------------------------
+[00000364][ジンガ,char_005 zynga]
+I think I drank a lot too...
+------------------------------------------------
+[00000365][レヴィン,char_009 Levin]
+Hey, don't worry about it, wolf brother.
+That night, I felt good for the first time in a long time.
+I had a good time.
+------------------------------------------------
+[00000366][ジンガ,char_005 zynga]
+It's the same for me.
+I was especially surprised by that story during the voyage.
+Actually, it's not a made-up story, is it?
+------------------------------------------------
+[00000367][レヴィン,char_009 Levin]
+How much better would it have been if it had been a made-up story?
+In hindsight, it was an incredible gamble.
+------------------------------------------------
+[00000368][ジンガ,char_005 zynga]
+It doesn't even look like you...
+Living off the path itself,
+It's like a bet.
+------------------------------------------------
+[00000369][レヴィン,char_009 Levin]
+If you ask me, yes.
+Maybe in the past, everything was a gamble...
+------------------------------------------------
+[00000370][ジンガ,char_005 zynga]
+Please tell me the next time.
+------------------------------------------------
+[00000371][フリード,char_001 Fried]
+what? Let me hear it too!
+------------------------------------------------
+[00000372][レヴィン,char_009 Levin]
+Hey, Freed.
+I'm sorry, but I can't talk about this without drinking alcohol.
+------------------------------------------------
+[00000373][フリード,char_001 Fried]
+eh?
+------------------------------------------------
+[00000374][ジンガ,char_005 zynga]
+Well, maybe so.
+------------------------------------------------
+[00000375][レヴィン,char_009 Levin]
+Please grow up quickly.
+I'm looking forward to going out for drinks with you too.
+------------------------------------------------
+[00000376][ジンガ,char_005 zynga]
+I'm looking forward to drinking with Freed, too.
+Before that, let me buy something for you.
+------------------------------------------------
+[00000377][レヴィン,char_009 Levin]
+Oh, nice!
+When should we do it?
+------------------------------------------------
+[00000378][ジンガ,char_005 zynga]
+That's right...
+------------------------------------------------
+[00000379][フリード,char_001 Fried]
+@fcFFAAFFAA (relationships between adults,
+It's kind of cool and I'm jealous...)
+------------------------------------------------
+[00000380][ベルベット,char_008 Velvet]
+Hey, Levin?
+How long do you plan to stay in this village?
+------------------------------------------------
+[00000381][レヴィン,char_009 Levin]
+what? But yeah...
+Maybe it's the same as you? Bell.
+------------------------------------------------
+[00000382][ベルベット,char_008 Velvet]
+Do you want to go somewhere with me?
+------------------------------------------------
+[00000383][レヴィン,char_009 Levin]
+No, no.
+That is, until I get tired of this Arcadia island.
+------------------------------------------------
+[00000384][ベルベット,char_008 Velvet]
+I see.
+So, you're definitely with me.
+------------------------------------------------
+[00000385][レヴィン,char_009 Levin]
+However, this is a dangerous island for pirates.
+It feels so comfortable that it looks like it's going to take root.
+------------------------------------------------
+[00000386][ベルベット,char_008 Velvet]
+That's right. It looks like my fangs are going to be pulled out too.
+------------------------------------------------
+[00000387][レヴィン,char_009 Levin]
+Should we go back to the sea together before that happens?
+------------------------------------------------
+[00000388][ベルベット,char_008 Velvet]
+Geez.
+But, like this, there are two pirates, or maybe three.
+In any case, as long as pirates are around, it's okay, right?
+------------------------------------------------
+[00000389][レヴィン,char_009 Levin]
+Really. I certainly don't forget that I'm a pirate too.
+------------------------------------------------
+[00000390][ベルベット,char_008 Velvet]
+Same goes for me.
+------------------------------------------------
+[00000391][レヴィン,char_009 Levin]
+As long as we both like life on this island,
+Let's enjoy this for a little while longer.
+------------------------------------------------
+[00000392][ベルベット,char_008 Velvet]
+It seems like it will be a while before we can go back to the sea.
+------------------------------------------------
+[00000393][パニス,char_002 Panis]
+...Whew.
+------------------------------------------------
+[00000394][フリード,char_001 Fried]
+Panis? what happened?
+------------------------------------------------
+[00000395][パニス,char_002 Panis]
+good……
+Both of them are still on the island.
+Panis, I'm so tired...
+------------------------------------------------
+[00000396][フリード,char_001 Fried]
+Yes, that's right.
+------------------------------------------------
+[00000397][ヴァイオラ,char_003 Viola]
+Lana? It's been a while.
+------------------------------------------------
+[00000398][ラナ,char_528]
+a! We met again!
+It’s been a long time!
+------------------------------------------------
+[00000399][ヴァイオラ,char_003 Viola]
+Where did we meet before?
+------------------------------------------------
+[00000400][ラナ,char_528]
+Hmm, where is it?
+I don't remember either.
+------------------------------------------------
+[00000401][ヴァイオラ,char_003 Viola]
+Because we meet in various places,
+I won't understand either.
+------------------------------------------------
+[00000402][ラナ,char_528]
+I agree.
+So, what should I call you now?
+------------------------------------------------
+[00000403][ヴァイオラ,char_003 Viola]
+It's Viola.
+------------------------------------------------
+[00000404][ラナ,char_528]
+Ah, that's right.
+It seems like you're doing a lot of things, don't you?
+------------------------------------------------
+[00000405][ヴァイオラ,char_003 Viola]
+It's not that I'm active, but...
+There's a lot going on.
+------------------------------------------------
+[00000406][ラナ,char_528]
+However, I am in a somewhat complicated position again.
+Isn't it like it was there?
+------------------------------------------------
+[00000407][ヴァイオラ,char_003 Viola]
+Well.
+------------------------------------------------
+[00000408][ラナ,char_528]
+I feel like asking, but
+I think I'll forget it the next time we meet.
+After all, I guess I shouldn't ask.
+------------------------------------------------
+[00000409][ヴァイオラ,char_003 Viola]
+That's right.
+I'm sure we'll meet again.
+------------------------------------------------
+[00000410][ラナ,char_528]
+Where will we meet next time?
+I'm looking forward to it now!
+------------------------------------------------
+[00000411][ヴァイオラ,char_003 Viola]
+Me too.
+------------------------------------------------
+[00000412][ラナ,char_528]
+see you later!
+------------------------------------------------
+[00000413][ヴァイオラ,char_003 Viola]
+Yeah.
+------------------------------------------------
+[00000414][パニス,char_002 Panis]
+Viola and Lana were friends.
+------------------------------------------------
+[00000415][フリード,char_001 Fried]
+Well, it seems so.
+It seems like there are some complicated circumstances...
+------------------------------------------------
+[00000416][フリード,char_001 Fried]
+@fcFFAAFFAA (I feel like asking about the situation, but
+Let's stop for now. I feel like my head is confused...)
+------------------------------------------------
+[00000417][パニス,char_002 Panis]
+The sun will go down soon.
+------------------------------------------------
+[00000418][フリード,char_001 Fried]
+ah. 
+------------------------------------------------
+[00000419][パニス,char_002 Panis]
+This is how I watch the sun go down,
+How many times?
+------------------------------------------------
+[00000420][フリード,char_001 Fried]
+...How many times?
+------------------------------------------------
+[00000421][フリード,char_001 Fried]
+@fcFFAAFFAA (Now that I think about it, I met Panis for the first time here.
+A lot of things happened, but...
+Do you remember Panis? )
+------------------------------------------------
+[00000422][フリード,char_001 Fried]
+@fcFFAAFFAA (I hope you remember that.
+There are so many memories of us...)
+------------------------------------------------
+[00000423][パニス,char_002 Panis]
+Gyuu!
+------------------------------------------------
+[00000424][フリード,char_001 Fried]
+What's wrong, Panis?
+Suddenly I grabbed your hand tightly.
+------------------------------------------------
+[00000425][パニス,char_002 Panis]
+Ehehe...
+------------------------------------------------
+[00000426][フリード,char_001 Fried]
+@fcFFAAFFAA (Maybe Panis does the same thing as me...?)
+------------------------------------------------
+[00000427][フリード,char_001 Fried]
+@fcFFAAFFAA (If so, that would be great...)
+------------------------------------------------
+[00000428][ヴァイオラ,char_003 Viola]
+May I have a moment, Zynga?
+------------------------------------------------
+[00000429][ジンガ,char_005 zynga]
+what?
+------------------------------------------------
+[00000430][ヴァイオラ,char_003 Viola]
+I want you to teach me how to fish.
+------------------------------------------------
+[00000431][ジンガ,char_005 zynga]
+Fishing? Well, you're very welcome, but
+How can someone like you not know about fishing?
+------------------------------------------------
+[00000432][ヴァイオラ,char_003 Viola]
+Of course, I know about fishing.
+What I want you to know is the secret to catching a lot of fish!
+------------------------------------------------
+[00000433][ジンガ,char_005 zynga]
+What, is that so?
+------------------------------------------------
+[00000434][ヴァイオラ,char_003 Viola]
+Shannon said it!
+To bake the fantastic "Great Fish Bread",
+We need a lot of fish!
+------------------------------------------------
+[00000435][ジンガ,char_005 zynga]
+...Your eyes are serious, aren't they?
+------------------------------------------------
+[00000436][ヴァイオラ,char_003 Viola]
+I'm always serious!
+------------------------------------------------
+[00000437][ジンガ,char_005 zynga]
+...Hey, Viola.
+In that case, wouldn't a casting net be enough?
+With that, you can catch a lot of fish at once...
+------------------------------------------------
+[00000438][ヴァイオラ,char_003 Viola]
+I heard that casting a net can hurt the fish!
+If you do that, the taste of the fish bread will deteriorate!
+------------------------------------------------
+[00000439][ジンガ,char_005 zynga]
+Oh, I see...
+------------------------------------------------
+[00000440][ヴァイオラ,char_003 Viola]
+Please, Zynga!
+Please tell me the secret!
+Also for “Great Fish Bread”!
+------------------------------------------------
+[00000441][ジンガ,char_005 zynga]
+Uuu……
+------------------------------------------------
+[00000442][フリード,char_001 Fried]
+@fcFFAAFFAA (Zynga looked so troubled when he talked about fishing.
+It's the first time I've seen it...)
+------------------------------------------------
+[00000443][ベルベット,char_008 Velvet]
+Viola.
+You're always so sharp.
+------------------------------------------------
+[00000444][ヴァイオラ,char_003 Viola]
+thank you.
+------------------------------------------------
+[00000445][ベルベット,char_008 Velvet]
+You must be popular, right?
+------------------------------------------------
+[00000446][ヴァイオラ,char_003 Viola]
+motel?
+------------------------------------------------
+[00000447][ベルベット,char_008 Velvet]
+Being teased by men...
+------------------------------------------------
+[00000448][ヴァイオラ,char_003 Viola]
+Ah, there are definitely a lot of men who approach me.
+However, rather than being teased,
+Although he often ends up crossing swords.
+------------------------------------------------
+[00000449][ベルベット,char_008 Velvet]
+Is that so?
+I wonder if that tension is attractive to men?
+------------------------------------------------
+[00000450][ヴァイオラ,char_003 Viola]
+Now, I don't know.
+------------------------------------------------
+[00000451][ベルベット,char_008 Velvet]
+I'm sorry, but even from my point of view as a woman,
+It's cool and attractive...
+I was wondering if I could steal it.
+------------------------------------------------
+[00000452][ヴァイオラ,char_003 Viola]
+Oh, Velvet.
+You're not attractive enough.
+------------------------------------------------
+[00000453][ベルベット,char_008 Velvet]
+I've always thought that too...
+The people on this island don't move around much either,
+I feel like I've lost a bit of confidence...
+------------------------------------------------
+[00000454][ヴァイオラ,char_003 Viola]
+That's not true.
+Are there any men who fall in love with your charm?
+------------------------------------------------
+[00000455][ベルベット,char_008 Velvet]
+……for example?
+------------------------------------------------
+[00000456][ヴァイオラ,char_003 Viola]
+Like Bacchus.
+------------------------------------------------
+[00000457][ベルベット,char_008 Velvet]
+That is out of the question!
+------------------------------------------------
+[00000458][ヴァイオラ,char_003 Viola]
+Anyway, you're charming, Velvet.
+I think he's actually a very kind person.
+Why don't you act like a pirate and go get married instead?
+------------------------------------------------
+[00000459][ベルベット,char_008 Velvet]
+Hey! What are you saying with a straight face?
+------------------------------------------------
+[00000460][ベルベット,char_008 Velvet]
+But you're me,
+It was a little surprising that I saw it that way.
+------------------------------------------------
+[00000461][ヴァイオラ,char_003 Viola]
+yes?
+------------------------------------------------
+[00000462][ベルベット,char_008 Velvet]
+Why don't we change places and talk more slowly?
+------------------------------------------------
+[00000463][ヴァイオラ,char_003 Viola]
+OK.
+------------------------------------------------
+[00000464][フリード,char_001 Fried]
+@fcFFAAFFAA (I'm kind of curious about the continuation of the story...)
+------------------------------------------------
+

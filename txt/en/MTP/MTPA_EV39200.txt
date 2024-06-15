@@ -1,0 +1,1529 @@
+[0400]
+*****************
+[00000000][シャノン,char_004 Shannon]
+Hey Panis, sometimes instead of Freed,
+Would you like to spend some time with me?
+------------------------------------------------
+[00000001][パニス,char_002 Panis]
+How?
+------------------------------------------------
+[00000002][シャノン,char_004 Shannon]
+picture? Yeah, um...
+------------------------------------------------
+[00000003][シャノン,char_004 Shannon]
+Pa, panis is always free
+You're playing with it, right?
+So, why don't you give Freed a day off once in a while?
+------------------------------------------------
+[00000004][パニス,char_002 Panis]
+I see, Freed is always for Panis.
+They can do a lot of things for you.
+------------------------------------------------
+[00000005][フリード,char_001 Fried]
+never mind. My sister is the one who takes a break from baking once in a while.
+How about going out somewhere?
+------------------------------------------------
+[00000006][シャノン,char_004 Shannon]
+nothing……!
+------------------------------------------------
+[00000007][シャノン,char_004 Shannon]
+I-I'm fine too. I love baking bread,
+In fact, I don't want to take a break.
+So Panis, shall we bake bread together?
+------------------------------------------------
+[00000008][パニス,char_002 Panis]
+Panis, I want to eat the bread that Freed baked.
+------------------------------------------------
+[00000009][フリード,char_001 Fried]
+But Panis, Shannon
+Even though you invited me.
+------------------------------------------------
+[00000010][パニス,char_002 Panis]
+So let's all bake bread together!
+------------------------------------------------
+[00000011][フリード,char_001 Fried]
+I'm fine, but...
+How is your sister?
+------------------------------------------------
+[00000012][シャノン,char_004 Shannon]
+...Okay, okay.
+If you two are okay with that, then I...
+------------------------------------------------
+[00000013][シャノン,char_004 Shannon]
+@fcFFAAFFAA (The two of us are always too close to each other, so sometimes
+I can't say I just wanted you to leave...)
+------------------------------------------------
+[00000014][シャノン,char_004 Shannon]
+Phew...
+------------------------------------------------
+[00000015][フリード,char_001 Fried]
+In the end, it's the same as always.
+------------------------------------------------
+[00000016][パニス,char_002 Panis]
+Yeah! 
+------------------------------------------------
+[00000017][シャノン,char_004 Shannon]
+a……
+Yes, hehehe...
+As always, we're all together.
+------------------------------------------------
+[00000018][シャノン,char_004 Shannon]
+@fcFFAAFFAA (No matter what,
+I guess this is the best after all...
+We're all better together...right? )
+------------------------------------------------
+[00000019][リアン,char_514]
+Here we go!
+Special cream donut!
+------------------------------------------------
+[00000020][パニス,char_002 Panis]
+Wow! looks delicious!
+------------------------------------------------
+[00000021][リアン,char_514]
+Right? It's also very popular with customers.
+Come on, Panis, Hiram, help me.
+We need to put donuts on store shelves.
+------------------------------------------------
+[00000022][ハイラム,char_513]
+let's see?
+------------------------------------------------
+[00000023][リアン,char_514]
+a! It's not okay, just eat a snack!
+------------------------------------------------
+[00000024][ハイラム,char_513]
+No, just have a taste...
+------------------------------------------------
+[00000025][リアン,char_514]
+You tasted it earlier!
+It can't be helped, you.
+Because it's always like that.
+------------------------------------------------
+[00000026][ハイラム,char_513]
+No, it's embarrassing...
+------------------------------------------------
+[00000027][リアン,char_514]
+Not at all.
+Even though Panis is helping me properly,
+If you're like that...
+------------------------------------------------
+[00000028][パニス,char_002 Panis]
+…………
+------------------------------------------------
+[00000029][リアン,char_514]
+fault……? 
+------------------------------------------------
+[00000030][パニス,char_002 Panis]
+Mmmmmmm...
+……Fe?
+------------------------------------------------
+[00000031][リアン,char_514]
+Pa, panis...? What about donuts...?
+Maybe... you ate it?
+...Everything!?
+------------------------------------------------
+[00000032][パニス,char_002 Panis]
+Yeah! 
+------------------------------------------------
+[00000033][リアン,char_514]
+It was delicious...hey!
+Panis, it's no good!
+I ate the bread from the shop!!
+------------------------------------------------
+[00000034][パニス,char_002 Panis]
+sorry……
+------------------------------------------------
+[00000035][リアン,char_514]
+Will you be careful next time?
+More importantly, is your stomach okay after eating so much?
+------------------------------------------------
+[00000036][パニス,char_002 Panis]
+Yeah, come on!
+The donuts were so delicious!
+I love Auntie's donuts, Panis!
+------------------------------------------------
+[00000037][リアン,char_514]
+Really, already.
+Hehehe... it's no match for Panis.
+------------------------------------------------
+[00000038][リアン,char_514]
+Now, let's make it again.
+Panis, can you help me?
+------------------------------------------------
+[00000039][パニス,char_002 Panis]
+Yes!
+------------------------------------------------
+[00000040][フリード,char_001 Fried]
+Sister, what's wrong?
+Looks like you're quite busy.
+------------------------------------------------
+[00000041][シャノン,char_004 Shannon]
+Freed, Panis! To a good place!
+There have been a lot of customers since this morning.
+Please, can you help me?
+------------------------------------------------
+[00000042][パニス,char_002 Panis]
+Panis, let's do it!
+------------------------------------------------
+[00000043][フリード,char_001 Fried]
+Of course I'll help you too.
+What should I start with?
+------------------------------------------------
+[00000044][シャノン,char_004 Shannon]
+thank you! Panis was tending the shop there.
+Freed, there's just bread in the oven...
+------------------------------------------------
+[00000045][ガルゼー,char_501]
+I'll disturb you.
+------------------------------------------------
+[00000046][パニス,char_002 Panis]
+Oh, it's Soncho!
+Welcome!
+------------------------------------------------
+[00000047][ガルゼー,char_501]
+Oh, Panis-chan.
+Can you help me? That's great.
+Shannon, I need 12 pieces of bread.
+------------------------------------------------
+[00000048][シャノン,char_004 Shannon]
+Well, wait a minute.
+Freshly baked just now...
+------------------------------------------------
+[00000049][アリーゼ,char_504]
+Please excuse me.
+------------------------------------------------
+[00000050][パニス,char_002 Panis]
+Alise has arrived this time!
+Welcome!
+------------------------------------------------
+[00000051][アリーゼ,char_504]
+The store has run out of stock.
+I'd like nine pieces of bread, please.
+------------------------------------------------
+[00000052][シャノン,char_004 Shannon]
+Hey, wait a minute.
+Well, in that case, it's just bread in the oven.
+We'll run out, so prepare...
+------------------------------------------------
+[00000053][マイア,char_503]
+Hello.
+Because it smells so good
+I just happened to stop by. Can I get two?
+------------------------------------------------
+[00000054][ロドリゴ,char_517]
+I'll disturb you!
+I'll order six servings of lunch for the vigilante group's night watch!
+------------------------------------------------
+[00000055][ジンガ,char_005 zynga]
+Is it about time for the bread to bake?
+I ordered only three freshly baked items.
+------------------------------------------------
+[00000056][シャノン,char_004 Shannon]
+...Uuuuuuu!
+------------------------------------------------
+[00000057][フリード,char_001 Fried]
+Sister, what's wrong?
+------------------------------------------------
+[00000058][シャノン,char_004 Shannon]
+Fu, Freed! I can't do it anymore!
+The bread! How much bread do you need?
+------------------------------------------------
+[00000059][フリード,char_001 Fried]
+Huh!? You suddenly said something like that...!
+Eh, um, the village chief has 10...
+------------------------------------------------
+[00000060][ガルゼー,char_501]
+There are 12 pieces.
+------------------------------------------------
+[00000061][アリーゼ,char_504]
+There are nine here.
+Oh, I'm sorry~
+After all, 8 pieces is enough, right?
+------------------------------------------------
+[00000062][フリード,char_001 Fried]
+Um, wait a minute?
+Sister! It's my sister!
+------------------------------------------------
+[00000063][シャノン,char_004 Shannon]
+Well, 12 pieces instead of 10.
+9 became 8...
+------------------------------------------------
+[00000064][フリード,char_001 Fried]
+Sister! Don't worry about the math, just bake some bread!
+Sister!
+------------------------------------------------
+[00000065][シャノン,char_004 Shannon]
+Hmph♪　Hmph♪　Hmph♪
+------------------------------------------------
+[00000066][フリード,char_001 Fried]
+You're in a good mood, sister.
+Did something happen?
+------------------------------------------------
+[00000067][シャノン,char_004 Shannon]
+Yeah! 
+------------------------------------------------
+[00000068][フリード,char_001 Fried]
+@fcFFAAFFAA (Gah!!)
+------------------------------------------------
+[00000069][シャノン,char_004 Shannon]
+It's about to be cooked, so give it a taste, Freed.
+------------------------------------------------
+[00000070][フリード,char_001 Fried]
+...Well, I'm looking forward to that.
+------------------------------------------------
+[00000071][シャノン,char_004 Shannon]
+Oh, it looks burnt!
+------------------------------------------------
+[00000072][フリード,char_001 Fried]
+Ah...
+Come to think of it, I have some delivery work to do somewhere.
+Isn't there one?
+------------------------------------------------
+[00000073][シャノン,char_004 Shannon]
+Not now.
+This is better than that! Enjoy freshly baked!!
+------------------------------------------------
+[00000074][フリード,char_001 Fried]
+Oh, oh. thank you……
+------------------------------------------------
+[00000075][シャノン,char_004 Shannon]
+here we go! copper?
+------------------------------------------------
+[00000076][フリード,char_001 Fried]
+…………………
+...It's a unique taste.
+------------------------------------------------
+[00000077][シャノン,char_004 Shannon]
+delicious?
+------------------------------------------------
+[00000078][フリード,char_001 Fried]
+The taste, texture, smell, and appearance,
+Because it's original, innovative, and has a strong personality...
+I guess it's a little difficult for the general public to accept...
+------------------------------------------------
+[00000079][シャノン,char_004 Shannon]
+So, is it delicious?
+------------------------------------------------
+[00000080][フリード,char_001 Fried]
+Well, that...
+To be honest...I think it's a failure.
+------------------------------------------------
+[00000081][シャノン,char_004 Shannon]
+…………
+------------------------------------------------
+[00000082][フリード,char_001 Fried]
+Sorry!
+------------------------------------------------
+[00000083][シャノン,char_004 Shannon]
+Yeah...I can't help it.
+I'll try again and think of something else.
+------------------------------------------------
+[00000084][フリード,char_001 Fried]
+No……
+------------------------------------------------
+[00000085][フリード,char_001 Fried]
+@fcFFAAFFAA (Really, Shannon's new recipe is a gamble...
+It's also a bad gamble that 90% of the time fails...)
+------------------------------------------------
+[00000086][シャノン,char_004 Shannon]
+At that time, please taste it again.
+------------------------------------------------
+[00000087][フリード,char_001 Fried]
+Ah, yeah...
+------------------------------------------------
+[00000088][パニス,char_002 Panis]
+Hey Hey! Let's play! Let's play with Panis!
+------------------------------------------------
+[00000089][アダム,char_006 a-dam]
+It's okay, Mr. Panis.
+So what should we do for fun?
+------------------------------------------------
+[00000090][パニス,char_002 Panis]
+Well, play house!
+Panis is your mother. And Adam is a baby!
+------------------------------------------------
+[00000091][フリード,char_001 Fried]
+……picture?
+------------------------------------------------
+[00000092][アダム,char_006 a-dam]
+I got it. Babu, babu, babu!
+------------------------------------------------
+[00000093][パニス,char_002 Panis]
+Yes, Adam is a good boy, isn't he?
+I'll give you some milk now, okay?
+------------------------------------------------
+[00000094][アダム,char_006 a-dam]
+Babu, babu, babu!
+Manma, manma, manma!
+------------------------------------------------
+[00000095][フリード,char_001 Fried]
+@fcFFAAFFAA (...it's a pretty big and tough baby)
+------------------------------------------------
+[00000096][パニス,char_002 Panis]
+Did you drink all the milk?
+Isn't it great?
+Well then, let's take a nap, shall we?
+------------------------------------------------
+[00000097][アダム,char_006 a-dam]
+Babu, babu!
+------------------------------------------------
+[00000098][パニス,char_002 Panis]
+Oh dear? Well then, why don't you let daddy play with you?
+------------------------------------------------
+[00000099][フリード,char_001 Fried]
+picture? "Dad...do you mean me!?"
+------------------------------------------------
+[00000100][パニス,char_002 Panis]
+yes! 
+------------------------------------------------
+[00000101][フリード,char_001 Fried]
+Eh, eh, eh! Hey, wait a minute!
+The fact that I'm the father means that Panis and I are...
+They say they are a couple... um, um...
+------------------------------------------------
+[00000102][パニス,char_002 Panis]
+Come on, Adam
+Shall I have my dad give me a piggyback ride?
+------------------------------------------------
+[00000103][フリード,char_001 Fried]
+No, even if you suddenly call me dad,
+I'm mentally prepared...but if Panis is like that...
+yeah……?  what did you say?
+------------------------------------------------
+[00000104][アダム,char_006 a-dam]
+Babu! Piggyback!
+------------------------------------------------
+[00000105][フリード,char_001 Fried]
+circle! Impossible! 
+------------------------------------------------
+[00000106][アダム,char_006 a-dam]
+Babu!
+------------------------------------------------
+[00000107][フリード,char_001 Fried]
+circle! Wow!
+------------------------------------------------
+[00000108][アダム,char_006 a-dam]
+5, 4, 3, 2, 1, zero.
+------------------------------------------------
+[00000109][アダム,char_006 a-dam]
+Shannon, you're ready.
+Please take this bread dough to the oven.
+------------------------------------------------
+[00000110][シャノン,char_004 Shannon]
+I got it.
+------------------------------------------------
+[00000111][パニス,char_002 Panis]
+Adam, what time are you keeping track of?
+------------------------------------------------
+[00000112][アダム,char_006 a-dam]
+This is the aging time of the bread dough.
+------------------------------------------------
+[00000113][シャノン,char_004 Shannon]
+I don't really understand the reasoning, but
+When I asked Adam to measure the time,
+The bread is baked fluffy and delicious.
+------------------------------------------------
+[00000114][パニス,char_002 Panis]
+I see!
+Adam, that's amazing!
+------------------------------------------------
+[00000115][フリード,char_001 Fried]
+What kind of logic is that?
+If you have a reason, please let me know as well.
+------------------------------------------------
+[00000116][アダム,char_006 a-dam]
+It's not that difficult of a theory.
+By fermenting the bread dough for an appropriate amount of time,
+This will bring the fabric to its optimum condition.
+------------------------------------------------
+[00000117][パニス,char_002 Panis]
+Tasteful...? Hakko...?
+------------------------------------------------
+[00000118][アダム,char_006 a-dam]
+Fermentation in this case means that the bacteria in the bread dough
+It refers to breeding to a suitable number.
+------------------------------------------------
+[00000119][パニス,char_002 Panis]
+What is Kin?
+------------------------------------------------
+[00000120][アダム,char_006 a-dam]
+It is a very small creature that cannot be seen with the naked eye.
+The yeast or yeast you are adding is
+In the first place, it is a general term for fungi...
+------------------------------------------------
+[00000121][パニス,char_002 Panis]
+Is kin...a living thing?
+When you eat bread, the “kin” also
+Shall we eat together?
+------------------------------------------------
+[00000122][フリード,char_001 Fried]
+Adam, is that true?
+Before we know it,
+Were you eating such strange things?
+------------------------------------------------
+[00000123][シャノン,char_004 Shannon]
+Sorry to hear that's weird.
+Adam, that "kin" is...
+Can I think of it as something like a spirit?
+------------------------------------------------
+[00000124][アダム,char_006 a-dam]
+I agree……
+It can also be compared like that,
+It's not impossible, but...
+------------------------------------------------
+[00000125][フリード,char_001 Fried]
+I see.
+In other words, the invisible spirit of bread is at work,
+Does it make bread delicious?
+------------------------------------------------
+[00000126][シャノン,char_004 Shannon]
+That's what "Hakko" means.
+Adam was keeping track of time.
+He was waiting for the spirits to finish their work.
+------------------------------------------------
+[00000127][パニス,char_002 Panis]
+great!
+Good luck, bread spirit!
+------------------------------------------------
+[00000128][アダム,char_006 a-dam]
+@fcFFAAFFAA (This is just an example,
+Bacteria and spirits are strictly different...
+Everyone seems to agree, so let's say it's okay.)
+------------------------------------------------
+[00000129][シャノン,char_004 Shannon]
+Hey Kilmaria. Would you like to try baking bread?
+------------------------------------------------
+[00000130][キルマリア,char_007 Kilmaria]
+picture? 
+------------------------------------------------
+[00000131][シャノン,char_004 Shannon]
+Yeah.
+If it's Mr. Kilmaria, I'm sure I won't have it.
+I think you can bake delicious bread with free ideas.
+------------------------------------------------
+[00000132][キルマリア,char_007 Kilmaria]
+I-Is that so?
+Actually, I always eat just bread.
+I've been wanting to try baking it!
+------------------------------------------------
+[00000133][シャノン,char_004 Shannon]
+...Justice, Pan?
+------------------------------------------------
+[00000134][キルマリア,char_007 Kilmaria]
+yes!
+It is the bread of justice that saves the people of the world!
+------------------------------------------------
+[00000135][シャノン,char_004 Shannon]
+Immediately, I came up with an idea that was too free...
+Such magnificent bread is made in my oven.
+Will it burn...?
+------------------------------------------------
+[00000136][シャノン,char_004 Shannon]
+……in?
+What kind of bread is it exactly?
+------------------------------------------------
+[00000137][キルマリア,char_007 Kilmaria]
+That's right...
+People can be happy just by eating...
+I would love to bake bread like that!
+------------------------------------------------
+[00000138][シャノン,char_004 Shannon]
+Hmm...it's still a little vague, isn't it?
+By the way, Kilmaria-san,
+What kind of bread do you think will make you happy?
+------------------------------------------------
+[00000139][キルマリア,char_007 Kilmaria]
+When I received the cream bread earlier,
+I feel so happy!
+It's so sweet that you can't help but smile...
+------------------------------------------------
+[00000140][キルマリア,char_007 Kilmaria]
+Ah, but,
+Meat or fish bread will also make you happy!
+------------------------------------------------
+[00000141][キルマリア,char_007 Kilmaria]
+Unlike sweet bread,
+How can I say this?
+Let's just say I'm happy that my stomach is calming...
+------------------------------------------------
+[00000142][キルマリア,char_007 Kilmaria]
+Of course, there's nothing in it.
+Eating bread and other foods will make you happy!
+I feel a warm feeling of happiness, like a sense of security!
+------------------------------------------------
+[00000143][シャノン,char_004 Shannon]
+...In other words, you can eat any kind of bread.
+Does it mean to be happy?
+------------------------------------------------
+[00000144][キルマリア,char_007 Kilmaria]
+Apparently so.
+------------------------------------------------
+[00000145][キルマリア,char_007 Kilmaria]
+...Ha! That means,
+All the breads that Shannon bakes are
+Does that mean it's just bread?
+------------------------------------------------
+[00000146][キルマリア,char_007 Kilmaria]
+That’s great, Shannon!
+From now on, for the happiness of people around the world,
+Please do your best!
+------------------------------------------------
+[00000147][シャノン,char_004 Shannon]
+Hahaha...I'll do my best...
+------------------------------------------------
+[00000148][フリード,char_001 Fried]
+Adam, and Shannon and Zynga...
+what happened?
+------------------------------------------------
+[00000149][シャノン,char_004 Shannon]
+Oh, Freed.
+------------------------------------------------
+[00000150][アダム,char_006 a-dam]
+Actually, I'm currently adjusting my schedule.
+------------------------------------------------
+[00000151][フリード,char_001 Fried]
+What do you mean?
+------------------------------------------------
+[00000152][シャノン,char_004 Shannon]
+Later, I asked Adam to go to the bakery.
+I wanted you to help me, but...
+------------------------------------------------
+[00000153][ジンガ,char_005 zynga]
+At that time, I was also at the fishing grounds.
+I wanted to borrow Adam's hand.
+------------------------------------------------
+[00000154][アダム,char_006 a-dam]
+Even if I try to adjust the time,
+We also have help in other places,
+It just doesn't go well.
+------------------------------------------------
+[00000155][フリード,char_001 Fried]
+I see.
+Adam, you're in demand everywhere.
+------------------------------------------------
+[00000156][ジンガ,char_005 zynga]
+When it comes to this,
+One of us has no choice but to give up...
+------------------------------------------------
+[00000157][シャノン,char_004 Shannon]
+That's right. Will it be decided by rock-paper-scissors or something?
+------------------------------------------------
+[00000158][アダム,char_006 a-dam]
+Please wait. Mr. Shannon, Mr. Zinga,
+Try clapping my hands.
+------------------------------------------------
+[00000159][シャノン,char_004 Shannon]
+hand?
+------------------------------------------------
+[00000160][シャノン,char_004 Shannon]
+Adam's head is spinning!?
+------------------------------------------------
+[00000161][パニス,char_002 Panis]
+great!
+------------------------------------------------
+[00000162][ジンガ,char_005 zynga]
+He turned towards me and stopped...
+------------------------------------------------
+[00000163][アダム,char_006 a-dam]
+congratulations. ...So, using this function of mine,
+Why not settle it in three rounds?
+------------------------------------------------
+[00000164][シャノン,char_004 Shannon]
+No……
+------------------------------------------------
+[00000165][パニス,char_002 Panis]
+Adam, you can do something like this...
+------------------------------------------------
+[00000166][フリード,char_001 Fried]
+Yes, I was surprised...
+------------------------------------------------
+[00000167][パニス,char_002 Panis]
+Uncle Aunt! I’m home!
+------------------------------------------------
+[00000168][シャノン,char_004 Shannon]
+It's not "I'm home!"
+What time do you think it is now!? Where were you eating road grass!?
+------------------------------------------------
+[00000169][フリード,char_001 Fried]
+picture? I was playing with Panis and it got a little late...
+------------------------------------------------
+[00000170][シャノン,char_004 Shannon]
+Dinner is already ready.
+The bread has become really hard!
+------------------------------------------------
+[00000171][フリード,char_001 Fried]
+Sister, you're in a really bad mood today...
+Did something happen?
+------------------------------------------------
+[00000172][シャノン,char_004 Shannon]
+It’s nothing!!
+------------------------------------------------
+[00000173][ハイラム,char_513]
+As for Shannon, they're both coming home late.
+I was worried.
+------------------------------------------------
+[00000174][シャノン,char_004 Shannon]
+Hey, dad!?
+------------------------------------------------
+[00000175][フリード,char_001 Fried]
+Oh, was that so?
+------------------------------------------------
+[00000176][リアン,char_514]
+Yes, that's right.
+Because Shannon is worried too much.
+I'm thinking of going there to find it...
+------------------------------------------------
+[00000177][シャノン,char_004 Shannon]
+Or even my mother...
+------------------------------------------------
+[00000178][フリード,char_001 Fried]
+Is that so……
+Sister, aunt, uncle, I'm sorry.
+------------------------------------------------
+[00000179][パニス,char_002 Panis]
+sorry……
+------------------------------------------------
+[00000180][シャノン,char_004 Shannon]
+Well, nothing happened, so that's enough!
+T-Be careful next time!? Okay!?
+------------------------------------------------
+[00000181][ハイラム,char_513]
+Hahaha.
+Besides, aren't you both hungry?
+------------------------------------------------
+[00000182][リアン,char_514]
+Well, let's have dinner soon.
+------------------------------------------------
+[00000183][パニス,char_002 Panis]
+Yeah!
+Panis, I'm hungry!
+------------------------------------------------
+[00000184][フリード,char_001 Fried]
+I'm hungry too.
+By the way, today my sister
+It was my turn to bake bread.
+------------------------------------------------
+[00000185][フリード,char_001 Fried]
+My sister's bread is delicious even when it's cold,
+You can eat a lot.
+------------------------------------------------
+[00000186][シャノン,char_004 Shannon]
+What?
+Even if you flatter me now, you won't improve my mood!
+------------------------------------------------
+[00000187][ハイラム,char_513]
+Hahahaha.
+Okay, let's eat quickly.
+I'm also hungry.
+------------------------------------------------
+[00000188][フリード,char_001 Fried]
+Yes, that's right.
+Panis, let's go home quickly.
+------------------------------------------------
+[00000189][パニス,char_002 Panis]
+Yeah!
+------------------------------------------------
+[00000190][ベルベット,char_008 Velvet]
+Bread is a really convenient food.
+Knead it up and throw it in the oven
+Anyone can get burned.
+------------------------------------------------
+[00000191][シャノン,char_004 Shannon]
+Hey, I can't ignore what you just said!
+Please don't neglect my job of baking bread!?
+It's very difficult!
+------------------------------------------------
+[00000192][ベルベット,char_008 Velvet]
+It doesn't look like that at all, does it?
+------------------------------------------------
+[00000193][シャノン,char_004 Shannon]
+It's not because I'm not looking properly!
+Don't say bullshit without knowing me!
+------------------------------------------------
+[00000194][ベルベット,char_008 Velvet]
+I'm watching it and I know it.
+It's as easy as baking bread for me.
+------------------------------------------------
+[00000195][シャノン,char_004 Shannon]
+If that's what you're talking about, what's here is
+Feel free to use it as you like, so give it a try!
+------------------------------------------------
+[00000196][ベルベット,char_008 Velvet]
+Okay, let's bake it for you!
+------------------------------------------------
+[00000197][フリード,char_001 Fried]
+@fcFFAAFFAA (It seems like it's sticking out quite a bit...
+Is it really okay? Mr. Velvet...)
+------------------------------------------------
+[00000198][ベルベット,char_008 Velvet]
+...Well, it's burnt.
+After all, it wasn't at all difficult, right?
+------------------------------------------------
+[00000199][シャノン,char_004 Shannon]
+Well then, Freed, let's have it together.
+------------------------------------------------
+[00000200][フリード,char_001 Fried]
+Yeah.
+Well then, I'll have it...
+…………Th-This is……!
+------------------------------------------------
+[00000201][シャノン,char_004 Shannon]
+………!?
+……Th-This is……!
+------------------------------------------------
+[00000202][シャノン,char_004 Shannon]
+Oh, it's delicious!
+Hey, how did you bake it?
+Tell me the recipe!
+------------------------------------------------
+[00000203][ベルベット,char_008 Velvet]
+There's nothing like that.
+Knead it carefully,
+I just threw it in the oven.
+------------------------------------------------
+[00000204][シャノン,char_004 Shannon]
+That’s it!
+Don't be mean, tell me!
+------------------------------------------------
+[00000205][ベルベット,char_008 Velvet]
+I-I don't know, even I...
+Really, the scale and atmosphere,
+I just did it properly!
+------------------------------------------------
+[00000206][シャノン,char_004 Shannon]
+Well then, try it one more time!
+I'll be sure to take notes!
+------------------------------------------------
+[00000207][ベルベット,char_008 Velvet]
+No, that's it! I mean, it's impossible!
+Please give me a break!!
+------------------------------------------------
+[00000208][フリード,char_001 Fried]
+@fcFFAAFFAA (I can't believe it's so delicious just by grilling it properly...
+It's a talent that should be forgotten...)
+------------------------------------------------
+[00000209][パニス,char_002 Panis]
+Killmaria, are you helping Adam?
+------------------------------------------------
+[00000210][キルマリア,char_007 Kilmaria]
+Ah, Mr. Panis and Mr. Freed.
+That's right. I'm helping out on the farm.
+------------------------------------------------
+[00000211][フリード,char_001 Fried]
+Have you become interested in plants?
+------------------------------------------------
+[00000212][キルマリア,char_007 Kilmaria]
+The flora of this island is truly unique.
+Because it's very interesting.
+------------------------------------------------
+[00000213][アダム,char_006 a-dam]
+I classify plant specimens and data,
+Mr. Kilmaria keeps records of their growth.
+This is the record.
+------------------------------------------------
+[00000214][フリード,char_001 Fried]
+Wow! That's a huge amount!
+Did Kilmaria record all of this?
+As expected...
+------------------------------------------------
+[00000215][キルマリア,char_007 Kilmaria]
+No, not that much.
+We also had the cooperation of Adam.
+------------------------------------------------
+[00000216][フリード,char_001 Fried]
+But you kept records and sketched every morning, right?
+It's amazing...the plants that grow on the island are
+I've recorded most of it, haven't I?
+------------------------------------------------
+[00000217][パニス,char_002 Panis]
+what happened?
+------------------------------------------------
+[00000218][フリード,char_001 Fried]
+Only Candy Seed has no records.
+Didn't find it?
+I think it's a grass seed that grows everywhere...
+------------------------------------------------
+[00000219][キルマリア,char_007 Kilmaria]
+no. 
+------------------------------------------------
+[00000220][パニス,char_002 Panis]
+Shall Panis fetch it for you?
+------------------------------------------------
+[00000221][キルマリア,char_007 Kilmaria]
+That's not true! I asked Adam,
+We collected a lot of seeds.
+...Isn't it? Mr. Adam.
+------------------------------------------------
+[00000222][アダム,char_006 a-dam]
+yes.
+By the way, I had secured a large amount...
+------------------------------------------------
+[00000223][フリード,char_001 Fried]
+So why?
+------------------------------------------------
+[00000224][キルマリア,char_007 Kilmaria]
+That seed...isn't it sweet and delicious?
+------------------------------------------------
+[00000225][パニス,char_002 Panis]
+Yeah! 
+------------------------------------------------
+[00000226][フリード,char_001 Fried]
+I also ate it a lot when I was little.
+It's perfect for a snack...
+...So, by any chance, is it Kill Maria-san?
+------------------------------------------------
+[00000227][キルマリア,char_007 Kilmaria]
+Ha, yes...actually, everything was done before I raised it...
+It's so delicious...
+Aaaaaaaaaa! What I did...!
+------------------------------------------------
+[00000228][フリード,char_001 Fried]
+oh dear……
+I know how you feel though...
+------------------------------------------------
+[00000229][フリード,char_001 Fried]
+@fcFFAAFFAA (Yeah? That's...)
+------------------------------------------------
+[00000230][バッカス,char_527]
+…………
+------------------------------------------------
+[00000231][フリード,char_001 Fried]
+@fcFFAAFFAA (hiding over there, glancing at me,
+It's Bacchus, right? )
+------------------------------------------------
+[00000232][バッカス,char_527]
+...Chickkisho~!
+Isn't it a nice smell...!
+------------------------------------------------
+[00000233][フリード,char_001 Fried]
+Bacchus?
+What are you doing in a place like that?
+------------------------------------------------
+[00000234][バッカス,char_527]
+Huh, Freed!?
+No, no, that's not it...What do you mean?
+I-I can't be Bacchus or anything like that, can I?
+------------------------------------------------
+[00000235][フリード,char_001 Fried]
+No, just changing your tone won't fool you.
+Did you come to buy bread?
+------------------------------------------------
+[00000236][バッカス,char_527]
+No, no! It's definitely different!
+No matter how much I want to eat delicious bread,
+My pride, such as shopping at a rival store...
+------------------------------------------------
+[00000237][フリード,char_001 Fried]
+Don't worry about that, come here.
+Is my bread delicious?
+------------------------------------------------
+[00000238][バッカス,char_527]
+That's why...!
+------------------------------------------------
+[00000239][シャノン,char_004 Shannon]
+Welcome!
+It's your first time coming to our house, isn't it?
+------------------------------------------------
+[00000240][バッカス,char_527]
+……picture?
+------------------------------------------------
+[00000241][フリード,char_001 Fried]
+Sister?
+------------------------------------------------
+[00000242][シャノン,char_004 Shannon]
+I don't know who you are, but
+We welcome everyone!
+------------------------------------------------
+[00000243][バッカス,char_527]
+Oh, really? No, how about goodbye?
+Is it okay if I buy some bread?
+------------------------------------------------
+[00000244][シャノン,char_004 Shannon]
+Yes, of course.
+All of our breads are products we are proud of.
+Customer, which one will you choose?
+------------------------------------------------
+[00000245][フリード,char_001 Fried]
+@fcFFAAFFAA (...I see, if you're stupid like that,
+Is it easy for Bacchus to buy bread?
+As expected of you, sister! )
+------------------------------------------------
+[00000246][バッカス,char_527]
+Hey, hey.
+So, here and there...
+Then I'll take that.
+------------------------------------------------
+[00000247][シャノン,char_004 Shannon]
+Yes, thank you very much!
+To prevent the bread from getting crushed,
+Please be careful when taking it home!
+------------------------------------------------
+[00000248][バッカス,char_527]
+Oh, oh. I can't stand it.
+...Gufufufufu.
+------------------------------------------------
+[00000249][フリード,char_001 Fried]
+@fcFFAAFFAA (Bacchus looks happy...)
+------------------------------------------------
+[00000250][シャノン,char_004 Shannon]
+We look forward to your continued patronage!
+Don't sneak around this time,
+Come with dignity, Bakasu♪
+------------------------------------------------
+[00000251][バッカス,char_527]
+Giku!?
+------------------------------------------------
+[00000252][シャノン,char_004 Shannon]
+This, that, and this...
+------------------------------------------------
+[00000253][フリード,char_001 Fried]
+Looks like you're busy, sis.
+Shall I help?
+------------------------------------------------
+[00000254][シャノン,char_004 Shannon]
+Thank you, Freed.
+Well then, would you like me to taste it?
+------------------------------------------------
+[00000255][フリード,char_001 Fried]
+picture……?
+Could that be...
+------------------------------------------------
+[00000256][シャノン,char_004 Shannon]
+I've created a new recipe!
+------------------------------------------------
+[00000257][フリード,char_001 Fried]
+@fcFFAAFFAA (Gah!!)
+------------------------------------------------
+[00000258][フリード,char_001 Fried]
+...Well, I hope it cooks well.
+------------------------------------------------
+[00000259][シャノン,char_004 Shannon]
+I feel like it's going to be really delicious this time!
+------------------------------------------------
+[00000260][フリード,char_001 Fried]
+I thought it was bad from the beginning.
+I don't think there's anyone who bakes it...huh?
+------------------------------------------------
+[00000261][シャノン,char_004 Shannon]
+copper? 
+------------------------------------------------
+[00000262][フリード,char_001 Fried]
+It's true……!
+------------------------------------------------
+[00000263][シャノン,char_004 Shannon]
+Okay, it's okay.
+Now, enjoy your freshly baked food.
+------------------------------------------------
+[00000264][フリード,char_001 Fried]
+No……
+------------------------------------------------
+[00000265][フリード,char_001 Fried]
+@fcFFAAFFAA (It does smell really delicious...
+No, it's not just the smell! I'm sure it will taste good too!
+I believe in my sister...! )
+------------------------------------------------
+[00000266][フリード,char_001 Fried]
+I'll enjoy having this……
+…………yeah!
+------------------------------------------------
+[00000267][シャノン,char_004 Shannon]
+copper?
+------------------------------------------------
+[00000268][フリード,char_001 Fried]
+It's perfect, sis...!
+Since when was the last time something tasted so delicious?
+------------------------------------------------
+[00000269][シャノン,char_004 Shannon]
+Yay ♪
+------------------------------------------------
+[00000270][フリード,char_001 Fried]
+I will never forget this emotion!
+I'm so happy to have stumbled upon such a jackpot!
+------------------------------------------------
+[00000271][シャノン,char_004 Shannon]
+Ugh...Thank you, Freed.
+I will continue to do my best!
+------------------------------------------------
+[00000272][フリード,char_001 Fried]
+@fcFFAAFFAA (Ah, but until I get lucky again...
+I feel a little dizzy thinking about the far and steep road...)
+------------------------------------------------
+[00000273][ベルベット,char_008 Velvet]
+Hmm...
+------------------------------------------------
+[00000274][フリード,char_001 Fried]
+What's wrong, Velvet?
+Why are you staring at Adam?
+------------------------------------------------
+[00000275][ベルベット,char_008 Velvet]
+Hey, there's something that bothers me.
+Hey Adam, why doesn't your body rust?
+------------------------------------------------
+[00000276][パニス,char_002 Panis]
+rust?
+------------------------------------------------
+[00000277][ベルベット,char_008 Velvet]
+that's right. However, being blown by the sea breeze on an island like this,
+Even if you go on a boat and bathe in seawater, it won't rust, right?
+------------------------------------------------
+[00000278][ベルベット,char_008 Velvet]
+What the hell is going on?!
+------------------------------------------------
+[00000279][アダム,char_006 a-dam]
+If that's the case...
+My body is not made of iron.
+------------------------------------------------
+[00000280][ベルベット,char_008 Velvet]
+Huh? Is that so?
+------------------------------------------------
+[00000281][フリード,char_001 Fried]
+It looks like iron though...
+------------------------------------------------
+[00000282][アダム,char_006 a-dam]
+Although it looks and feels very similar to steel,
+It's actually made from a special alloy.
+It is much stronger than steel and is also resistant to corrosion.
+------------------------------------------------
+[00000283][フリード,char_001 Fried]
+I don't really understand it, but
+It's sturdy anyway.
+------------------------------------------------
+[00000284][ベルベット,char_008 Velvet]
+I see...
+The technology of ancient civilizations is amazing.
+That's why Adam is strong.
+------------------------------------------------
+[00000285][アダム,char_006 a-dam]
+Thank you for your time.
+------------------------------------------------
+[00000286][ベルベット,char_008 Velvet]
+That means it's made of the same material as Adam's body.
+If you want to make some weapons,
+You can make something that is very durable and sharp...!
+------------------------------------------------
+[00000287][アダム,char_006 a-dam]
+Maybe, but Velvet-san...
+Unfortunately, the blending ratio and refining method are
+It is not recorded in my database.
+------------------------------------------------
+[00000288][ベルベット,char_008 Velvet]
+...Hey, does that mean I can't make it now?
+To the "power" I'm looking for
+I thought it would be...
+------------------------------------------------
+[00000289][フリード,char_001 Fried]
+@fcFFAAFFAA (Velvet-san, you have a lot to think about...)
+------------------------------------------------
+[00000290][パニス,char_002 Panis]
+Oh, Freed, look!
+Butterflies, there are butterflies!
+------------------------------------------------
+[00000291][フリード,char_001 Fried]
+Yes, it's true.
+Butterflies at night are somehow mysterious.
+------------------------------------------------
+[00000292][パニス,char_002 Panis]
+Butterfly, wait! Butterfly!
+------------------------------------------------
+[00000293][フリード,char_001 Fried]
+@fcFFAAFFAA (Panis is crazy chasing butterflies.
+So innocent and cute)
+------------------------------------------------
+[00000294][パニス,char_002 Panis]
+Yes!
+Yay, I caught it!
+...Huh? I was able to escape.
+------------------------------------------------
+[00000295][フリード,char_001 Fried]
+@fcFFAAFFAA (...now that I think about it)
+It's been awfully quiet around me since a while ago.)
+------------------------------------------------
+[00000296][フリード,char_001 Fried]
+@fcFFAAFFAA (I see, there's no one else around.
+...That's bad, my heart is suddenly pounding.)
+------------------------------------------------
+[00000297][パニス,char_002 Panis]
+Butterfly-san, butterfly-san.
+Where did you go?
+------------------------------------------------
+[00000298][フリード,char_001 Fried]
+@fcFFAAFFAA (The sky is full of stars, faint moonlight,
+And then it was just Panis and me...)
+------------------------------------------------
+[00000299][フリード,char_001 Fried]
+@fcFFAAFFAA (...I can say that.
+Now I can convey my honest feelings! )
+------------------------------------------------
+[00000300][フリード,char_001 Fried]
+Panis!
+Oh, about me, Panis...!
+------------------------------------------------
+[00000301][フリード,char_001 Fried]
+……picture?
+------------------------------------------------
+[00000302][パニス,char_002 Panis]
+Ehehe...
+My stomach growled.
+------------------------------------------------
+[00000303][フリード,char_001 Fried]
+Ah... now that I think about it
+I can already smell the delicious smell of baking bread.
+It's drifting away...
+------------------------------------------------
+[00000304][パニス,char_002 Panis]
+Freed, I'm hungry!
+It's time to go home!
+------------------------------------------------
+[00000305][フリード,char_001 Fried]
+...Yeah, that's right. Shall we go home?
+------------------------------------------------
+[00000306][パニス,char_002 Panis]
+yay!I wonder what we have for dinner today!
+------------------------------------------------
+[00000307][フリード,char_001 Fried]
+@fcFFAAFFAA (tohoho…)
+------------------------------------------------
+[00000308][レヴィン,char_009 Levin]
+Hey there, cutie.
+Could you please help me find some bread?
+------------------------------------------------
+[00000309][シャノン,char_004 Shannon]
+Levin came to my house to buy bread.
+That's rare.
+------------------------------------------------
+[00000310][レヴィン,char_009 Levin]
+Even pirates eat bread.
+Isn't the bread here good?
+Viola's sister was praising me a lot, wasn't it?
+------------------------------------------------
+[00000311][シャノン,char_004 Shannon]
+thank you.
+In that case, I can choose the popular bread, but
+Does Levin have any preferences?
+------------------------------------------------
+[00000312][レヴィン,char_009 Levin]
+Well, to tell you the truth, I'm not the one who eats it.
+------------------------------------------------
+[00000313][シャノン,char_004 Shannon]
+A present for someone?
+------------------------------------------------
+[00000314][レヴィン,char_009 Levin]
+Well, that's about it.
+------------------------------------------------
+[00000315][シャノン,char_004 Shannon]
+I got it.
+So, this and this...
+------------------------------------------------
+[00000316][レヴィン,char_009 Levin]
+That one seems pretty sweet.
+------------------------------------------------
+[00000317][シャノン,char_004 Shannon]
+Are you curious? Well then, I'll put it in.
+------------------------------------------------
+[00000318][レヴィン,char_009 Levin]
+I'm sorry.
+------------------------------------------------
+[00000319][シャノン,char_004 Shannon]
+Hey, can I ask who you're giving the gift to?
+------------------------------------------------
+[00000320][レヴィン,char_009 Levin]
+I'll try to answer, but I don't know his name.
+This is the kid I just met.
+------------------------------------------------
+[00000321][シャノン,char_004 Shannon]
+Why would you give bread to such a child?
+------------------------------------------------
+[00000322][レヴィン,char_009 Levin]
+He picked up my handkerchief that I accidentally dropped.
+That's a thank you.
+------------------------------------------------
+[00000323][シャノン,char_004 Shannon]
+Huh... it's polite.
+------------------------------------------------
+[00000324][レヴィン,char_009 Levin]
+Really?
+------------------------------------------------
+[00000325][シャノン,char_004 Shannon]
+Yes, then this!
+------------------------------------------------
+[00000326][レヴィン,char_009 Levin]
+Thank you.
+Well then, I'll give it to the kid.
+------------------------------------------------
+[00000327][シャノン,char_004 Shannon]
+@fcFFAAFFAA (Levin is surprisingly kind.
+That kind of thing,
+I wish they would show it more...)
+------------------------------------------------
+[00000328][フリード,char_001 Fried]
+@fcFFAAFFAA (Huh? Levin is on the farm. That's rare...)
+------------------------------------------------
+[00000329][レヴィン,char_009 Levin]
+...This farm has become quite splendid.
+You'll do it, iron boy.
+------------------------------------------------
+[00000330][アダム,char_006 a-dam]
+thank you.
+However, without your cooperation,
+I couldn't do much maintenance.
+------------------------------------------------
+[00000331][レヴィン,char_009 Levin]
+Even so, you were the one who took the lead in the work, right?
+It's a big deal. After all, you are
+I don't know if they're better suited for farming than fighting.
+------------------------------------------------
+[00000332][アダム,char_006 a-dam]
+I'm happy. I think this is the most appropriate performance evaluation.
+------------------------------------------------
+[00000333][レヴィン,char_009 Levin]
+Yeah, that one was good.
+But...you're not only involved in agriculture.
+I feel like it's also suitable for pirates.
+------------------------------------------------
+[00000334][アダム,char_006 a-dam]
+What so?
+------------------------------------------------
+[00000335][レヴィン,char_009 Levin]
+ah. What do you think? When I return to the sea,
+Would you like to come with me too?
+------------------------------------------------
+[00000336][アダム,char_006 a-dam]
+In other words, to get on your ship...?
+------------------------------------------------
+[00000337][レヴィン,char_009 Levin]
+That's what happened.
+Pirates aren't bad either, right?
+------------------------------------------------
+[00000338][アダム,char_006 a-dam]
+I would appreciate your request, but I cannot do it.
+I have Mr. Freed as my master...
+------------------------------------------------
+[00000339][アダム,char_006 a-dam]
+And everyone in this village
+I'm registered as a master mate.
+I cannot leave my master or his companions behind.
+------------------------------------------------
+[00000340][レヴィン,char_009 Levin]
+……Really.
+Well, if that's the case, I can't help it.
+Should I give up on scouting you?
+------------------------------------------------
+[00000341][アダム,char_006 a-dam]
+very sorry.
+but……
+On the other hand, I have a proposal for Mr. Levin.
+------------------------------------------------
+[00000342][レヴィン,char_009 Levin]
+yeah?
+------------------------------------------------
+[00000343][アダム,char_006 a-dam]
+Why not live in this village forever?
+Mr. Freed and everyone in the village,
+I think that's what you want.
+------------------------------------------------
+[00000344][アダム,char_006 a-dam]
+Besides, as I mentioned earlier
+Regarding the matter of "Master's companions",
+Of course, that includes you.
+------------------------------------------------
+[00000345][レヴィン,char_009 Levin]
+...Wow, thank you.
+Well, I'll think about it.
+...That's it.
+------------------------------------------------
+[00000346][アダム,char_006 a-dam]
+Yes, then.
+------------------------------------------------
+[00000347][パニス,char_002 Panis]
+Huaah...
+------------------------------------------------
+[00000348][フリード,char_001 Fried]
+Panis, are you feeling sleepy?
+------------------------------------------------
+[00000349][パニス,char_002 Panis]
+No……
+It's okay...
+Panis, I'm not sleepy...
+------------------------------------------------
+[00000350][フリード,char_001 Fried]
+I don't see it that way.
+A lot of things happened today, so aren't you tired?
+------------------------------------------------
+[00000351][パニス,char_002 Panis]
+Oh no...
+I'm still playing...
+------------------------------------------------
+[00000352][フリード,char_001 Fried]
+No, no, you're really starting to fall asleep.
+I have to go home today and get some sleep.
+We'll continue tomorrow.
+------------------------------------------------
+[00000353][パニス,char_002 Panis]
+see you tomorrow……?
+------------------------------------------------
+[00000354][フリード,char_001 Fried]
+Yes, tomorrow.
+------------------------------------------------
+[00000355][パニス,char_002 Panis]
+tomorrow……
+Will tomorrow be as fun as today?
+------------------------------------------------
+[00000356][フリード,char_001 Fried]
+Of course. Every day will be fun and happy.
+As long as Panis and everyone else is here...
+------------------------------------------------
+[00000357][フリード,char_001 Fried]
+Come on, Panis, let's go home.
+Sister Shannon,
+Uncle and aunt are waiting.
+------------------------------------------------
+[00000358][パニス,char_002 Panis]
+……O.K. I understand.
+...Um, Freed?
+------------------------------------------------
+[00000359][フリード,char_001 Fried]
+what?
+------------------------------------------------
+[00000360][パニス,char_002 Panis]
+You know, Panis...
+I'm glad I dared to go with Freed...
+------------------------------------------------
+[00000361][フリード,char_001 Fried]
+Panis...
+------------------------------------------------
+[00000362][パニス,char_002 Panis]
+Freed, will you be with me forever?
+Forever, ever...
+------------------------------------------------
+[00000363][フリード,char_001 Fried]
+Yeah. Forever, ever...
+------------------------------------------------
+[00000364][フリード,char_001 Fried]
+I'll always be by Panis' side...
+------------------------------------------------
+[00000365][シャノン,char_004 Shannon]
+Hey Viola. welcome.
+You've come to the right place.
+------------------------------------------------
+[00000366][ヴァイオラ,char_003 Viola]
+Is there something?
+------------------------------------------------
+[00000367][シャノン,char_004 Shannon]
+New bread will be baked soon.
+Please come and have a taste!
+------------------------------------------------
+[00000368][ヴァイオラ,char_003 Viola]
+TRUE?I'll be happy to invite you.
+------------------------------------------------
+[00000369][フリード,char_001 Fried]
+@fcFFAAFFAA (I wonder if it's okay...)
+------------------------------------------------
+[00000370][シャノン,char_004 Shannon]
+did it!
+Yes, please enjoy!
+------------------------------------------------
+[00000371][ヴァイオラ,char_003 Viola]
+I'll take it...
+------------------------------------------------
+[00000372][鋼刃丸,char_531]
+Beep! Pipipi!
+------------------------------------------------
+[00000373][フリード,char_001 Fried]
+@fcFFAAFFAA (I wonder...? Is it okay...?
+At least Viola will collapse.
+I hope it's not a substitute...)
+------------------------------------------------
+[00000374][ヴァイオラ,char_003 Viola]
+......Ugh!
+------------------------------------------------
+[00000375][フリード,char_001 Fried]
+@fcFFAAFFAA (...it didn't work!)
+------------------------------------------------
+[00000376][ヴァイオラ,char_003 Viola]
+Hey, this is amazing!
+It should be commercialized soon!
+------------------------------------------------
+[00000377][フリード,char_001 Fried]
+picture?
+------------------------------------------------
+[00000378][シャノン,char_004 Shannon]
+What, Freed!
+What do you mean!?
+------------------------------------------------
+[00000379][ヴァイオラ,char_003 Viola]
+That's right, Freed.
+Do you think I'm lying?
+------------------------------------------------
+[00000380][フリード,char_001 Fried]
+No, no!
+That's not it...
+------------------------------------------------
+[00000381][ヴァイオラ,char_003 Viola]
+Thank you for the delicious bread today!
+If you come up with a new work, please give us a call!
+------------------------------------------------
+[00000382][シャノン,char_004 Shannon]
+Yes, I will definitely give you a shout out!
+------------------------------------------------
+[00000383][フリード,char_001 Fried]
+@fcFFAAFFAA (I-I wonder if it's okay...?
+I just happened to be lucky this time...)
+------------------------------------------------
+[00000384][アダム,char_006 a-dam]
+…………
+------------------------------------------------
+[00000385][ヴァイオラ,char_003 Viola]
+…………
+------------------------------------------------
+[00000386][ヴァイオラ,char_003 Viola]
+...Hey, Adam?
+------------------------------------------------
+[00000387][アダム,char_006 a-dam]
+……yes?
+------------------------------------------------
+[00000388][ヴァイオラ,char_003 Viola]
+...This island is a nice place.
+The people in the village are also nice people...
+------------------------------------------------
+[00000389][アダム,char_006 a-dam]
+……I agree.
+------------------------------------------------
+[00000390][ヴァイオラ,char_003 Viola]
+If everyone in that era,
+If only I could live like this...
+I have something to think about...
+------------------------------------------------
+[00000391][アダム,char_006 a-dam]
+…………
+------------------------------------------------
+[00000392][ヴァイオラ,char_003 Viola]
+Oh, I see.
+You don't remember, you...
+……sorry.
+------------------------------------------------
+[00000393][アダム,char_006 a-dam]
+No, it's fine.
+I also want to say what Viola-san wants to say...
+Somehow, I get it.
+------------------------------------------------
+[00000394][ヴァイオラ,char_003 Viola]
+yes……
+……thank you.
+------------------------------------------------
+[00000395][アダム,char_006 a-dam]
+…………
+------------------------------------------------
+[00000396][ヴァイオラ,char_003 Viola]
+…………
+------------------------------------------------
+[00000397][フリード,char_001 Fried]
+@fcFFAAFFAA (They both seem to be looking somewhere far away,
+It's a somber atmosphere...
+...Maybe it's better to leave it alone)
+------------------------------------------------
+[00000398][フリード,char_001 Fried]
+Panis, let's go...
+------------------------------------------------
+[00000399][パニス,char_002 Panis]
+Yeah……
+------------------------------------------------
+

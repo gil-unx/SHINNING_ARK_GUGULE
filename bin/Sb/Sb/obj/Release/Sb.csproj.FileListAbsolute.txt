@@ -1,0 +1,7 @@
+C:\Users\ThinkPad\source\repos\Sb\Sb\bin\Release\Sb.exe.config
+C:\Users\ThinkPad\source\repos\Sb\Sb\bin\Release\Sb.exe
+C:\Users\ThinkPad\source\repos\Sb\Sb\bin\Release\Sb.pdb
+C:\Users\ThinkPad\source\repos\Sb\Sb\obj\Release\Sb.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\source\repos\Sb\Sb\obj\Release\Sb.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\Sb\Sb\obj\Release\Sb.exe
+C:\Users\ThinkPad\source\repos\Sb\Sb\obj\Release\Sb.pdb

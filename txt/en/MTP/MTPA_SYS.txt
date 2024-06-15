@@ -1,0 +1,252 @@
+[0083]
+*****************
+[00000000]
+Checking recording media. \nDo not remove the recording media or turn off the power.
+------------------------------------------------
+[00000001]
+There is no recording media.
+------------------------------------------------
+[00000002]
+The recording media has been removed.
+------------------------------------------------
+[00000003]
+\nProcessing has been interrupted because it has entered sleep mode.
+------------------------------------------------
+[00000004]
+Processing was interrupted because the recording medium was removed or the computer entered sleep mode.
+------------------------------------------------
+[00000005]
+The recording medium is write-protected.
+------------------------------------------------
+[00000006]
+\nAn error occurred while accessing the recording media.
+------------------------------------------------
+[00000007]
+Do you want to delete your data?
+------------------------------------------------
+[00000008]
+It has been deleted.
+------------------------------------------------
+[00000009]
+1920KB
+------------------------------------------------
+[00000010]
+There is no save data.
+------------------------------------------------
+[00000011]
+Creating save data requires \nmore than %s capacity. \nDo you want to create save data?
+------------------------------------------------
+[00000012]
+Creating save data. \nDo not remove the recording media or turn off the power.
+------------------------------------------------
+[00000013]
+I created save data.
+------------------------------------------------
+[00000014]
+\nLoading failed because the save data is corrupted.
+------------------------------------------------
+[00000015]
+Do you want to delete corrupted data?
+------------------------------------------------
+[00000016]
+It has been deleted.
+------------------------------------------------
+[00000017]
+There is not enough free space on the recording media. \nTo create save data, you will need at least %s more space.
+------------------------------------------------
+[00000018]
+There is not enough free space on the recording media. \nCreating save data requires %s or more\ncapacity.
+------------------------------------------------
+[00000019]
+Cancels saving. \nCreating save data requires %s or more\ncapacity.
+------------------------------------------------
+[00000020]
+Creating save data requires %s or more capacity\n. You can create save data later. \nDo you want to continue playing the game?
+------------------------------------------------
+[00000021]
+Loading save data. \nDo not remove the recording media or turn off the power.
+------------------------------------------------
+[00000022]
+Save data has been loaded.
+------------------------------------------------
+[00000023]
+Auto-save in progress. \nDo not remove the recording media or turn off the power.
+------------------------------------------------
+[00000024]
+Auto save has finished.
+------------------------------------------------
+[00000025]
+Loading save data. \nDo not remove the recording media or turn off the power.
+------------------------------------------------
+[00000026]
+Save data has been loaded.
+------------------------------------------------
+[00000027]
+Saving is in progress. \nDo not remove the recording media or turn off the power.
+------------------------------------------------
+[00000028]
+The save has finished.
+------------------------------------------------
+[00000029]
+Do you want to cancel the save?
+------------------------------------------------
+[00000030]
+Do you want to cancel loading?
+------------------------------------------------
+[00000031]
+There are different data on the recording media. \nDo you want to save to this recording medium?
+------------------------------------------------
+[00000032]
+760MB
+------------------------------------------------
+[00000033]
+Loading of installation data failed,\nLoading will be performed only from "UMD". \nTurn off optional installation data usage\n.
+------------------------------------------------
+[00000034]
+Loading of installation data failed, so it will be loaded only from "UMD". Turn off optional installation data usage.
+------------------------------------------------
+[00000035]
+There is no recording media. \nFailed to load installation data,\nLoading only from "UMD". \nTurn off optional installation data usage\n.
+------------------------------------------------
+[00000036]
+There is no recording media. Loading of installation data failed, so it will be loaded only from "UMD". Turn off optional installation data usage.
+------------------------------------------------
+[00000037]
+The recording media has been removed. \nFailed to load installation data,\nLoading only from "UMD". \nTurn off optional installation data usage\n.
+------------------------------------------------
+[00000038]
+The recording media has been removed. Loading of installation data failed, so it will be loaded only from "UMD". Turn off optional installation data usage.
+------------------------------------------------
+[00000039]
+There is no installation data. \nFailed to load installation data,\nLoading only from "UMD". \nTurn off optional installation data usage\n.
+------------------------------------------------
+[00000040]
+There is no installation data. Loading of installation data failed, so it will be loaded only from "UMD". Turn off optional installation data usage.
+------------------------------------------------
+[00000041]
+Installation data is corrupted. \nFailed to load installation data,\nLoading only from "UMD". \nTurn off optional installation data usage\n.
+------------------------------------------------
+[00000042]
+Installation data is corrupted. Loading of installation data failed, so it will be loaded only from "UMD". Turn off optional installation data usage.
+------------------------------------------------
+[00000043]
+Create installation data on recording media. \nInstallation requires %s or more\nspace. \nAre you sure you want to start the installation?
+------------------------------------------------
+[00000044]
+Creation of installation data is complete. \nTurn on the option \nUse installation data.
+------------------------------------------------
+[00000045]
+Installation data already exists.
+------------------------------------------------
+[00000046]
+Installation data is corrupted.
+------------------------------------------------
+[00000047]
+Do you want to remove corrupted installation data?
+------------------------------------------------
+[00000048]
+Installation data has been deleted.
+------------------------------------------------
+[00000049]
+Creation of installation data has been interrupted.
+------------------------------------------------
+[00000050]
+Creation of installation data failed.
+------------------------------------------------
+[00000051]
+There is not enough free space on the recording media. \nTo create installation data,\nmore than %s of space is required.
+------------------------------------------------
+[00000052]
+There is not enough free space on the recording media. \nTo create installation data\n %s or more space is required.
+------------------------------------------------
+[00000053]
+Do you want to cancel the installation?
+------------------------------------------------
+[00000054]
+Do you want to delete installation data?
+------------------------------------------------
+[00000055]
+Installation data has been deleted.
+------------------------------------------------
+[00000056]
+This game can improve\ndata loading speed during the game by installing\nsome of the game data on the recording media.
+------------------------------------------------
+[00000057]
+However, the reading speed depends on the transfer speed of the recording media, so depending on the recording media, you may not notice an improvement in the reading speed.
+------------------------------------------------
+[00000058]
+It will take several minutes to complete the installation, so we recommend charging the battery sufficiently or using an AC adapter.
+------------------------------------------------
+[00000059]
+Please put the data to be used in data linkage on the recording medium.
+------------------------------------------------
+[00000060]
+Do you want to start data linkage?
+------------------------------------------------
+[00000061]
+Phantasy Star Portable 2 Infinity's game data is corrupted.
+------------------------------------------------
+[00000062]
+Cancel data linkage.
+------------------------------------------------
+[00000063]
+Do you want to cancel data linkage?
+------------------------------------------------
+[00000064]
+Do you want to cancel data linkage for Phantasy Star Portable 2 Infinity?
+------------------------------------------------
+[00000065]
+Since the main body is different from when the save data was created\nAdditional content will be disabled. \nPlease try unlocking the additional content again.
+------------------------------------------------
+[00000066]
+Checking for additional content. \nDo not remove the recording media or turn off the power.
+------------------------------------------------
+[00000067]
+This game supports the autosave function. \nDuring auto-save,\nthe memory stick ㌃ access lamp\nwill blink, so do not remove the recording media or turn off the power to the device during that time.
+------------------------------------------------
+[00000068]
+If you remove or insert the recording media during the game\nsaved data, additional content, etc.\nsaved data may not be executed correctly. \nPlease be careful.
+------------------------------------------------
+[00000069]
+Do you want to stop checking for additional content?
+------------------------------------------------
+[00000070]
+Failed to load additional content.
+------------------------------------------------
+[00000071]
+Saving failed. \nThere is not enough free space on the recording media\n.
+------------------------------------------------
+[00000072]
+The maximum number of photos that can be taken has been exceeded.
+------------------------------------------------
+[00000073]
+Valkyria Chronicles\ngame data is corrupted.
+------------------------------------------------
+[00000074]
+Would you like to cancel data linkage for Valkyria Chronicles?
+------------------------------------------------
+[00000075]
+Valkyria Chronicles 2: The Royal Military Academy of Gallia's game data is corrupted.
+------------------------------------------------
+[00000076]
+Do you want to cancel data linkage of Valkyria Chronicles 2 Gallia Royal Military Academy?
+------------------------------------------------
+[00000077]
+The game data of the trial version of Valkyria Chronicles 3 is corrupted.
+------------------------------------------------
+[00000078]
+Do you want to cancel the data linkage of the trial version of Valkyria Chronicles 3?
+------------------------------------------------
+[00000079]
+Shooting failed
+------------------------------------------------
+[00000080]
+The additional content data could not be loaded. \nPlease insert the recording media.
+------------------------------------------------
+[00000081]
+An error in additional content data has been confirmed. \nPlease re-download the additional content. \nIf it is equipped, switch to another equipment.
+------------------------------------------------
+[00000082]
+The battery is low. \nPlease charge the battery.
+------------------------------------------------
+

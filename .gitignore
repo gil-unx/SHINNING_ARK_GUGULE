@@ -1,0 +1,16 @@
+
+/isofiles/DATA_extract
+/isofiles/DATA_new
+isofiles/DATA.BIN
+isofiles/DATA.BIN.decrypt
+isofiles/DATA.CPK
+isofiles/DATA.cpk.encrypt
+isofiles/EBOOT.BIN
+isofiles/EBOOT_DEC.BIN
+isofiles/EBOOT_PATCHED.BIN
+isofiles/header
+isofiles/ICON0.PNG
+isofiles/pgdecrypt.exe
+isofiles/vkey
+*.pyc
+*.iso

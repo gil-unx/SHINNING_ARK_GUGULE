@@ -1,0 +1,80 @@
+[0023]
+*****************
+[00000000][フリード,char_001 Fried]
+Levin!
+------------------------------------------------
+[00000001][レヴィン,char_009 Levin]
+What, did you follow me...?
+------------------------------------------------
+[00000002][フリード,char_001 Fried]
+If it's a monster, wouldn't it be nice if you told me?
+Let's fight together.
+------------------------------------------------
+[00000003][レヴィン,char_009 Levin]
+I'm enough here alone.
+Instead, take your daughter to a safe place.
+------------------------------------------------
+[00000004][パニス,char_002 Panis]
+Let's defeat Panis together!
+------------------------------------------------
+[00000005][フリード,char_001 Fried]
+It's good?
+------------------------------------------------
+[00000006][レヴィン,char_009 Levin]
+……Have it your way.
+------------------------------------------------
+[00000007][レヴィン,char_009 Levin]
+You stole the show, kid.
+------------------------------------------------
+[00000008][フリード,char_001 Fried]
+The highlight...
+Basically, why from the beginning?
+Didn't you call out to me?
+------------------------------------------------
+[00000009][レヴィン,char_009 Levin]
+Because there was no need for it.
+------------------------------------------------
+[00000010][フリード,char_001 Fried]
+A monster...!
+------------------------------------------------
+[00000011][キルマリア,char_007 Kilmaria]
+When I came to investigate,
+I wasn't there...
+------------------------------------------------
+[00000012][レヴィン,char_009 Levin]
+Freed. Panis. Kill Maria.
+------------------------------------------------
+[00000013][レヴィン,char_009 Levin]
+I really want to check that message.
+In order to do that, those monsters are in the way.
+------------------------------------------------
+[00000014][レヴィン,char_009 Levin]
+I'm sure I'll be kicked out by myself.
+However, when it comes to protecting carved rocks, I feel uneasy.
+Just this time, please lend everyone your strength...!
+------------------------------------------------
+[00000015][フリード,char_001 Fried]
+Of course, Levin!
+------------------------------------------------
+[00000016][キルマリア,char_007 Kilmaria]
+Please leave it to me!
+------------------------------------------------
+[00000017][パニス,char_002 Panis]
+Panis, I'll do my best!
+------------------------------------------------
+[00000018][レヴィン,char_009 Levin]
+Everyone please...!!
+------------------------------------------------
+[00000019][フリード,char_001 Fried]
+Well done, Levin!
+------------------------------------------------
+[00000020][フリード,char_001 Fried]
+……that? 
+------------------------------------------------
+[00000021][キルマリア,char_007 Kilmaria]
+Mr. Freed and Mr. Levin are over there.
+------------------------------------------------
+[00000022][レヴィン,char_009 Levin]
+…………
+------------------------------------------------
+

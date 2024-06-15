@@ -1,0 +1,620 @@
+[0170]
+*****************
+[00000000][フリード,char_001 Fried]
+Hi Lana!
+------------------------------------------------
+[00000001][ラナ,char_528]
+Freed, you look healthy as always.
+How are you, Angel?
+------------------------------------------------
+[00000002][パニス,char_002 Panis]
+Aren't you an angel? It's Panis?
+------------------------------------------------
+[00000003][ラナ,char_528]
+Ahaha, it's okay, it's okay!
+Of course I understand.
+------------------------------------------------
+[00000004][パニス,char_002 Panis]
+Good! Lana, what's Panis' name?
+I didn't forget!
+------------------------------------------------
+[00000005][ラナ,char_528]
+Hahahaha, that's not true!
+I'll never forget my friend's name!
+------------------------------------------------
+[00000006][パニス,char_002 Panis]
+Yeah! But Panis doesn't know much about Lana...
+------------------------------------------------
+[00000007][ラナ,char_528]
+fault? 
+------------------------------------------------
+[00000008][パニス,char_002 Panis]
+Yeah.
+Where did Lana come from?
+------------------------------------------------
+[00000009][ラナ,char_528]
+I'm from the mainland.
+------------------------------------------------
+[00000010][フリード,char_001 Fried]
+Rather than coming, it's more like coming and going.
+------------------------------------------------
+[00000011][パニス,char_002 Panis]
+why?
+------------------------------------------------
+[00000012][ラナ,char_528]
+Because I'm in business.
+------------------------------------------------
+[00000013][パニス,char_002 Panis]
+Showby?
+------------------------------------------------
+[00000014][ラナ,char_528]
+Ahaha. I guess I have to explain it from there.
+I want things that can't be found on this island.
+They transport it by ship from the mainland and sell it.
+------------------------------------------------
+[00000015][ラナ,char_528]
+Now, let's take a look at what can only be found on this island.
+Take it back to the continent and sell it there.
+------------------------------------------------
+[00000016][パニス,char_002 Panis]
+Hmm...
+The island and Tairiku...
+Um, um...uh...?
+------------------------------------------------
+[00000017][ラナ,char_528]
+Oops? 
+------------------------------------------------
+[00000018][パニス,char_002 Panis]
+Yeah……
+------------------------------------------------
+[00000019][ラナ,char_528]
+I see. If you could leave me something,
+That means I'll exchange it for something else.
+------------------------------------------------
+[00000020][パニス,char_002 Panis]
+Is that so?
+------------------------------------------------
+[00000021][ラナ,char_528]
+You are right!
+Why are you so worried about me?
+------------------------------------------------
+[00000022][フリード,char_001 Fried]
+You've been in this business for quite some time, right?
+I've been coming to the island since I was little.
+------------------------------------------------
+[00000023][ラナ,char_528]
+That's right. I guess I've been doing this for longer than your lifetime.
+The people who live on this island
+Almost all of them are good at it.
+------------------------------------------------
+[00000024][フリード,char_001 Fried]
+Thanks to Lana carrying various supplies,
+Even we who are on this island far away,
+You can get things from the continent.
+------------------------------------------------
+[00000025][ラナ,char_528]
+I shouldn't say this, but this island is isolated in the ocean,
+Other ships, other than pirate ships, don't come very close.
+------------------------------------------------
+[00000026][パニス,char_002 Panis]
+That's great, Lana!
+------------------------------------------------
+[00000027][ラナ,char_528]
+Ahaha. I don't think it's particularly great though.
+I just do business because I love it.
+------------------------------------------------
+[00000028][フリード,char_001 Fried]
+But traveling the world like Lana,
+Isn't it rare to find an elf doing business?
+------------------------------------------------
+[00000029][ラナ,char_528]
+Well, elves aren't very sociable.
+------------------------------------------------
+[00000030][フリード,char_001 Fried]
+Because only Lana and my sisters know,
+I don't really feel it...
+------------------------------------------------
+[00000031][ラナ,char_528]
+Ahahahaha! Maybe so!
+------------------------------------------------
+[00000032][フリード,char_001 Fried]
+Well then, let's go now.
+------------------------------------------------
+[00000033][パニス,char_002 Panis]
+Bye-bye, Lana!
+------------------------------------------------
+[00000034][ラナ,char_528]
+Bye bye!
+If you have free time, please come and visit us again!
+Exchanges and trades are also welcome!
+------------------------------------------------
+[00000035][フリード,char_001 Fried]
+Hi Lana!
+------------------------------------------------
+[00000036][ラナ,char_528]
+Oh, Freed.
+------------------------------------------------
+[00000037][パニス,char_002 Panis]
+There's Panis too!
+------------------------------------------------
+[00000038][ラナ,char_528]
+Hehehe.
+Panis is welcome too.
+------------------------------------------------
+[00000039][パニス,char_002 Panis]
+Hey, give me something!
+------------------------------------------------
+[00000040][ラナ,char_528]
+eh?
+------------------------------------------------
+[00000041][パニス,char_002 Panis]
+Lana has all kinds of things from the continent, right?
+------------------------------------------------
+[00000042][ラナ,char_528]
+Haha... Geez, it's a little bit now.
+I don't have anything that I can give you.
+------------------------------------------------
+[00000043][パニス,char_002 Panis]
+Can't you give it to Panis?
+------------------------------------------------
+[00000044][フリード,char_001 Fried]
+That's not true, Panis. Lana to sell at the store
+She just has things.
+------------------------------------------------
+[00000045][パニス,char_002 Panis]
+Hmm, that's right.
+------------------------------------------------
+[00000046][ラナ,char_528]
+sorry.
+I wish I could give you an apple as a gift.
+All of them have just been sold.
+------------------------------------------------
+[00000047][フリード,char_001 Fried]
+never mind. What kind of things do you sell outside the island?
+------------------------------------------------
+[00000048][ラナ,char_528]
+anything. If there is something that someone wants,
+I go everywhere to buy.
+------------------------------------------------
+[00000049][フリード,char_001 Fried]
+Huh, that sounds like a lot of trouble.
+------------------------------------------------
+[00000050][ラナ,char_528]
+No. 
+------------------------------------------------
+[00000051][フリード,char_001 Fried]
+How did you get started?
+------------------------------------------------
+[00000052][ラナ,char_528]
+I've been interested in it for a long time.
+Things are bought and sold through money,
+The way the world goes around.
+------------------------------------------------
+[00000053][ラナ,char_528]
+If there is something I want, I can look for it myself,
+To give it to someone who has it,
+It was normal in the elf forest.
+------------------------------------------------
+[00000054][ラナ,char_528]
+When you go there, you can get what you want through money.
+Trading “business” is very convenient.
+Don't you think it's a cool mechanism?
+------------------------------------------------
+[00000055][フリード,char_001 Fried]
+I've never thought about it that way...
+I wonder if that's true?
+------------------------------------------------
+[00000056][ラナ,char_528]
+Business is very deep.
+I think whoever thought of it first is really great.
+------------------------------------------------
+[00000057][フリード,char_001 Fried]
+They sell all sorts of things for everyone.
+Lana is great too.
+------------------------------------------------
+[00000058][ラナ,char_528]
+I'm just doing business because I enjoy it,
+When I get praised like that,
+It's kind of embarrassing.
+------------------------------------------------
+[00000059][ラナ,char_528]
+Well, before I could do business like this,
+It took quite a while though.
+------------------------------------------------
+[00000060][フリード,char_001 Fried]
+Is that so?
+------------------------------------------------
+[00000061][ラナ,char_528]
+It was rough at first.
+------------------------------------------------
+[00000062][ラナ,char_528]
+``Don't underestimate business''
+``You can't do business with your discerning eye.''
+Have you often been scolded by your friends?
+------------------------------------------------
+[00000063][ラナ,char_528]
+So I stuck with people who were doing business for a while,
+I also did some training.
+------------------------------------------------
+[00000064][ラナ,char_528]
+Thanks to you, I was able to travel around the world and expand my horizons.
+I also found an opportunity to start "trading".
+------------------------------------------------
+[00000065][ラナ,char_528]
+If you are also interested in business,
+I'm always available for advice.
+------------------------------------------------
+[00000066][フリード,char_001 Fried]
+Hmm, I guess I'm not that interested.
+------------------------------------------------
+[00000067][ラナ,char_528]
+yes? Freed is sure to be a good trader.
+Because I think you can!
+------------------------------------------------
+[00000068][パニス,char_002 Panis]
+What about panis?
+------------------------------------------------
+[00000069][ラナ,char_528]
+Hehehe. Panis, of course.
+------------------------------------------------
+[00000070][フリード,char_001 Fried]
+@fcFFAAFFAA (Lana, you really like business...)
+------------------------------------------------
+[00000071][フリード,char_001 Fried]
+Hi Lana!
+------------------------------------------------
+[00000072][ラナ,char_528]
+Freed! Panis seems to be doing well too.
+------------------------------------------------
+[00000073][パニス,char_002 Panis]
+Hello Lana! Hey, can I ask you something?
+------------------------------------------------
+[00000074][ラナ,char_528]
+What?
+------------------------------------------------
+[00000075][パニス,char_002 Panis]
+Hey, what is Koeki?
+------------------------------------------------
+[00000076][ラナ,char_528]
+That's a sudden difficult question...
+------------------------------------------------
+[00000077][パニス,char_002 Panis]
+I forgot to ask about it the other day.
+------------------------------------------------
+[00000078][ラナ,char_528]
+let me see……
+Trade is something that crosses countries and oceans.
+I guess it's a big business thing.
+------------------------------------------------
+[00000079][ラナ,char_528]
+...Did you understand from the explanation just now?
+------------------------------------------------
+[00000080][パニス,char_002 Panis]
+Yeah!
+------------------------------------------------
+[00000081][フリード,char_001 Fried]
+Can I ask you one thing too?
+------------------------------------------------
+[00000082][ラナ,char_528]
+what?
+------------------------------------------------
+[00000083][フリード,char_001 Fried]
+Among all the various businesses, Lana
+Have you thought about trading?
+------------------------------------------------
+[00000084][ラナ,char_528]
+Well, I guess it's because the scale of the business is large.
+Above all, I wanted to see the world,
+Doing business in one country or city didn't make sense to me.
+------------------------------------------------
+[00000085][フリード,char_001 Fried]
+But isn't it difficult to go out of your way to go far?
+------------------------------------------------
+[00000086][ラナ,char_528]
+It's hard work, but it's so rewarding.
+------------------------------------------------
+[00000087][ラナ,char_528]
+For example, even when it comes to an apple, it depends on the region where it is harvested.
+There are many different types and different tastes,
+People have different tastes, right?
+------------------------------------------------
+[00000088][ラナ,char_528]
+By connecting that, everyone around the world
+When you think about being able to taste the apple that tastes the best,
+Isn't it amazing?
+------------------------------------------------
+[00000089][フリード,char_001 Fried]
+I see, that's certainly amazing!
+------------------------------------------------
+[00000090][ラナ,char_528]
+Besides, the world is big.
+There's even a new type of apple that no one knows about yet.
+There might be, right?
+------------------------------------------------
+[00000091][パニス,char_002 Panis]
+Is there!?
+------------------------------------------------
+[00000092][ラナ,char_528]
+I don't understand that either, so I can't fit into one country.
+I travel around the world doing business.
+------------------------------------------------
+[00000093][フリード,char_001 Fried]
+The scale is really big!
+------------------------------------------------
+[00000094][ラナ,char_528]
+What's even more interesting is that even if they are exactly the same,
+The value varies depending on the time of year and the land involved.
+------------------------------------------------
+[00000095][ラナ,char_528]
+Things that have no value in a certain place,
+It may even sell for a higher price elsewhere.
+Therefore, the more I trade, the more reliable my eyes become.
+------------------------------------------------
+[00000096][パニス,char_002 Panis]
+Lana looks like a lot of fun.
+------------------------------------------------
+[00000097][ラナ,char_528]
+Yeah! 
+------------------------------------------------
+[00000098][フリード,char_001 Fried]
+But Lana told me I don't have much business.
+I don't feel it...
+------------------------------------------------
+[00000099][ラナ,char_528]
+Ahaha!
+I'm not in business for the purpose of making money.
+------------------------------------------------
+[00000100][フリード,char_001 Fried]
+Eh!?
+Isn't business something you do to make money?
+------------------------------------------------
+[00000101][ラナ,char_528]
+I'm different.
+To begin with, I've never had trouble with money.
+------------------------------------------------
+[00000102][フリード,char_001 Fried]
+Is Lana's family rich?
+------------------------------------------------
+[00000103][ラナ,char_528]
+Do you mean rich?
+We're royalty, right?
+------------------------------------------------
+[00000104][フリード,char_001 Fried]
+……picture?
+------------------------------------------------
+[00000105][ラナ,char_528]
+Well, maybe that's not the reason.
+See, I said it earlier, right?　Elf was originally
+I don't really care about money.
+------------------------------------------------
+[00000106][ラナ,char_528]
+Even if you don't have money,
+I guess I can get by somehow.
+Is that why you're able to do business purely for fun?
+------------------------------------------------
+[00000107][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000108][ラナ,char_528]
+...Freed? what happened?
+------------------------------------------------
+[00000109][フリード,char_001 Fried]
+@fcFFAAFFAA (I feel like someone just said something amazing...)
+------------------------------------------------
+[00000110][フリード,char_001 Fried]
+Hey Lana.
+------------------------------------------------
+[00000111][ラナ,char_528]
+Oh, Freed, Panis.
+------------------------------------------------
+[00000112][フリード,char_001 Fried]
+The other day, you said that Lana was royalty...
+you don't say?
+------------------------------------------------
+[00000113][ラナ,char_528]
+picture? It's gone...
+------------------------------------------------
+[00000114][フリード,char_001 Fried]
+Lana, are you really a princess?
+------------------------------------------------
+[00000115][ラナ,char_528]
+……Yeah. But keep this a secret! please!
+------------------------------------------------
+[00000116][ラナ,char_528]
+I wouldn't say it in lieu of that, but
+Just for today, I'll answer anything special!
+------------------------------------------------
+[00000117][フリード,char_001 Fried]
+Yeah, I understand.
+So, what is the name of Lana's country?
+------------------------------------------------
+[00000118][ラナ,char_528]
+It's a country called Fontina.
+------------------------------------------------
+[00000119][パニス,char_002 Panis]
+Where is it?
+------------------------------------------------
+[00000120][ラナ,char_528]
+All the way across the continent.
+It's a little old-fashioned in some places, but
+It's a wonderful country full of greenery.
+------------------------------------------------
+[00000121][フリード,char_001 Fried]
+But...the princess left the country,
+Is it okay to trade?
+------------------------------------------------
+[00000122][ラナ,char_528]
+Even if I'm not there, I have an excellent sister, so it's okay!
+------------------------------------------------
+[00000123][ラナ,char_528]
+I'm really proud of my little sister!
+Because that child is here,
+I can leave the country with peace of mind.
+------------------------------------------------
+[00000124][フリード,char_001 Fried]
+Sister...it's tough...
+------------------------------------------------
+[00000125][ラナ,char_528]
+Ah...of course, if it's a big deal for the country,
+I'm also helping out with a lot of things!
+------------------------------------------------
+[00000126][パニス,char_002 Panis]
+Will Lana ever go back there?
+------------------------------------------------
+[00000127][ラナ,char_528]
+picture? Well, I have to go back someday.
+I think so, but...
+------------------------------------------------
+[00000128][ラナ,char_528]
+There are still many countries with which we do not trade,
+Right now, I just want to travel more and more around the world.
+Is that what it feels like?
+------------------------------------------------
+[00000129][パニス,char_002 Panis]
+Are you going to Tooku?
+------------------------------------------------
+[00000130][ラナ,char_528]
+You're confused, aren't you? I like this island now,
+It's fun just to go back and forth between here and the continent, but
+Expanding your horizons is even more fun!
+------------------------------------------------
+[00000131][フリード,char_001 Fried]
+Lana is sure to explore a world that we don't know about.
+I guess you know a lot.
+------------------------------------------------
+[00000132][ラナ,char_528]
+When you live for a long time, many things happen.
+I studied business, but sometimes...
+I once fought to save the world...
+------------------------------------------------
+[00000133][フリード,char_001 Fried]
+Is that so!?
+------------------------------------------------
+[00000134][ラナ,char_528]
+that's right?
+Even though I look like this, I am a user of the divine bow!
+------------------------------------------------
+[00000135][パニス,char_002 Panis]
+Shinkyu?
+------------------------------------------------
+[00000136][ラナ,char_528]
+Well, that's a great bow.
+It's an important thing that I received from my master.
+That's why I'm still trying to keep up my training.
+------------------------------------------------
+[00000137][フリード,char_001 Fried]
+That's amazing.
+I'd like to see Lana's bow skills.
+------------------------------------------------
+[00000138][ラナ,char_528]
+If I have a chance. Hehe, that’s surprising!?
+------------------------------------------------
+[00000139][フリード,char_001 Fried]
+@fcFFAAFFAA (That must be cool, Lana shooting a bow...)
+------------------------------------------------
+[00000140][フリード,char_001 Fried]
+Hi Lana!
+------------------------------------------------
+[00000141][パニス,char_002 Panis]
+Runner! It's here!
+------------------------------------------------
+[00000142][ラナ,char_528]
+Welcome, both of you.
+------------------------------------------------
+[00000143][ラナ,char_528]
+Today to you,
+I wanted to thank you again.
+------------------------------------------------
+[00000144][フリード,char_001 Fried]
+Thank you? about what?
+------------------------------------------------
+[00000145][ラナ,char_528]
+The world was saved thanks to you!
+thank you! 
+------------------------------------------------
+[00000146][フリード,char_001 Fried]
+Lana...
+------------------------------------------------
+[00000147][ラナ,char_528]
+The reason everyone is smiling, and the reason I can continue trading,
+It's all thanks to Freed and Panis!
+------------------------------------------------
+[00000148][パニス,char_002 Panis]
+Lana also protected this island.
+------------------------------------------------
+[00000149][ラナ,char_528]
+Eh, me?
+------------------------------------------------
+[00000150][フリード,char_001 Fried]
+that's right. You were protecting the place you went home to, right?
+------------------------------------------------
+[00000151][ラナ,char_528]
+Well, that's all I can do.
+And with Bacchus and Cherubim.
+It looks like the pirates were working hard too.
+------------------------------------------------
+[00000152][ラナ,char_528]
+anyway!
+You guys saved this world!
+All you have to do is be proud and express your gratitude!
+------------------------------------------------
+[00000153][フリード,char_001 Fried]
+Hahaha. I wonder if that's true?
+------------------------------------------------
+[00000154][ラナ,char_528]
+However, the depth of this island's bosom is bottomless.
+We can't ignore the dangers of another world.
+------------------------------------------------
+[00000155][ラナ,char_528]
+It was the same when I came.
+They accepted me easily and let me trade with them.
+------------------------------------------------
+[00000156][ラナ,char_528]
+I still bring it out sometimes, but
+In the beginning, I was causing a lot of damage to the people on the island.
+But, even though he was strict, he watched over me warmly...
+------------------------------------------------
+[00000157][フリード,char_001 Fried]
+This island is like one big family.
+------------------------------------------------
+[00000158][ラナ,char_528]
+Everyone supports each other and helps each other.
+I think it's a wonderful relationship.
+------------------------------------------------
+[00000159][ラナ,char_528]
+I'm sure for you,
+Including other worlds,
+Everything in this world is family, right?
+------------------------------------------------
+[00000160][フリード,char_001 Fried]
+Yes, I'm sure so.
+------------------------------------------------
+[00000161][ラナ,char_528]
+I feel kind of jealous.
+------------------------------------------------
+[00000162][フリード,char_001 Fried]
+Why are you talking like a normal person?
+------------------------------------------------
+[00000163][パニス,char_002 Panis]
+Lana is family too, right?
+------------------------------------------------
+[00000164][ラナ,char_528]
+eh?
+------------------------------------------------
+[00000165][フリード,char_001 Fried]
+Lana is also an important family member.
+------------------------------------------------
+[00000166][ラナ,char_528]
+……thank you!
+------------------------------------------------
+[00000167][フリード,char_001 Fried]
+Thank you for your continued support, Lana!
+------------------------------------------------
+[00000168][パニス,char_002 Panis]
+Give me something delicious!
+------------------------------------------------
+[00000169][ラナ,char_528]
+Yeah!
+We'll have a boat full of them, so please look forward to it!
+------------------------------------------------
+

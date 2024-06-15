@@ -1,0 +1,1199 @@
+[0271]
+*****************
+[00000000][]
+@lt1 About Move Battle
+------------------------------------------------
+[00000001][]
+"Move" is something that governs action and movement.
+Starting with the character with the most moves,
+You can perform various actions.
+------------------------------------------------
+[00000002][]
+The amount of moves accumulated is displayed at the bottom right,
+The further left the character is, the more
+A lot of moves are accumulated.
+------------------------------------------------
+[00000003][]
+This is the order of action,
+The characters will act in order starting from the left side.
+------------------------------------------------
+[00000004][]
+improve your moves,
+By lowering the enemy's move,
+This order keeps changing.
+------------------------------------------------
+[00000005][]
+Raise and lower moves, change the order of actions,
+How can you act faster and more than your enemy?
+That's the real thrill of "Move Battle".
+------------------------------------------------
+[00000006][]
+Then, Freed's moves will accumulate,
+The order of action has come.
+------------------------------------------------
+[00000007][]
+When you are ready, press the ○ button to cancel the standby state, and
+Let's operate the character.
+------------------------------------------------
+[00000008][]
+@lt1About movement and attack
+------------------------------------------------
+[00000009][]
+When you cancel standby mode
+Move on to the operation of moving the character.
+------------------------------------------------
+[00000010][]
+When moving,
+Move by pressing the analog pad,
+You can change the viewpoint using the direction keys and L/R buttons.
+------------------------------------------------
+[00000011][]
+Movement is the character's
+You can do this until the move gauge runs out.
+It is a good idea to always pay attention to the remaining amount when operating the battery.
+------------------------------------------------
+[00000012][]
+Next is the explanation of the enemy characters.
+Enemies attack targets that approach them by moving.
+They have a habit of attacking.
+------------------------------------------------
+[00000013][]
+The enemy character's attacks include running left and right,
+By approaching the target from behind
+can be avoided.
+------------------------------------------------
+[00000014][]
+So that you won't be attacked while standing still
+be careful.
+------------------------------------------------
+[00000015][]
+If you press the ○ button while moving,
+Displays battle commands for attacks, etc.
+------------------------------------------------
+[00000016][]
+First, to the enemy in front of you.
+Get closer until you see a blue marker
+Let's press the ○ button.
+------------------------------------------------
+[00000017][]
+@lt1About multi-attack
+------------------------------------------------
+[00000018][]
+In battle command,
+Attack/Force/Item etc.
+Three types of commands can be executed.
+------------------------------------------------
+[00000019][]
+One of the attacks is
+This is the normal attack that the character has.
+------------------------------------------------
+[00000020][]
+Melee attack characters such as Freed
+You can use multi-attacks (continuous attacks),
+You can attack multiple times in one attack.
+------------------------------------------------
+[00000021][]
+Hover over the enemy character and
+Pressing the ○ button will allocate one attack.
+You can also cancel by pressing the × button.
+------------------------------------------------
+[00000022][]
+Divide all the number of attacks,
+With “Action Ready” displayed
+Press the ○ button to start the attack.
+------------------------------------------------
+[00000023][]
+Actually allocate all the number of attacks to one enemy.
+Let's attack.
+------------------------------------------------
+[00000024][]
+However, the battle command
+Because you can only perform one action at a time.
+Please think carefully before doing so.
+------------------------------------------------
+[00000025][]
+@lt1 Regarding the end of action
+------------------------------------------------
+[00000026][]
+When you press the X button on the battlefield
+The action of the operated character is finished,
+Move on to the next character's action.
+------------------------------------------------
+[00000027][]
+After the attack is over,
+When the move gauge is used up
+End the action by pressing the × button.
+------------------------------------------------
+[00000028][]
+If automatic action termination is set in the options,
+When the move gauge becomes 0 after an attack,
+The action end menu will open automatically.
+------------------------------------------------
+[00000029][]
+@lt1 About range display
+------------------------------------------------
+[00000030][]
+At a distance where the controlled character's attack can reach,
+Targets that can be attacked are marked in blue or red.
+Comes with a range marker.
+------------------------------------------------
+[00000031][]
+The blue marker is the attack range,
+The red marker is within range of long range force.
+It shows that each has entered.
+------------------------------------------------
+[00000032][]
+This will serve as a guide when performing an attack, so
+The range marker
+It's a good idea to always be careful.
+------------------------------------------------
+[00000033][]
+@lt1 About multiple locks in multi-attack
+------------------------------------------------
+[00000034][]
+Characters that use multi-attack
+How many times to attack which target when attacking
+You can choose.
+------------------------------------------------
+[00000035][]
+For example, you can attack two enemy characters,
+If one side can be defeated with a single attack,
+The remaining attacks can be allocated to the other side.
+------------------------------------------------
+[00000036][]
+If you want to change the target,
+When the battle command is displayed, press the L/R button
+You can easily switch.
+------------------------------------------------
+[00000037][]
+Check your surroundings carefully,
+Let's make effective use of it.
+------------------------------------------------
+[00000038][]
+By pressing the △ button in addition to the ○ button,
+Allocating the total number of attacks automatically,
+You can also cancel all at once using the □ button.
+------------------------------------------------
+[00000039][]
+Once you get used to the operation
+It would be a good idea to take advantage of it.
+------------------------------------------------
+[00000040][]
+About @lt1Shannon
+------------------------------------------------
+[00000041][]
+Shannon is a character who uses a bow.
+Bows have different characteristics than melee attacks.
+------------------------------------------------
+[00000042][]
+The bow can only attack once,
+than melee attacks
+You can attack from a distance.
+------------------------------------------------
+[00000043][]
+In addition, the bow has the ability to attack from outside the enemy's counterattack range.
+It also has the advantage of being able to attack.
+------------------------------------------------
+[00000044][]
+Furthermore, the biggest feature is
+When an enemy comes within range of your bow,
+It will automatically intercept you.
+------------------------------------------------
+[00000045][]
+Taking advantage of this feature,
+Let's make effective use of it.
+------------------------------------------------
+[00000046][]
+About @lt1 duo
+------------------------------------------------
+[00000047][]
+on the battlefield
+Approach a friendly character
+Press the □ button to enter duo mode.
+------------------------------------------------
+[00000048][]
+Characters targeted for duo
+It will move behind the operated character.
+In this case, the move gauge will not be consumed.
+------------------------------------------------
+[00000049][]
+Also, the characters for duo are
+You will not take damage from enemy attacks.
+------------------------------------------------
+[00000050][]
+Pressing the □ button again during Duo will cancel the Duo.
+Characters targeted for duo will wait on the spot.
+------------------------------------------------
+[00000051][]
+Saving move gauge,
+It is also useful for adjusting the position of the character.
+Let's actively utilize it.
+------------------------------------------------
+[00000052][]
+@lt1 About link attack
+------------------------------------------------
+[00000053][]
+link attack is
+When attacking, allied characters attack simultaneously,
+This is an attack that deals more damage than normal.
+------------------------------------------------
+[00000054][]
+When performing an attack,
+When an ally character is near an enemy character
+A link attack will occur.
+------------------------------------------------
+[00000055][]
+If multiple enemies are targeted,
+to the nearest enemy character
+A link attack will occur.
+------------------------------------------------
+[00000056][]
+Link attack depends on the number of participants.
+Special effects may occur.
+------------------------------------------------
+[00000057][]
+If you use Duo
+Of the friends you want to participate in the link attack
+It is also possible to adjust the position.
+------------------------------------------------
+[00000058][]
+In addition, there are characters that can be linked.
+When the force gauge fills up and defeats an enemy,
+You can get experience points.
+------------------------------------------------
+[00000059][]
+In this way, link attacks include
+There are many benefits
+We recommend that you make full use of it.
+------------------------------------------------
+[00000060][]
+@lt1 About counterattack
+------------------------------------------------
+[00000061][]
+Regardless of friend or foe,
+If the character is attacked,
+A counterattack will occur with a certain probability.
+------------------------------------------------
+[00000062][]
+Which friendly characters can counterattack?
+Only melee attack characters,
+All characters will counterattack the enemy.
+------------------------------------------------
+[00000063][]
+If you use a force that has a blowing effect,
+It is also possible to prevent the enemy from counterattacking.
+------------------------------------------------
+[00000064][]
+Careless attacks when HP is low,
+Be careful as it is extremely dangerous.
+------------------------------------------------
+[00000065][]
+@lt1 About items
+------------------------------------------------
+[00000066][]
+If you have an item in your possession during battle,
+By selecting an item from the battle command
+It can be used.
+------------------------------------------------
+[00000067][]
+If you want to use it on a friend,
+After selecting the item to use, aim at the target
+It can be used with the ○ button.
+------------------------------------------------
+[00000068][]
+If you want to use it for yourself, use the analog pad.
+By deselecting other objects
+It can be used.
+------------------------------------------------
+[00000069][]
+Among the items, bread is
+For example, you can increase the status of your allies and recover them at the same time.
+It has excellent effects.
+------------------------------------------------
+[00000070][]
+Select the appropriate item according to the situation,
+Let's make the battle more advantageous.
+------------------------------------------------
+[00000071][]
+@lt1About force and force gauge
+------------------------------------------------
+[00000072][]
+Each character is
+It's called force
+Possesses a powerful special move.
+------------------------------------------------
+[00000073][]
+The Force is not only powerful;
+lowering the enemy's abilities,
+Some have the effect of lowering movement.
+------------------------------------------------
+[00000074][]
+The Force is very powerful, but
+When using each, a fixed number of
+Requires force gauge.
+------------------------------------------------
+[00000075][]
+force gauge is
+It's your turn to act, attack the enemy,
+It increases when you receive an attack.
+------------------------------------------------
+[00000076][]
+I don't have enough force gauge in this critical situation.
+Be careful not to let this happen.
+------------------------------------------------
+[00000077][]
+@lt1About attractor force
+------------------------------------------------
+[00000078][]
+Zynga is
+They are called guard attractors and counter attractors.
+You can use special forces.
+------------------------------------------------
+[00000079][]
+First, using a guard attractor
+At that point, it will end its action and enter a defense standby state.
+------------------------------------------------
+[00000080][]
+In standby state
+Damage received from enemies is reduced.
+However, you cannot counterattack.
+------------------------------------------------
+[00000081][]
+Then, using a counter attractor
+At that point, the action will end and you will be on standby for a counterattack.
+------------------------------------------------
+[00000082][]
+While waiting for a counterattack
+Reliably counterattack against enemy attacks,
+And the damage of counterattack will be increased.
+------------------------------------------------
+[00000083][]
+In both cases, you will not be able to perform Duo while the effect is active.
+Furthermore, it becomes easier to be targeted by enemies.
+There are disadvantages.
+------------------------------------------------
+[00000084][]
+However, taking advantage of it,
+Attract enemy attacks and protect other members,
+------------------------------------------------
+[00000085][]
+Wipe out approaching enemies with area attacks, etc.
+There are various ways to use it, so
+It's a good idea to try out various things.
+------------------------------------------------
+[00000086][]
+@lt1 About personality
+------------------------------------------------
+[00000087][]
+character is in action
+called personality
+Special abilities may be activated.
+------------------------------------------------
+[00000088][]
+Personality is the character's
+An ability that is derived from personality or skill,
+There are various activation conditions and effects available.
+------------------------------------------------
+[00000089][]
+Character's past and relationships
+How do these factors affect the battle?
+It might be a good idea to keep an eye on it.
+------------------------------------------------
+[00000090][]
+@lt1About the attack target
+------------------------------------------------
+[00000091][]
+For enemy characters
+attack target
+There may be more than one.
+------------------------------------------------
+[00000092][]
+The attack target
+Each has a weak point attribute,
+Effective attack methods differ.
+------------------------------------------------
+[00000093][]
+With the attack method of the weak attribute
+If you attack the attack target
+Increases the amount of damage dealt.
+------------------------------------------------
+[00000094][]
+Weakness attribute information
+Until you actually attack with that weak point attribute,
+It is hidden.
+------------------------------------------------
+[00000095][]
+Actively try various attacks
+If you can find the most effective attack
+This will give you a much better advantage in battle.
+------------------------------------------------
+[00000096][]
+@lt1About special attack targets
+------------------------------------------------
+[00000097][]
+Some of the attack targets of enemy characters are
+There are things that can be destroyed by attacking them.
+This is called a break target.
+------------------------------------------------
+[00000098][]
+When you destroy a break target,
+This has the effect of increasing the rewards you receive after clearing.
+------------------------------------------------
+[00000099][]
+Also, some specific enemy characters
+Decreased abilities, certain attacks become unusable
+There are effects like this.
+------------------------------------------------
+[00000100][]
+In addition, when you destroy a break target
+That spot becomes a weak target
+Subject to change.
+------------------------------------------------
+[00000101][]
+The weak target is
+No matter what attribute you attack with
+It is a "weak point" that can cause great damage.
+------------------------------------------------
+[00000102][]
+When it changes to a weak target
+The display of the range marker changes,
+Visually informs you of changes in status.
+------------------------------------------------
+[00000103][]
+When this condition occurs,
+Let's aim for big damage with concentrated attacks.
+------------------------------------------------
+[00000104][]
+@lt1About Overmove
+------------------------------------------------
+[00000105][]
+Freed is
+He has a parameter called tension,
+Tension rises and falls with each action.
+------------------------------------------------
+[00000106][]
+When the tension rises above a certain level,
+The special ability Overmove will be activated.
+------------------------------------------------
+[00000107][]
+When Overmove is activated,
+Freed's moves have increased
+Continuous action is possible.
+------------------------------------------------
+[00000108][]
+The tension is
+By Freed attacking and defeating the enemy
+rise.
+------------------------------------------------
+[00000109][]
+If an ally is defeated
+Please be careful as the tension will drop.
+------------------------------------------------
+[00000110][]
+@lt1 About continuous area quests
+------------------------------------------------
+[00000111][]
+Some of the quests
+in multiple area quests
+There are some things configured.
+------------------------------------------------
+[00000112][]
+For such quests,
+By clearing all area quests
+The quest will be cleared.
+------------------------------------------------
+[00000113][]
+At that time, between area quests,
+It is possible to replace battle members.
+------------------------------------------------
+[00000114][]
+Finished the area quest in a dying state (HP 0)
+Keep your character as is in the next area quest
+If you use it, your HP will be reduced to 1.
+------------------------------------------------
+[00000115][]
+In such cases, the backup member and
+Let's do the swap.
+------------------------------------------------
+[00000116][]
+In some quests
+Battle members are fixed,
+It may not be possible to exchange.
+------------------------------------------------
+[00000117][]
+In continuous area quests,
+Also consider replacing characters.
+It would be a good idea to move on.
+------------------------------------------------
+[00000118][]
+@lt1 About member selection and Ace
+------------------------------------------------
+[00000119][]
+There are now 5 or more members.
+From now on, when selecting members
+You can freely choose battle members.
+------------------------------------------------
+[00000120][]
+In member selection
+Battle members participating in battle
+You can choose.
+------------------------------------------------
+[00000121][]
+Some members who do not participate in battle
+At the end of the quest
+You can receive experience points.
+------------------------------------------------
+[00000122][]
+low level characters
+First of all, refrain from
+It's best to grow them safely.
+------------------------------------------------
+[00000123][]
+Next is the explanation of Ace.
+------------------------------------------------
+[00000124][]
+In the member placement frame,
+There is a special placement frame called the ace frame.
+------------------------------------------------
+[00000125][]
+The character placed in the ace frame is
+There is a force gauge bonus at the start of the battle,
+Additionally, moves will accumulate more easily.
+------------------------------------------------
+[00000126][]
+your favorite character,
+Place the characters you want to grow, etc.
+It would be a good idea to advance the battle to your advantage.
+------------------------------------------------
+[00000127][]
+@lt1About Extra Quest
+------------------------------------------------
+[00000128][]
+After clearing the free quest,
+Extra quests may occur consecutively.
+------------------------------------------------
+[00000129][]
+in extra quest
+Enemies whose level is higher than normal,
+Monsters that can only be fought here will appear.
+------------------------------------------------
+[00000130][]
+It will be a tough battle, but
+You can get more experience points and money,
+Sometimes you can get valuable items.
+------------------------------------------------
+[00000131][]
+Even if you make a return or lose on the way,
+The reward for cleared free quests is
+You can receive it properly.
+------------------------------------------------
+[00000132][]
+You can return to Azel Village without sortieing, but
+This is your chance to win various rewards.
+Let's give it a try.
+------------------------------------------------
+[00000133][]
+About the @lt1 chain
+------------------------------------------------
+[00000134][]
+When allied characters perform actions consecutively
+A bonus called chain will occur.
+------------------------------------------------
+[00000135][]
+When a chain occurs,
+Ally character attack damage,
+A bonus will be added to the amount recovered by recovery items.
+------------------------------------------------
+[00000136][]
+The more chains there are, the more
+The bonus value will also increase.
+------------------------------------------------
+[00000137][]
+To connect the chain
+Use force to lower enemy moves,
+There are ways to improve your allies' moves.
+------------------------------------------------
+[00000138][]
+The more consecutive your allies' actions are, the more advantageous you will be.
+Let's actively connect the chain.
+------------------------------------------------
+[00000139][]
+@lt1 About guard and dash
+------------------------------------------------
+[00000140][]
+Bacchus is
+Uses a powerful interception that blows away allies.
+------------------------------------------------
+[00000141][]
+In normal movement,
+I was blown away
+I can't get into the attack range as much as I want.
+------------------------------------------------
+[00000142][]
+At such times
+Use guard and dash to get close to your enemies.
+------------------------------------------------
+[00000143][]
+while on the move
+If you release the analog pad and press the △ button,
+The character becomes guarded.
+------------------------------------------------
+[00000144][]
+You cannot move while guarding, but
+Damage received from interception is greatly reduced.
+Also, you will not be blown away while guarding.
+------------------------------------------------
+[00000145][]
+However, while guarding
+Because the move gauge gradually decreases
+It's a good idea to use it at the right time.
+------------------------------------------------
+[00000146][]
+Also, while moving
+If you press the △ button with the analog pad down
+The character will be in a dash state.
+------------------------------------------------
+[00000147][]
+You cannot change direction while dashing, but
+can move faster than normal,
+You won't be blown away either.
+------------------------------------------------
+[00000148][]
+When you release the △ button, your character will suddenly stop.
+At this time, input the analog pad in a different direction.
+You can dash again by pressing the △ button.
+------------------------------------------------
+[00000149][]
+While dashing, it is more difficult to move than normal movement.
+Because it consumes a large amount of move gauge
+Be careful not to overuse it.
+------------------------------------------------
+[00000150][]
+@lt1 About Panis
+------------------------------------------------
+[00000151][]
+Panis is different from normal ally characters.
+You cannot perform operations such as moving or attacking.
+------------------------------------------------
+[00000152][]
+What actions does Panis take?
+It changes depending on your current mood and likability.
+There are five types of mood.
+------------------------------------------------
+[00000153][]
+Carefree.
+Perform a variety of activities in a well-balanced manner.
+------------------------------------------------
+[00000154][]
+Motivation.
+It actively attacks and heals allies.
+------------------------------------------------
+[00000155][]
+negative.
+He doesn't participate in many battles,
+Pick up things that are falling on the map.
+------------------------------------------------
+[00000156][]
+attack.
+Give priority to attacking the enemy.
+------------------------------------------------
+[00000157][]
+Support.
+Heal your allies and sing songs.
+They will provide support.
+------------------------------------------------
+[00000158][]
+I felt like I fed Panis in Azel Village.
+It varies depending on the bread.
+------------------------------------------------
+[00000159][]
+Let me eat all kinds of bread
+Find the mood that suits you.
+------------------------------------------------
+[00000160][]
+Favorability can be achieved by performing link attacks during battle,
+By talking to them in Azel Village
+rise.
+------------------------------------------------
+[00000161][]
+If your likability increases,
+listen to what I say
+Maybe you'll be able to take action.
+------------------------------------------------
+[00000162][]
+In order to advance the battle advantageously
+Communication in Azel Village
+Let's be proactive.
+------------------------------------------------
+[00000163][]
+@lt1About Panis operation
+------------------------------------------------
+[00000164][]
+From now on, Panis will be treated like a normal ally character.
+can be operated.
+------------------------------------------------
+[00000165][]
+Panis' attack
+Up to 8 enemies within range
+It is possible to attack at the same time.
+------------------------------------------------
+[00000166][]
+Although the power is not very high,
+You can damage many enemies at once
+It is a good idea to use it effectively depending on the situation.
+------------------------------------------------
+[00000167][]
+Also, if you select the song command,
+Force song too
+You can use it freely.
+------------------------------------------------
+[00000168][]
+How to use Force Song
+A force gauge is required for each.
+------------------------------------------------
+[00000169][]
+@lt1About Viola's Force Song
+------------------------------------------------
+[00000170][]
+Viola, the enemy songstress,
+I've been using Force Song since the beginning.
+------------------------------------------------
+[00000171][]
+her force song
+Because she has the power to cancel other force songs,
+Panis' Force Song cannot be used.
+------------------------------------------------
+[00000172][]
+Furthermore, even while using the Force Song, she
+Because you can take action,
+They will attack you, so you need to be careful.
+------------------------------------------------
+[00000173][]
+@lt1About abnormal status
+------------------------------------------------
+[00000174][]
+Among the attacks are
+Some items have abnormal status effects.
+There are the following types of status abnormalities:
+------------------------------------------------
+[00000175][]
+Status increase/decrease.
+attack, defense etc.
+Change the character's status.
+------------------------------------------------
+[00000176][]
+confusion.
+The character will no longer be able to intercept or counterattack,
+Allies will no longer be able to participate in link attacks.
+------------------------------------------------
+[00000177][]
+Oblivion.
+Ally characters' Forces will become unavailable.
+Enemies will be unable to use some attacks.
+------------------------------------------------
+[00000178][]
+poison.
+Every time another character completes an action,
+HP decreases.
+------------------------------------------------
+[00000179][]
+paralysis.
+The character becomes unable to move.
+Paralyzed characters cannot duo.
+------------------------------------------------
+[00000180][]
+sleep.
+Character moves will no longer accumulate.
+Sleeping characters cannot be duoed.
+------------------------------------------------
+[00000181][]
+Status abnormalities are caused by certain characters acting or
+Items or forces that heal abnormal conditions
+It can be recovered by using it.
+------------------------------------------------
+[00000182][]
+@lt1 About the cannon
+------------------------------------------------
+[00000183][]
+The cannon is
+Causes great damage to enemy characters
+This is a special attack gimmick.
+------------------------------------------------
+[00000184][]
+By approaching the cannon and pressing the △ button,
+Cannon commands can be displayed.
+------------------------------------------------
+[00000185][]
+in artillery command
+Launch/Cool/Repair
+You can choose.
+------------------------------------------------
+[00000186][]
+When you choose to fire, similar to Battle Command,
+Select an enemy character
+You can fire cannons.
+------------------------------------------------
+[00000187][]
+when you fire a cannon
+The used cannon will be in a cooling state.
+The cannon cannot be fired while it is cooling down.
+------------------------------------------------
+[00000188][]
+Until cooling is complete, the character
+It takes time to act several times.
+------------------------------------------------
+[00000189][]
+@lt1About the treasure chest
+------------------------------------------------
+[00000190][]
+In the quest, on the battlefield
+Treasure chests may be placed there.
+------------------------------------------------
+[00000191][]
+You can get the treasure chest by approaching it and pressing the △ button.
+It is possible to open it.
+------------------------------------------------
+[00000192][]
+There are three types of treasure chests.
+There are also rare treasure chests and treasure chests that restore the force gauge.
+There is, so please look for it.
+------------------------------------------------
+[00000193][]
+@lt1About Force Weapon
+------------------------------------------------
+[00000194][]
+On the Blue Noah
+It is equipped with a device called a force weapon,
+It has various effects depending on the situation.
+------------------------------------------------
+[00000195][]
+How to use force weapons
+Blue Noah's switch
+Activate it by pressing the △ button.
+------------------------------------------------
+[00000196][]
+However, when using
+Requires force gauge of 2 or more.
+------------------------------------------------
+[00000197][]
+The effect of force weapons is
+Changes depending on the location of the enemy pirate ship.
+------------------------------------------------
+[00000198][]
+Any effect
+It has the effect of giving you an advantage in battle.
+Let's take advantage of it.
+------------------------------------------------
+[00000199][]
+@lt1About force weapons in variant battles
+------------------------------------------------
+[00000200][]
+In strange battles,
+Force weapon with strange action
+There are limited times when it can be used.
+------------------------------------------------
+[00000201][]
+If an unusable icon appears,
+Even with a force gauge
+Force weapons cannot be activated.
+------------------------------------------------
+[00000202][]
+When force weapons are ready for use
+The icon will change to notify you.
+------------------------------------------------
+[00000203][]
+About @lt1 Soul Cannon
+------------------------------------------------
+[00000204][]
+soul cannon is
+Giving shape to people's thoughts
+It's a gimmick to hit the giant of the end.
+------------------------------------------------
+[00000205][]
+In the ark
+A Soul Cannon activation switch is installed.
+------------------------------------------------
+[00000206][]
+Activate Soul Cannon with the △ button
+The activated character enters a storage state,
+Finish the action.
+------------------------------------------------
+[00000207][]
+Next, when the character's moves are accumulated,
+Soul cannon fired
+It can cause great damage to the Titan of the End.
+------------------------------------------------
+[00000208][]
+Soul Cannon is a powerful attack, but
+The character who is activating the canon is
+You will be defenseless and more likely to be targeted by enemies.
+------------------------------------------------
+[00000209][]
+Protect the starting character,
+Let's express people's feelings to the giant of the end.
+------------------------------------------------
+[00000210][]
+@lt1About poisonous terrain
+------------------------------------------------
+[00000211][]
+When entering toxic terrain,
+The character's HP will gradually decrease.
+We recommend that you avoid this as much as possible.
+------------------------------------------------
+[00000212][]
+@lt1About lava terrain
+------------------------------------------------
+[00000213][]
+When entering lava terrain, the same effect as in poisonous terrain
+The character's HP will gradually decrease.
+We recommend that you avoid this as much as possible.
+------------------------------------------------
+[00000214][]
+@lt1About the mud
+------------------------------------------------
+[00000215][]
+The mud is
+The character that entered
+It will force you to walk.
+------------------------------------------------
+[00000216][]
+Because it becomes a target for enemy attacks,
+Avoid muddy areas as much as possible
+Recommended.
+------------------------------------------------
+[00000217][]
+@lt1About miasma
+------------------------------------------------
+[00000218][]
+In the valley of miasma
+Ally character's force gauge increases
+It will be half of the normal amount.
+------------------------------------------------
+[00000219][]
+than other maps
+Because the force gauge does not accumulate easily,
+Use must be done with caution.
+------------------------------------------------
+[00000220][]
+The miasma is located on the map
+by destroying miasma rocks
+You can also cancel it.
+------------------------------------------------
+[00000221][]
+Destroy the miasma rock
+Destroy your enemies at once with powerful force.
+------------------------------------------------
+[00000222][]
+@lt1About the heat wave
+------------------------------------------------
+[00000223][]
+A heat wave is occurring in the Ruins of Flaming Heat.
+The character's HP while moving is
+It will gradually decline.
+------------------------------------------------
+[00000224][]
+The character's remaining HP
+Always be careful.
+------------------------------------------------
+[00000225][]
+Heat waves are placed on the map
+By destroying the flame crystal
+You can also cancel it.
+------------------------------------------------
+[00000226][]
+flame crystal is
+Because it cannot accept attacks other than water-based attacks.
+Please pay attention to the attributes when destroying.
+------------------------------------------------
+[00000227][]
+@lt1About the cold wave
+------------------------------------------------
+[00000228][]
+A cold wave is occurring in the ruins of Hyoto.
+The distance the character can move
+It will be shorter than usual.
+------------------------------------------------
+[00000229][]
+To reduce consumption, travel to the destination
+It is best to take the shortest route.
+------------------------------------------------
+[00000230][]
+Cold waves are placed on the map
+by destroying the ice crystal
+You can also cancel it.
+------------------------------------------------
+[00000231][]
+ice crystal is
+Because it cannot accept anything other than fire-based attacks.
+Please pay attention to the attributes when destroying.
+------------------------------------------------
+[00000232][]
+@lt1 Regarding cannon cooling
+------------------------------------------------
+[00000233][]
+Using a cannon
+The cannon is in a cooling state,
+It cannot be used for a while.
+------------------------------------------------
+[00000234][]
+However, from the artillery command
+When you select and use cooling
+It is possible to complete cooling instantly.
+------------------------------------------------
+[00000235][]
+For cooling use
+force gauge or
+A cannon cooling kit is required.
+------------------------------------------------
+[00000236][]
+When I run the cooling command
+The cannon is ready for use,
+You will be able to fire from your next action.
+------------------------------------------------
+[00000237][]
+@lt1 About cannon repair
+------------------------------------------------
+[00000238][]
+Cannons have HP,
+You will receive damage from enemy characters' attacks.
+Cannons whose HP reaches 0 can no longer be used.
+------------------------------------------------
+[00000239][]
+If the cannon breaks,
+By choosing repair of artillery command
+You can recover HP.
+------------------------------------------------
+[00000240][]
+For repair use
+force gauge or
+You will need a cannon repair kit.
+------------------------------------------------
+[00000241][]
+The broken cannon
+Repair it as soon as possible.
+------------------------------------------------
+[00000242][]
+@lt1About force weapons in variant battles
+------------------------------------------------
+[00000243][]
+Force weapons are now available.
+------------------------------------------------
+[00000244][]
+While the strange form is diving under the sea,
+This attack will not be accepted.
+------------------------------------------------
+[00000245][]
+If the force gauge is 1 or more,
+using a force weapon
+You can drag out the deformity.
+------------------------------------------------
+[00000246][]
+@lt1About force weapons in variant battles
+------------------------------------------------
+[00000247][]
+Force weapons are now available.
+------------------------------------------------
+[00000248][]
+While the strange form emits dark power from its forehead,
+I don't know the order of the moves.
+------------------------------------------------
+[00000249][]
+If the force gauge is 2 or more,
+using a force weapon
+You can stop the release of dark power.
+------------------------------------------------
+[00000250][]
+@lt1About attacks that change moves
+------------------------------------------------
+[00000251][]
+Due to Bacchus' powerful attack,
+Freed's HP is running low.
+------------------------------------------------
+[00000252][]
+If this continues, after Zynga's actions,
+By the actions of Bacchus the second time
+Freed will be defeated.
+------------------------------------------------
+[00000253][]
+In times like this
+Use attacks that change moves,
+Let's delay Bacchus' actions.
+------------------------------------------------
+[00000254][]
+Zynga's Force, Dolphin Tail
+It has the effect of lowering the enemy's moves.
+------------------------------------------------
+[00000255][]
+If you use this,
+Bacchus' move is down,
+Shannon can act first.
+------------------------------------------------
+[00000256][]
+Give Shannon the order of action,
+Let's heal Freed with Heal.
+------------------------------------------------
+[00000257][]
+By changing the move in this way,
+Avoid a critical situation or conversely help your allies
+You can create advantageous situations.
+------------------------------------------------
+[00000258][]
+Techniques to change moves
+It is provided for each character, so
+Let's use them depending on the situation.
+------------------------------------------------
+[00000259][]
+@lt1 About Force Song
+------------------------------------------------
+[00000260][]
+Panis is
+It's called Force Song
+You may perform special actions.
+------------------------------------------------
+[00000261][]
+force song is
+It will be advantageous for all allies
+It has a special effect.
+------------------------------------------------
+[00000262][]
+Panis in the force song
+You will be left defenseless and more likely to be targeted by enemies.
+Let's protect it with other characters.
+------------------------------------------------
+[00000263][]
+When Panis is on the verge of death,
+Panis' likeability and Freed's tension
+It will drop.
+------------------------------------------------
+[00000264][]
+The lost goodwill is
+By reviving Panis
+It can be recovered.
+------------------------------------------------
+[00000265][]
+@lt1About the attack target that acts
+------------------------------------------------
+[00000266][]
+Some enemy characters
+Some have attack targets to act on.
+------------------------------------------------
+[00000267][]
+For attack targets that act
+Each move accumulates individually,
+When it is their turn, they act independently.
+------------------------------------------------
+[00000268][]
+When using an attack that lowers the move,
+Effect only on the intended attack target
+This will be reflected, so be careful.
+------------------------------------------------
+[00000269][]
+If you destroy the active attack target,
+The attack target takes no action.
+------------------------------------------------
+[00000270][]
+If the enemy character's attack is intense
+First destroy the attacking target,
+Let's try to reduce the number of moves for enemy characters.
+------------------------------------------------
+

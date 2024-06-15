@@ -1,0 +1,820 @@
+[0196]
+*****************
+[00000000][シャノン,char_004 Shannon]
+I want it to be a good memory for the whole family.
+------------------------------------------------
+[00000001][シャノン,char_004 Shannon]
+How can I have fun?
+------------------------------------------------
+[00000002][シャノン,char_004 Shannon]
+Making memories with Panis and me...
+------------------------------------------------
+[00000003][シャノン,char_004 Shannon]
+Is it a festival?
+------------------------------------------------
+[00000004][シャノン,char_004 Shannon]
+This is my first time attending Panis at a festival.
+memorable,
+I want to make it a fun festival.
+------------------------------------------------
+[00000005][シャノン,char_004 Shannon]
+Freed, say something nice!
+------------------------------------------------
+[00000006][シャノン,char_004 Shannon]
+Alright! I also got my father and mother involved,
+Celebrate Panis with the whole family
+Let's have fun!
+------------------------------------------------
+[00000007][シャノン,char_004 Shannon]
+Geez...
+That's it! 
+------------------------------------------------
+[00000008][シャノン,char_004 Shannon]
+...What's with that delicate face?
+------------------------------------------------
+[00000009][シャノン,char_004 Shannon]
+...Wait a minute, Freed.
+Was it on purpose that I was left out?
+------------------------------------------------
+[00000010][シャノン,char_004 Shannon]
+Freed, what's wrong?
+Are you thinking about what to do at the festival?
+------------------------------------------------
+[00000011][シャノン,char_004 Shannon]
+He says he's been thinking about Panis forever.
+It can't be helped.
+------------------------------------------------
+[00000012][シャノン,char_004 Shannon]
+Instead of that, let's get ready for the festival!
+It's a festival celebrating reconstruction, so you have to enjoy it!
+------------------------------------------------
+[00000013][シャノン,char_004 Shannon]
+There was a lot of miasma in that valley.
+It just wasn't a situation where we could proceed as it was.
+...Is there a time when the miasma fades?
+------------------------------------------------
+[00000014][シャノン,char_004 Shannon]
+It's a great festival,
+You can't keep a blank face forever.
+That's it! 
+------------------------------------------------
+[00000015][シャノン,char_004 Shannon]
+...What is it, Freed? That blank face.
+------------------------------------------------
+[00000016][シャノン,char_004 Shannon]
+Preparations for the festival are almost finished,
+All that's left to do is wait for it to start.
+------------------------------------------------
+[00000017][シャノン,char_004 Shannon]
+On the day, there will be various panis
+I'm thinking of showing you.
+I'm looking forward to it!
+------------------------------------------------
+[00000018][ジンガ,char_005 zynga]
+I won't lose either!
+------------------------------------------------
+[00000019][ジンガ,char_005 zynga]
+It's like when you go fishing...
+------------------------------------------------
+[00000020][ジンガ,char_005 zynga]
+Don't make too much noise and lose your way.
+------------------------------------------------
+[00000021][ジンガ,char_005 zynga]
+It's a festival! It's a festival, Freed!
+It makes your blood boil, right?
+I'll go wild too!
+------------------------------------------------
+[00000022][ジンガ,char_005 zynga]
+Ou! Let's liven up the festival with you and me!
+Woooooooo! My arms are ringing!!
+------------------------------------------------
+[00000023][ジンガ,char_005 zynga]
+Isn't that obvious?
+It's a festival! What should I do if I can't get excited?
+Freed, let's make some noise together!!
+------------------------------------------------
+[00000024][ジンガ,char_005 zynga]
+...Hey, Freed.
+I'm looking forward to what's to come,
+Don't say anything that will put a damper on things.
+------------------------------------------------
+[00000025][ジンガ,char_005 zynga]
+...Hey, what's wrong with Freed?
+Aren't you looking forward to the festival?
+Look more happy!
+------------------------------------------------
+[00000026][ジンガ,char_005 zynga]
+What happened to me was
+I was a little confused at the ruins...
+I'm sorry.
+------------------------------------------------
+[00000027][ジンガ,char_005 zynga]
+No matter what, Panis is Panis.
+------------------------------------------------
+[00000028][ジンガ,char_005 zynga]
+There's no point in worrying about this and that.
+Let's go fishing for fun!
+We'll catch a lot of fish to serve at the festival!
+------------------------------------------------
+[00000029][ジンガ,char_005 zynga]
+A long time ago, a fish bigger than a boar pig,
+I once caught a fish by myself.
+It's my secret pride.
+------------------------------------------------
+[00000030][ジンガ,char_005 zynga]
+Ha ha ha!
+Look! That's a big catch!
+I caught a ton of fish!
+------------------------------------------------
+[00000031][ジンガ,char_005 zynga]
+Wait! These guys at the festival,
+I'll feed you to the full!
+------------------------------------------------
+[00000032][アダム,char_006 a-dam]
+We should have fun together.
+------------------------------------------------
+[00000033][アダム,char_006 a-dam]
+You don't have to think about it too hard.
+------------------------------------------------
+[00000034][アダム,char_006 a-dam]
+Is there really nothing?
+------------------------------------------------
+[00000035][アダム,char_006 a-dam]
+It's a festival, but I don't have any tricks.
+I don't have the confidence to entertain everyone.
+What should I do?
+------------------------------------------------
+[00000036][アダム,char_006 a-dam]
+If you want to liven up the atmosphere by making noise together,
+I think it might be helpful. I got it.
+------------------------------------------------
+[00000037][アダム,char_006 a-dam]
+Even if you say that, I still feel uneasy...
+I got it.
+Act based on your own judgment depending on the situation.
+------------------------------------------------
+[00000038][アダム,char_006 a-dam]
+very sorry.
+Something entertainment-related
+The program is not implemented...
+------------------------------------------------
+[00000039][アダム,char_006 a-dam]
+At least don't let the festival get messy.
+Be very careful about your actions.
+------------------------------------------------
+[00000040][アダム,char_006 a-dam]
+Mr. Freed doesn't seem to have an answer either.
+I'll think about it a little more myself.
+------------------------------------------------
+[00000041][アダム,char_006 a-dam]
+These days, everyone in the village feels less stressed.
+His mental state also seems to be very stable.
+------------------------------------------------
+[00000042][アダム,char_006 a-dam]
+However, from Mr. Freed and others,
+I feel unstable. I wonder why……?
+------------------------------------------------
+[00000043][アダム,char_006 a-dam]
+I tried to measure the toxicity of the miasma in that valley.
+The concentration of harmful ingredients was too high.
+------------------------------------------------
+[00000044][アダム,char_006 a-dam]
+Unfortunately, my measuring equipment is better.
+It almost broke...
+------------------------------------------------
+[00000045][アダム,char_006 a-dam]
+On the other side of the valley, even for me, a machine,
+It was hotter than the normal temperature.
+If you stay too long, you may run out of heat.
+------------------------------------------------
+[00000046][アダム,char_006 a-dam]
+Seeing everyone in the village lively,
+I feel like my operating efficiency will also increase.
+I would also like to cooperate with the festival.
+------------------------------------------------
+[00000047][アダム,char_006 a-dam]
+Mr. Freed,
+I would like to make a dish using vegetables grown on the farm.
+Could you please help me?
+------------------------------------------------
+[00000048][アダム,char_006 a-dam]
+The excitement of everyone in the village is at its max.
+Is it influenced by your mental state?
+My body also seems to be getting hot.
+------------------------------------------------
+[00000049][アダム,char_006 a-dam]
+Mr. Freed,
+Has the festival not started yet?
+------------------------------------------------
+[00000050][キルマリア,char_007 Kilmaria]
+I'll be expecting!
+------------------------------------------------
+[00000051][キルマリア,char_007 Kilmaria]
+Do your best.
+------------------------------------------------
+[00000052][キルマリア,char_007 Kilmaria]
+Even if you don't worry too much...
+------------------------------------------------
+[00000053][キルマリア,char_007 Kilmaria]
+The village is becoming more and more lively due to the festival.
+------------------------------------------------
+[00000054][キルマリア,char_007 Kilmaria]
+When this happens, I too
+I have to prepare at least one performance...
+------------------------------------------------
+[00000055][キルマリア,char_007 Kilmaria]
+Wow, that's a lot of pressure all of a sudden...
+------------------------------------------------
+[00000056][キルマリア,char_007 Kilmaria]
+However, since it was expected,
+Justice is the answer!
+Please look forward to!!
+------------------------------------------------
+[00000057][キルマリア,char_007 Kilmaria]
+yes! We will do our best to prepare for the festival!
+Let's all have a fun festival!
+------------------------------------------------
+[00000058][キルマリア,char_007 Kilmaria]
+is that so? I felt like there were a lot of expectations...
+Maybe I was too self-conscious.
+------------------------------------------------
+[00000059][キルマリア,char_007 Kilmaria]
+...Um, don't you need any performances?
+...It doesn't seem necessary.
+------------------------------------------------
+[00000060][キルマリア,char_007 Kilmaria]
+Is it a festival?
+By then, no matter what,
+We will show you the results of the ruins investigation!
+------------------------------------------------
+[00000061][キルマリア,char_007 Kilmaria]
+I'll do it! I!
+------------------------------------------------
+[00000062][キルマリア,char_007 Kilmaria]
+It feels like it's finally here!
+In order to enjoy the festival to the fullest,
+We have to solve the mystery of Mr. Panis and this island quickly!
+------------------------------------------------
+[00000063][キルマリア,char_007 Kilmaria]
+Deliver the results of the survey before the festival
+I said that...
+I'm sorry... it wasn't possible...
+------------------------------------------------
+[00000064][キルマリア,char_007 Kilmaria]
+but! This festival celebrates the restoration of your village!
+So let's enjoy this place to the fullest!
+------------------------------------------------
+[00000065][ベルベット,char_008 Velvet]
+It's about finding "power", right?
+------------------------------------------------
+[00000066][ベルベット,char_008 Velvet]
+Enjoying the festival, right?
+------------------------------------------------
+[00000067][ベルベット,char_008 Velvet]
+Getting good at naval battles, right?
+------------------------------------------------
+[00000068][ベルベット,char_008 Velvet]
+The village is in a festive mood.
+But what you should do,
+You haven't forgotten, have you?
+------------------------------------------------
+[00000069][ベルベット,char_008 Velvet]
+that's right!
+Anyway, I remember it properly. I felt relieved.
+------------------------------------------------
+[00000070][ベルベット,char_008 Velvet]
+You're still making fun of this, Freed!
+I asked for it!
+------------------------------------------------
+[00000071][ベルベット,char_008 Velvet]
+It's completely different though...
+Well, to put a damper on this situation,
+I'm not uncouth either.
+------------------------------------------------
+[00000072][ベルベット,char_008 Velvet]
+Let's enjoy this festival!
+I'll have fun with you, so please join me!
+------------------------------------------------
+[00000073][ベルベット,char_008 Velvet]
+Look, I forgot!
+Isn't that just for your convenience?
+------------------------------------------------
+[00000074][ベルベット,char_008 Velvet]
+Information about my reward and the "power" I'm looking for.
+O-wa-su-re-na-ku!
+------------------------------------------------
+[00000075][ベルベット,char_008 Velvet]
+...You've forgotten. That's enough.
+------------------------------------------------
+[00000076][ベルベット,char_008 Velvet]
+Freed, don't look so gloomy.
+Don't think too deeply about Panis, okay?
+------------------------------------------------
+[00000077][ベルベット,char_008 Velvet]
+If that's the case, I...
+Can you make me forget? Ufufufufu♪
+------------------------------------------------
+[00000078][ベルベット,char_008 Velvet]
+Valley of miasma...
+If only I could do something about that miasma...
+------------------------------------------------
+[00000079][ベルベット,char_008 Velvet]
+Hmm...
+In a little while,
+I think I can think of something...
+------------------------------------------------
+[00000080][ベルベット,char_008 Velvet]
+That's too bad, Freed.
+Could you please come again at night?
+------------------------------------------------
+[00000081][ベルベット,char_008 Velvet]
+I love festivals!
+I'm excited and looking forward to it now!
+------------------------------------------------
+[00000082][ベルベット,char_008 Velvet]
+……picture? Because I specialize in eating and drinking,
+There's no need to prepare♪
+------------------------------------------------
+[00000083][ベルベット,char_008 Velvet]
+Now, it's finally the festival!
+We have to eat, drink and make a lot of noise!
+Of course, you can also conquer all the stalls!
+------------------------------------------------
+[00000084][ベルベット,char_008 Velvet]
+Ah, I can't wait to start!
+------------------------------------------------
+[00000085][ガルゼー,char_501]
+I think festivals and reconstruction are somewhat similar.
+Yes, each one of us should do what we can,
+There are scenes where everyone is trying to liven up the village.
+------------------------------------------------
+[00000086][ガルゼー,char_501]
+In this way, everyone's feelings become one,
+It's more important than anything.
+------------------------------------------------
+[00000087][ガルゼー,char_501]
+However, it's been a while since the festival lasted.
+When was the last time you did it...?
+------------------------------------------------
+[00000088][ガルゼー,char_501]
+Anyway, the only thing is that it was a great deal of excitement.
+I remember it well.
+------------------------------------------------
+[00000089][ジム,char_502]
+I'm looking forward to it.
+------------------------------------------------
+[00000090][ジム,char_502]
+What are you doing?
+------------------------------------------------
+[00000091][ジム,char_502]
+What do you do to stand out?
+------------------------------------------------
+[00000092][ジム,char_502]
+Hehehehe...is it a festival...?
+Look, Freed!
+I'll definitely stand out more than you at the festival!
+------------------------------------------------
+[00000093][ジム,char_502]
+You are not the star of the festival!
+I'm Jim-sama!
+------------------------------------------------
+[00000094][ジム,char_502]
+……picture?
+Well, it's gone. I didn't expect to be looked forward to it.
+Ha, it seems like the hurdle has been raised...
+------------------------------------------------
+[00000095][ジム,char_502]
+Damn it!
+I'll show you something that will amaze you!
+I'm looking forward to it!
+------------------------------------------------
+[00000096][ジム,char_502]
+That's...um...
+Well, I guess...I can't do hidden tricks...
+There's nothing, I...
+------------------------------------------------
+[00000097][ジム,char_502]
+Anyway, it stands out!
+I'll think about the method later!
+------------------------------------------------
+[00000098][ジム,char_502]
+picture……?
+Oh, how noisy! For you,
+You don't know how I feel!
+------------------------------------------------
+[00000099][ジム,char_502]
+What are those eyes?
+Don't look at me like I'm sorry!
+------------------------------------------------
+[00000100][ジム,char_502]
+It's been a long time since we've had a festival!
+I can't help but get excited!
+------------------------------------------------
+[00000101][ジム,char_502]
+Which store do you go to for Freed?
+...Is it me?
+For me, of course, it's the grilled fish stall!
+------------------------------------------------
+[00000102][ジム,char_502]
+Eat the fish that Zinga's brother caught,
+I need to be strong like my big brother!
+------------------------------------------------
+[00000103][マイア,char_503]
+Festivals are something everyone prepares for.
+I will also be cooking together with the students.
+------------------------------------------------
+[00000104][マイア,char_503]
+But those kids,
+It would be nice if you could help me, but...
+I don't often eat snacks...
+------------------------------------------------
+[00000105][マイア,char_503]
+Hehehe, about the time of festivals.
+I'll also let you untie me.
+It's a celebration of reconstruction, so it's a little bit nice, right?
+------------------------------------------------
+[00000106][マイア,char_503]
+drunk in front of children
+I was saying something strange,
+Please follow me, Freed-kun.
+------------------------------------------------
+[00000107][アリーゼ,char_504]
+Unusually, my father...
+Don't even say the word "bo" for adventure.
+I'm working hard at the shop!
+------------------------------------------------
+[00000108][アリーゼ,char_504]
+Now...
+The alcohol that everyone drinks at festivals.
+They are procuring it!
+------------------------------------------------
+[00000109][アリーゼ,char_504]
+I have prepared plenty of food and drinks!
+But please wait until the festival starts!
+------------------------------------------------
+[00000110][アリーゼ,char_504]
+Hehe, I get excited when the festival is near.
+My father helps out at the store.
+I'm always happy if it's like this!
+------------------------------------------------
+[00000111][ダイアナ,char_505]
+I have to prepare for the festival too...
+I'll prepare a special item...
+Cursed items or something...hehehe...
+------------------------------------------------
+[00000112][ダイアナ,char_505]
+Freed...I also prepared a cute one...
+What if I bought it for Panis...?
+Should I mark it as sold...? Hehehehehe...♪
+------------------------------------------------
+[00000113][ドルトン,char_506]
+I only make weapons.
+This is a policy and cannot be compromised.
+So, I'm thinking of making a weapon for the festival.
+------------------------------------------------
+[00000114][ドルトン,char_506]
+...By the way, Freed?
+What do you think about festival weapons?
+------------------------------------------------
+[00000115][ドルトン,char_506]
+Oh, Freed.
+The festival weapon is complete.
+------------------------------------------------
+[00000116][ドルトン,char_506]
+...I'm sorry, but I can't sell it to you guys.
+This is for people who don't usually use weapons.
+It was trained to get used to it.
+------------------------------------------------
+[00000117][ドルトン,char_506]
+You guys should buy some normal weapons.
+------------------------------------------------
+[00000118][ロラン,char_507]
+I'm looking forward to the festival!
+There's going to be a lot of shops, right?
+I'm confused about where to go now!
+------------------------------------------------
+[00000119][ロラン,char_507]
+I go to all the stores on festival days!
+I don't know how many there are, but I'll do my best!
+------------------------------------------------
+[00000120][カール,char_508]
+Let's all have fun together!
+------------------------------------------------
+[00000121][カール,char_508]
+I'll help you out as well.
+------------------------------------------------
+[00000122][カール,char_508]
+Don't eat too much.
+------------------------------------------------
+[00000123][カール,char_508]
+I'm looking forward to the festival!
+I play a lot,
+You can even eat a feast...
+------------------------------------------------
+[00000124][カール,char_508]
+Yeah! I'll teach you all sorts of things!
+------------------------------------------------
+[00000125][カール,char_508]
+Yeah!
+We're also doing singing lessons, so please look forward to it!
+------------------------------------------------
+[00000126][カール,char_508]
+I-I know...
+------------------------------------------------
+[00000127][カール,char_508]
+When I was thinking about the festival,
+I'm hungry...
+------------------------------------------------
+[00000128][カール,char_508]
+On festival days, sweet shops are open.
+There will be a lot!
+I really like fish-shaped sweets!
+------------------------------------------------
+[00000129][カール,char_508]
+The festival will start soon!
+I'm so excited, what should I do?
+I don't know which store to go to!
+------------------------------------------------
+[00000130][メリー,char_509]
+I'm going to participate in the Nodojiman competition at the festival!
+...Will there be panis as well?
+If he does appear, he'll be a serious rival...
+------------------------------------------------
+[00000131][メリー,char_509]
+The decoration is so beautiful!
+It doesn't seem like the usual plaza!
+The festival is finally starting!
+------------------------------------------------
+[00000132][ハンス,char_510]
+On the day of the festival, we'll have so much alcohol that you won't be able to drink it all!
+prepared for this day,
+We'll even open some special sake for you!
+------------------------------------------------
+[00000133][ハンス,char_510]
+Well, the festival is about to begin!
+Drink, drink, drink!
+Wow, I'm just as excited as the adventure!!
+------------------------------------------------
+[00000134][ボリス,char_511]
+By the time the festival was held, the village had recovered...
+This is all thanks to you guys.
+Thank you so much.
+------------------------------------------------
+[00000135][ボリス,char_511]
+Once in a while, forget about the battle and enjoy the festival.
+------------------------------------------------
+[00000136][ボリス,char_511]
+It's an auspicious festival to celebrate reconstruction!
+I think I'll try dancing for the first time in a while!
+------------------------------------------------
+[00000137][ボリス,char_511]
+...Waist?
+It's so great to forget about lower back pain!
+------------------------------------------------
+[00000138][デボラ,char_512]
+Thanks to the guardian deities and you,
+The village has been successfully rebuilt.
+Well done, thank you for your hard work.
+------------------------------------------------
+[00000139][デボラ,char_512]
+Please enjoy the festival day.
+------------------------------------------------
+[00000140][デボラ,char_512]
+Festivals are great, aren't they?
+When I was young,
+We used to go around the shops together...
+------------------------------------------------
+[00000141][デボラ,char_512]
+……picture? Ufufufu, no, this kid!
+------------------------------------------------
+[00000142][ハイラム,char_513]
+The decorations for this festival will be extravagant!
+Flashy decorations will make you feel more excited!
+Please look forward to it!
+------------------------------------------------
+[00000143][ハイラム,char_513]
+Now, the festival decorations are ready!
+Pretty good, right?
+Now we just have to wait for the actual performance! I'm looking forward to it!!
+------------------------------------------------
+[00000144][リアン,char_514]
+But, Auntie, you love festivals, right?
+------------------------------------------------
+[00000145][リアン,char_514]
+It seems really difficult.
+------------------------------------------------
+[00000146][リアン,char_514]
+Shall I do it instead?
+------------------------------------------------
+[00000147][リアン,char_514]
+As the festival approaches, there are so many things to do.
+I also want to help decorate the square,
+I also have to bake a lot of bread...
+------------------------------------------------
+[00000148][リアン,char_514]
+Of course!
+As the festival approaches, I'm already excited,
+I can't sit still!
+------------------------------------------------
+[00000149][リアン,char_514]
+Hehehe, that's why this busyness is a happy busyness!
+------------------------------------------------
+[00000150][リアン,char_514]
+You are right!
+But this busyness is also part of the fun of the festival.
+------------------------------------------------
+[00000151][リアン,char_514]
+What are you talking about?
+This busyness is also part of the fun of the festival!
+Please don't take that away from me!
+------------------------------------------------
+[00000152][リアン,char_514]
+...There's no point in trying to run away, Freed.
+I'll make sure to help you, okay?
+------------------------------------------------
+[00000153][リアン,char_514]
+Oh, Freed.
+We also need to prepare bread for the festival.
+I'll do my best and make a lot!
+------------------------------------------------
+[00000154][リアン,char_514]
+Oh, Freed!
+Thanks to you, we have bread for the festival too.
+I've prepared a lot! thank you!
+------------------------------------------------
+[00000155][リアン,char_514]
+...So, Shannon...
+"I'll make a new one for the festival too!"
+I'm so excited...
+------------------------------------------------
+[00000156][リアン,char_514]
+If you notice it, please stop me, okay?
+Did you ask for it?
+------------------------------------------------
+[00000157][ダリオ,char_515]
+Even in the middle of a festival, don't let your guard down.
+As always, keep watch.
+That's us, the vigilante group!
+------------------------------------------------
+[00000158][ダリオ,char_515]
+My job as a watchman is as usual...
+It's a celebration of the village's recovery,
+Can I have a little drink?
+------------------------------------------------
+[00000159][ミルコ,char_516]
+When you're making noise at a festival,
+I have to stay on guard and keep a close watch.
+------------------------------------------------
+[00000160][ミルコ,char_516]
+The festival is finally here...
+Lana and Velvet are
+Will they be dancing at the festival?
+------------------------------------------------
+[00000161][ミルコ,char_516]
+The sight of two people dancing beautifully,
+I want to see it with my own eyes...
+------------------------------------------------
+[00000162][ロドリゴ,char_517]
+During festivals, fireworks are launched from here.
+It's beautiful, so don't miss it!
+------------------------------------------------
+[00000163][ロドリゴ,char_517]
+...If you use that cannon,
+Huge fireworks will be set off.
+Would you like to think about it...?
+------------------------------------------------
+[00000164][ロドリゴ,char_517]
+The fireworks are ready!
+I'm going to launch something extra large and flashy!
+------------------------------------------------
+[00000165][ロドリゴ,char_517]
+Ah, I can't wait to light the fuse!
+------------------------------------------------
+[00000166][ダニエル,char_518]
+I'm planning to serve special cheese on festival days.
+This is a work that Peter and I are proud of and have put a lot of effort into creating.
+It's amazingly delicious!
+------------------------------------------------
+[00000167][ダニエル,char_518]
+Even so, it was a big wild pig.
+With that, everyone in the village should be able to eat it.
+That was helpful, thank you.
+------------------------------------------------
+[00000168][ダニエル,char_518]
+I was thinking of entering the Nodojiman competition, but
+For some reason, Peter doesn't like it...
+Maybe it's better not to participate...?
+------------------------------------------------
+[00000169][ブレンダ,char_519]
+I'm also looking forward to Brenda's skewers.
+------------------------------------------------
+[00000170][ブレンダ,char_519]
+Aunt Leanne was so excited.
+------------------------------------------------
+[00000171][ブレンダ,char_519]
+It's not that different from regular bread, right?
+------------------------------------------------
+[00000172][ブレンダ,char_519]
+Lian just came to buy milk.
+Do you bake a lot of bread for the festival?
+It's fun.
+------------------------------------------------
+[00000173][ブレンダ,char_519]
+After all, when it comes to festivals,
+I have to make that.
+Everyone seems to be looking forward to it.
+------------------------------------------------
+[00000174][ブレンダ,char_519]
+Ufufu, because everyone in the village
+Are you waiting for Lian's bread?
+I have to get myself fired up.
+------------------------------------------------
+[00000175][ブレンダ,char_519]
+That's not true!
+There's always something a little different about festival bread.
+I wonder if they use a special powder...
+------------------------------------------------
+[00000176][ブレンダ,char_519]
+what happened? Did the thought of bread make you hungry?
+------------------------------------------------
+[00000177][ブレンダ,char_519]
+At festivals, ``sheep sables'' shaped like sheep are served.
+I'll treat everyone to a feast.
+This is Daniel's favorite food.
+------------------------------------------------
+[00000178][ブレンダ,char_519]
+Enjoying the festival together as a family
+I'm very grateful.
+------------------------------------------------
+[00000179][ブレンダ,char_519]
+But it's about time for Peter.
+Even if you find a wonderful person to go to a festival with,
+I guess it's okay...?
+------------------------------------------------
+[00000180][ピーター,char_520]
+I was in charge of the Nodojiman Tournament.
+Because this is an important job requested by the village chief,
+I have to try hard.
+------------------------------------------------
+[00000181][ピーター,char_520]
+However, you will have less time to look around the festival,
+I guess it's just a little disappointing...
+------------------------------------------------
+[00000182][ピーター,char_520]
+My father wants to participate in the Nodojiman Contest.
+As a person in charge, it would be better if there were more participants...
+------------------------------------------------
+[00000183][ピーター,char_520]
+But when I met my father at such a place,
+It's really embarrassing, isn't it...?
+------------------------------------------------
+[00000184][ラナ,char_528]
+Oh, I'll go look around with Panis...
+------------------------------------------------
+[00000185][ラナ,char_528]
+Yeah, let's all take a look.
+------------------------------------------------
+[00000186][ラナ,char_528]
+picture? 
+------------------------------------------------
+[00000187][ラナ,char_528]
+Hey, are you having a festival?
+Freed, let's take a look around together, okay?
+------------------------------------------------
+[00000188][ラナ,char_528]
+Ahahahaha!
+Why are you blushing, Freed!
+------------------------------------------------
+[00000189][ラナ,char_528]
+Just kidding, Joe!
+I'm planning on doing business at the festival.
+Freed gets along well with Panis♪
+------------------------------------------------
+[00000190][ラナ,char_528]
+Oh, I'm with Freed.
+It would have been better if it was just the two of us...
+------------------------------------------------
+[00000191][ラナ,char_528]
+Oh, I'm just kidding, Joe!
+I'm planning to open a stall, so
+Everyone come and have fun!
+------------------------------------------------
+[00000192][ラナ,char_528]
+Eh, what is that!
+I want to participate in the festival too!
+------------------------------------------------
+[00000193][ラナ,char_528]
+...Why are you silent?
+Maybe it would be a nuisance if I went?
+------------------------------------------------
+[00000194][ラナ,char_528]
+Is it a festival? Looks like fun!
+The people in the village seem excited too.
+Maybe I should open a shop too!?
+------------------------------------------------
+[00000195][ラナ,char_528]
+I just took a look at the plaza!
+Don't you feel like you're all ready for the festival?
+I got excited too!
+------------------------------------------------
+

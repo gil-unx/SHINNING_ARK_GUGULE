@@ -1,0 +1,551 @@
+[0141]
+*****************
+[00000000][キルマリア,char_007 Kilmaria]
+Where are those ruins?
+Please guide me soon!
+------------------------------------------------
+[00000001][シャノン,char_004 Shannon]
+Well, don't panic.
+First, let's take a look at the group of monsters blocking that road.
+I have to do something.
+------------------------------------------------
+[00000002][ジンガ,char_005 zynga]
+It's a hassle to take a detour.
+Should I just put it away in one go?
+------------------------------------------------
+[00000003][フリード,char_001 Fried]
+That's true too.
+Alright, everyone let's go!
+------------------------------------------------
+[00000004][ジンガ,char_005 zynga]
+Ou!
+------------------------------------------------
+[00000005][キルマリア,char_007 Kilmaria]
+Please finish it quickly.
+I have to hurry to the ruins.
+------------------------------------------------
+[00000006][シャノン,char_004 Shannon]
+...Mr. Kilmaria,
+It seems like they have no intention of fighting together.
+------------------------------------------------
+[00000007][キルマリア,char_007 Kilmaria]
+Is it me?
+Not like that!
+------------------------------------------------
+[00000008][キルマリア,char_007 Kilmaria]
+Fighting alongside people who may be the devil's followers, etc.
+This is a consultation that cannot be done!
+That is against justice!
+------------------------------------------------
+[00000009][シャノン,char_004 Shannon]
+Good grief.
+There is a limit to being stubborn.
+------------------------------------------------
+[00000010][フリード,char_001 Fried]
+It can't be helped, sister.
+Defeat them quickly and move on!
+------------------------------------------------
+[00000011][フリード,char_001 Fried]
+Phew, I managed to sort it out.
+------------------------------------------------
+[00000012][キルマリア,char_007 Kilmaria]
+It looks like the battle is over.
+Now, let's go to the ruins as soon as possible!
+------------------------------------------------
+[00000013][フリード,char_001 Fried]
+Good grief.
+He's such an impatient person...
+------------------------------------------------
+[00000014][パニス,char_002 Panis]
+Freed, look! over there!
+------------------------------------------------
+[00000015][フリード,char_001 Fried]
+Oh, a monster?
+Especially at times like this...
+------------------------------------------------
+[00000016][メリー,char_509]
+Wow!
+Monsters are scary!
+------------------------------------------------
+[00000017][ロラン,char_507]
+Okay, I'll take care of it!
+------------------------------------------------
+[00000018][フリード,char_001 Fried]
+Hey! We'll get rid of the monsters,
+Everyone is hiding in this rocky area. Understood?
+------------------------------------------------
+[00000019][メリー,char_509]
+Gusu...I understand...
+------------------------------------------------
+[00000020][シャノン,char_004 Shannon]
+I'll defeat you soon and come back.
+Everyone, be a good boy and wait for me!
+------------------------------------------------
+[00000021][フリード,char_001 Fried]
+Shannon is right!
+Leave the rest to us!
+------------------------------------------------
+[00000022][フリード,char_001 Fried]
+Okay, now that's all cleared up.
+------------------------------------------------
+[00000023][ロラン,char_507]
+Oh! I really beat them all!
+------------------------------------------------
+[00000024][メリー,char_509]
+Freed, so cool!
+------------------------------------------------
+[00000025][フリード,char_001 Fried]
+Ah!? Here! Has everyone come out?
+I told you to hide properly.
+------------------------------------------------
+[00000026][カール,char_508]
+Because, where Freed and his friends fight,
+I really wanted to see it!
+------------------------------------------------
+[00000027][メリー,char_509]
+Freed was so cool!
+You look like a different person than usual!
+------------------------------------------------
+[00000028][フリード,char_001 Fried]
+Thank you very much.
+But maybe that's something to be happy about...
+------------------------------------------------
+[00000029][パニス,char_002 Panis]
+That's not true.
+Freed is always cool.
+Hey?
+------------------------------------------------
+[00000030][フリード,char_001 Fried]
+Panis...
+thank you. 
+------------------------------------------------
+[00000031][パニス,char_002 Panis]
+Ehehe...
+------------------------------------------------
+[00000032][シャノン,char_004 Shannon]
+Hey there, Freed.
+Don't get carried away just because you're popular with kids.
+Let's finish some errands quickly.
+------------------------------------------------
+[00000033][フリード,char_001 Fried]
+This is the first time I've heard of Katamefuto cotton.
+Where is it?
+------------------------------------------------
+[00000034][シャノン,char_004 Shannon]
+If you walk through the forest, you'll find it easily.
+You can easily tell them apart because they are fluffy.
+------------------------------------------------
+[00000035][パニス,char_002 Panis]
+a! It's so fluffy!
+------------------------------------------------
+[00000036][シャノン,char_004 Shannon]
+Yes, that is Katamefuto cotton.
+Panis, you found it well.
+------------------------------------------------
+[00000037][パニス,char_002 Panis]
+Ehehe~.
+------------------------------------------------
+[00000038][フリード,char_001 Fried]
+Should I harvest it and take it home?
+But there are monsters roaming around.
+------------------------------------------------
+[00000039][ジンガ,char_005 zynga]
+Disturbing monsters are
+I guess I'll just have to clean it up.
+There is no way to detour.
+------------------------------------------------
+[00000040][フリード,char_001 Fried]
+I guess it can't be helped...
+Understood. 
+------------------------------------------------
+[00000041][フリード,char_001 Fried]
+Okay, the monster is gone.
+------------------------------------------------
+[00000042][ジンガ,char_005 zynga]
+Now there are no more obstacles.
+You can collect Katamefuto cotton with peace of mind.
+------------------------------------------------
+[00000043][パニス,char_002 Panis]
+Yay!
+Fluffy and fluffy!
+------------------------------------------------
+[00000044][シャノン,char_004 Shannon]
+Panis, you didn't come here to play.
+Dad is waiting.
+Let's get it quickly and go home.
+------------------------------------------------
+[00000045][フリード,char_001 Fried]
+To think we'll have to fight on a ship...
+It's different from usual.
+------------------------------------------------
+[00000046][シャノン,char_004 Shannon]
+I wonder if I can really fight with this.
+What about Zynga?
+------------------------------------------------
+[00000047][ジンガ,char_005 zynga]
+To be honest, I don't know.
+But we have no choice but to do it, right?
+------------------------------------------------
+[00000048][フリード,char_001 Fried]
+I agree. Everyone, let's go!
+------------------------------------------------
+[00000049][ベルベット,char_008 Velvet]
+Hey, what are you delaying?
+Shoot more flashily!
+------------------------------------------------
+[00000050][バッカス,char_527]
+Well, even if you say that,
+There are many preparations that need to be made before firing a cannon.
+Cleaning the soot, filling it with gunpowder...
+------------------------------------------------
+[00000051][ベルベット,char_008 Velvet]
+Are you telling me to hurry up with that work?
+If you wait, instead of a cannonball,
+I'm going to load your head!
+------------------------------------------------
+[00000052][アダム,char_006 a-dam]
+Enemy heavy weapons attacks are a threat.
+That weapon should be destroyed first.
+------------------------------------------------
+[00000053][フリード,char_001 Fried]
+Having said that, on this unstable footing,
+It can't be helped that it's difficult to do...
+------------------------------------------------
+[00000054][シャノン,char_004 Shannon]
+Better yet, how about destroying the ship itself?
+------------------------------------------------
+[00000055][アダム,char_006 a-dam]
+That strategy works, but it takes too much time.
+------------------------------------------------
+[00000056][フリード,char_001 Fried]
+Either way, everyone please be careful.
+Just avoid a direct hit from that cannon!
+------------------------------------------------
+[00000057][フリード,char_001 Fried]
+Okay, we've done a lot of damage to the ship!
+Somehow I can see the future!
+------------------------------------------------
+[00000058][シャノン,char_004 Shannon]
+Don't let your guard down, Freed.
+There are still enemies left!
+------------------------------------------------
+[00000059][ベルベット,char_008 Velvet]
+What are you doing, Gus!
+I can't use the cannon anymore!
+------------------------------------------------
+[00000060][バッカス,char_527]
+Oh, I'm sorry...if this happens!
+------------------------------------------------
+[00000061][アダム,char_006 a-dam]
+Confirm the existence of a new large firearm!
+It's aimed at us!
+------------------------------------------------
+[00000062][フリード,char_001 Fried]
+What did you say?
+There were still cannons left!?
+------------------------------------------------
+[00000063][バッカス,char_527]
+You did a great job earlier!
+If this happens, I'll blow it to pieces with my main gun!
+------------------------------------------------
+[00000064][ベルベット,char_008 Velvet]
+Why, if such a convenient thing exists.
+Get it out quickly! This trash!!
+------------------------------------------------
+[00000065][シャノン,char_004 Shannon]
+If you were to be hit directly by such a huge cannon,
+There isn't even a single one.
+------------------------------------------------
+[00000066][フリード,char_001 Fried]
+Everyone, concentrate your attacks on that main gun!
+One more breath, let's do our best!
+------------------------------------------------
+[00000067][フリード,char_001 Fried]
+Did you win...?
+------------------------------------------------
+[00000068][シャノン,char_004 Shannon]
+Looks like it's over somehow.
+I'm really tired this time...
+------------------------------------------------
+[00000069][ジンガ,char_005 zynga]
+At one point, I wondered what was going to happen.
+------------------------------------------------
+[00000070][バッカス,char_527]
+Woooooooooo!!
+I was just one step away!
+------------------------------------------------
+[00000071][バッカス,char_527]
+Bell, I'm sorry.
+I'm sure this guy is worthless...!
+------------------------------------------------
+[00000072][ベルベット,char_008 Velvet]
+Hmm...
+I thought so.
+------------------------------------------------
+[00000073][パニス,char_002 Panis]
+Freed, over there!
+Jim is here!
+------------------------------------------------
+[00000074][ジム,char_502]
+Hey, hey!
+Don't come, don't come here!
+------------------------------------------------
+[00000075][フリード,char_001 Fried]
+Are you surrounded by monsters?
+------------------------------------------------
+[00000076][パニス,char_002 Panis]
+Freed, what should we do?
+The gym is going to be tough at this rate!
+------------------------------------------------
+[00000077][フリード,char_001 Fried]
+Oh, I know.
+Jim, I'll help you now!
+------------------------------------------------
+[00000078][フリード,char_001 Fried]
+Okay, now we've defeated the monster!
+Jim, are you hurt?
+------------------------------------------------
+[00000079][ジム,char_502]
+…………
+------------------------------------------------
+[00000080][パニス,char_002 Panis]
+Jim, what's wrong?
+Does it hurt somewhere?
+------------------------------------------------
+[00000081][フリード,char_001 Fried]
+There doesn't seem to be any injury, but...
+I wonder if I'm dazed from shock.
+------------------------------------------------
+[00000082][フリード,char_001 Fried]
+Anyway, it's dangerous to stay here.
+Let's go back to the village.
+Jim, can you stand up?
+------------------------------------------------
+[00000083][ジム,char_502]
+…………
+------------------------------------------------
+[00000084][フリード,char_001 Fried]
+I can't help it...
+Adam, can you carry me?
+------------------------------------------------
+[00000085][アダム,char_006 a-dam]
+I got it.
+------------------------------------------------
+[00000086][シャノン,char_004 Shannon]
+It really does save me a lot of time...
+------------------------------------------------
+[00000087][フリード,char_001 Fried]
+In order to strengthen the ship, we need a large amount of materials.
+Let's quickly collect them and go home!
+------------------------------------------------
+[00000088][シャノン,char_004 Shannon]
+Wait, Freed.
+Before that happens, we have to do something about that monster.
+------------------------------------------------
+[00000089][ジンガ,char_005 zynga]
+Watching out for monsters while chopping down trees
+It's a very difficult task.
+It seems better to take care of them first.
+------------------------------------------------
+[00000090][フリード,char_001 Fried]
+Understood! 
+------------------------------------------------
+[00000091][フリード,char_001 Fried]
+Okay, we managed to get rid of the monster.
+------------------------------------------------
+[00000092][ジンガ,char_005 zynga]
+Ah, that's right.
+All that remains is to gather materials and transport them to the village.
+------------------------------------------------
+[00000093][フリード,char_001 Fried]
+Ah... that's right.
+There was still work to be done...
+------------------------------------------------
+[00000094][シャノン,char_004 Shannon]
+What are you going to do if you forget your original purpose?
+------------------------------------------------
+[00000095][パニス,char_002 Panis]
+Freed, let's do our best together.
+I'll help you with Panis, okay?
+------------------------------------------------
+[00000096][フリード,char_001 Fried]
+……I agree. Okay, let's do our best to collect materials!
+------------------------------------------------
+[00000097][フリード,char_001 Fried]
+Before I knew it, it was already evening.
+It's almost time for it to start getting dark.
+------------------------------------------------
+[00000098][シャノン,char_004 Shannon]
+It's dangerous to explore after dark.
+Until then, let's explore as much as possible.
+------------------------------------------------
+[00000099][フリード,char_001 Fried]
+roger that.
+...When it comes to Kill Maria-san's story, around here,
+There should be an entrance to the ruins.
+------------------------------------------------
+[00000100][フリード,char_001 Fried]
+But there are monsters roaming around,
+I can't take my time exploring it.
+------------------------------------------------
+[00000101][シャノン,char_004 Shannon]
+I can't help it.
+Defeat the monsters before continuing your exploration!
+------------------------------------------------
+[00000102][シャノン,char_004 Shannon]
+Looks like this is the last monster.
+Now I can continue exploring.
+------------------------------------------------
+[00000103][フリード,char_001 Fried]
+But the sun is already setting.
+If you don't find it soon, it'll get dark.
+------------------------------------------------
+[00000104][アダム,char_006 a-dam]
+There is a hollow in the rocky area ahead.
+There seems to be a large space in the back.
+------------------------------------------------
+[00000105][フリード,char_001 Fried]
+picture?Adam, where is the cavity?
+------------------------------------------------
+[00000106][アダム,char_006 a-dam]
+It's right there, straight ahead.
+------------------------------------------------
+[00000107][フリード,char_001 Fried]
+That’s it!
+It was dark and I couldn't see much.
+------------------------------------------------
+[00000108][シャノン,char_004 Shannon]
+But it's weird.
+If it's bright out, you'll probably notice it right away.
+------------------------------------------------
+[00000109][ジンガ,char_005 zynga]
+...I see, I see.
+------------------------------------------------
+[00000110][フリード,char_001 Fried]
+picture?
+Zynga, did you find out something?
+------------------------------------------------
+[00000111][ジンガ,char_005 zynga]
+Moss will grow on this rock.
+Draw a horizontal line on the rock wall.
+------------------------------------------------
+[00000112][ジンガ,char_005 zynga]
+At high tide, up to this line
+It means the tide is coming in.
+The tide is low now, so it's at this height.
+------------------------------------------------
+[00000113][フリード,char_001 Fried]
+Really!
+What Kilmaria explored was
+It was at high tide!
+------------------------------------------------
+[00000114][シャノン,char_004 Shannon]
+That means,
+If it's not this time every day,
+The entrance to the ruins cannot be found.
+------------------------------------------------
+[00000115][ジンガ,char_005 zynga]
+That's what it is.
+I don't have time today.
+Let's explore again tomorrow with Kilmaria.
+------------------------------------------------
+[00000116][キルマリア,char_007 Kilmaria]
+Mr. Panis, please step away a little!
+From now on, that ignorant person,
+I'll give you the hammer of Justice!
+------------------------------------------------
+[00000117][パニス,char_002 Panis]
+No.
+------------------------------------------------
+[00000118][ヴァイオラ,char_003 Viola]
+…………
+------------------------------------------------
+[00000119][ジンガ,char_005 zynga]
+That woman doesn't seem like an ordinary person.
+Freed, be careful.
+------------------------------------------------
+[00000120][フリード,char_001 Fried]
+Oh, I know.
+No matter who the other person is,
+I won't let you kill Panis!
+------------------------------------------------
+[00000121][ヴァイオラ,char_003 Viola]
+Are you interrupting me?
+I can't help it. I'll deal with you all together...
+------------------------------------------------
+[00000122][キルマリア,char_007 Kilmaria]
+What do you think, Viola-san?
+This is the power of Justice!
+------------------------------------------------
+[00000123][ヴァイオラ,char_003 Viola]
+Damn... no...
+But... I can't just ignore it like this...!
+------------------------------------------------
+[00000124][フリード,char_001 Fried]
+@fcFFAAFFAA (This person...
+Why do you look so sad...? )
+------------------------------------------------
+[00000125][フリード,char_001 Fried]
+Jinga, do you think you can go?
+------------------------------------------------
+[00000126][ジンガ,char_005 zynga]
+ah.
+It may not be possible to do it so skillfully...
+It's okay somehow.
+------------------------------------------------
+[00000127][キルマリア,char_007 Kilmaria]
+I'm going with all my heart!
+To that unholy sea devil
+I'll give you my condolences for Justice!
+------------------------------------------------
+[00000128][アダム,char_006 a-dam]
+Enemy body, closest!
+Coming towards us!
+------------------------------------------------
+[00000129][シャノン,char_004 Shannon]
+Looks like they're full of motivation.
+I can't back down now.
+------------------------------------------------
+[00000130][フリード,char_001 Fried]
+In the end, we have no choice but to fight...!
+Understood! 
+------------------------------------------------
+[00000131][キルマリア,char_007 Kilmaria]
+Wow! ...Kehokeho.
+Ugh, I drank seawater...
+------------------------------------------------
+[00000132][フリード,char_001 Fried]
+Is everyone safe!?
+Calm down and get back on track!
+------------------------------------------------
+[00000133][ジンガ,char_005 zynga]
+Hmm...
+After all, naval battles are different...
+------------------------------------------------
+[00000134][シャノン,char_004 Shannon]
+Someone who knows how to fight on a ship,
+I wish you were here...
+------------------------------------------------
+[00000135][フリード,char_001 Fried]
+There's no point in lamenting the lack of military strength.
+What we can do at this moment
+Let's do our best!
+------------------------------------------------
+[00000136][キルマリア,char_007 Kilmaria]
+Did it disappear...?
+------------------------------------------------
+[00000137][アダム,char_006 a-dam]
+Confirm the disappearance of enemy bodies.
+It's our victory.
+------------------------------------------------
+[00000138][フリード,char_001 Fried]
+I see...we won...
+------------------------------------------------
+[00000139][ジンガ,char_005 zynga]
+ah. This guy is just too happy to let go.
+------------------------------------------------
+[00000140][シャノン,char_004 Shannon]
+I think you can see our weaknesses.
+I'm really not good at fighting on ships...
+------------------------------------------------
+

@@ -1,0 +1,2130 @@
+[0562]
+*****************
+[00000000][シャノン,char_004 Shannon]
+Today seems no different than before.
+It doesn't seem to shine as strongly as it did originally.
+------------------------------------------------
+[00000001][フリード,char_001 Fried]
+Panis, what was the song yesterday?
+------------------------------------------------
+[00000002][パニス,char_002 Panis]
+When that child left, I remembered.
+------------------------------------------------
+[00000003][シャノン,char_004 Shannon]
+Does that kid mean giant?
+------------------------------------------------
+[00000004][パニス,char_002 Panis]
+Yeah. I thought I had to sing here.
+------------------------------------------------
+[00000005][ジンガ,char_005 zynga]
+So I tried singing it and it sounded like that
+Does that mean the crystal has begun to shine?
+I don't really understand...
+------------------------------------------------
+[00000006][フリード,char_001 Fried]
+Anyway, once again while it's still bright
+Let's investigate the ruins.
+Maybe I can find something...
+------------------------------------------------
+[00000007][？？？,char_601]
+I found! A terrifying demon that once destroyed the world!
+------------------------------------------------
+[00000008][フリード,char_001 Fried]
+picture? 
+------------------------------------------------
+[00000009][シャノン,char_004 Shannon]
+What are you talking about? No, no!
+------------------------------------------------
+[00000010][？？？,char_601]
+Here it is! 
+------------------------------------------------
+[00000011][アダム,char_006 a-dam]
+Alert!Found the intruder!
+------------------------------------------------
+[00000012][ジンガ,char_005 zynga]
+What! Who are you!?
+------------------------------------------------
+[00000013][キルマリア,char_007 Kilmaria]
+My name is Kill Maria!
+To save the people of the world,
+I'm an exorcist who exorcises evil!
+------------------------------------------------
+[00000014][キルマリア,char_007 Kilmaria]
+In the name of heaven and earth and justice,
+I'll exorcise that demon!
+------------------------------------------------
+[00000015][ジンガ,char_005 zynga]
+Is it the devil?
+------------------------------------------------
+[00000016][シャノン,char_004 Shannon]
+What, a devil?
+Where is that?
+------------------------------------------------
+[00000017][キルマリア,char_007 Kilmaria]
+Are your eyes blind?
+Look, there you are!
+A devil with wings!
+------------------------------------------------
+[00000018][フリード,char_001 Fried]
+Have wings? By any chance, you're talking about Panis!?
+------------------------------------------------
+[00000019][パニス,char_002 Panis]
+picture?
+------------------------------------------------
+[00000020][鋼鱗丸,char_530]
+Moi!?
+------------------------------------------------
+[00000021][キルマリア,char_007 Kilmaria]
+that's right! 
+------------------------------------------------
+[00000022][フリード,char_001 Fried]
+Wow! stop!
+It's dangerous, so put it away!
+------------------------------------------------
+[00000023][キルマリア,char_007 Kilmaria]
+What are you doing! Please move out of the way!
+You can't shoot the devil!
+------------------------------------------------
+[00000024][シャノン,char_004 Shannon]
+You don't have to shoot! I mean, don't shoot!
+There's no way Panis is the devil!
+------------------------------------------------
+[00000025][鋼鱗丸,char_530]
+Momomo, momomo!
+------------------------------------------------
+[00000026][キルマリア,char_007 Kilmaria]
+no! From the results of my research,
+There is no doubt about it!
+------------------------------------------------
+[00000027][キルマリア,char_007 Kilmaria]
+That child was once destroyed by an evil force.
+Bringing destruction to all of Endias,
+He is the devil who destroyed ancient civilization!
+------------------------------------------------
+[00000028][フリード,char_001 Fried]
+Panis!? No way!
+That can't happen!
+------------------------------------------------
+[00000029][キルマリア,char_007 Kilmaria]
+no!Therefore, I was sleeping in the ruins of the continent,
+I tried to exorcise that demon, but...
+------------------------------------------------
+[00000030][キルマリア,char_007 Kilmaria]
+I let the devil escape before I could,
+I've been chasing you for a long time!
+------------------------------------------------
+[00000031][パニス,char_002 Panis]
+……Is that so?
+------------------------------------------------
+[00000032][キルマリア,char_007 Kilmaria]
+Are you trying to pretend you don't know and cheat?
+Even if you make a cute voice like that,
+My Justice will not be discouraged!
+------------------------------------------------
+[00000033][パニス,char_002 Panis]
+Because, Panis, you don't know about your sister, do you?
+------------------------------------------------
+[00000034][キルマリア,char_007 Kilmaria]
+……teeth?
+------------------------------------------------
+[00000035][パニス,char_002 Panis]
+I was chased or something like that.
+You don't remember it at all?
+------------------------------------------------
+[00000036][キルマリア,char_007 Kilmaria]
+really?
+------------------------------------------------
+[00000037][パニス,char_002 Panis]
+Yeah.
+------------------------------------------------
+[00000038][キルマリア,char_007 Kilmaria]
+W-what do you mean?
+I'm sure we should have met at those ruins!?
+------------------------------------------------
+[00000039][キルマリア,char_007 Kilmaria]
+When I tried to exorcise,
+I'm sure it has disappeared somewhere,
+I'm sure you saw the face!
+------------------------------------------------
+[00000040][キルマリア,char_007 Kilmaria]
+Aren't you stupid?
+I'm sure that's the case!
+------------------------------------------------
+[00000041][パニス,char_002 Panis]
+I do not remember……
+------------------------------------------------
+[00000042][フリード,char_001 Fried]
+Ever since Panis arrived on this island,
+He's lost his memory.
+------------------------------------------------
+[00000043][キルマリア,char_007 Kilmaria]
+What was that!?
+------------------------------------------------
+[00000044][シャノン,char_004 Shannon]
+Besides, Panis isn't a devil!
+You have saved our village many times!
+------------------------------------------------
+[00000045][キルマリア,char_007 Kilmaria]
+picture?What do you mean!?
+How could the devil do such a thing?
+------------------------------------------------
+[00000046][ジンガ,char_005 zynga]
+I think it's because he's not a demon?
+------------------------------------------------
+[00000047][キルマリア,char_007 Kilmaria]
+Well, that's...
+However, legends and traditions...
+------------------------------------------------
+[00000048][フリード,char_001 Fried]
+If it were a legend, it would even exist on this island.
+According to island legend, Panis is not a devil.
+I guess he's an angel.
+------------------------------------------------
+[00000049][キルマリア,char_007 Kilmaria]
+What!? The devil is an angel!?
+------------------------------------------------
+[00000050][フリード,char_001 Fried]
+It's an ancient language, so we can't read it, but
+There are also stone monuments related to this story in this ruins.
+I'm told it's still there.
+------------------------------------------------
+[00000051][アダム,char_006 a-dam]
+I was also in this ruins.
+If you'd like, why not check it out?
+------------------------------------------------
+[00000052][キルマリア,char_007 Kilmaria]
+I see, that information is certainly interesting.
+……got it!
+Now, let's investigate those ruins.
+------------------------------------------------
+[00000053][キルマリア,char_007 Kilmaria]
+Let me tell you,
+Even if I try to take that opportunity to let the child escape,
+It's a waste!
+------------------------------------------------
+[00000054][キルマリア,char_007 Kilmaria]
+If you make any strange movements,
+Bang bang in the name of justice!
+Sounds good!
+------------------------------------------------
+[00000055][フリード,char_001 Fried]
+understood……
+By the way, Mr. Kilmaria.
+What is Justice?
+------------------------------------------------
+[00000056][キルマリア,char_007 Kilmaria]
+Justice!
+It is a message of justice descending from heaven!
+It is the light of wisdom that flashes in the hearts of the righteous!
+------------------------------------------------
+[00000057][フリード,char_001 Fried]
+Descending from the sky...? A flash...?
+Does that mean... "gut feeling"?
+------------------------------------------------
+[00000058][キルマリア,char_007 Kilmaria]
+wrong! Justice is Justice!
+------------------------------------------------
+[00000059][フリード,char_001 Fried]
+That's right.
+sorry……
+------------------------------------------------
+[00000060][フリード,char_001 Fried]
+@fcFFAAFFAA (Somehow, a strange person came...)
+------------------------------------------------
+[00000061][キルマリア,char_007 Kilmaria]
+Th-This is……!
+Interesting...too interesting...!
+But, but...
+------------------------------------------------
+[00000062][フリード,char_001 Fried]
+copper? 
+------------------------------------------------
+[00000063][ジンガ,char_005 zynga]
+Because we can't read ancient languages
+I can't say anything...
+------------------------------------------------
+[00000064][ジンガ,char_005 zynga]
+Something like Freed explained earlier
+Is it written?
+------------------------------------------------
+[00000065][キルマリア,char_007 Kilmaria]
+I agree. It is engraved with the legend of an angel who tried to save the world.
+------------------------------------------------
+[00000066][キルマリア,char_007 Kilmaria]
+However, in any legend
+Different legends are common.
+This alone is...
+------------------------------------------------
+[00000067][フリード,char_001 Fried]
+However, the fact that conflicting stories have emerged means that
+There is room for doubt in what I have researched so far.
+Doesn't that mean it came out?
+------------------------------------------------
+[00000068][キルマリア,char_007 Kilmaria]
+I can't help but say that,
+However, just this one example...
+It does not overturn the descriptions in the vast amount of other historical sources.
+------------------------------------------------
+[00000069][シャノン,char_004 Shannon]
+What. If that's the case, why not check out other ruins as well?
+------------------------------------------------
+[00000070][キルマリア,char_007 Kilmaria]
+Other ruins? Ah, I did something like that earlier.
+That's what you said.
+------------------------------------------------
+[00000071][フリード,char_001 Fried]
+Yeah. We don't know all the places, but
+If you were the village chief, I'm sure you would know.
+------------------------------------------------
+[00000072][キルマリア,char_007 Kilmaria]
+I see, you're the village chief...
+got it! May I ask you to meet me?
+------------------------------------------------
+[00000073][フリード,char_001 Fried]
+Understood. Tell me anytime.
+------------------------------------------------
+[00000074][キルマリア,char_007 Kilmaria]
+I asked for it. For today,
+I would like to concentrate on investigating this ruins.
+------------------------------------------------
+[00000075][キルマリア,char_007 Kilmaria]
+Let me tell you!
+If you ever try to deceive me...
+------------------------------------------------
+[00000076][フリード,char_001 Fried]
+Bang bang! right?
+I know you won't do that.
+see you later then.
+------------------------------------------------
+[00000077][パニス,char_002 Panis]
+Kill Maria! Bye bye!
+------------------------------------------------
+[00000078][キルマリア,char_007 Kilmaria]
+Oh, yes……
+That's it! Please don't be too familiar with me!
+------------------------------------------------
+[00000079][フリード,char_001 Fried]
+The village chief, someone who actually wants to meet the village chief.
+I brought him...
+------------------------------------------------
+[00000080][キルマリア,char_007 Kilmaria]
+You are the village chief!
+Please tell me the location of the ruins!
+Thank you!
+------------------------------------------------
+[00000081][ガルゼー,char_501]
+...Freed. this person is?
+------------------------------------------------
+[00000082][フリード,char_001 Fried]
+This person is Kilmaria.
+Panis must be the devil
+He's insistent. So...
+------------------------------------------------
+[00000083][ガルゼー,char_501]
+HM. Are you trying to show me the ruins?
+------------------------------------------------
+[00000084][シャノン,char_004 Shannon]
+You are right. 
+------------------------------------------------
+[00000085][ガルゼー,char_501]
+That's right. I don't know if it will help, but
+There must have been ancient ruins on the cape as well.
+------------------------------------------------
+[00000086][キルマリア,char_007 Kilmaria]
+Cape! Ruins! I see!
+There certainly seems to be some important information!
+------------------------------------------------
+[00000087][ガルゼー,char_501]
+Ah, ah...
+You should go and try it.
+------------------------------------------------
+[00000088][キルマリア,char_007 Kilmaria]
+Yes, I'll go!
+And the hidden truth under justice
+Let's expose it!
+------------------------------------------------
+[00000089][キルマリア,char_007 Kilmaria]
+That is my mission given to me by God!
+Oh, how wonderful!
+------------------------------------------------
+[00000090][ロラン,char_507]
+Hey, who is this older sister?
+------------------------------------------------
+[00000091][メリー,char_509]
+I don't know. But isn't it interesting?
+------------------------------------------------
+[00000092][カール,char_508]
+Is this tippo real?
+------------------------------------------------
+[00000093][キルマリア,char_007 Kilmaria]
+Hey! Your butt will bang!
+------------------------------------------------
+[00000094][フリード,char_001 Fried]
+Well, Mr. Kilmaria.
+If you're ready, why don't you go now?
+------------------------------------------------
+[00000095][キルマリア,char_007 Kilmaria]
+picture?Are you guys going too?
+------------------------------------------------
+[00000096][フリード,char_001 Fried]
+Yeah, I'm just going to show you around.
+------------------------------------------------
+[00000097][キルマリア,char_007 Kilmaria]
+I refuse! With people who may be the devil's followers,
+Cannot accompany!
+That is against justice.
+------------------------------------------------
+[00000098][アダム,char_006 a-dam]
+Currently, we are working together,
+Is that okay?
+------------------------------------------------
+[00000099][キルマリア,char_007 Kilmaria]
+That's it, this is it!
+------------------------------------------------
+[00000100][ジンガ,char_005 zynga]
+...Well, I won't force you to do it if you don't want to, but...
+Do you know the way?
+------------------------------------------------
+[00000101][キルマリア,char_007 Kilmaria]
+cormorant……
+------------------------------------------------
+[00000102][ガルゼー,char_501]
+Besides, there are a lot of monsters on the cape.
+I think it would be better to ask them to escort you.
+------------------------------------------------
+[00000103][キルマリア,char_007 Kilmaria]
+Well, if that's the case,
+There is no way. If you see any suspicious movements...
+------------------------------------------------
+[00000104][パニス,char_002 Panis]
+Bang bang! right?
+------------------------------------------------
+[00000105][ロラン,char_507]
+Hahaha!
+------------------------------------------------
+[00000106][カール,char_508]
+Bang bang! Bang Bang!
+------------------------------------------------
+[00000107][鋼鱗丸,char_530]
+Momoi! Moimoi!
+------------------------------------------------
+[00000108][パニス,char_002 Panis]
+Yeah! Bang Bang!
+------------------------------------------------
+[00000109][メリー,char_509]
+Panis is also bang bang!
+------------------------------------------------
+[00000110][パニス,char_002 Panis]
+yay! Bang Bang!
+------------------------------------------------
+[00000111][キルマリア,char_007 Kilmaria]
+picture?Am I doing something strange?
+------------------------------------------------
+[00000112][シャノン,char_004 Shannon]
+It's okay. Let's go quickly.
+Don't worry about the details.
+------------------------------------------------
+[00000113][キルマリア,char_007 Kilmaria]
+Ha, ha...
+------------------------------------------------
+[00000114][フリード,char_001 Fried]
+This is the ruins that the village chief was talking about.
+------------------------------------------------
+[00000115][シャノン,char_004 Shannon]
+copper? ……that? 
+------------------------------------------------
+[00000116][アダム,char_006 a-dam]
+Over there.
+------------------------------------------------
+[00000117][キルマリア,char_007 Kilmaria]
+Hey, this is it! This style is definitely
+Characteristics of the early Enfield civilization!
+Then, what is engraved here is...
+------------------------------------------------
+[00000118][キルマリア,char_007 Kilmaria]
+wonderful……!
+Rarely seen even on the continent.
+Isn't there a ton of special historical materials?
+------------------------------------------------
+[00000119][ジンガ,char_005 zynga]
+I don't really understand, but
+It seems like you were pleased.
+------------------------------------------------
+[00000120][シャノン,char_004 Shannon]
+It's been a long time since I've been able to eat it.
+------------------------------------------------
+[00000121][キルマリア,char_007 Kilmaria]
+this is?
+I see, this is the legend of an angel that is passed down on this island...
+Is it a stone monument with that written on it?
+------------------------------------------------
+[00000122][フリード,char_001 Fried]
+Did you find it? What does it say?
+------------------------------------------------
+[00000123][キルマリア,char_007 Kilmaria]
+please wait a moment. This part is too blurry to read, but next...
+"I came down to save the world..."
+------------------------------------------------
+[00000124][キルマリア,char_007 Kilmaria]
+What was that!?
+------------------------------------------------
+[00000125][キルマリア,char_007 Kilmaria]
+What do you mean?
+Although other accounts do not contradict other historical sources,
+This is the only thing that is definitely different...
+------------------------------------------------
+[00000126][シャノン,char_004 Shannon]
+Apparently Panis isn't the devil.
+Does it seem written?
+------------------------------------------------
+[00000127][キルマリア,char_007 Kilmaria]
+Oh, yeah. However, I have many
+According to the results of a literature survey,
+This child is definitely a demon...
+------------------------------------------------
+[00000128][パニス,char_002 Panis]
+picture?Why are you staring at Panis?
+------------------------------------------------
+[00000129][キルマリア,char_007 Kilmaria]
+However, when we talked about it up close like this,
+It is hard to believe that such an existence exists.
+This is also my honest opinion...
+------------------------------------------------
+[00000130][ジンガ,char_005 zynga]
+in? 
+------------------------------------------------
+[00000131][キルマリア,char_007 Kilmaria]
+Even if you ask me, "What's wrong?"
+I can't come to a conclusion quickly...
+However, I don't think this inscription is fake.
+------------------------------------------------
+[00000132][キルマリア,char_007 Kilmaria]
+Besides, apparently there is more to it than this.
+Relics related to "angels"
+It seems that it is left behind...
+------------------------------------------------
+[00000133][キルマリア,char_007 Kilmaria]
+got it!I will stay on this island and continue my investigation!
+------------------------------------------------
+[00000134][キルマリア,char_007 Kilmaria]
+A mountain of historical materials left in the ruins,
+Demon... no, observation of Mr. Panis's own behavior!
+There are so many things to investigate!
+------------------------------------------------
+[00000135][フリード,char_001 Fried]
+That's right. But hey,
+If that's the case, I welcome it.
+Well then, let's go back to the village...
+------------------------------------------------
+[00000136][キルマリア,char_007 Kilmaria]
+What are you talking about?
+I still don't trust you
+There isn't!
+------------------------------------------------
+[00000137][フリード,char_001 Fried]
+But what about food?
+------------------------------------------------
+[00000138][キルマリア,char_007 Kilmaria]
+Uh...that's...
+------------------------------------------------
+[00000139][フリード,char_001 Fried]
+it is?
+------------------------------------------------
+[00000140][キルマリア,char_007 Kilmaria]
+Eh...
+I-I'll do it somehow...
+------------------------------------------------
+[00000141][フリード,char_001 Fried]
+……Understood. 
+------------------------------------------------
+[00000142][キルマリア,char_007 Kilmaria]
+really!My favorite food is cream bread!
+------------------------------------------------
+[00000143][フリード,char_001 Fried]
+Yes yes...
+------------------------------------------------
+[00000144][アダム,char_006 a-dam]
+However, camping alone is dangerous.
+I cannot recommend it.
+------------------------------------------------
+[00000145][キルマリア,char_007 Kilmaria]
+Are you okay! We have this gun!
+------------------------------------------------
+[00000146][キルマリア,char_007 Kilmaria]
+When some monsters came near,
+I'll protect myself as well as I can!
+------------------------------------------------
+[00000147][ジンガ,char_005 zynga]
+Well, if you're okay with it,
+He doesn't force it, but...
+------------------------------------------------
+[00000148][ジンガ,char_005 zynga]
+Hey, Freed. In addition to meal delivery,
+Sometimes you should come and check on me
+It might be good...
+------------------------------------------------
+[00000149][フリード,char_001 Fried]
+I agree……
+------------------------------------------------
+[00000150][フリード,char_001 Fried]
+Auntie, did you deliver bread today?
+------------------------------------------------
+[00000151][リアン,char_514]
+Ah, just in the right place.
+I was thinking of ordering a delivery.
+------------------------------------------------
+[00000152][リアン,char_514]
+Sleeping in the ruins of the cape,
+It's about that strange kid.
+------------------------------------------------
+[00000153][フリード,char_001 Fried]
+What about Kilmaria?
+Understood. That's what I was thinking of, so I'll be there for a while.
+------------------------------------------------
+[00000154][パニス,char_002 Panis]
+It's Kill Maria!
+Bang bang, bang! Are you going to deliver it?
+------------------------------------------------
+[00000155][パニス,char_002 Panis]
+Bang bang, bang! Because!
+Ahahahahaha!
+------------------------------------------------
+[00000156][鋼鱗丸,char_530]
+Moi moi moi!
+------------------------------------------------
+[00000157][ロラン,char_507]
+Oh, Panis, bang! of
+Are you going to visit your sister?
+------------------------------------------------
+[00000158][メリー,char_509]
+I want to go too!
+That lady is so funny!
+------------------------------------------------
+[00000159][パニス,char_002 Panis]
+Yeah! 
+------------------------------------------------
+[00000160][フリード,char_001 Fried]
+Hey, wait a minute, Panis!
+I can't take my kids to a place like that!
+Even monsters will appear!
+------------------------------------------------
+[00000161][ロラン,char_507]
+What is it? Panis is good
+Are we no good?
+Zurizo, Freed!
+------------------------------------------------
+[00000162][カール,char_508]
+We want to go too!
+------------------------------------------------
+[00000163][パニス,char_002 Panis]
+Hey, Freed, isn't it okay?
+Bring everyone too!
+------------------------------------------------
+[00000164][フリード,char_001 Fried]
+Even panis!? It can't be helped...
+Everyone must never leave me, right?
+Also, don't do anything on your own! nice?
+------------------------------------------------
+[00000165][ロラン,char_507]
+Understood!
+------------------------------------------------
+[00000166][メリー,char_509]
+I'll do it properly, so it's okay!
+------------------------------------------------
+[00000167][パニス,char_002 Panis]
+Well then, everyone, head towards the cape.
+Shuppatsu! Yes!
+------------------------------------------------
+[00000168][フリード,char_001 Fried]
+It was a troublesome delivery...
+already.
+------------------------------------------------
+[00000169][パニス,char_002 Panis]
+Kill Maria! It's bread!
+We also have cream bread!
+------------------------------------------------
+[00000170][カール,char_508]
+Keer Mariya!
+------------------------------------------------
+[00000171][メリー,char_509]
+Bang bang!
+------------------------------------------------
+[00000172][フリード,char_001 Fried]
+Thank you for waiting. Is it delivery?
+------------------------------------------------
+[00000173][キルマリア,char_007 Kilmaria]
+thank you very much.
+But what about these kids?
+------------------------------------------------
+[00000174][シャノン,char_004 Shannon]
+I don't know why, but you, the children of the village
+It's very popular, isn't it? Because I want to meet you,
+I brought her.
+------------------------------------------------
+[00000175][キルマリア,char_007 Kilmaria]
+Ha, ha... I see.
+I don't really understand...
+------------------------------------------------
+[00000176][カール,char_508]
+oh! What is this stone?
+------------------------------------------------
+[00000177][メリー,char_509]
+Look, look, Panisou!
+This flower is beautiful!
+------------------------------------------------
+[00000178][パニス,char_002 Panis]
+Oh! So amazing!
+------------------------------------------------
+[00000179][ロラン,char_507]
+Which one?
+------------------------------------------------
+[00000180][パニス,char_002 Panis]
+Look! this!
+Isn't it really beautiful?
+------------------------------------------------
+[00000181][キルマリア,char_007 Kilmaria]
+...Mr. Panis gave you flowers?
+------------------------------------------------
+[00000182][キルマリア,char_007 Kilmaria]
+The devil loves a small flower
+Is it something to do...?
+------------------------------------------------
+[00000183][フリード,char_001 Fried]
+Mr. Kilmaria? what happened?
+------------------------------------------------
+[00000184][キルマリア,char_007 Kilmaria]
+picture? excuse me.
+------------------------------------------------
+[00000185][フリード,char_001 Fried]
+Well, it's not really a problem.
+How about more research?
+------------------------------------------------
+[00000186][キルマリア,char_007 Kilmaria]
+Is it a survey? I agree. The more I investigate, the more new facts emerge.
+Every day is very fulfilling!
+------------------------------------------------
+[00000187][フリード,char_001 Fried]
+It seems difficult though...
+Somehow, even more than when we first met,
+I feel more alive.
+------------------------------------------------
+[00000188][キルマリア,char_007 Kilmaria]
+Ah, that may be so.
+When people spend their time doing what they like,
+Because it brings out the tension in life.
+------------------------------------------------
+[00000189][フリード,char_001 Fried]
+thing of interest?
+------------------------------------------------
+[00000190][キルマリア,char_007 Kilmaria]
+yes. This is how we investigate the past.
+I love you already...
+------------------------------------------------
+[00000191][キルマリア,char_007 Kilmaria]
+Of course, it is important to know about past events.
+This is necessary for the duties of an exorcist,
+That being said, I love this kind of research.
+------------------------------------------------
+[00000192][フリード,char_001 Fried]
+That's right.
+------------------------------------------------
+[00000193][キルマリア,char_007 Kilmaria]
+However, most of the facts that appear this time are
+Something that contradicts the historical materials left on the continent.
+Just the content...
+------------------------------------------------
+[00000194][キルマリア,char_007 Kilmaria]
+Honestly, how do you interpret it?
+It's also a fact that is bothering me.
+------------------------------------------------
+[00000195][シャノン,char_004 Shannon]
+That means Panis is not a devil.
+That means you've come to understand, right?
+Did you finally get it?
+------------------------------------------------
+[00000196][キルマリア,char_007 Kilmaria]
+Do you agree? no!The research has not progressed to a satisfactory level yet!
+------------------------------------------------
+[00000197][シャノン,char_004 Shannon]
+Hmm...
+It's pretty stubborn.
+------------------------------------------------
+[00000198][キルマリア,char_007 Kilmaria]
+My research on the continent must have been perfect!
+I can hardly believe that it was a mistake!
+------------------------------------------------
+[00000199][キルマリア,char_007 Kilmaria]
+Above all, Justin
+That's what I told you!
+Although……
+------------------------------------------------
+[00000200][ロラン,char_507]
+ah! Looks delicious! Give it to me too!
+------------------------------------------------
+[00000201][パニス,char_002 Panis]
+Wait a minute?　
+I'm dividing it up now so everyone can eat it!
+------------------------------------------------
+[00000202][パニス,char_002 Panis]
+Snacks taste better when eaten together!
+Hehehehehe!
+------------------------------------------------
+[00000203][ロラン,char_507]
+Is that so! Well then, let's all eat mine too!
+------------------------------------------------
+[00000204][カール,char_508]
+Mine too!
+------------------------------------------------
+[00000205][メリー,char_509]
+Mine too!
+------------------------------------------------
+[00000206][キルマリア,char_007 Kilmaria]
+...read the inscription about the angel,
+When I saw Mr. Panis like that,
+It is also true that questions arise.
+------------------------------------------------
+[00000207][フリード,char_001 Fried]
+That's right……
+------------------------------------------------
+[00000208][キルマリア,char_007 Kilmaria]
+difference! I finished my meal.
+We need to continue our investigation!
+------------------------------------------------
+[00000209][キルマリア,char_007 Kilmaria]
+Thank you for delivering the bread.
+Please give my best regards to Rian as well.
+------------------------------------------------
+[00000210][キルマリア,char_007 Kilmaria]
+Thank you for your dinner!
+If possible, try a less sweet bread next time!
+------------------------------------------------
+[00000211][フリード,char_001 Fried]
+Zynga, what's wrong? It's kind of noisy though.
+------------------------------------------------
+[00000212][ジンガ,char_005 zynga]
+Dangerous! 　
+------------------------------------------------
+[00000213][パニス,char_002 Panis]
+Wow!
+------------------------------------------------
+[00000214][フリード,char_001 Fried]
+What!? This!
+------------------------------------------------
+[00000215][ジンガ,char_005 zynga]
+It's shelling! Bacchus has acquired some strange wisdom!
+They're firing at us from above the sea with cannons!
+------------------------------------------------
+[00000216][アダム,char_006 a-dam]
+Can't we fire back from here?
+------------------------------------------------
+[00000217][ジンガ,char_005 zynga]
+There are no cannons here!
+The cannon that was fired at the giant is now being brought here.
+However, I wonder if I will make it in time...
+------------------------------------------------
+[00000218][シャノン,char_004 Shannon]
+But, to think he would use such a move...
+Isn't Bacchus too quick-witted?
+------------------------------------------------
+[00000219][フリード,char_001 Fried]
+And it doesn't look like Bacchus. everytime,
+There are people who say, ``Get the treasure fairly and squarely.''
+It's not something you should do, right? this.
+------------------------------------------------
+[00000220][シャノン,char_004 Shannon]
+That's right. A “treasure” that never existed!
+Didn't he realize that and get angry?
+------------------------------------------------
+[00000221][ジンガ,char_005 zynga]
+I don't think so...
+What exactly is the change in your state of mind?
+------------------------------------------------
+[00000222][バッカス,char_527]
+Gaaaaaaaaaaaa!
+What do you think?　My ship is so strong!
+------------------------------------------------
+[00000223][シャノン,char_004 Shannon]
+a! 
+------------------------------------------------
+[00000224][バッカス,char_527]
+If you're going to hand over the treasure to me,
+Ask your buddy
+It's okay to stop the bombardment!
+------------------------------------------------
+[00000225][フリード,char_001 Fried]
+Partner? 
+------------------------------------------------
+[00000226][ベルベット,char_008 Velvet]
+Bacchus! Don't say nonsense,
+Keep shooting!
+------------------------------------------------
+[00000227][バッカス,char_527]
+I understand, Bell.
+If you say so, me,
+I'll shoot as many as I want!
+------------------------------------------------
+[00000228][シャノン,char_004 Shannon]
+Why, now! That's not Velvet's voice!
+------------------------------------------------
+[00000229][ジンガ,char_005 zynga]
+I see, that's his wisdom...
+------------------------------------------------
+[00000230][ジム,char_502]
+Big brother of Zynga! The cannon has arrived!
+The vigilantes are loading the ship right now!
+------------------------------------------------
+[00000231][シャノン,char_004 Shannon]
+Are you leaving by boat?
+------------------------------------------------
+[00000232][アダム,char_006 a-dam]
+Do you think it is possible to fire back from here?
+------------------------------------------------
+[00000233][ジンガ,char_005 zynga]
+It would be fine if you are used to shelling,
+We can't really hit it.
+I need to get even a little closer to them.
+------------------------------------------------
+[00000234][シャノン,char_004 Shannon]
+This is my first time fighting on a ship...
+I wonder if I can do it properly...
+------------------------------------------------
+[00000235][フリード,char_001 Fried]
+I don't know.
+But you have to try!
+------------------------------------------------
+[00000236][ベルベット,char_008 Velvet]
+Hmm. I see.
+I lost, but I could see the other side's weaknesses.
+As I thought, those guys aren't good at fighting on ships...
+------------------------------------------------
+[00000237][ベルベット,char_008 Velvet]
+There seems to be plenty of opportunity to take advantage of it...?
+------------------------------------------------
+[00000238][バッカス,char_527]
+Really! It's worth it for me to work hard too!
+------------------------------------------------
+[00000239][バッカス,char_527]
+The ship broke down a little bit, though.
+I'll fix it quickly, so let's work together again!
+------------------------------------------------
+[00000240][ベルベット,char_008 Velvet]
+Two people? What are you talking about? You.
+------------------------------------------------
+[00000241][バッカス,char_527]
+picture? The two of you will join hands to get the treasure, right?
+------------------------------------------------
+[00000242][ベルベット,char_008 Velvet]
+Ah, that story. Sorry, but that's not the case.
+The combination will be resolved.
+------------------------------------------------
+[00000243][バッカス,char_527]
+Eh!? W-why!? W-what's wrong with me?
+Did you do something bad? Was there something wrong?
+If so, I'll fix it! that's why……
+------------------------------------------------
+[00000244][ベルベット,char_008 Velvet]
+There's no end to my complaints about you!
+That's not the problem...
+------------------------------------------------
+[00000245][ベルベット,char_008 Velvet]
+That I don't need you anymore.
+It's pretty useless!
+To put it bluntly, you're fired!
+------------------------------------------------
+[00000246][バッカス,char_527]
+Yeah? Eeeee ℃￥?　Eh, eh, eh!?
+That's right ℃ー￥!
+------------------------------------------------
+[00000247][ジンガ,char_005 zynga]
+Somehow I won...
+Honestly, it was tough.
+------------------------------------------------
+[00000248][フリード,char_001 Fried]
+I agree.
+It was my first time fighting between ships.
+------------------------------------------------
+[00000249][アダム,char_006 a-dam]
+very sorry. It is not installed on me.
+------------------------------------------------
+[00000250][パニス,char_002 Panis]
+It was shaking all the time, so I felt uncomfortable...
+------------------------------------------------
+[00000251][鋼鱗丸,char_530]
+Too...
+------------------------------------------------
+[00000252][シャノン,char_004 Shannon]
+As for the ship itself, that one is better suited for battle,
+If Bacchus raises his arm, I might give up.
+------------------------------------------------
+[00000253][ジンガ,char_005 zynga]
+Without even waiting for Bacchus to raise his arm,
+If other pirates...for example, Levin attack with a ship,
+There's nothing I can do about it at the moment.
+------------------------------------------------
+[00000254][フリード,char_001 Fried]
+Hmm...
+------------------------------------------------
+[00000255][パニス,char_002 Panis]
+Freed, what's wrong?
+Is Freed disgusting too?
+------------------------------------------------
+[00000256][フリード,char_001 Fried]
+No. What comes from the sea is
+I guess it's not just pirates.
+------------------------------------------------
+[00000257][シャノン,char_004 Shannon]
+What do you mean?
+------------------------------------------------
+[00000258][フリード,char_001 Fried]
+In other words, a giant like the other day appeared in the sea,
+He didn't go up to the island,
+If he were to attack while still in the sea...
+------------------------------------------------
+[00000259][ジンガ,char_005 zynga]
+nothing……!
+------------------------------------------------
+[00000260][フリード,char_001 Fried]
+Panis also said, ``Maybe another child will come.''
+It's not impossible, right?
+------------------------------------------------
+[00000261][アダム,char_006 a-dam]
+Since the identity of the enemy is unknown,
+Is this a situation that can be fully anticipated?
+------------------------------------------------
+[00000262][フリード,char_001 Fried]
+If that happens,
+I wonder what I should do...
+------------------------------------------------
+[00000263][ジンガ,char_005 zynga]
+Hmm...
+Anyway, I need to take measures quickly.
+But what should I do...
+------------------------------------------------
+[00000264][フリード,char_001 Fried]
+Lana, would you mind?
+There's something I'd like to discuss with you.
+------------------------------------------------
+[00000265][ラナ,char_528]
+consultation? What what?
+------------------------------------------------
+[00000266][フリード,char_001 Fried]
+In fact, recently, pirates have been attacking the island.
+They started attacking from the top of the ship...
+------------------------------------------------
+[00000267][ラナ,char_528]
+On the ship...?
+------------------------------------------------
+[00000268][ラナ,char_528]
+Hmm, I see.
+To the enemy attacking from the sea,
+How should I fight against it...
+------------------------------------------------
+[00000269][ジンガ,char_005 zynga]
+Until now, we have never thought of using ships to fight.
+Because I had never thought about it.
+I have no idea what to do.
+------------------------------------------------
+[00000270][ジンガ,char_005 zynga]
+If you have any advice please
+I'd like to hear it.
+------------------------------------------------
+[00000271][ラナ,char_528]
+Even if you say that, I think so too.
+There's no chance to fight using a ship...
+------------------------------------------------
+[00000272][ラナ,char_528]
+Well, sometimes you can meet pirates,
+Most of the time, I manage to escape by making use of my boat feet.
+------------------------------------------------
+[00000273][ラナ,char_528]
+a! Yes, this.
+------------------------------------------------
+[00000274][ジンガ,char_005 zynga]
+what? “Sea wolf speaks a lot”…?
+------------------------------------------------
+[00000275][ラナ,char_528]
+It's a memoir written by a privateer captain from some country.
+There are detailed accounts of my experiences in battles using ships.
+There's also talk of modifying the ship, so it might be helpful.
+------------------------------------------------
+[00000276][ジンガ,char_005 zynga]
+I see……
+------------------------------------------------
+[00000277][ラナ,char_528]
+I guess that's all I can do.
+All that's left is to do your best and help Zynga plan the modification of the ship.
+Why don't you try standing it up?
+------------------------------------------------
+[00000278][ジンガ,char_005 zynga]
+I?
+------------------------------------------------
+[00000279][ラナ,char_528]
+Because out of all of us, the one who knows the most about the sea and ships is
+Isn't it Zynga? In that case, Zynga would be the right person.
+Are you okay! 
+------------------------------------------------
+[00000280][ラナ,char_528]
+Well then, I have a business meeting so this is it.
+Good luck!
+------------------------------------------------
+[00000281][ジンガ,char_005 zynga]
+Oh, oh...
+------------------------------------------------
+[00000282][シャノン,char_004 Shannon]
+Zynga, what does it say?
+------------------------------------------------
+[00000283][ジンガ,char_005 zynga]
+Well, wait. Let's read it first.
+------------------------------------------------
+[00000284][ジンガ,char_005 zynga]
+got it.
+------------------------------------------------
+[00000285][パニス,char_002 Panis]
+Story! Tell me a story!
+------------------------------------------------
+[00000286][フリード,char_001 Fried]
+No, Panis. This isn't that kind of book.
+So, Zynga. What was written?
+------------------------------------------------
+[00000287][ジンガ,char_005 zynga]
+"If your ship is inferior in firepower to the enemy ship,
+Think about increasing your speed.''
+------------------------------------------------
+[00000288][ジンガ,char_005 zynga]
+``Also, preparations to protect against incoming shells.
+It must not be taken lightly."
+------------------------------------------------
+[00000289][アダム,char_006 a-dam]
+I see. How do you specifically apply it?
+------------------------------------------------
+[00000290][ジンガ,char_005 zynga]
+That's right. Whatever you do,
+Anyway, I need materials.
+Let's go to the forest and collect lumber and materials for sails.
+------------------------------------------------
+[00000291][アダム,char_006 a-dam]
+I got it. 
+------------------------------------------------
+[00000292][パニス,char_002 Panis]
+Wow! Are you stronger than before? Hey, are you strong!?
+------------------------------------------------
+[00000293][ジンガ,char_005 zynga]
+Well... that's right.
+Speaking of getting stronger,
+It should be stronger than before.
+------------------------------------------------
+[00000294][シャノン,char_004 Shannon]
+What's up, Zynga?
+Even though I was able to strengthen my ship,
+She doesn't have a funny look on her face.
+------------------------------------------------
+[00000295][ジンガ,char_005 zynga]
+It was certainly possible to strengthen it, but
+How common is this?
+That's what I thought...
+------------------------------------------------
+[00000296][ジンガ,char_005 zynga]
+Not even giants, but pirates,
+I don't know if I have a chance of winning.
+After all, we are amateurs.
+------------------------------------------------
+[00000297][フリード,char_001 Fried]
+There's nothing to worry about.
+Zynga is very knowledgeable about the ocean.
+------------------------------------------------
+[00000298][ジンガ,char_005 zynga]
+Of course, when it comes to the sea,
+I think I know,
+If it's a fish, I won't lose to anyone.
+------------------------------------------------
+[00000299][ジンガ,char_005 zynga]
+However, the opponent is a pirate ship, much less a giant.
+I don't even know how to fight.
+------------------------------------------------
+[00000300][ジンガ,char_005 zynga]
+At least someone knows how to fight at sea.
+If you're on my side...
+I guess it's quite different...
+------------------------------------------------
+[00000301][シャノン,char_004 Shannon]
+I see……
+------------------------------------------------
+[00000302][フリード,char_001 Fried]
+But, Zynga. I took the trouble to strengthen the ship,
+Let's try to fight as well as possible!
+------------------------------------------------
+[00000303][ジンガ,char_005 zynga]
+That's right. That's all I have for now.
+------------------------------------------------
+[00000304][フリード,char_001 Fried]
+oh yeah. Maybe I'll learn how to fight better...
+------------------------------------------------
+[00000305][フリード,char_001 Fried]
+@fcFFAAFFAA (But the best thing is that the enemy doesn't attack from the sea.
+I'll give it to you though. Especially that giant...)
+------------------------------------------------
+[00000306][フリード,char_001 Fried]
+Mr. Kilmaria, are you there?
+I came to check on you.
+What do these ruins look like?
+------------------------------------------------
+[00000307][パニス,char_002 Panis]
+Kill Maria! Are you there?
+------------------------------------------------
+[00000308][キルマリア,char_007 Kilmaria]
+Yes......
+------------------------------------------------
+[00000309][フリード,char_001 Fried]
+picture?  what happened?
+Do you look pale somehow?
+------------------------------------------------
+[00000310][パニス,char_002 Panis]
+Kill Maria, are you sick?
+------------------------------------------------
+[00000311][キルマリア,char_007 Kilmaria]
+picture? It's just that I haven't slept for about 3 days...
+------------------------------------------------
+[00000312][シャノン,char_004 Shannon]
+Are you not sleeping!? Why!
+------------------------------------------------
+[00000313][キルマリア,char_007 Kilmaria]
+That's right, there are quite a few ruins here.
+There are many interesting relics...
+------------------------------------------------
+[00000314][キルマリア,char_007 Kilmaria]
+While I was researching this and that,
+I forgot to sleep and eat...
+------------------------------------------------
+[00000315][フリード,char_001 Fried]
+Haven't you eaten yet? The bread has arrived, right?
+------------------------------------------------
+[00000316][パニス,char_002 Panis]
+Freed, there's a lot of bread over there...
+------------------------------------------------
+[00000317][ジンガ,char_005 zynga]
+Why are you so reckless again...
+------------------------------------------------
+[00000318][パニス,char_002 Panis]
+Um...
+------------------------------------------------
+[00000319][フリード,char_001 Fried]
+Panis? Where are you going?
+------------------------------------------------
+[00000320][パニス,char_002 Panis]
+yes! Would you like to eat this?
+------------------------------------------------
+[00000321][キルマリア,char_007 Kilmaria]
+……picture?
+------------------------------------------------
+[00000322][パニス,char_002 Panis]
+No good? I have to eat properly.
+Are you going to get sick?
+------------------------------------------------
+[00000323][鋼鱗丸,char_530]
+Momoi moi, momoi?
+------------------------------------------------
+[00000324][キルマリア,char_007 Kilmaria]
+Ha, ha...
+------------------------------------------------
+[00000325][パニス,char_002 Panis]
+So, yes, this. Did you eat bread?
+Because Freed and his sister baked the bread,
+Isn't it very delicious?
+------------------------------------------------
+[00000326][キルマリア,char_007 Kilmaria]
+Are you... worried about me...?
+------------------------------------------------
+[00000327][キルマリア,char_007 Kilmaria]
+thank you.
+So, following your advice,
+I'll take this bread...
+------------------------------------------------
+[00000328][キルマリア,char_007 Kilmaria]
+…………
+------------------------------------------------
+[00000329][キルマリア,char_007 Kilmaria]
+you……
+Maybe it's not the devil.
+------------------------------------------------
+[00000330][フリード,char_001 Fried]
+Mr. Kilmaria...
+------------------------------------------------
+[00000331][パニス,char_002 Panis]
+There's no such thing as a bear.
+Panis is panis, right?
+------------------------------------------------
+[00000332][キルマリア,char_007 Kilmaria]
+Hehehe, that's right.
+Please excuse me, Mr. Panis.
+------------------------------------------------
+[00000333][フリード,char_001 Fried]
+But...anyway, aside from that,
+This life is too reckless.
+I know you're busy with research.
+------------------------------------------------
+[00000334][フリード,char_001 Fried]
+Is there anything I can help you with?
+Isn't this bad for your health?
+------------------------------------------------
+[00000335][キルマリア,char_007 Kilmaria]
+Can you help me?
+That's helpful.
+Actually, I heard from the village chief...
+------------------------------------------------
+[00000336][キルマリア,char_007 Kilmaria]
+In a cave on a cliff along the coast
+Apparently there are ruins.
+I was thinking of going there to investigate the other day...
+------------------------------------------------
+[00000337][キルマリア,char_007 Kilmaria]
+In the end, I couldn't find the entrance to the ruins,
+He has returned.
+------------------------------------------------
+[00000338][キルマリア,char_007 Kilmaria]
+After all, the monsters that appear around there are
+It's too strong, I can't handle it by myself...
+------------------------------------------------
+[00000339][フリード,char_001 Fried]
+Wait a minute?
+I don't know what you want me to help you with...
+------------------------------------------------
+[00000340][キルマリア,char_007 Kilmaria]
+Yeah. 
+------------------------------------------------
+[00000341][フリード,char_001 Fried]
+I guess that's what it is...
+What I said was
+That's not what I meant though.
+------------------------------------------------
+[00000342][ジンガ,char_005 zynga]
+However, as Kilmaria,
+Can't you help but worry about the ruins?
+------------------------------------------------
+[00000343][ジンガ,char_005 zynga]
+If you can't find the entrance,
+You can't rest in peace.
+------------------------------------------------
+[00000344][キルマリア,char_007 Kilmaria]
+that's right! Oops……
+------------------------------------------------
+[00000345][シャノン,char_004 Shannon]
+Hey, are you okay!?
+------------------------------------------------
+[00000346][アダム,char_006 a-dam]
+It seems to be dizziness due to fatigue.
+take care.
+------------------------------------------------
+[00000347][フリード,char_001 Fried]
+Oh my, I can't help it.
+Okay, I'll help you find the entrance.
+------------------------------------------------
+[00000348][フリード,char_001 Fried]
+Instead! In the meantime, Kill Maria should take a good rest.
+It's really bad if you don't sleep properly.
+------------------------------------------------
+[00000349][シャノン,char_004 Shannon]
+Freed is right.
+Good? 
+------------------------------------------------
+[00000350][パニス,char_002 Panis]
+Good!
+------------------------------------------------
+[00000351][キルマリア,char_007 Kilmaria]
+Yes, I understand.
+Thank you……
+------------------------------------------------
+[00000352][キルマリア,char_007 Kilmaria]
+You found the entrance to the ruins!
+Thank you for your cooperation!
+------------------------------------------------
+[00000353][フリード,char_001 Fried]
+picture? 
+------------------------------------------------
+[00000354][パニス,char_002 Panis]
+Killmaria is so energetic!
+------------------------------------------------
+[00000355][キルマリア,char_007 Kilmaria]
+Yeah. I took a nap until everyone returned.
+------------------------------------------------
+[00000356][ジンガ,char_005 zynga]
+Really. 
+------------------------------------------------
+[00000357][キルマリア,char_007 Kilmaria]
+Thanks to you, I feel better,
+I would like to go there right away.
+------------------------------------------------
+[00000358][シャノン,char_004 Shannon]
+from now? Shall we do it tomorrow?
+------------------------------------------------
+[00000359][フリード,char_001 Fried]
+that's right. 
+------------------------------------------------
+[00000360][キルマリア,char_007 Kilmaria]
+is that so. 
+------------------------------------------------
+[00000361][ジンガ,char_005 zynga]
+Come to think of it, I thought that earlier too...
+You're the first one to act with us.
+You hated it, didn't you? Is it okay now?
+------------------------------------------------
+[00000362][シャノン,char_004 Shannon]
+That's right. Are you trying to exorcise Panis?
+I stopped saying it.
+------------------------------------------------
+[00000363][キルマリア,char_007 Kilmaria]
+Oh, that's that...
+Times were different then and now.
+No, it's only been a few days...
+------------------------------------------------
+[00000364][キルマリア,char_007 Kilmaria]
+Above all, I am here like this.
+Thanks to your kindness, we are able to continue our research.
+Taking that into consideration, what can I say...
+------------------------------------------------
+[00000365][アダム,char_006 a-dam]
+Kilmaria, please calm down.
+Based on human customs, you
+It sounds like you're joking.
+------------------------------------------------
+[00000366][キルマリア,char_007 Kilmaria]
+picture!?
+Oh, is that so? I agree. Eh...hmm...
+------------------------------------------------
+[00000367][キルマリア,char_007 Kilmaria]
+As Mr. Panis wrote on the island's relics,
+Regardless of whether or not he is the one who will save the world,
+As for whether he is a demon...
+------------------------------------------------
+[00000368][キルマリア,char_007 Kilmaria]
+I think there is a lot of room for doubt.
+It's up to you to decide. yes.
+------------------------------------------------
+[00000369][キルマリア,char_007 Kilmaria]
+Therefore, we conducted further investigation,
+Until that conclusion is reached, Mr. Panis
+I'm not trying to exorcise it.
+------------------------------------------------
+[00000370][キルマリア,char_007 Kilmaria]
+“If in doubt, don’t exorcise!”
+This is the correct way of justice!
+------------------------------------------------
+[00000371][フリード,char_001 Fried]
+I don't really understand it, but
+I felt relieved for the time being.
+------------------------------------------------
+[00000372][シャノン,char_004 Shannon]
+Well then, I'll come and pick you up before going to the cave on the cliff.
+I think you should rest today.
+------------------------------------------------
+[00000373][キルマリア,char_007 Kilmaria]
+That might be better.
+See you tomorrow!
+------------------------------------------------
+[00000374][フリード,char_001 Fried]
+Hello Kilmaria,
+No, maybe it's already "Good evening"?
+Are you ready to go out?
+------------------------------------------------
+[00000375][キルマリア,char_007 Kilmaria]
+yes! 
+------------------------------------------------
+[00000376][シャノン,char_004 Shannon]
+I'm as excited as ever.
+Are you looking forward to seeing the ruins?
+------------------------------------------------
+[00000377][キルマリア,char_007 Kilmaria]
+Yeah! It's always fun!
+Hurry up and let's go to the cliff cave!
+------------------------------------------------
+[00000378][ジンガ,char_005 zynga]
+It's good that you're fine.
+By the time we reached the cliff cave,
+You might run into a slightly stronger opponent.
+------------------------------------------------
+[00000379][キルマリア,char_007 Kilmaria]
+No problem!
+In the name of Justice,
+You can defeat monsters in no time!
+------------------------------------------------
+[00000380][キルマリア,char_007 Kilmaria]
+So everyone, let's go!
+------------------------------------------------
+[00000381][キルマリア,char_007 Kilmaria]
+I finally arrived...!
+Let's start investigating!
+------------------------------------------------
+[00000382][フリード,char_001 Fried]
+Good luck, Kilmaria.
+------------------------------------------------
+[00000383][シャノン,char_004 Shannon]
+Well, what should we do in the meantime?
+------------------------------------------------
+[00000384][ジンガ,char_005 zynga]
+I'll just relax and go fishing.
+Panis, Adam, do you guys want to try it too?
+------------------------------------------------
+[00000385][パニス,char_002 Panis]
+fishing? Panis also catches fish!
+------------------------------------------------
+[00000386][ジンガ,char_005 zynga]
+Hahaha, I see.
+Well then, let's make a trick.
+What will Adam do?
+------------------------------------------------
+[00000387][アダム,char_006 a-dam]
+There is a change in spatial mass.
+Someone may be using teleportation magic.
+------------------------------------------------
+[00000388][ジンガ,char_005 zynga]
+what? 
+------------------------------------------------
+[00000389][フリード,char_001 Fried]
+Adam, can you explain this to me?
+------------------------------------------------
+[00000390][アダム,char_006 a-dam]
+In other words……
+------------------------------------------------
+[00000391][？？？,char_601]
+…………
+------------------------------------------------
+[00000392][シャノン,char_004 Shannon]
+What!? What, you!
+Where did it come from?
+------------------------------------------------
+[00000393][パニス,char_002 Panis]
+Who is your sister?
+------------------------------------------------
+[00000394][？？？,char_601]
+...Are you Panis?
+------------------------------------------------
+[00000395][パニス,char_002 Panis]
+Yeah. 
+------------------------------------------------
+[00000396][ヴァイオラ,char_003 Viola]
+Yes, that was good. You're not the same person, are you?
+I'm Viola.
+------------------------------------------------
+[00000397][ヴァイオラ,char_003 Viola]
+I came to kill you.
+------------------------------------------------
+[00000398][パニス,char_002 Panis]
+picture?
+------------------------------------------------
+[00000399][フリード,char_001 Fried]
+Panis, let's run!
+------------------------------------------------
+[00000400][パニス,char_002 Panis]
+No!
+------------------------------------------------
+[00000401][鋼鱗丸,char_530]
+Moi!
+------------------------------------------------
+[00000402][ヴァイオラ,char_003 Viola]
+I won't let you escape!
+------------------------------------------------
+[00000403][パニス,char_002 Panis]
+Ha, ha, ha...
+------------------------------------------------
+[00000404][フリード,char_001 Fried]
+Panis... are you okay?
+------------------------------------------------
+[00000405][ヴァイオラ,char_003 Viola]
+It's not okay.
+------------------------------------------------
+[00000406][フリード,char_001 Fried]
+Wow!
+------------------------------------------------
+[00000407][パニス,char_002 Panis]
+Yay!
+------------------------------------------------
+[00000408][ヴァイオラ,char_003 Viola]
+It's a waste.
+------------------------------------------------
+[00000409][フリード,char_001 Fried]
+Wait please!Why are you targeting Panis?
+------------------------------------------------
+[00000410][ヴァイオラ,char_003 Viola]
+I'll tell you later. After killing.
+------------------------------------------------
+[00000411][パニス,char_002 Panis]
+Oh no! It's scary!
+------------------------------------------------
+[00000412][キルマリア,char_007 Kilmaria]
+That's it! If you move even one step,
+I'll hit Justice right in your head!
+------------------------------------------------
+[00000413][ヴァイオラ,char_003 Viola]
+do not bother.
+------------------------------------------------
+[00000414][キルマリア,char_007 Kilmaria]
+no! Apparently you too, Mr. Panis.
+It seems like you think he's the devil?
+------------------------------------------------
+[00000415][ヴァイオラ,char_003 Viola]
+……teeth?
+------------------------------------------------
+[00000416][キルマリア,char_007 Kilmaria]
+However, to conclude that Mr. Panis is a devil is
+It seems unfounded.
+Certainly, in the records and ancient documents left on the continent...
+------------------------------------------------
+[00000417][キルマリア,char_007 Kilmaria]
+There is a description of a devil who looks like Mr. Panis.
+You can see it. But on the other hand, on this island,
+There are many historical documents that deny this.
+------------------------------------------------
+[00000418][キルマリア,char_007 Kilmaria]
+In addition, Mr. Panis' own words and actions,
+What is the devil left in ancient documents?
+It's like a far cry...
+------------------------------------------------
+[00000419][キルマリア,char_007 Kilmaria]
+Perhaps she is the devil mentioned in ancient texts.
+Those with a similar appearance are
+I think it's just a coincidence. Therefore...
+------------------------------------------------
+[00000420][ヴァイオラ,char_003 Viola]
+The reason I killed this child is
+It has nothing to do with that.
+------------------------------------------------
+[00000421][ヴァイオラ,char_003 Viola]
+I will kill this child
+But this child is here now.
+It's just that.
+------------------------------------------------
+[00000422][キルマリア,char_007 Kilmaria]
+What was that!?
+you are not a devil or anything
+Just a weak girl...
+------------------------------------------------
+[00000423][キルマリア,char_007 Kilmaria]
+Just because I'm there
+Are you trying to kill me?
+------------------------------------------------
+[00000424][ヴァイオラ,char_003 Viola]
+That alone is enough.
+Get out of there.
+------------------------------------------------
+[00000425][キルマリア,char_007 Kilmaria]
+What...
+I can't forgive...!
+I will never forgive you!
+------------------------------------------------
+[00000426][キルマリア,char_007 Kilmaria]
+In the name of God and Light and Justice,
+It is not Mr. Panis who should be exorcised!
+It's you!
+------------------------------------------------
+[00000427][フリード,char_001 Fried]
+Kill Maria!
+------------------------------------------------
+[00000428][キルマリア,char_007 Kilmaria]
+Mr. Freed! everyone! With Viola over there,
+Let us teach you the importance of life!
+------------------------------------------------
+[00000429][キルマリア,char_007 Kilmaria]
+here we go! 
+------------------------------------------------
+[00000430][ヴァイオラ,char_003 Viola]
+Next time, it won't be like this...
+I'll definitely kill you...
+------------------------------------------------
+[00000431][ジンガ,char_005 zynga]
+Had disappeared……?
+------------------------------------------------
+[00000432][アダム,char_006 a-dam]
+Target transfer confirmed.
+------------------------------------------------
+[00000433][フリード,char_001 Fried]
+good. 
+------------------------------------------------
+[00000434][シャノン,char_004 Shannon]
+But I said, "Next time."
+It's hard enough just to be a giant, but for someone like that...
+------------------------------------------------
+[00000435][パニス,char_002 Panis]
+Freed...
+older sister……
+it's okay? 
+------------------------------------------------
+[00000436][パニス,char_002 Panis]
+That person came again,
+Everyone will protect me!
+It's always like that!
+------------------------------------------------
+[00000437][パニス,char_002 Panis]
+That's why Panis is not scary!
+------------------------------------------------
+[00000438][ジンガ,char_005 zynga]
+That's it. Freed and Shannon, and me and Adam...
+I'll definitely take you...
+------------------------------------------------
+[00000439][キルマリア,char_007 Kilmaria]
+And me too!
+I will protect Mr. Panis too!
+------------------------------------------------
+[00000440][ジンガ,char_005 zynga]
+what?
+------------------------------------------------
+[00000441][フリード,char_001 Fried]
+Ki, Kill Maria?　
+Because Kilmaria-san...
+------------------------------------------------
+[00000442][キルマリア,char_007 Kilmaria]
+Yeah. However, the ruins and Mr. Panis himself
+Result from the research……
+------------------------------------------------
+[00000443][キルマリア,char_007 Kilmaria]
+Mr. Panis is not the devil.
+He became convinced.
+He does not exorcise anyone who is not a demon.
+------------------------------------------------
+[00000444][シャノン,char_004 Shannon]
+It took quite a while, but
+I'm glad that you seemed to understand.
+------------------------------------------------
+[00000445][キルマリア,char_007 Kilmaria]
+Yeah, I understand!
+Now that I understand, I am Mr. Panis.
+I want to be on the side of protecting it.
+------------------------------------------------
+[00000446][キルマリア,char_007 Kilmaria]
+Protecting innocent people from malicious people
+That is what Justice is,
+It's the most just justice!
+------------------------------------------------
+[00000447][フリード,char_001 Fried]
+Well, I don't really understand the meaning of the word, but
+I'm happy to help you anyway.
+Thank you for your continued support.
+------------------------------------------------
+[00000448][キルマリア,char_007 Kilmaria]
+Nice to meet you, too!
+------------------------------------------------
+[00000449][キルマリア,char_007 Kilmaria]
+I see. It seems like the ages are almost the same.
+You can see that from the design here.
+------------------------------------------------
+[00000450][キルマリア,char_007 Kilmaria]
+However, what exactly is this stone statue?
+I can't quite grasp that.
+------------------------------------------------
+[00000451][フリード,char_001 Fried]
+That's right……
+By the way, Mr. Kilmaria?
+Why are you still investigating?
+------------------------------------------------
+[00000452][キルマリア,char_007 Kilmaria]
+Why?
+------------------------------------------------
+[00000453][フリード,char_001 Fried]
+Because Panis isn't the devil.
+You understand, right?
+If that's the case, there's no need for any more research, right?
+------------------------------------------------
+[00000454][キルマリア,char_007 Kilmaria]
+Oh, is that what you mean?
+Well...it's just pure curiosity...
+------------------------------------------------
+[00000455][キルマリア,char_007 Kilmaria]
+……Do not you care about this?
+The true identity of Mr. Panis.
+Who on earth is he?...
+------------------------------------------------
+[00000456][フリード,char_001 Fried]
+Panis' true identity?
+------------------------------------------------
+[00000457][ジンガ,char_005 zynga]
+That’s true…
+------------------------------------------------
+[00000458][パニス,char_002 Panis]
+Hey Hey! I found this! this!
+------------------------------------------------
+[00000459][シャノン,char_004 Shannon]
+Hey! Don't disturb me, come here.
+------------------------------------------------
+[00000460][パニス,char_002 Panis]
+Panis, don't get in the way.
+I'll help you.
+------------------------------------------------
+[00000461][パニス,char_002 Panis]
+Hey, Kill Maria? Even though it's this big,
+I'll decorate you with flowers, okay? I'm sure it's cute?
+------------------------------------------------
+[00000462][シャノン,char_004 Shannon]
+So don't touch the statues unnecessarily.
+Because he might fall.
+------------------------------------------------
+[00000463][パニス,char_002 Panis]
+It's okay. Ehehe. Yes, please!
+------------------------------------------------
+[00000464][パニス,char_002 Panis]
+Yay!
+------------------------------------------------
+[00000465][アダム,char_006 a-dam]
+It's like an earthquake.
+Please ensure your own safety.
+------------------------------------------------
+[00000466][フリード,char_001 Fried]
+earthquake!?
+------------------------------------------------
+[00000467][鋼鱗丸,char_530]
+Yes!
+------------------------------------------------
+[00000468][シャノン,char_004 Shannon]
+Well, it looks like things have settled down.
+------------------------------------------------
+[00000469][キルマリア,char_007 Kilmaria]
+I was surprised……
+Does this island have many earthquakes?
+------------------------------------------------
+[00000470][ジンガ,char_005 zynga]
+No, not really.
+I'm sure this happened before...
+……Wait?
+------------------------------------------------
+[00000471][ジンガ,char_005 zynga]
+Panis? Did you do something to the statue just now?
+------------------------------------------------
+[00000472][パニス,char_002 Panis]
+picture?I just decorated it with flowers.
+------------------------------------------------
+[00000473][ジンガ,char_005 zynga]
+Does that mean he touched the stone statue?
+I'm sure the other day, when I touched a stone statue at another ruin...
+------------------------------------------------
+[00000474][キルマリア,char_007 Kilmaria]
+A similar phenomenon occurred,
+Does that mean?
+------------------------------------------------
+[00000475][シャノン,char_004 Shannon]
+Come to think of it, yes.
+After a while, that giant...
+------------------------------------------------
+[00000476][ジンガ,char_005 zynga]
+nothing……
+------------------------------------------------
+[00000477][シャノン,char_004 Shannon]
+Hmm...
+------------------------------------------------
+[00000478][フリード,char_001 Fried]
+Anyway, why don't you go back to the village?
+Kill Maria is also with me.
+I'm starting to get a little worried.
+------------------------------------------------
+[00000479][キルマリア,char_007 Kilmaria]
+Ha, ha. got it.
+------------------------------------------------
+[00000480][ジンガ,char_005 zynga]
+I hope nothing happens...
+------------------------------------------------
+[00000481][パニス,char_002 Panis]
+Eh, um...
+Panis... I didn't do anything?
+------------------------------------------------
+[00000482][フリード,char_001 Fried]
+Yeah, I know.
+Are you okay. 
+------------------------------------------------
+[00000483][パニス,char_002 Panis]
+Yeah……
+------------------------------------------------
+[00000484][フリード,char_001 Fried]
+Zynga, what's wrong?
+Staring at the sea with a troubled face.
+------------------------------------------------
+[00000485][シャノン,char_004 Shannon]
+Did you find a school of fish?
+------------------------------------------------
+[00000486][ジンガ,char_005 zynga]
+No, that's strange.
+The sea is strangely quiet...
+------------------------------------------------
+[00000487][フリード,char_001 Fried]
+The sea?
+------------------------------------------------
+[00000488][ジンガ,char_005 zynga]
+ah. It's nice to have a bit more wind and bigger waves.
+But today... it's too quiet.
+------------------------------------------------
+[00000489][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000490][フリード,char_001 Fried]
+picture!?
+------------------------------------------------
+[00000491][鋼鱗丸,char_530]
+Too!?
+------------------------------------------------
+[00000492][パニス,char_002 Panis]
+that?
+------------------------------------------------
+[00000493][シャノン,char_004 Shannon]
+What? What is it!?
+------------------------------------------------
+[00000494][ジンガ,char_005 zynga]
+It seems like something is happening at sea.
+Did Freed's premonition come true...
+------------------------------------------------
+[00000495][キルマリア,char_007 Kilmaria]
+What is that!?
+A big...fish?
+------------------------------------------------
+[00000496][ジンガ,char_005 zynga]
+I can't wait to see such a big fish!
+------------------------------------------------
+[00000497][パニス,char_002 Panis]
+I'm here again...
+------------------------------------------------
+[00000498][シャノン,char_004 Shannon]
+Panis!? What happened?
+------------------------------------------------
+[00000499][パニス,char_002 Panis]
+Again... another child came...
+------------------------------------------------
+[00000500][フリード,char_001 Fried]
+Another child?
+After all, he's a friend of that giant...
+If so, the village is in danger!
+------------------------------------------------
+[00000501][キルマリア,char_007 Kilmaria]
+Is the village in danger...?
+Is that big fish targeting the village?
+------------------------------------------------
+[00000502][ジンガ,char_005 zynga]
+I do not understand. It caused considerable damage to the village.
+------------------------------------------------
+[00000503][シャノン,char_004 Shannon]
+That's right. If Panis wasn't there at that time,
+What happened to the village...
+------------------------------------------------
+[00000504][キルマリア,char_007 Kilmaria]
+I see……!
+I see...that's right!
+I finally understand!
+------------------------------------------------
+[00000505][フリード,char_001 Fried]
+What?
+------------------------------------------------
+[00000506][キルマリア,char_007 Kilmaria]
+Why me?
+I guess I decided to come to this island!
+------------------------------------------------
+[00000507][キルマリア,char_007 Kilmaria]
+It was all God's guidance!
+Defeat the devil and save the people!
+------------------------------------------------
+[00000508][シャノン,char_004 Shannon]
+a little bit! Weren't you supposed to agree?
+------------------------------------------------
+[00000509][キルマリア,char_007 Kilmaria]
+wrong! That monster is the devil!
+------------------------------------------------
+[00000510][フリード,char_001 Fried]
+picture?
+------------------------------------------------
+[00000511][キルマリア,char_007 Kilmaria]
+Do your utmost to destroy with great power,
+Make good people suffer and suffer!
+That is exactly the devil's work!
+------------------------------------------------
+[00000512][キルマリア,char_007 Kilmaria]
+I can't let this go!
+Let's do it! My Justice is about to explode!
+------------------------------------------------
+[00000513][フリード,char_001 Fried]
+But where will we fight?
+In the cove the other day, he was so big.
+I don't think it will fit...?
+------------------------------------------------
+[00000514][アダム,char_006 a-dam]
+indeed.
+At that size, it was only possible to enter the cove,
+Islands and villages may be destroyed.
+------------------------------------------------
+[00000515][フリード,char_001 Fried]
+So I guess I have no choice but to go by that ship.
+If you get close to him and he gets violent, immediately use a cannon...
+------------------------------------------------
+[00000516][ジンガ,char_005 zynga]
+A cannon...
+However, the strengthening of the tsukiyaki blade
+Will it work for that big guy?
+------------------------------------------------
+[00000517][フリード,char_001 Fried]
+it's okay! I did what I could.
+I have no choice but to believe it!
+------------------------------------------------
+[00000518][ジンガ,char_005 zynga]
+That's right. Let's set sail!
+------------------------------------------------
+[00000519][パニス,char_002 Panis]
+a……
+------------------------------------------------
+[00000520][パニス,char_002 Panis]
+that……?
+------------------------------------------------
+[00000521][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000 again...
+It's the same as the other day...
+------------------------------------------------
+[00000522][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000 Song...
+I heard it the other day...
+I don't know where it comes from, but the song...
+------------------------------------------------
+[00000523][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000But this is different.
+It's a different song the other day...?
+------------------------------------------------
+[00000524][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000 Going there again?
+Yeah... that's right...
+------------------------------------------------
+[00000525][フリード,char_001 Fried]
+Panis! It's Panis!
+------------------------------------------------
+[00000526][鋼鱗丸,char_530]
+Moimoi!　Moi!
+------------------------------------------------
+[00000527][パニス,char_002 Panis]
+yeah……?
+Ah, Freed...
+Everyone……
+------------------------------------------------
+[00000528][シャノン,char_004 Shannon]
+Good, I woke up...
+------------------------------------------------
+[00000529][フリード,char_001 Fried]
+I was surprised.
+Because I suddenly lose consciousness...
+------------------------------------------------
+[00000530][パニス,char_002 Panis]
+Yeah, sorry.
+You know, Freed.　
+Panis, I want to go to the ruins again.
+------------------------------------------------
+[00000531][フリード,char_001 Fried]
+Remains?
+------------------------------------------------
+[00000532][パニス,char_002 Panis]
+The place with the huge Kurihikaru.
+------------------------------------------------
+[00000533][フリード,char_001 Fried]
+Kurihikaru? Oh, Crystal?
+Speaking of which, the other day...
+------------------------------------------------
+[00000534][ジンガ,char_005 zynga]
+If you take Panis with you,
+I started singing and Crystal reacted.
+------------------------------------------------
+[00000535][キルマリア,char_007 Kilmaria]
+Did something like that happen?
+I would love to see that!
+------------------------------------------------
+[00000536][フリード,char_001 Fried]
+I agree. Shall we go again this time?
+I'm curious as to what will happen...
+------------------------------------------------
+[00000537][フリード,char_001 Fried]
+Panis...?
+What is it now? What on earth is this...?
+------------------------------------------------
+[00000538][鋼鱗丸,char_530]
+Yes!
+------------------------------------------------
+[00000539][パニス,char_002 Panis]
+do not know. Then this happened.
+------------------------------------------------
+[00000540][キルマリア,char_007 Kilmaria]
+I see. All in all, very interesting!
+------------------------------------------------
+[00000541][キルマリア,char_007 Kilmaria]
+What is depicted with light is
+There is no doubt that it is a magic circle,
+The components are completely unknown...
+------------------------------------------------
+[00000542][キルマリア,char_007 Kilmaria]
+What kind of effect was it aimed at?
+This alone is indescribable.
+------------------------------------------------
+[00000543][キルマリア,char_007 Kilmaria]
+Probably in the ruins on the island.
+I think there may be a hint...
+Hmmmm...
+------------------------------------------------
+[00000544][シャノン,char_004 Shannon]
+Also, Kilmaria's inquisitive spirit,
+Looks like it caught fire.
+------------------------------------------------
+[00000545][ジンガ,char_005 zynga]
+I don't understand. Such a strange thing,
+I was shown off one after another.
+------------------------------------------------
+[00000546][フリード,char_001 Fried]
+Killmaria-san, are you going to stay in the ruins for a while again?
+Shall I deliver the bread later?
+------------------------------------------------
+[00000547][キルマリア,char_007 Kilmaria]
+However, this crystal itself also
+Something else...
+picture? 
+------------------------------------------------
+[00000548][フリード,char_001 Fried]
+No, it's fine.
+Anyway, I'll bring you the bread later.
+------------------------------------------------
+[00000549][フリード,char_001 Fried]
+@fcFFAAFFAA (according to Kill Maria's research,
+I hope the mystery of that monster and Panis will be solved.
+I'm glad I made some strong friends.)
+------------------------------------------------
+[00000550][キルマリア,char_007 Kilmaria]
+It hurts! I got hit in the head by Crystal!
+Another strange phenomenon has occurred!
+------------------------------------------------
+[00000551][アダム,char_006 a-dam]
+No, I wasn't hit by Crystal.
+She was bumped into by Mr. Kilmaria.
+It's just backwards carelessness.
+------------------------------------------------
+[00000552][フリード,char_001 Fried]
+@fcFFAAFFAA (I guess it's reassuring...)
+------------------------------------------------
+[00000553][シャノン,char_004 Shannon]
+Hey, Panis.
+Hey, could you please try this on?
+------------------------------------------------
+[00000554][パニス,char_002 Panis]
+Wow! New clothes!
+Clean...
+------------------------------------------------
+[00000555][リアン,char_514]
+Panis-chan, in her clothes
+You came to this island, right?
+So I prepared it with Shannon.
+------------------------------------------------
+[00000556][シャノン,char_004 Shannon]
+...However, grass, nuts, etc.
+I just dyed it in different colors.
+Panis seems to like that dress.
+------------------------------------------------
+[00000557][パニス,char_002 Panis]
+Yeah, Panis, I love this outfit!
+That's why I'm glad it comes in a variety of colors!
+------------------------------------------------
+[00000558][リアン,char_514]
+Hehe, I'm glad you liked it.
+I'll keep it here, so you can change it whenever you like.
+------------------------------------------------
+[00000559][シャノン,char_004 Shannon]
+If I ever get other clothes,
+I'd like you to leave it here with me.
+------------------------------------------------
+[00000560][フリード,char_001 Fried]
+Good for you, Panis.
+------------------------------------------------
+[00000561][パニス,char_002 Panis]
+Yeah!
+------------------------------------------------
+

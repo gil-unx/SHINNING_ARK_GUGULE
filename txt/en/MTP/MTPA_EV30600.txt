@@ -1,0 +1,86 @@
+[0022]
+*****************
+[00000000][ハイラム,char_513]
+Freed was just right.
+I have something to ask of you.
+------------------------------------------------
+[00000001][ハイラム,char_513]
+It's a festival, so it would be bad if we didn't decorate it grandly, right?
+But we don't have enough lumber.
+------------------------------------------------
+[00000002][ハイラム,char_513]
+I'm sorry, but go to the forest of giant trees.
+Could you please bring it for me?
+------------------------------------------------
+[00000003][フリード,char_001 Fried]
+yep, OK.
+Wait for me, I'll get it for you!
+------------------------------------------------
+[00000004][ハイラム,char_513]
+Thank you, Freed.
+Thanks to you, I was saved.
+------------------------------------------------
+[00000005][ハイラム,char_513]
+The decorations for this festival are
+I'm trying to create something that's never been seen before.
+Please look forward to it!
+------------------------------------------------
+[00000006][フリード,char_001 Fried]
+Yeah! 
+------------------------------------------------
+[00000007][ダニエル,char_518]
+Freed.
+If you are free, could you ask me to work for you?
+------------------------------------------------
+[00000008][ダニエル,char_518]
+At the festival,
+I want to serve delicious whole roast to everyone.
+But we don't have enough wild pig meat.
+------------------------------------------------
+[00000009][ダニエル,char_518]
+It would be helpful if you could just go to the plains and get it.
+------------------------------------------------
+[00000010][フリード,char_001 Fried]
+Understood! 
+------------------------------------------------
+[00000011][ダニエル,char_518]
+Oh, did you bring it for me? thank you!
+------------------------------------------------
+[00000012][ダニエル,char_518]
+The festival is coming soon.
+My son is also fidgety now.
+------------------------------------------------
+[00000013][フリード,char_001 Fried]
+After all, it's a festival.
+Well, everyone is looking forward to it!
+------------------------------------------------
+[00000014][ダニエル,char_518]
+Haha, that's true too.
+It's been a while since I've been to a festival, so let's enjoy it to the fullest!
+------------------------------------------------
+[00000015][フリード,char_001 Fried]
+Yeah!
+------------------------------------------------
+[00000016][リアン,char_514]
+here we go! We also bake special bread!
+------------------------------------------------
+[00000017][リアン,char_514]
+Freed, go to the plateau,
+Please fetch me some elven berries.
+Bread for festivals definitely needs that.
+------------------------------------------------
+[00000018][フリード,char_001 Fried]
+At this time of year, there seem to be a lot of them.
+Okay, I'll go.
+------------------------------------------------
+[00000019][リアン,char_514]
+good job. With this much, you can make a lot of bread.
+------------------------------------------------
+[00000020][リアン,char_514]
+here we go! After all, I have to use my skills in times like this!
+------------------------------------------------
+[00000021][フリード,char_001 Fried]
+It's been a long time since my aunt baked bread.
+You can eat it, right? I am looking forward!
+------------------------------------------------
+

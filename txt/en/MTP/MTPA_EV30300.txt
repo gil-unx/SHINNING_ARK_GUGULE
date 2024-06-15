@@ -1,0 +1,104 @@
+[0026]
+*****************
+[00000000][フリード,char_001 Fried]
+Uncle, what happened?
+You look troubled.
+------------------------------------------------
+[00000001][ハイラム,char_513]
+No, I'm talking about the only fishing boat in the village.
+Apparently the sail was torn due to the incident with the giant.
+------------------------------------------------
+[00000002][ハイラム,char_513]
+Even though Zynga has asked me to fix it,
+I don't have Katameft cotton fabric to use as a material.
+------------------------------------------------
+[00000003][ハイラム,char_513]
+How to make Katameft Cotton
+I need Katameft cotton flowers,
+That is not cultivated in the village.
+------------------------------------------------
+[00000004][フリード,char_001 Fried]
+Isn't it growing somewhere?
+------------------------------------------------
+[00000005][ハイラム,char_513]
+There must have been a colony in the forest,
+It's dangerous around there.
+I don't have much confidence in fighting so it's a bit...
+------------------------------------------------
+[00000006][フリード,char_001 Fried]
+What, if that's the case,
+I'll go and get it.
+------------------------------------------------
+[00000007][ハイラム,char_513]
+Really? 
+------------------------------------------------
+[00000008][フリード,char_001 Fried]
+Leave it to me.
+Well then, I'll go for a while.
+------------------------------------------------
+[00000009][ハイラム,char_513]
+Thank you, Freed.
+Thanks to you guys for bringing the Katamefuto cotton.
+I was able to repair the sail.
+------------------------------------------------
+[00000010][ハイラム,char_513]
+Now you can move the ship,
+You can catch more delicious fish.
+------------------------------------------------
+[00000011][ジム,char_502]
+We met at just the right place, Freed!
+We met here, but what the heck!
+------------------------------------------------
+[00000012][フリード,char_001 Fried]
+picture?
+------------------------------------------------
+[00000013][ジム,char_502]
+shut up! I can't make you look cool!
+------------------------------------------------
+[00000014][フリード,char_001 Fried]
+picture?
+------------------------------------------------
+[00000015][ジム,char_502]
+Look!
+I'll exterminate the monsters by myself!
+And get Zynga's big brother to approve!
+------------------------------------------------
+[00000016][ジム,char_502]
+From now on, I will protect this village!
+------------------------------------------------
+[00000017][フリード,char_001 Fried]
+Hmm...
+Is it okay...?
+------------------------------------------------
+[00000018][パニス,char_002 Panis]
+Freed...
+Jim, isn't it dangerous?
+------------------------------------------------
+[00000019][フリード,char_001 Fried]
+I agree.
+Let's be a little careful.
+------------------------------------------------
+[00000020][フリード,char_001 Fried]
+Jim, that was a dangerous place.
+Are you okay?
+------------------------------------------------
+[00000021][ジム,char_502]
+"Are you okay?" "What are you saying?"
+I'm not in any danger at all!
+------------------------------------------------
+[00000022][フリード,char_001 Fried]
+picture? 
+------------------------------------------------
+[00000023][ジム,char_502]
+I couldn't handle something like that on my own!
+That's completely unnecessary!
+------------------------------------------------
+[00000024][ジム,char_502]
+Listen! Next time I'll defeat it by myself!
+I'm the one who protects this village! I understand!
+------------------------------------------------
+[00000025][フリード,char_001 Fried]
+@fcFFAAFFAA (Hmm...
+I understand how you feel about the village...)
+------------------------------------------------
+

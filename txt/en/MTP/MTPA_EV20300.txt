@@ -1,0 +1,977 @@
+[0262]
+*****************
+[00000000][フリード,char_001 Fried]
+@fcFFAAFFAA (Kill Maria-san is always
+It feels like you're rushing me, but what are you doing? )
+------------------------------------------------
+[00000001][キルマリア,char_007 Kilmaria]
+Mr. Freed, would you like to help me?
+------------------------------------------------
+[00000002][フリード,char_001 Fried]
+No, I was wondering what he was doing.
+------------------------------------------------
+[00000003][キルマリア,char_007 Kilmaria]
+It's already decided! Heaven and earth
+In the name of justice, to save the people of the world,
+He continues to chase the demons he must exorcise day and night!
+------------------------------------------------
+[00000004][フリード,char_001 Fried]
+eh? 
+------------------------------------------------
+[00000005][キルマリア,char_007 Kilmaria]
+There is no time for an exorcist to rest.
+------------------------------------------------
+[00000006][フリード,char_001 Fried]
+That's right...
+------------------------------------------------
+[00000007][フリード,char_001 Fried]
+Mr. Kilmaria, may I ask you a question?
+------------------------------------------------
+[00000008][キルマリア,char_007 Kilmaria]
+I don't mind, but I'm busy.
+Please be brief.
+------------------------------------------------
+[00000009][フリード,char_001 Fried]
+It's not that difficult a question.
+Well, to begin with, the Exorcist is
+What kind of thing is it?
+------------------------------------------------
+[00000010][キルマリア,char_007 Kilmaria]
+Don't you even know that?!
+------------------------------------------------
+[00000011][フリード,char_001 Fried]
+Somehow, I don't understand,
+Since it's a great opportunity, I'll be working with Kill Maria, my real job.
+I thought it would be nice to hear it.
+------------------------------------------------
+[00000012][キルマリア,char_007 Kilmaria]
+It is inevitable. An exorcist is a person who travels between heaven and earth to save the people of the world.
+A priest who exorcises evil in the name of Justice.
+------------------------------------------------
+[00000013][フリード,char_001 Fried]
+I know that but...
+------------------------------------------------
+[00000014][キルマリア,char_007 Kilmaria]
+Here's what's important! It's easy to say, but
+To actually exorcise evil requires a high level of ability.
+------------------------------------------------
+[00000015][キルマリア,char_007 Kilmaria]
+In order to acquire this ability, daily rigorous training and
+It is necessary to absorb a wide range of knowledge.
+------------------------------------------------
+[00000016][フリード,char_001 Fried]
+for example?
+------------------------------------------------
+[00000017][キルマリア,char_007 Kilmaria]
+When investigating ruins, it is important to understand the history behind them.
+I have to learn and
+To do this, you must also be able to read ancient texts.
+------------------------------------------------
+[00000018][キルマリア,char_007 Kilmaria]
+There is also a need to learn all languages, including ancient scripts,
+No matter how much time I have, it's not enough,
+I have something to learn!
+------------------------------------------------
+[00000019][フリード,char_001 Fried]
+It's so difficult.
+------------------------------------------------
+[00000020][キルマリア,char_007 Kilmaria]
+That's not all.
+This is just a preparatory stage.
+------------------------------------------------
+[00000021][キルマリア,char_007 Kilmaria]
+When I hear that the devil has appeared, I cross the mountains and the sea,
+If you hear information about the ruins, you can reach the ends of the earth.
+I have to travel.
+------------------------------------------------
+[00000022][キルマリア,char_007 Kilmaria]
+In between these duties,
+I am training and learning.
+------------------------------------------------
+[00000023][フリード,char_001 Fried]
+By the way, what kind of evil have you exorcised so far?
+------------------------------------------------
+[00000024][キルマリア,char_007 Kilmaria]
+Well, most recently, I've created a pitch black dragon.
+You defeated it. It was quite a big deal, but
+If it hits me, bang! and……
+------------------------------------------------
+[00000025][フリード,char_001 Fried]
+Wow!!
+------------------------------------------------
+[00000026][パニス,char_002 Panis]
+Wow! Bang Bang!
+------------------------------------------------
+[00000027][フリード,char_001 Fried]
+Uh, you don't have to shoot!
+------------------------------------------------
+[00000028][キルマリア,char_007 Kilmaria]
+Is that so? I'm sorry.
+I thought this would give a more realistic feel.
+------------------------------------------------
+[00000029][キルマリア,char_007 Kilmaria]
+...Well, how much did we talk about?
+------------------------------------------------
+[00000030][フリード,char_001 Fried]
+Ah, I've got the gist of it now, so it's okay now.
+------------------------------------------------
+[00000031][キルマリア,char_007 Kilmaria]
+is that so?
+I want everyone to understand correctly,
+I'll tell you as much as I want.
+------------------------------------------------
+[00000032][フリード,char_001 Fried]
+@fcFFAAFFAA (Wouldn't you rather keep it short because you're busy?)
+------------------------------------------------
+[00000033][キルマリア,char_007 Kilmaria]
+something?
+------------------------------------------------
+[00000034][フリード,char_001 Fried]
+No, it's really okay now. thank you.
+------------------------------------------------
+[00000035][キルマリア,char_007 Kilmaria]
+That would be great. all the best.
+I have a continuation of my investigation...
+------------------------------------------------
+[00000036][フリード,char_001 Fried]
+Well, I don't really understand it, but
+I'm sure he's an amazing person anyway.
+------------------------------------------------
+[00000037][パニス,char_002 Panis]
+Yeah. Bang bang!
+------------------------------------------------
+[00000038][フリード,char_001 Fried]
+Is that there...
+------------------------------------------------
+[00000039][フリード,char_001 Fried]
+Hi!!
+------------------------------------------------
+[00000040][パニス,char_002 Panis]
+Wow! Even Panis could do it!
+Bang bang!
+------------------------------------------------
+[00000041][フリード,char_001 Fried]
+Oh, hey!
+Isn't that Kill Maria's two-handed pistol?
+Why Panis!?
+------------------------------------------------
+[00000042][パニス,char_002 Panis]
+Kill Maria left it there.
+------------------------------------------------
+[00000043][フリード,char_001 Fried]
+Did you leave it there?
+------------------------------------------------
+[00000044][キルマリア,char_007 Kilmaria]
+Wow...I forgot this here!
+------------------------------------------------
+[00000045][フリード,char_001 Fried]
+Kill Maria!
+Don't forget this dangerous thing!
+------------------------------------------------
+[00000046][キルマリア,char_007 Kilmaria]
+I'm sorry for what I did.
+all the best.
+------------------------------------------------
+[00000047][フリード,char_001 Fried]
+So, a handgun!
+------------------------------------------------
+[00000048][キルマリア,char_007 Kilmaria]
+Ah, that's right!
+I did receive it. It is all right now!
+------------------------------------------------
+[00000049][フリード,char_001 Fried]
+Is it amazing or not amazing?
+This is a person I don't really understand...
+------------------------------------------------
+[00000050][フリード,char_001 Fried]
+Hello, Kilmaria.
+------------------------------------------------
+[00000051][キルマリア,char_007 Kilmaria]
+…………
+------------------------------------------------
+[00000052][フリード,char_001 Fried]
+Mr. Kilmaria?
+------------------------------------------------
+[00000053][パニス,char_002 Panis]
+I'm reading a book.
+------------------------------------------------
+[00000054][フリード,char_001 Fried]
+That's amazing concentration.
+Even if you call me, you won't even notice...
+------------------------------------------------
+[00000055][フリード,char_001 Fried]
+Kill Maria!
+------------------------------------------------
+[00000056][キルマリア,char_007 Kilmaria]
+…………
+------------------------------------------------
+[00000057][フリード,char_001 Fried]
+I just keep reading books...
+------------------------------------------------
+[00000058][キルマリア,char_007 Kilmaria]
+……devil!?
+------------------------------------------------
+[00000059][フリード,char_001 Fried]
+eh!?
+------------------------------------------------
+[00000060][パニス,char_002 Panis]
+Yay, bang!
+------------------------------------------------
+[00000061][キルマリア,char_007 Kilmaria]
+What, Mr. Freed and Mr. Panis?
+------------------------------------------------
+[00000062][フリード,char_001 Fried]
+Hey, don't point that at me!
+------------------------------------------------
+[00000063][キルマリア,char_007 Kilmaria]
+No, what do you mean by "devil"?
+Because that's what I heard.
+------------------------------------------------
+[00000064][フリード,char_001 Fried]
+...Did you say that?
+In the first place, Killmaria-san was concentrating on reading,
+You didn't notice even if I called you.
+------------------------------------------------
+[00000065][キルマリア,char_007 Kilmaria]
+When I read a book, I tend to get absorbed in it,
+When you hear the word "devil", you instantly switch to battle mode.
+Don't worry, we're training you.
+------------------------------------------------
+[00000066][フリード,char_001 Fried]
+@fcFFAAFFAA (I feel rather anxious though...)
+------------------------------------------------
+[00000067][パニス,char_002 Panis]
+What are you reading in your book?
+------------------------------------------------
+[00000068][キルマリア,char_007 Kilmaria]
+Is this?
+This is an old document called ``Optimizing efficiency and fairness.''
+------------------------------------------------
+[00000069][キルマリア,char_007 Kilmaria]
+To put it simply, to improve the efficiency of things,
+This is a practical book that condenses the knowledge of the ancients.
+------------------------------------------------
+[00000070][フリード,char_001 Fried]
+The exorcist is
+Do I have to study like that?
+It's tough.
+------------------------------------------------
+[00000071][キルマリア,char_007 Kilmaria]
+No, well, what can I say...
+If you hurry, it will be Justice,
+I'm reading it on a whim.
+------------------------------------------------
+[00000072][フリード,char_001 Fried]
+Huh, what does that mean?
+------------------------------------------------
+[00000073][キルマリア,char_007 Kilmaria]
+In the first place, ancient chants were written.
+I was reading another ancient text.
+Well...this is it.
+------------------------------------------------
+[00000074][フリード,char_001 Fried]
+...No matter how I look at it, it doesn't seem like I can read it.
+------------------------------------------------
+[00000075][キルマリア,char_007 Kilmaria]
+Of course.
+Even I had a hard time reading it.
+------------------------------------------------
+[00000076][キルマリア,char_007 Kilmaria]
+Moreover, this content was a parade of difficult questions.
+It takes seven days to master a song.
+------------------------------------------------
+[00000077][フリード,char_001 Fried]
+It seems like it would be really difficult, but
+After that, I memorized the song,
+Is there anything good?
+------------------------------------------------
+[00000078][キルマリア,char_007 Kilmaria]
+Yes, that's it already!
+This song is essential to my justice.
+It is a song of purification that exorcises evil with its strong power!
+------------------------------------------------
+[00000079][キルマリア,char_007 Kilmaria]
+That's where this book on efficiency comes in.
+If you don't master it as soon as possible,
+The devil won't wait for you when the time comes.
+------------------------------------------------
+[00000080][フリード,char_001 Fried]
+I see, it's a study to memorize efficiently.
+------------------------------------------------
+[00000081][キルマリア,char_007 Kilmaria]
+yes. 
+------------------------------------------------
+[00000082][キルマリア,char_007 Kilmaria]
+If reading is too difficult,
+Mastering the art of efficiency is even more difficult.
+I've been working on this ancient document for the past 10 days.
+------------------------------------------------
+[00000083][フリード,char_001 Fried]
+Huh?
+------------------------------------------------
+[00000084][キルマリア,char_007 Kilmaria]
+This is all a test to exorcise evil through song.
+I'll never be discouraged though.
+------------------------------------------------
+[00000085][キルマリア,char_007 Kilmaria]
+I can only sleep 3 hours a day,
+It's crazy to think it's for Justice!
+------------------------------------------------
+[00000086][フリード,char_001 Fried]
+……yeah?
+------------------------------------------------
+[00000087][キルマリア,char_007 Kilmaria]
+What's happen?
+------------------------------------------------
+[00000088][フリード,char_001 Fried]
+It takes 10 days to master efficiency, right?
+------------------------------------------------
+[00000089][キルマリア,char_007 Kilmaria]
+yes.
+------------------------------------------------
+[00000090][フリード,char_001 Fried]
+It takes 7 days to master a song, right?
+------------------------------------------------
+[00000091][キルマリア,char_007 Kilmaria]
+yes.
+------------------------------------------------
+[00000092][フリード,char_001 Fried]
+If so, wouldn't it be faster to learn songs normally?
+------------------------------------------------
+[00000093][キルマリア,char_007 Kilmaria]
+eh? 
+------------------------------------------------
+[00000094][キルマリア,char_007 Kilmaria]
+Ah!! It will take an extra 3 days!
+------------------------------------------------
+[00000095][フリード,char_001 Fried]
+If you can master singing in an instant by improving efficiency,
+It only takes 3 days, but if you can only shorten it by 1 day or 2 days,
+It might cost more.
+------------------------------------------------
+[00000096][キルマリア,char_007 Kilmaria]
+Wow...I completely overlooked that.
+What shall I do!?
+------------------------------------------------
+[00000097][キルマリア,char_007 Kilmaria]
+When I, Justice, flash,
+When you can't see your surroundings and run away,
+It's my only weakness...
+------------------------------------------------
+[00000098][フリード,char_001 Fried]
+@fcFFAAFFAA (...the only one?)
+------------------------------------------------
+[00000099][パニス,char_002 Panis]
+How about reading a song book normally?
+------------------------------------------------
+[00000100][キルマリア,char_007 Kilmaria]
+……I agree. I can no longer afford to take detours.
+Master the purification song head-on!
+------------------------------------------------
+[00000101][フリード,char_001 Fried]
+All I can say is good luck...
+------------------------------------------------
+[00000102][パニス,char_002 Panis]
+It seems like I can't hear you anymore.
+------------------------------------------------
+[00000103][キルマリア,char_007 Kilmaria]
+…………
+------------------------------------------------
+[00000104][フリード,char_001 Fried]
+It's true.
+------------------------------------------------
+[00000105][キルマリア,char_007 Kilmaria]
+…………
+------------------------------------------------
+[00000106][フリード,char_001 Fried]
+Even if you don't think about efficiency, if you have this concentration,
+It seems like everything can be done in a short period of time.
+------------------------------------------------
+[00000107][キルマリア,char_007 Kilmaria]
+…………
+------------------------------------------------
+[00000108][フリード,char_001 Fried]
+Hello, Kilmaria.
+what happened?
+------------------------------------------------
+[00000109][キルマリア,char_007 Kilmaria]
+Ah, Mr. Freed...
+Even if you are just trying to master the chants, you are wasting your precious time.
+It's such a shame that I wasted it...
+------------------------------------------------
+[00000110][フリード,char_001 Fried]
+Even if you don't feel so depressed, take a detour
+Isn't it good to think that you have learned how to be more efficient?
+------------------------------------------------
+[00000111][キルマリア,char_007 Kilmaria]
+...As expected, Mr. Freed is so positive!
+As you say.
+------------------------------------------------
+[00000112][キルマリア,char_007 Kilmaria]
+If I am also depressed
+There was no. I will do my best in the name of heaven, earth, and justice!
+------------------------------------------------
+[00000113][フリード,char_001 Fried]
+That's the spirit.
+------------------------------------------------
+[00000114][ロラン,char_507]
+Freed! It's a big deal!
+A monster appeared in the forest!
+------------------------------------------------
+[00000115][フリード,char_001 Fried]
+What did you say!?
+Did the children go to the forest alone?
+------------------------------------------------
+[00000116][ロラン,char_507]
+I thought it was okay because it wasn't that deep.
+We all went to get food...
+------------------------------------------------
+[00000117][フリード,char_001 Fried]
+So, everyone is still in the forest!?
+------------------------------------------------
+[00000118][ロラン,char_507]
+Climb the tree and wait for the monster to go...
+------------------------------------------------
+[00000119][フリード,char_001 Fried]
+Hey, I'll call Jinga and the others!
+------------------------------------------------
+[00000120][キルマリア,char_007 Kilmaria]
+I don't have time for that!
+Let's go help right away!
+That's what Justice is whispering!
+------------------------------------------------
+[00000121][フリード,char_001 Fried]
+I didn't really understand the meaning of the last one, but
+I definitely have to hurry...let's go!
+------------------------------------------------
+[00000122][フリード,char_001 Fried]
+Killmaria-san, is that song from the other day...?
+------------------------------------------------
+[00000123][キルマリア,char_007 Kilmaria]
+yes. I'm glad I mastered it!
+------------------------------------------------
+[00000124][フリード,char_001 Fried]
+As expected, that's what happened.
+If you didn't cleanse me with chants, I would have been in danger...
+------------------------------------------------
+[00000125][パニス,char_002 Panis]
+Kill Maria, you sing very well.
+------------------------------------------------
+[00000126][キルマリア,char_007 Kilmaria]
+That's my song,
+It's still not as good as Panis's.
+------------------------------------------------
+[00000127][フリード,char_001 Fried]
+I can't believe Kilmaria's efforts are paying off so quickly.
+It was really good.
+------------------------------------------------
+[00000128][キルマリア,char_007 Kilmaria]
+No, it's all thanks to Mr. Freed. Mr. Freed
+If you don't realize my mistake,
+Moreover, he had just wasted days.
+------------------------------------------------
+[00000129][キルマリア,char_007 Kilmaria]
+Besides, I can survive this place.
+It may have been impossible...
+------------------------------------------------
+[00000130][フリード,char_001 Fried]
+Well, the result is okay, isn't it?
+------------------------------------------------
+[00000131][キルマリア,char_007 Kilmaria]
+Mr. Freed is truly positive.
+But I should humbly reflect...
+------------------------------------------------
+[00000132][フリード,char_001 Fried]
+Why?
+------------------------------------------------
+[00000133][キルマリア,char_007 Kilmaria]
+I heard that children were in danger.
+I couldn't help but run away...
+------------------------------------------------
+[00000134][キルマリア,char_007 Kilmaria]
+If you think about it carefully,
+It would be better if Zynga and others also lend a hand,
+It might have been safer and more reliable...
+------------------------------------------------
+[00000135][キルマリア,char_007 Kilmaria]
+What kind of monsters are there and how many are there?
+I came here without checking,
+If large things were attacking in large numbers...
+------------------------------------------------
+[00000136][キルマリア,char_007 Kilmaria]
+Not just these kids, but me too.
+Mr. Freed and Mr. Panis,
+I might have been beaten...
+------------------------------------------------
+[00000137][フリード,char_001 Fried]
+Well, that may have been the case...
+but……
+------------------------------------------------
+[00000138][キルマリア,char_007 Kilmaria]
+I believe in Mr. Freed's positive thinking and
+Calm situational judgment in sudden situations
+I would love to learn from you!
+------------------------------------------------
+[00000139][キルマリア,char_007 Kilmaria]
+The road to becoming a top-notch exorcist is still only halfway.
+------------------------------------------------
+[00000140][フリード,char_001 Fried]
+I think Kilmaria is still top notch, right?
+------------------------------------------------
+[00000141][キルマリア,char_007 Kilmaria]
+eh!?
+------------------------------------------------
+[00000142][フリード,char_001 Fried]
+Kilmaria is
+I think it's fine for Kilmaria to remain as she is now.
+------------------------------------------------
+[00000143][キルマリア,char_007 Kilmaria]
+……why?
+------------------------------------------------
+[00000144][フリード,char_001 Fried]
+It is very difficult to act before thinking.
+I think so. Make excuses to others or yourself
+It's better to be able to move than not to move at all.
+------------------------------------------------
+[00000145][キルマリア,char_007 Kilmaria]
+……is that so?
+------------------------------------------------
+[00000146][メリー,char_509]
+Kill Maria is going to bang right away!
+I like it because it does that!
+------------------------------------------------
+[00000147][パニス,char_002 Panis]
+Panis too!
+------------------------------------------------
+[00000148][フリード,char_001 Fried]
+you see. I might not have made it in time if I hadn't rushed.
+Kill Maria's justice was right!
+------------------------------------------------
+[00000149][キルマリア,char_007 Kilmaria]
+I wish you could say something like that...
+thank you!
+------------------------------------------------
+[00000150][パニス,char_002 Panis]
+Hey, bang bang, do it!
+------------------------------------------------
+[00000151][キルマリア,char_007 Kilmaria]
+OK. 
+------------------------------------------------
+[00000152][フリード,char_001 Fried]
+Wow!!
+------------------------------------------------
+[00000153][パニス,char_002 Panis]
+yay! 
+------------------------------------------------
+[00000154][メリー,char_509]
+Bang bang!!
+------------------------------------------------
+[00000155][キルマリア,char_007 Kilmaria]
+One more bonus...!
+------------------------------------------------
+[00000156][フリード,char_001 Fried]
+Stop it! It's dangerous!
+------------------------------------------------
+[00000157][キルマリア,char_007 Kilmaria]
+Ah, sorry...
+What I did just happened...
+------------------------------------------------
+[00000158][フリード,char_001 Fried]
+@fcFFAAFFAA (Kill Maria is a first-rate exorcist, but
+I guess I'm missing something,
+There's one more thing that makes the filling feel sweet...)
+------------------------------------------------
+[00000159][キルマリア,char_007 Kilmaria]
+…………
+------------------------------------------------
+[00000160][フリード,char_001 Fried]
+Hello, Kilmaria.
+------------------------------------------------
+[00000161][キルマリア,char_007 Kilmaria]
+Ah, Mr. Freed...
+------------------------------------------------
+[00000162][フリード,char_001 Fried]
+You don't seem to be feeling well, what's wrong?　
+------------------------------------------------
+[00000163][キルマリア,char_007 Kilmaria]
+Actually, Mr. Freed,
+He has something he would like to discuss with you...
+------------------------------------------------
+[00000164][フリード,char_001 Fried]
+Oh, if I can help you
+Can I ask you anything?
+------------------------------------------------
+[00000165][キルマリア,char_007 Kilmaria]
+Mr. Freed, what should I do?
+You can change your careless behavior, right?
+------------------------------------------------
+[00000166][フリード,char_001 Fried]
+Being able to take action before thinking
+It's Killmaria's specialty,
+Didn't they say it was okay?
+------------------------------------------------
+[00000167][キルマリア,char_007 Kilmaria]
+After all, that’s no good!
+At that time, I ended up getting carried away and banging!
+I messed up...
+------------------------------------------------
+[00000168][フリード,char_001 Fried]
+Haha, that was definitely dangerous.
+Well, the kids were happy too, so I guess it's okay.
+------------------------------------------------
+[00000169][パニス,char_002 Panis]
+Panis was also fun!
+------------------------------------------------
+[00000170][キルマリア,char_007 Kilmaria]
+yes……
+But after that, I fell into a lot of self-loathing...
+------------------------------------------------
+[00000171][キルマリア,char_007 Kilmaria]
+If we continue like this, we will make an irreversible mistake someday.
+I'm afraid I'll do something...
+------------------------------------------------
+[00000172][フリード,char_001 Fried]
+Hmm...
+------------------------------------------------
+[00000173][フリード,char_001 Fried]
+@fcFFAAFFAA (I think it would be better to fix it if it can be fixed)
+In Killmaria's case, you could say that she is naturally reckless...
+I don't think it's something that can be fixed by trying to fix it.)
+------------------------------------------------
+[00000174][キルマリア,char_007 Kilmaria]
+That face...it looks like it's impossible.
+------------------------------------------------
+[00000175][フリード,char_001 Fried]
+What!?...No, no, that's not true!
+Kill Maria is a hard worker, so she will definitely change!
+------------------------------------------------
+[00000176][フリード,char_001 Fried]
+@fcFFAAFFAA (Wow, I just said something random...)
+------------------------------------------------
+[00000177][キルマリア,char_007 Kilmaria]
+This time, I said, “Oh no, I said something random.”
+That's what you said on your face.
+------------------------------------------------
+[00000178][フリード,char_001 Fried]
+Oh, that's not true!
+------------------------------------------------
+[00000179][フリード,char_001 Fried]
+@fcFFAAFFAA (How sharp, Kill Maria...)
+------------------------------------------------
+[00000180][フリード,char_001 Fried]
+Well, then, Mr. Kilmaria,
+Let's explore the cause together.
+------------------------------------------------
+[00000181][キルマリア,char_007 Kilmaria]
+Is it the cause?
+------------------------------------------------
+[00000182][フリード,char_001 Fried]
+yes. He's also smart, much better than me.
+You should be able to do a calm analysis.
+------------------------------------------------
+[00000183][フリード,char_001 Fried]
+But why do you act so rashly?
+Let's explore the cause together.
+------------------------------------------------
+[00000184][キルマリア,char_007 Kilmaria]
+I see, that's Justice!
+------------------------------------------------
+[00000185][フリード,char_001 Fried]
+...I think that's it.
+------------------------------------------------
+[00000186][キルマリア,char_007 Kilmaria]
+……teeth?
+------------------------------------------------
+[00000187][フリード,char_001 Fried]
+That's why, Mr. Kilmaria,
+I say "Justice" every time...
+------------------------------------------------
+[00000188][フリード,char_001 Fried]
+To that “Justice”
+Isn't it bad to follow too much?
+------------------------------------------------
+[00000189][キルマリア,char_007 Kilmaria]
+What so? 
+------------------------------------------------
+[00000190][フリード,char_001 Fried]
+Absolutely...
+First of all, what is “Justice”?
+------------------------------------------------
+[00000191][キルマリア,char_007 Kilmaria]
+Well, it's like a revelation from God, isn't it?
+------------------------------------------------
+[00000192][フリード,char_001 Fried]
+@fcFFAAFFAA (Is it something that has that much weight?
+Looking at Kill Maria's actions,
+Rather, "intuition" seems more appropriate...)
+------------------------------------------------
+[00000193][フリード,char_001 Fried]
+But, if it's absolute "God's revelation",
+There can be no mistakes, right?
+------------------------------------------------
+[00000194][キルマリア,char_007 Kilmaria]
+that's right.
+Countless dangerous situations,
+I've avoided it thanks to Justice.
+------------------------------------------------
+[00000195][フリード,char_001 Fried]
+But there were some things that couldn't be avoided, right?
+------------------------------------------------
+[00000196][キルマリア,char_007 Kilmaria]
+Things that could not be avoided with Justice
+there is no!
+------------------------------------------------
+[00000197][フリード,char_001 Fried]
+Is that so?
+Indeed, according to Justice
+He also helped children...
+------------------------------------------------
+[00000198][フリード,char_001 Fried]
+Saying things like, “Hurry up, Justice.”
+Trying to memorize chants efficiently,
+There were times when it took a long time, right?
+------------------------------------------------
+[00000199][キルマリア,char_007 Kilmaria]
+Hah... now that I think about it!!
+------------------------------------------------
+[00000200][フリード,char_001 Fried]
+you see?
+Without realizing it, Justin
+Maybe it backfired?
+------------------------------------------------
+[00000201][フリード,char_001 Fried]
+@fcFFAAFFAA (in the case of Kill Maria,
+Maybe that makes me look clumsy...)
+------------------------------------------------
+[00000202][キルマリア,char_007 Kilmaria]
+But then, my Justice is
+Does that mean it's definitely not the case?
+------------------------------------------------
+[00000203][フリード,char_001 Fried]
+Well, the truth is, I don't even know.
+Because, to Mr. Kill Maria's Justice,
+There are times when I can be helped...
+------------------------------------------------
+[00000204][キルマリア,char_007 Kilmaria]
+I'm getting more and more confused...
+------------------------------------------------
+[00000205][フリード,char_001 Fried]
+I guess that's what it is after all?
+Kill Maria also still has Justice.
+Have you ever felt like you don't really understand?
+------------------------------------------------
+[00000206][キルマリア,char_007 Kilmaria]
+eh!?
+------------------------------------------------
+[00000207][フリード,char_001 Fried]
+Mr. Kilmaria misinterpreted Justice,
+She seems to have been acting without realizing it.
+------------------------------------------------
+[00000208][キルマリア,char_007 Kilmaria]
+My sense of justice is lacking...?
+------------------------------------------------
+[00000209][フリード,char_001 Fried]
+Is that so...?
+------------------------------------------------
+[00000210][キルマリア,char_007 Kilmaria]
+I see, if that's the case...
+There are still many things that he lacks as an exorcist.
+Since it's me, I totally agree.
+------------------------------------------------
+[00000211][キルマリア,char_007 Kilmaria]
+Then, the challenge to change careless behavior is:
+Judiciary raise your eyes,
+That's all there is to it...
+------------------------------------------------
+[00000212][キルマリア,char_007 Kilmaria]
+Who am I, “Justice”?
+I'm going to think about it again from the beginning.
+------------------------------------------------
+[00000213][フリード,char_001 Fried]
+Good luck, Kilmaria.
+------------------------------------------------
+[00000214][キルマリア,char_007 Kilmaria]
+…………
+------------------------------------------------
+[00000215][フリード,char_001 Fried]
+Cheer up, Kilmaria.
+Are you still worried about Justice?
+------------------------------------------------
+[00000216][キルマリア,char_007 Kilmaria]
+In fact, I have a sense of justice for Mr. Freed.
+Ever since my inexperience was pointed out, I have relied on him until now.
+I completely lost confidence in Justice...
+------------------------------------------------
+[00000217][フリード,char_001 Fried]
+@fcFFAAFFAA (because of what I said)
+Did they corner Kill Maria? )
+------------------------------------------------
+[00000218][キルマリア,char_007 Kilmaria]
+But now, my Justice,
+A great threat is approaching this island.
+I'm telling you...
+------------------------------------------------
+[00000219][フリード,char_001 Fried]
+eh!?
+Isn't that a big deal...?
+------------------------------------------------
+[00000220][キルマリア,char_007 Kilmaria]
+I think so.
+However, I couldn't take action with confidence...
+------------------------------------------------
+[00000221][フリード,char_001 Fried]
+Kill Maria-san!! What happened!?
+It's not like Kill Maria to say something like that!!
+------------------------------------------------
+[00000222][パニス,char_002 Panis]
+that's right! Let's go, Kill Maria!
+------------------------------------------------
+[00000223][キルマリア,char_007 Kilmaria]
+What!? Even Mr. Panis...
+But...
+------------------------------------------------
+[00000224][フリード,char_001 Fried]
+Kill Maria! believe in yourself!
+We believe in Kill Maria!
+Let's go!! Which one?
+------------------------------------------------
+[00000225][キルマリア,char_007 Kilmaria]
+……got it!
+------------------------------------------------
+[00000226][キルマリア,char_007 Kilmaria]
+I……
+to my justice
+It’s okay to be confident, right?
+------------------------------------------------
+[00000227][フリード,char_001 Fried]
+Yeah, of course.
+------------------------------------------------
+[00000228][キルマリア,char_007 Kilmaria]
+...Actually, I am thinking about my former Panis-san.
+Even Justice was worried.
+------------------------------------------------
+[00000229][パニス,char_002 Panis]
+What's wrong with Panis?
+------------------------------------------------
+[00000230][キルマリア,char_007 Kilmaria]
+My Justice started with Mr. Panis.
+I decided it was the devil...
+------------------------------------------------
+[00000231][キルマリア,char_007 Kilmaria]
+In the sense of being an entity that brings disaster to Endias,
+The result was not wrong, but...
+------------------------------------------------
+[00000232][キルマリア,char_007 Kilmaria]
+After that, taking into consideration various information and circumstances,
+It was also determined that Mr. Panis was not a devil.
+I am still convinced that he was not wrong.
+------------------------------------------------
+[00000233][フリード,char_001 Fried]
+……I agree.
+Both were correct Justices.
+------------------------------------------------
+[00000234][パニス,char_002 Panis]
+Killmaria's Justice is
+It's always right.
+------------------------------------------------
+[00000235][キルマリア,char_007 Kilmaria]
+……yes. I have come to believe that too.
+------------------------------------------------
+[00000236][キルマリア,char_007 Kilmaria]
+And because of Mr. Panis,
+I also learned something important.
+------------------------------------------------
+[00000237][キルマリア,char_007 Kilmaria]
+That is me,
+How do you judge Justice and take action?
+It all depends on it!
+------------------------------------------------
+[00000238][フリード,char_001 Fried]
+Yes, I think that's right.
+You're finally starting to look like the usual Killmaria.
+------------------------------------------------
+[00000239][キルマリア,char_007 Kilmaria]
+It's all thanks to Mr. Freed!
+I can't thank you enough!!
+------------------------------------------------
+[00000240][フリード,char_001 Fried]
+Well, what am I...
+------------------------------------------------
+[00000241][キルマリア,char_007 Kilmaria]
+My Justice is because of Mr. Freed.
+Double or triple that power...
+No, I think it can be made a hundred or a thousand times more!
+------------------------------------------------
+[00000242][フリード,char_001 Fried]
+Oh, that's it...
+Even without me, Killmaria-san
+I can make full use of Justice.
+------------------------------------------------
+[00000243][キルマリア,char_007 Kilmaria]
+Don't be humble!
+I need Mr. Freed's help!
+------------------------------------------------
+[00000244][キルマリア,char_007 Kilmaria]
+How about? Would you like to explore the path of an exorcist?
+------------------------------------------------
+[00000245][フリード,char_001 Fried]
+No, I don't even have that kind of talent.
+I don't have a shred of sense...
+------------------------------------------------
+[00000246][キルマリア,char_007 Kilmaria]
+That's not true! Possibly……
+No, I'm sure you'll be a better exorcist than me.
+You can get used to it! You can't go wrong with Freed!
+------------------------------------------------
+[00000247][フリード,char_001 Fried]
+I've already bought it!
+------------------------------------------------
+[00000248][キルマリア,char_007 Kilmaria]
+I will be waiting for you forever!
+With Mr. Freed, in the name of Justice
+I look forward to the day when we can wipe out evil!
+------------------------------------------------
+[00000249][キルマリア,char_007 Kilmaria]
+all the best!
+------------------------------------------------
+[00000250][フリード,char_001 Fried]
+Phew, I have a personality that rushes into action whenever I think of something.
+Same as always...
+------------------------------------------------
+[00000251][フリード,char_001 Fried]
+Wow!! Why!?
+------------------------------------------------
+[00000252][パニス,char_002 Panis]
+It was falling.
+------------------------------------------------
+[00000253][フリード,char_001 Fried]
+Killmaria-san, did you forget again!?
+That's why you can't shoot Panis without permission!
+------------------------------------------------
+[00000254][フリード,char_001 Fried]
+So don't shoot!
+------------------------------------------------
+[00000255][パニス,char_002 Panis]
+Because it's fun.
+------------------------------------------------
+[00000256][フリード,char_001 Fried]
+Hey, Kill Maria!!
+------------------------------------------------
+[00000257][キルマリア,char_007 Kilmaria]
+Mr. Freed! You've made up your mind!
+I'm so happy!!
+------------------------------------------------
+[00000258][フリード,char_001 Fried]
+That's different! lost item!!
+------------------------------------------------
+[00000259][キルマリア,char_007 Kilmaria]
+eh!?
+------------------------------------------------
+[00000260][キルマリア,char_007 Kilmaria]
+Ahhh... that's what I did!
+------------------------------------------------
+[00000261][フリード,char_001 Fried]
+@fcFFAAFFAA (Is it really amazing or not amazing?
+He's the one who doesn't understand until the end...)
+------------------------------------------------
+

@@ -1,0 +1,289 @@
+[0074]
+*****************
+[00000000][フリード,char_001 Fried]
+Wow! 
+------------------------------------------------
+[00000001][アダム,char_006 a-dam]
+The environment in this valley is unusual.
+A dense miasma is floating around.
+------------------------------------------------
+[00000002][ベルベット,char_008 Velvet]
+It's hard to even breathe.
+Is this how you want to proceed?
+------------------------------------------------
+[00000003][シャノン,char_004 Shannon]
+There are monsters walking around too.
+You look ferocious...
+------------------------------------------------
+[00000004][ジンガ,char_005 zynga]
+The same goes for miasma.
+If we don't get rid of those monsters,
+In any case, I don't think I can move forward.
+------------------------------------------------
+[00000005][フリード,char_001 Fried]
+Everyone, let's brace ourselves!
+------------------------------------------------
+[00000006][フリード,char_001 Fried]
+I managed to defeat the monster, but...
+It seems like the miasma is getting darker than before.
+------------------------------------------------
+[00000007][アダム,char_006 a-dam]
+From this point on, the miasma becomes even denser.
+Unless some measures are taken,
+It will be difficult to move on.
+------------------------------------------------
+[00000008][シャノン,char_004 Shannon]
+Like that...
+I've come this far.
+------------------------------------------------
+[00000009][ベルベット,char_008 Velvet]
+Why don't you come back and try again later?
+You know, a cliff cave or an oasis?
+Did things change over time?
+------------------------------------------------
+[00000010][ジンガ,char_005 zynga]
+I see, that makes sense.
+------------------------------------------------
+[00000011][フリード,char_001 Fried]
+Okay, let's pull this up for now.
+------------------------------------------------
+[00000012][フリード,char_001 Fried]
+If there are so many trees,
+You can also take as much lumber as you want.
+------------------------------------------------
+[00000013][シャノン,char_004 Shannon]
+It's fine to take as much as you want, but don't let your guard down.
+I'm obsessed with collecting lumber
+Will you be attacked by monsters?
+------------------------------------------------
+[00000014][フリード,char_001 Fried]
+I know.
+It seems better to take care of the monsters first.
+------------------------------------------------
+[00000015][シャノン,char_004 Shannon]
+Well, the monsters were also chased away,
+Shall we gather wood?
+------------------------------------------------
+[00000016][フリード,char_001 Fried]
+Since it's a special festival, you want to make the decorations flashy!
+------------------------------------------------
+[00000017][シャノン,char_004 Shannon]
+Then you need to collect a lot of lumber!
+Let's do our best, Freed!
+------------------------------------------------
+[00000018][キルマリア,char_007 Kilmaria]
+The miasma has faded considerably.
+I think I can move forward with this!
+------------------------------------------------
+[00000019][フリード,char_001 Fried]
+Is true!
+It's just as Velvet-san guessed.
+------------------------------------------------
+[00000020][ベルベット,char_008 Velvet]
+Hehe.
+With my brain,
+You'll find out soon enough!
+------------------------------------------------
+[00000021][ジンガ,char_005 zynga]
+However, the number of monsters remains the same.
+------------------------------------------------
+[00000022][シャノン,char_004 Shannon]
+In fact, it looks more ferocious than during the day.
+------------------------------------------------
+[00000023][ベルベット,char_008 Velvet]
+It doesn't matter if you kick things like that away.
+Let's go!
+------------------------------------------------
+[00000024][ベルベット,char_008 Velvet]
+Looks like this is the last time.
+Now I can move on!
+------------------------------------------------
+[00000025][フリード,char_001 Fried]
+Velvet-san, it's dangerous if you hurry like that!
+Because you don't know what's ahead!
+------------------------------------------------
+[00000026][ベルベット,char_008 Velvet]
+It's noisy!
+If you wait, I'll leave it behind!
+------------------------------------------------
+[00000027][フリード,char_001 Fried]
+There are ruins here too...
+However, it looks different from other ruins.
+------------------------------------------------
+[00000028][キルマリア,char_007 Kilmaria]
+The entire ruins are badly damaged.
+It's like being burned by flames...
+------------------------------------------------
+[00000029][アダム,char_006 a-dam]
+It appears to have been damaged by high temperatures.
+If you look closer,
+You'll find out more.
+------------------------------------------------
+[00000030][ジンガ,char_005 zynga]
+First of all, let's deal with those monsters.
+I have to do something.
+------------------------------------------------
+[00000031][ベルベット,char_008 Velvet]
+Ah, they are such a nuisance!
+Get out of there now!
+------------------------------------------------
+[00000032][フリード,char_001 Fried]
+The monsters around here are
+Looks like you've defeated them all.
+------------------------------------------------
+[00000033][アダム,char_006 a-dam]
+There are no enemy signs around.
+------------------------------------------------
+[00000034][キルマリア,char_007 Kilmaria]
+Well, before the monsters come back,
+Let's finish investigating the ruins!
+------------------------------------------------
+[00000035][シャノン,char_004 Shannon]
+There's a herd of wild pigs.
+This is easy to catch.
+------------------------------------------------
+[00000036][パニス,char_002 Panis]
+There are a lot of them?
+Which one will you catch?
+------------------------------------------------
+[00000037][フリード,char_001 Fried]
+That's right...
+It's a feast for the festival,
+Let's catch a big wild pig!
+------------------------------------------------
+[00000038][ジンガ,char_005 zynga]
+This size should be enough.
+It looks like it's going to be a lavish festival!
+------------------------------------------------
+[00000039][シャノン,char_004 Shannon]
+Everyone in the village will be happy too!
+------------------------------------------------
+[00000040][フリード,char_001 Fried]
+Now, let's go back to the village!
+------------------------------------------------
+[00000041][フリード,char_001 Fried]
+as many as possible
+I want to collect Elvenberries and go home, but
+Monsters are in the way.
+------------------------------------------------
+[00000042][シャノン,char_004 Shannon]
+Collect monsters while being careful
+It looks like my bones will break.
+------------------------------------------------
+[00000043][フリード,char_001 Fried]
+It seems better to defeat the monster first.
+Bring home a lot and make your aunt happy!
+------------------------------------------------
+[00000044][シャノン,char_004 Shannon]
+Looks like there are no monsters anymore.
+------------------------------------------------
+[00000045][パニス,char_002 Panis]
+Now you can collect a lot!
+------------------------------------------------
+[00000046][フリード,char_001 Fried]
+I agree.
+Collect a lot and return to the village quickly!
+------------------------------------------------
+[00000047][レヴィン,char_009 Levin]
+It won't interfere with the festival here.
+Now, don't worry about your surroundings,
+Let's do our best!
+------------------------------------------------
+[00000048][ジンガ,char_005 zynga]
+That's very kind of you.
+What are you planning?
+------------------------------------------------
+[00000049][レヴィン,char_009 Levin]
+Hey, that's a sign of composure.
+Moreover, to my future citizens,
+I don't want to cause resentment!
+------------------------------------------------
+[00000050][シャノン,char_004 Shannon]
+What are you, territory people?
+I won't give the island to you!
+------------------------------------------------
+[00000051][レヴィン,char_009 Levin]
+Get it and show it to me! When the island becomes mine,
+We'll make the festival even more exciting with the finest wine!
+------------------------------------------------
+[00000052][レヴィン,char_009 Levin]
+boy! However, this one is a little different this time!
+------------------------------------------------
+[00000053][ジンガ,char_005 zynga]
+That bastard has aimed his main gun at me!
+------------------------------------------------
+[00000054][フリード,char_001 Fried]
+Everyone, be careful!
+------------------------------------------------
+[00000055][レヴィン,char_009 Levin]
+It's a celebration of the village's recovery!
+Let's give a big salute!
+------------------------------------------------
+[00000056][フリード,char_001 Fried]
+Alright, you won!
+------------------------------------------------
+[00000057][ベルベット,char_008 Velvet]
+Turn your tail around and go home!
+------------------------------------------------
+[00000058][レヴィン,char_009 Levin]
+You want me to go home? Hey, you guys...
+Do you think you've already won?
+------------------------------------------------
+[00000059][シャノン,char_004 Shannon]
+What, are you sore loser?
+It doesn't even look like you!
+------------------------------------------------
+[00000060][レヴィン,char_009 Levin]
+Hahaha, did you feel bitter about losing?
+Bell, I'm being too kind to you.
+It's not well-educated. Did you get too excited at the festival?
+------------------------------------------------
+[00000061][ベルベット,char_008 Velvet]
+What was that……?
+Levin, what on earth do you want to say!?
+------------------------------------------------
+[00000062][レヴィン,char_009 Levin]
+It's easy!
+The one who wins at the very end is
+That means it's me!
+------------------------------------------------
+[00000063][アダム,char_006 a-dam]
+Enemy entities are approaching the village!
+------------------------------------------------
+[00000064][シャノン,char_004 Shannon]
+That's it!
+Even though it was restored...
+------------------------------------------------
+[00000065][キルマリア,char_007 Kilmaria]
+If things continue like this, the village is in danger!
+I have to do something...
+------------------------------------------------
+[00000066][フリード,char_001 Fried]
+That's right.
+Even though it has just been restored,
+I can't stand being destroyed again!
+------------------------------------------------
+[00000067][フリード,char_001 Fried]
+Everyone, let's go!
+Let's work together to stop him!
+------------------------------------------------
+[00000068][ジンガ,char_005 zynga]
+It has stopped moving!?
+------------------------------------------------
+[00000069][フリード,char_001 Fried]
+Did you do it...?
+------------------------------------------------
+[00000070][パニス,char_002 Panis]
+...I'm reading.
+------------------------------------------------
+[00000071][シャノン,char_004 Shannon]
+Panis, what's wrong?
+------------------------------------------------
+[00000072][パニス,char_002 Panis]
+...I'm reading.
+Someone is calling.
+------------------------------------------------
+[00000073][]
+help me……
+------------------------------------------------
+

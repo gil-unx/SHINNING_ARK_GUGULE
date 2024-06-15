@@ -1,0 +1,1998 @@
+[0537]
+*****************
+[00000000][ガルゼー,char_501]
+It looks like there's been a lot of damage around the plaza.
+------------------------------------------------
+[00000001][フリード,char_001 Fried]
+This is exactly where the giant went on a rampage.
+Thanks to Panis for driving me away
+No one was injured, though.
+------------------------------------------------
+[00000002][パニス,char_002 Panis]
+Yeah!
+------------------------------------------------
+[00000003][ガルゼー,char_501]
+Ah, I see I see. Panis-chan is a good girl.
+------------------------------------------------
+[00000004][パニス,char_002 Panis]
+Ehehe...
+------------------------------------------------
+[00000005][フリード,char_001 Fried]
+Village chief...
+------------------------------------------------
+[00000006][ガルゼー,char_501]
+Kohon! However, the damage to the building
+You should check how much.
+------------------------------------------------
+[00000007][ガルゼー,char_501]
+Even on the outskirts of the village, the gust of wind caused by the giant
+I've received word that there seems to be some damage.
+------------------------------------------------
+[00000008][フリード,char_001 Fried]
+I agree. I'll go around the village and see what's going on.
+------------------------------------------------
+[00000009][ガルゼー,char_501]
+Also, I want to know how everyone is doing.
+I'm sure you're upset about today and yesterday.
+------------------------------------------------
+[00000010][ガルゼー,char_501]
+Hear from everyone in the village and if you have any trouble,
+Please help me.
+------------------------------------------------
+[00000011][フリード,char_001 Fried]
+Understood.
+That's Panis. Shall we go together?
+------------------------------------------------
+[00000012][パニス,char_002 Panis]
+Yeah!See you soon, Soncho!
+------------------------------------------------
+[00000013][ガルゼー,char_501]
+ah. 
+------------------------------------------------
+[00000014][フリード,char_001 Fried]
+Shannon, what's wrong? With a serious face.
+Also, Dr. Maia and Peter.
+------------------------------------------------
+[00000015][シャノン,char_004 Shannon]
+We were just talking about school.
+------------------------------------------------
+[00000016][マイア,char_503]
+Is that so. The school building is quite damaged...
+I don't think I'll be able to use it for a while.
+------------------------------------------------
+[00000017][ピーター,char_520]
+Not just the school building, but also around the plaza.
+Looks like there's a lot of damage.
+------------------------------------------------
+[00000018][マイア,char_503]
+Unfortunately, school will be closed for a while.
+The school building has been repaired so that children can attend school safely.
+Until then.
+------------------------------------------------
+[00000019][パニス,char_002 Panis]
+school? 
+------------------------------------------------
+[00000020][フリード,char_001 Fried]
+Really. No, you don't remember?
+------------------------------------------------
+[00000021][パニス,char_002 Panis]
+Hmm, I don't know.
+------------------------------------------------
+[00000022][マイア,char_503]
+School is a gathering of children,
+It's a place where we all study and play together.
+------------------------------------------------
+[00000023][パニス,char_002 Panis]
+Everyone!? I want to go!
+Panis, I want to go to school!
+------------------------------------------------
+[00000024][フリード,char_001 Fried]
+It's still not possible, Panis. We have to fix the school first.
+Professor Maia, is there anything I can help you with?
+------------------------------------------------
+[00000025][マイア,char_503]
+oh yeah. Everyone in the village will fix the school building.
+It's supposed to be...
+------------------------------------------------
+[00000026][マイア,char_503]
+Yesterday, the children were completely exhausted.
+I'm scared.
+------------------------------------------------
+[00000027][マイア,char_503]
+So, treat yourself to some warm bread.
+I just want to cheer you up...
+------------------------------------------------
+[00000028][フリード,char_001 Fried]
+That's nice.
+If it's bread, leave it to me and Shannon!
+------------------------------------------------
+[00000029][シャノン,char_004 Shannon]
+Well, that's not how it works.
+You need milk to bake bread, right?
+However……
+------------------------------------------------
+[00000030][フリード,char_001 Fried]
+Did something happen?
+------------------------------------------------
+[00000031][ピーター,char_520]
+Due to yesterday's commotion, the animals kept at the farm were
+Everyone ran away...
+You see, it's because of the storm caused by the giant.
+------------------------------------------------
+[00000032][フリード,char_001 Fried]
+I see, so that means you can't get milk?
+Understood! 
+------------------------------------------------
+[00000033][シャノン,char_004 Shannon]
+That's good.
+Well then, give a shout out to Zynga,
+Shall we go now?
+------------------------------------------------
+[00000034][ピーター,char_520]
+Is it okay?
+It would be helpful if you could do that.
+------------------------------------------------
+[00000035][フリード,char_001 Fried]
+Yeah. Because I want to feed you warm bread.
+------------------------------------------------
+[00000036][マイア,char_503]
+Freed-kun, Shannon-chan. thank you.
+Well then, please?
+------------------------------------------------
+[00000037][フリード,char_001 Fried]
+Yeah. 
+------------------------------------------------
+[00000038][ピーター,char_520]
+thank you. Yes, this is milk for baking bread.
+------------------------------------------------
+[00000039][シャノン,char_004 Shannon]
+Now you can bake bread! Actually, just a while ago,
+I came up with a new recipe that looks really cool.
+I'm sure the kids will love it too!
+------------------------------------------------
+[00000040][フリード,char_001 Fried]
+picture!?
+------------------------------------------------
+[00000041][リアン,char_514]
+picture!?
+------------------------------------------------
+[00000042][シャノン,char_004 Shannon]
+what? 
+------------------------------------------------
+[00000043][ピーター,char_520]
+you know. I have work to do on the farm, so I'll go home now!
+Goodbye!
+------------------------------------------------
+[00000044][パニス,char_002 Panis]
+Peter is back...
+------------------------------------------------
+[00000045][シャノン,char_004 Shannon]
+What is it? that person……
+------------------------------------------------
+[00000046][フリード,char_001 Fried]
+Well, when I heard about Shannon's new work,
+Anyone would want to run away...
+------------------------------------------------
+[00000047][シャノン,char_004 Shannon]
+Did you say something!?
+------------------------------------------------
+[00000048][フリード,char_001 Fried]
+No!Sister, you're more tired than that, aren't you?
+I'll bake the bread.
+------------------------------------------------
+[00000049][シャノン,char_004 Shannon]
+picture? All right. 
+------------------------------------------------
+[00000050][フリード,char_001 Fried]
+No, no, uh...
+------------------------------------------------
+[00000051][リアン,char_514]
+Um...Shannon?　
+It's a good opportunity, so ask Freed this time.
+I need to give Freed some bread baking experience.
+------------------------------------------------
+[00000052][シャノン,char_004 Shannon]
+Oh, I see. That's true too.
+Well then, Freed, do your best.
+I'll stand by your side and watch you!
+------------------------------------------------
+[00000053][パニス,char_002 Panis]
+fight! 
+------------------------------------------------
+[00000054][フリード,char_001 Fried]
+No. 
+------------------------------------------------
+[00000055][フリード,char_001 Fried]
+@fcFFAAFFAA (Good...
+When I tried my sister's new recipe,
+I'm sure the kids will start crying...)
+------------------------------------------------
+[00000056][フリード,char_001 Fried]
+@fcFFAAFFAA (If you bake it normally without thinking about it,
+Even though my sister's bread is delicious...
+Why would you want to do something unnecessary?)
+------------------------------------------------
+[00000057][シャノン,char_004 Shannon]
+Freed? What are you absent-minded about?
+------------------------------------------------
+[00000058][フリード,char_001 Fried]
+picture? It's nothing.
+Instead of that, let's start baking bread as soon as possible.
+------------------------------------------------
+[00000059][シャノン,char_004 Shannon]
+yes? Are you ready?
+------------------------------------------------
+[00000060][シャノン,char_004 Shannon]
+Yeah!You raised your arms, Freed.
+------------------------------------------------
+[00000061][パニス,char_002 Panis]
+Wow!
+------------------------------------------------
+[00000062][フリード,char_001 Fried]
+really?
+------------------------------------------------
+[00000063][シャノン,char_004 Shannon]
+Are you going to keep up this momentum next time?
+Well then, let's go deliver bread to the children!
+------------------------------------------------
+[00000064][シャノン,char_004 Shannon]
+here we go!Eat a lot and do your best starting tomorrow!
+------------------------------------------------
+[00000065][ロラン,char_507]
+Oh! 
+------------------------------------------------
+[00000066][メリー,char_509]
+Looks delicious!
+------------------------------------------------
+[00000067][フリード,char_001 Fried]
+There's a lot of bread.
+Don't rush, eat slowly.
+Because it gets stuck in your throat.
+------------------------------------------------
+[00000068][パニス,char_002 Panis]
+looks delicious……
+Hey hey, sister!
+Can I have panis too?
+------------------------------------------------
+[00000069][シャノン,char_004 Shannon]
+Of course it's fine. But with other children
+Don't fight over anything, okay?
+------------------------------------------------
+[00000070][パニス,char_002 Panis]
+Yeah!Panis, this is good!
+------------------------------------------------
+[00000071][カール,char_508]
+Hey, your sister's name is "Tenshi", right?
+Tenshimo, do you eat bread?
+------------------------------------------------
+[00000072][パニス,char_002 Panis]
+picture? Besides, I'm not even a big sister.
+Panis is panis, right?
+------------------------------------------------
+[00000073][パニス,char_002 Panis]
+Also, Panis, I love bread!
+------------------------------------------------
+[00000074][メリー,char_509]
+Hehe, I like bread too!
+------------------------------------------------
+[00000075][パニス,char_002 Panis]
+Is that so? Ahahahaha!
+------------------------------------------------
+[00000076][マイア,char_503]
+thank you. The children seem to have calmed down a lot.
+------------------------------------------------
+[00000077][マイア,char_503]
+School will be closed, and family members will also
+I'm too busy to have a partner,
+It seemed like the kids were worried too.
+------------------------------------------------
+[00000078][フリード,char_001 Fried]
+It's okay, Professor Maia.
+If this is all you need, I'll always help you.
+------------------------------------------------
+[00000079][シャノン,char_004 Shannon]
+Oh yeah, if you need anything, let me know!
+------------------------------------------------
+[00000080][マイア,char_503]
+Hehe, thank you.
+Ah, that's right. Speaking of helping...
+The village chief was looking for Freed-kun just now.
+------------------------------------------------
+[00000081][マイア,char_503]
+It seems like there's something I need to do urgently.
+I think it's better to go while it's still light.
+------------------------------------------------
+[00000082][フリード,char_001 Fried]
+Understood. 
+------------------------------------------------
+[00000083][パニス,char_002 Panis]
+Soncho! Hello! 
+------------------------------------------------
+[00000084][ガルゼー,char_501]
+Oh, Panis-chan?
+Looks like you brought Freed with you. That's great.
+------------------------------------------------
+[00000085][パニス,char_002 Panis]
+that? 
+------------------------------------------------
+[00000086][ハイラム,char_513]
+that's right. 
+------------------------------------------------
+[00000087][フリード,char_001 Fried]
+Is that so? 
+------------------------------------------------
+[00000088][ガルゼー,char_501]
+Freed, do you know the way to the ruins?
+That road is blocked by a fallen tree.
+I would like to be able to pass somehow...
+------------------------------------------------
+[00000089][ハイラム,char_513]
+The problem is that the fallen tree is a little too big.
+Build a tower to lift it up,
+Prepare logs to roll and carry out ......
+------------------------------------------------
+[00000090][ハイラム,char_513]
+Anyway, to move the fallen tree
+We need a big setup.
+------------------------------------------------
+[00000091][フリード,char_001 Fried]
+I see. 
+------------------------------------------------
+[00000092][ハイラム,char_513]
+Well. However, in order to set up a mechanism
+We need lumber, but the village doesn't have much stock.
+------------------------------------------------
+[00000093][ハイラム,char_513]
+So I went to the forest of giant trees,
+I want to cut out some wood.
+There are a lot of monsters over there...
+------------------------------------------------
+[00000094][ハイラム,char_513]
+So while we were cutting down the wood,
+I want to ask you guys to protect me. Mind you?
+------------------------------------------------
+[00000095][フリード,char_001 Fried]
+Understood. 
+------------------------------------------------
+[00000096][シャノン,char_004 Shannon]
+A forest of giant trees...
+------------------------------------------------
+[00000097][フリード,char_001 Fried]
+What's wrong, Shannon?
+------------------------------------------------
+[00000098][シャノン,char_004 Shannon]
+Freed uses strange powers,
+He remembered that he helped me.
+That was also a forest of giant trees, right?
+------------------------------------------------
+[00000099][フリード,char_001 Fried]
+Oh, is that it? At that moment I thought I was going to die.
+It was just me and Shannon, and I was small.
+There are a lot of monsters...
+------------------------------------------------
+[00000100][シャノン,char_004 Shannon]
+That's right.
+I was also thinking that I could let Freed escape...
+In the end, Freed defeated them all.
+------------------------------------------------
+[00000101][シャノン,char_004 Shannon]
+It's strange even remembering it now...
+It looks as if there are many Freeds...
+------------------------------------------------
+[00000102][フリード,char_001 Fried]
+I don't really remember...
+But then. There's some kind of power that I don't really understand
+Now I can use it.
+------------------------------------------------
+[00000103][シャノン,char_004 Shannon]
+I've been there since then too.
+As an older sister, I felt like I needed to be stronger.
+Also, Freed is surprisingly reliable...
+------------------------------------------------
+[00000104][フリード,char_001 Fried]
+...Sister?
+------------------------------------------------
+[00000105][シャノン,char_004 Shannon]
+Nah, it's nothing!
+Come on, come on! Let's head to the forest!
+------------------------------------------------
+[00000106][ハイラム,char_513]
+Well, we've finally finished cleaning up the fallen tree.
+I'm exhausted from doing heavy lifting for the first time in a while.
+------------------------------------------------
+[00000107][ハイラム,char_513]
+Village chief, the road to the ruins is now passable.
+I also took a look at some of the ruins,
+There appears to be no particular damage.
+------------------------------------------------
+[00000108][ガルゼー,char_501]
+Really. 
+------------------------------------------------
+[00000109][シャノン,char_004 Shannon]
+Thank you for your hard work, Dad.
+------------------------------------------------
+[00000110][ハイラム,char_513]
+Oh, and Shannon and Freed too.
+Well then, I'll go home first.
+------------------------------------------------
+[00000111][フリード,char_001 Fried]
+Yeah. 
+------------------------------------------------
+[00000112][パニス,char_002 Panis]
+Hey, Soncho?
+What's at the end of that road?
+------------------------------------------------
+[00000113][ガルゼー,char_501]
+At the end of that road are ruins...
+In other words, buildings and stone monuments built by people in the past,
+That's what remains.
+------------------------------------------------
+[00000114][パニス,char_002 Panis]
+Sekihi?
+------------------------------------------------
+[00000115][ガルゼー,char_501]
+Hmm. It is a large stone with letters and pictures carved into it.
+Yes, you should go and see it once.
+------------------------------------------------
+[00000116][ガルゼー,char_501]
+Among the stone monuments left at that ruins,
+Apparently there are some that depict legends of angels.
+------------------------------------------------
+[00000117][シャノン,char_004 Shannon]
+But that stone monument has ancient language written on it, right?
+Village chief, can you read ancient languages?
+------------------------------------------------
+[00000118][ガルゼー,char_501]
+No, unfortunately it's not possible.
+That's just what I'm hearing.
+------------------------------------------------
+[00000119][ガルゼー,char_501]
+Besides, even if you can't read the stone monument,
+I think the stone guardian deity is worth seeing.
+That is wonderful.
+------------------------------------------------
+[00000120][フリード,char_001 Fried]
+Ah, the stone statue in front of the shrine.
+I want to show that to Panis.
+------------------------------------------------
+[00000121][パニス,char_002 Panis]
+Yeah!
+------------------------------------------------
+[00000122][ガルゼー,char_501]
+Well then, please take me there once.
+However, the road is still rough, so
+Go and come back when it's daylight.
+------------------------------------------------
+[00000123][フリード,char_001 Fried]
+Understood. I'll take you there next time.
+------------------------------------------------
+[00000124][パニス,char_002 Panis]
+Yeah! 
+------------------------------------------------
+[00000125][フリード,char_001 Fried]
+Hey, the stone statue moved!?
+------------------------------------------------
+[00000126][パニス,char_002 Panis]
+great! 
+------------------------------------------------
+[00000127][シャノン,char_004 Shannon]
+It's not moving! No, it's working now!
+It actually doesn't move!
+It's dangerous anyway, so don't go there!
+------------------------------------------------
+[00000128][フリード,char_001 Fried]
+Wow!
+------------------------------------------------
+[00000129][パニス,char_002 Panis]
+I'm staring at Freed...
+------------------------------------------------
+[00000130][シャノン,char_004 Shannon]
+Oh my god...
+After I got home, I told my father and mother
+What should I tell you...
+------------------------------------------------
+[00000131][フリード,char_001 Fried]
+Isn't that based on the assumption that I'm going to die?
+------------------------------------------------
+[00000132][フリード,char_001 Fried]
+Hey!
+------------------------------------------------
+[00000133][？？？,char_601]
+Visually recognize registered qualified personnel.
+Master registration automatically starts based on the program.
+------------------------------------------------
+[00000134][？？？,char_601]
+Type "α-D.A.M."
+Begins the boot sequence.
+------------------------------------------------
+[00000135][フリード,char_001 Fried]
+picture?
+------------------------------------------------
+[00000136][シャノン,char_004 Shannon]
+what? 
+------------------------------------------------
+[00000137][フリード,char_001 Fried]
+here we go……
+------------------------------------------------
+[00000138][？？？,char_601]
+Hello, Master.
+------------------------------------------------
+[00000139][フリード,char_001 Fried]
+What!? About me!?
+------------------------------------------------
+[00000140][アダム,char_006 a-dam]
+That's right, Master.
+My type is "α-D.A.M."
+Please call me Adam.
+------------------------------------------------
+[00000141][フリード,char_001 Fried]
+That's right. Hello, Adam.
+My name is Freed.
+------------------------------------------------
+[00000142][アダム,char_006 a-dam]
+Understood, Mr. Freed.
+I will register you as my master.
+Please link your personal information terminal if you wish.
+------------------------------------------------
+[00000143][フリード,char_001 Fried]
+picture? I don't understand why you said that.
+------------------------------------------------
+[00000144][アダム,char_006 a-dam]
+I got it.
+Skip master information registration and complete the process.
+Please give me your orders.
+------------------------------------------------
+[00000145][フリード,char_001 Fried]
+What, what is that? What I say,
+Does that mean you'll listen?
+------------------------------------------------
+[00000146][アダム,char_006 a-dam]
+I am made like that.
+------------------------------------------------
+[00000147][シャノン,char_004 Shannon]
+what is that! Does that mean you can give commands to the village's guardian deity?
+Freed, give me some command!
+------------------------------------------------
+[00000148][フリード,char_001 Fried]
+But even if you suddenly say something like that...
+------------------------------------------------
+[00000149][？？？,char_601]
+Too! Moimoi!
+------------------------------------------------
+[00000150][フリード,char_001 Fried]
+picture!?
+------------------------------------------------
+[00000151][？？？,char_601]
+Yes! Moimoi!
+------------------------------------------------
+[00000152][パニス,char_002 Panis]
+Oh!
+------------------------------------------------
+[00000153][シャノン,char_004 Shannon]
+Isn't this child a spirit?
+Why are you here?
+------------------------------------------------
+[00000154][アダム,char_006 a-dam]
+Details are unknown, but
+Apparently, they made the area around me their home.
+It is guessed.
+------------------------------------------------
+[00000155][アダム,char_006 a-dam]
+As I started,
+Perhaps they were forced to change their habitat.
+------------------------------------------------
+[00000156][シャノン,char_004 Shannon]
+That's right……
+That's kind of cute.
+------------------------------------------------
+[00000157][？？？,char_601]
+Moi! Momomomoi!
+------------------------------------------------
+[00000158][パニス,char_002 Panis]
+Ahaha! It's here!
+Okay, okay, do you want to play?
+------------------------------------------------
+[00000159][？？？,char_601]
+Yes!
+------------------------------------------------
+[00000160][シャノン,char_004 Shannon]
+Wow... so cute...
+Hey, can you come over here too?
+------------------------------------------------
+[00000161][？？？,char_601]
+Too!
+------------------------------------------------
+[00000162][シャノン,char_004 Shannon]
+Fufufu, here it comes!
+Okay, let's play with your sister.
+------------------------------------------------
+[00000163][フリード,char_001 Fried]
+huh……
+It seems like they're both obsessed with that spirit.
+------------------------------------------------
+[00000164][アダム,char_006 a-dam]
+Mr. Freed? Do you have any orders?
+------------------------------------------------
+[00000165][フリード,char_001 Fried]
+Ah, I see. Well, that's right...
+For now, could you please come to the village with us?
+------------------------------------------------
+[00000166][アダム,char_006 a-dam]
+I got it. 
+------------------------------------------------
+[00000167][メリー,char_509]
+Wow! It's a spirit! It's a spirit!
+So cute!
+------------------------------------------------
+[00000168][？？？,char_601]
+It’s so good!
+------------------------------------------------
+[00000169][カール,char_508]
+Wow! It's huge!
+This is how a guardian deity moves!
+------------------------------------------------
+[00000170][アダム,char_006 a-dam]
+Hello. 
+------------------------------------------------
+[00000171][ロラン,char_507]
+Oh! cool!
+------------------------------------------------
+[00000172][マイア,char_503]
+Moving the stone statue...
+Panis-chan is a truly mysterious child...
+------------------------------------------------
+[00000173][メリー,char_509]
+Because sensei! Panis is a must!
+------------------------------------------------
+[00000174][アリーゼ,char_504]
+That's right~Move the guardian deity~
+You brought such a cute spirit with you...
+Panis may really be an angel!
+------------------------------------------------
+[00000175][アリーゼ,char_504]
+Hey? Panis~?
+Did you give this child a name?
+------------------------------------------------
+[00000176][パニス,char_002 Panis]
+name? 
+------------------------------------------------
+[00000177][？？？,char_601]
+Moi! Moimoi!
+------------------------------------------------
+[00000178][シャノン,char_004 Shannon]
+picture?This kid is saying something...
+------------------------------------------------
+[00000179][パニス,char_002 Panis]
+Sister, do you understand?
+------------------------------------------------
+[00000180][シャノン,char_004 Shannon]
+Yeah. Spirit-san, is there something you want to tell everyone?
+------------------------------------------------
+[00000181][？？？,char_601]
+It’s so good!　Moi~!
+------------------------------------------------
+[00000182][シャノン,char_004 Shannon]
+picture? What name?
+------------------------------------------------
+[00000183][？？？,char_601]
+Moi moi moi!
+------------------------------------------------
+[00000184][シャノン,char_004 Shannon]
+...Haganinmaru?
+That's a pretty tough name...
+------------------------------------------------
+[00000185][パニス,char_002 Panis]
+Korinmaru...
+Wow wow! 
+------------------------------------------------
+[00000186][鋼鱗丸,char_530]
+Yes!
+------------------------------------------------
+[00000187][パニス,char_002 Panis]
+Hagane Maru!　Thank you for your continued support!
+------------------------------------------------
+[00000188][鋼鱗丸,char_530]
+Moimoi!
+------------------------------------------------
+[00000189][カール,char_508]
+Hey Hey! Can you hear what this guy has to say?
+------------------------------------------------
+[00000190][アダム,char_006 a-dam]
+yes.
+Mr. Freed is my master.
+------------------------------------------------
+[00000191][ジンガ,char_005 zynga]
+I see, that's a big deal.
+To think that the village's guardian deity would follow him.
+------------------------------------------------
+[00000192][フリード,char_001 Fried]
+No, I don't know why,
+Maybe it's just a coincidence!
+------------------------------------------------
+[00000193][マイア,char_503]
+It's amazing that it happened by chance.
+That's not something to be humble about.
+------------------------------------------------
+[00000194][ハイラム,char_513]
+oh yeah! 
+------------------------------------------------
+[00000195][ジム,char_502]
+What is that, Freed?
+That guy was always making fun of me...
+------------------------------------------------
+[00000196][ジンガ,char_005 zynga]
+However, if it's this big, it must be powerful.
+It looks like the village's recovery is going well.
+------------------------------------------------
+[00000197][ガルゼー,char_501]
+That's right. Me too now
+I just went looking around the village,
+There are still many places that have not been repaired.
+------------------------------------------------
+[00000198][ガルゼー,char_501]
+At the same time as we join together,
+Was this...Adam?
+Why not borrow his power?
+------------------------------------------------
+[00000199][ジンガ,char_005 zynga]
+I see, that's true too.
+Adam, can you give me a hand?
+------------------------------------------------
+[00000200][アダム,char_006 a-dam]
+With Mr. Freed's permission.
+------------------------------------------------
+[00000201][フリード,char_001 Fried]
+Of course.
+Adam, help everyone.
+------------------------------------------------
+[00000202][アダム,char_006 a-dam]
+I got it. I will respond based on my own judgment.
+So, where do we start?
+------------------------------------------------
+[00000203][フリード,char_001 Fried]
+Erm, that's right...
+------------------------------------------------
+[00000204][ハイラム,char_513]
+Well then, would you like to help me out on the farm?
+Because of the storm caused by the giant,
+It's gotten pretty rough.
+------------------------------------------------
+[00000205][ハイラム,char_513]
+There are fallen trees and flying rocks all over the place.
+You can do something about it, right?
+------------------------------------------------
+[00000206][アダム,char_006 a-dam]
+I got it. Can be controlled remotely.
+------------------------------------------------
+[00000207][ハイラム,char_513]
+picture?
+------------------------------------------------
+[00000208][アダム,char_006 a-dam]
+If the device complies with the standard,
+It can be operated remotely.
+Automatically searching for the location of the device.
+------------------------------------------------
+[00000209][アダム,char_006 a-dam]
+...I couldn't find it.
+Please configure the device manually.
+------------------------------------------------
+[00000210][ハイラム,char_513]
+Well, I don't really understand.
+Are you looking for tools?
+If you need a spade or a hoe, you can find them in the warehouse over there.
+------------------------------------------------
+[00000211][アダム,char_006 a-dam]
+I got it.
+There's no automatic equipment, right?
+Do the work manually.
+------------------------------------------------
+[00000212][ハイラム,char_513]
+Ah, that's it please.
+I'd like to go to the field right away, but...
+First I had to collect seeds.
+------------------------------------------------
+[00000213][アダム,char_006 a-dam]
+I understand about collecting seeds.
+Please specify the location and type of crop to be harvested.
+------------------------------------------------
+[00000214][フリード,char_001 Fried]
+If so, we will guide you.
+Let's go, Adam.
+------------------------------------------------
+[00000215][アダム,char_006 a-dam]
+The work is finished.
+Sowing and watering have been completed. Check.
+------------------------------------------------
+[00000216][ハイラム,char_513]
+Sigh...
+------------------------------------------------
+[00000217][ジンガ,char_005 zynga]
+law. 
+------------------------------------------------
+[00000218][シャノン,char_004 Shannon]
+Isn't it a nice field?
+I'll do it, Adam.
+------------------------------------------------
+[00000219][アダム,char_006 a-dam]
+thank you.
+------------------------------------------------
+[00000220][ハイラム,char_513]
+While working, I never get bored or feel tired.
+He just keeps on wielding his hoe in silence.
+This is the first time I've seen such a hard worker.
+------------------------------------------------
+[00000221][リアン,char_514]
+It's true. Dad can't do this.
+------------------------------------------------
+[00000222][アダム,char_006 a-dam]
+Because I am a machine.
+------------------------------------------------
+[00000223][フリード,char_001 Fried]
+I don't know, but it's just amazing, Adam.
+good job!
+------------------------------------------------
+[00000224][パニス,char_002 Panis]
+…………
+------------------------------------------------
+[00000225][シャノン,char_004 Shannon]
+Panis? what happened?
+------------------------------------------------
+[00000226][パニス,char_002 Panis]
+Panis...
+I want to sing!
+------------------------------------------------
+[00000227][フリード,char_001 Fried]
+picture?
+------------------------------------------------
+[00000228][パニス,char_002 Panis]
+Yeah!
+------------------------------------------------
+[00000229][リアン,char_514]
+That's a beautiful voice...
+------------------------------------------------
+[00000230][シャノン,char_004 Shannon]
+TRUE……
+Somehow I feel calmer...
+------------------------------------------------
+[00000231][鋼鱗丸,char_530]
+Yes...
+------------------------------------------------
+[00000232][アダム,char_006 a-dam]
+...?
+------------------------------------------------
+[00000233][ジンガ,char_005 zynga]
+what up? 
+------------------------------------------------
+[00000234][アダム,char_006 a-dam]
+No, it's nothing.
+However, there is a slight change in the thought program...
+------------------------------------------------
+[00000235][ハイラム,char_513]
+Hey! 
+------------------------------------------------
+[00000236][フリード,char_001 Fried]
+picture? a! Already sprouting!?
+------------------------------------------------
+[00000237][シャノン,char_004 Shannon]
+Liar!? What do you mean?
+------------------------------------------------
+[00000238][リアン,char_514]
+I wonder if it's because of Panis-chan's singing...
+------------------------------------------------
+[00000239][ジンガ,char_005 zynga]
+Come to think of it, the giants were also chased away with songs.
+What a mysterious power...
+------------------------------------------------
+[00000240][パニス,char_002 Panis]
+Phew...
+It's over!
+------------------------------------------------
+[00000241][アダム,char_006 a-dam]
+This is...a song.
+Panis-san's...song.
+------------------------------------------------
+[00000242][パニス,char_002 Panis]
+Hehehe, that's it!
+------------------------------------------------
+[00000243][アダム,char_006 a-dam]
+...!
+------------------------------------------------
+[00000244][パニス,char_002 Panis]
+what happened? 
+------------------------------------------------
+[00000245][アダム,char_006 a-dam]
+no. There is a slight change in the program...
+------------------------------------------------
+[00000246][アダム,char_006 a-dam]
+However, I quickly recovered.
+There seems to be no problem.
+However, until now such malfunctions...
+------------------------------------------------
+[00000247][シャノン,char_004 Shannon]
+Well, the details are fine!
+Adam, continue like this from tomorrow.
+Let's do our best!
+------------------------------------------------
+[00000248][アダム,char_006 a-dam]
+Yes, yes. I got it.
+We will continue to assist with the restoration work.
+------------------------------------------------
+[00000249][フリード,char_001 Fried]
+Yes, please help me.
+------------------------------------------------
+[00000250][フリード,char_001 Fried]
+Zynga, how is the fishing ground?
+...Is that Adam? What did you come here for?
+------------------------------------------------
+[00000251][アダム,char_006 a-dam]
+I heard that Mr. Zinga called me.
+Is there anything you need?
+------------------------------------------------
+[00000252][ジンガ,char_005 zynga]
+ah. I would be grateful if the people at the fishing grounds could also help out.
+Do you mind?
+------------------------------------------------
+[00000253][アダム,char_006 a-dam]
+Even in response to Mr. Freed and Mr. Zynga's request,
+is this good?
+------------------------------------------------
+[00000254][フリード,char_001 Fried]
+Oh, of course.
+If only Adam wasn't overworked and tired.
+------------------------------------------------
+[00000255][アダム,char_006 a-dam]
+No, I'm like you all.
+You won't get tired.
+Although there may be a temporary lack of energy.
+------------------------------------------------
+[00000256][フリード,char_001 Fried]
+What are you talking about?
+I don't really understand it, but
+It's amazing that I don't get tired.
+------------------------------------------------
+[00000257][アダム,char_006 a-dam]
+……nothing?
+------------------------------------------------
+[00000258][パニス,char_002 Panis]
+Wow!
+------------------------------------------------
+[00000259][シャノン,char_004 Shannon]
+what? 
+------------------------------------------------
+[00000260][アダム,char_006 a-dam]
+Alert, alert.
+Spotting an approaching ship.
+A ship is approaching this point.
+------------------------------------------------
+[00000261][フリード,char_001 Fried]
+A ship? Zynga, can you see it?
+------------------------------------------------
+[00000262][ジンガ,char_005 zynga]
+Oh, I wonder. Even though it's so far away,
+Good find, Adam.
+------------------------------------------------
+[00000263][アダム,char_006 a-dam]
+I have a defensive mid-range scanning system.
+It is installed.
+------------------------------------------------
+[00000264][ジンガ,char_005 zynga]
+I don't really understand that system, but
+Well done Adam. Apparently the other party is a pirate ship.
+------------------------------------------------
+[00000265][シャノン,char_004 Shannon]
+pirate ship? 
+------------------------------------------------
+[00000266][ジンガ,char_005 zynga]
+No, that's Levin's ship.
+This one is a little tough.
+------------------------------------------------
+[00000267][シャノン,char_004 Shannon]
+Is Levin a former aristocrat or a prince?
+He's the one that's rumored, right?
+------------------------------------------------
+[00000268][フリード,char_001 Fried]
+If so, it's a bit troublesome...
+He has a completely different way of fighting than other pirates.
+If you play against them normally, you won't be able to win.
+------------------------------------------------
+[00000269][ジンガ,char_005 zynga]
+We're getting pretty close to the beach.
+I don't have time to chat!
+Hurry up and prepare to attack!
+------------------------------------------------
+[00000270][フリード,char_001 Fried]
+Levin!
+------------------------------------------------
+[00000271][レヴィン,char_009 Levin]
+Hey there, boy!　Your friends are with you too.
+Have you been doing well?
+------------------------------------------------
+[00000272][シャノン,char_004 Shannon]
+There's no reason for you to ask me such a thing!
+------------------------------------------------
+[00000273][レヴィン,char_009 Levin]
+Oh my, it's still the elf sister.
+frightening. 
+------------------------------------------------
+[00000274][シャノン,char_004 Shannon]
+What!?
+------------------------------------------------
+[00000275][レヴィン,char_009 Levin]
+For a young and beautiful woman like you,
+A more calm and graceful attitude is more suitable.
+That's what I think, lady.
+------------------------------------------------
+[00000276][シャノン,char_004 Shannon]
+eh? 
+------------------------------------------------
+[00000277][ジンガ,char_005 zynga]
+He's still a nasty guy...
+------------------------------------------------
+[00000278][シャノン,char_004 Shannon]
+But, there's something elegant about it.
+Maybe the rumors about the former prince are true...
+------------------------------------------------
+[00000279][フリード,char_001 Fried]
+Levin, stop it!
+Don't make fun of my sister by saying things you don't mean!
+------------------------------------------------
+[00000280][レヴィン,char_009 Levin]
+yeah?
+------------------------------------------------
+[00000281][シャノン,char_004 Shannon]
+Freed! What's that?
+Does that mean you think I'm no good?
+Does that mean you think I’m ugly!?
+------------------------------------------------
+[00000282][フリード,char_001 Fried]
+eh!?
+No, no, that's not it...
+------------------------------------------------
+[00000283][レヴィン,char_009 Levin]
+...Hehe.
+Hahahaha! Hahahaha!!
+------------------------------------------------
+[00000284][レヴィン,char_009 Levin]
+You guys are the same!
+Thanks to this, you won't get bored no matter when you come!
+I'm starting to want this island even more!
+------------------------------------------------
+[00000285][レヴィン,char_009 Levin]
+A location with abundant fruit and wide open access to the ocean.
+And happy citizens. No matter what,
+This person deserves to be my fief.
+------------------------------------------------
+[00000286][ジンガ,char_005 zynga]
+Unfortunately. No one can take over the island.
+Let me go home!
+------------------------------------------------
+[00000287][レヴィン,char_009 Levin]
+That line is the same as always. All right.
+Territory is interesting because it can be taken by force.
+------------------------------------------------
+[00000288][レヴィン,char_009 Levin]
+Well then, let's get started!
+A battle to steal the country!
+------------------------------------------------
+[00000289][アダム,char_006 a-dam]
+Repairs have been completed.
+Fishing boats can enter and exit.
+------------------------------------------------
+[00000290][ジンガ,char_005 zynga]
+Oh! That means I can finally go fishing!
+Hahaha! I've been waiting for this moment!
+------------------------------------------------
+[00000291][アダム,char_006 a-dam]
+Most of the equipment has regained its previous functionality.
+It seems.
+------------------------------------------------
+[00000292][ジンガ,char_005 zynga]
+If the equipment is returned, it's ours!
+Wait, fish!
+This Jinga-sama is going to catch it soon!
+------------------------------------------------
+[00000293][ジンガ,char_005 zynga]
+Hahahahahaha!
+------------------------------------------------
+[00000294][パニス,char_002 Panis]
+……that?
+------------------------------------------------
+[00000295][フリード,char_001 Fried]
+what happened? 
+------------------------------------------------
+[00000296][パニス,char_002 Panis]
+Zynga is strange.
+------------------------------------------------
+[00000297][鋼鱗丸,char_530]
+Moimoi~?
+------------------------------------------------
+[00000298][シャノン,char_004 Shannon]
+ah. Zynga's main job is as a fisherman, right?
+I love the sea and fish so much...
+------------------------------------------------
+[00000299][シャノン,char_004 Shannon]
+Before I go fishing, I feel a bit uneasy.
+It seems like I'm being too proud.
+------------------------------------------------
+[00000300][パニス,char_002 Panis]
+Huh...
+------------------------------------------------
+[00000301][フリード,char_001 Fried]
+There are some things that are a little different, but
+Jinga is the best fisherman on the island.
+------------------------------------------------
+[00000302][フリード,char_001 Fried]
+Panis, delicious fish coming soon.
+You'll be able to eat a lot.
+------------------------------------------------
+[00000303][パニス,char_002 Panis]
+fish? I want to eat it soon!
+------------------------------------------------
+[00000304][シャノン,char_004 Shannon]
+Hehehe. Wait, Panis.
+When the jinga fishing begins,
+I'll bake you some new bread filled with fish.
+------------------------------------------------
+[00000305][フリード,char_001 Fried]
+stop! 
+------------------------------------------------
+[00000306][シャノン,char_004 Shannon]
+What a reaction! It'll be okay this time!
+------------------------------------------------
+[00000307][ラナ,char_528]
+Ahaha. It's still lively, isn't it?
+You sisters and brothers.
+------------------------------------------------
+[00000308][フリード,char_001 Fried]
+Oh, Lana!
+------------------------------------------------
+[00000309][ラナ,char_528]
+Yes. Hello~♪
+------------------------------------------------
+[00000310][シャノン,char_004 Shannon]
+Hello Lana! But when did you come?
+I never noticed your ship.
+------------------------------------------------
+[00000311][ラナ,char_528]
+I felt like I was trying to figure something out,
+We entered the port from the back side of the island.
+It would be a problem if the ship was damaged.
+------------------------------------------------
+[00000312][ラナ,char_528]
+It seems like he did a pretty good job, but
+Is your opponent Levin?
+------------------------------------------------
+[00000313][フリード,char_001 Fried]
+that's right.
+He also said that he would make the island his territory.
+------------------------------------------------
+[00000314][ラナ,char_528]
+Hmm, I don't regret it.
+It's hard for you guys too.
+------------------------------------------------
+[00000315][パニス,char_002 Panis]
+Hey hey, who is this older sister?
+------------------------------------------------
+[00000316][ラナ,char_528]
+I? We are conducting trade between the continent and this island.
+Are you the rumored angel?
+------------------------------------------------
+[00000317][フリード,char_001 Fried]
+Do you know about Panis?
+------------------------------------------------
+[00000318][ラナ,char_528]
+Yeah. I've heard a lot of things from people in the village.
+It must have been difficult, right?
+------------------------------------------------
+[00000319][シャノン,char_004 Shannon]
+Well. There were no injuries
+It's a blessing in disguise.
+------------------------------------------------
+[00000320][ラナ,char_528]
+It seems so. But broken buildings,
+Isn't it difficult to repair? Even daily necessities
+There will be things that I will have to buy again.
+------------------------------------------------
+[00000321][ラナ,char_528]
+I'm visiting you today,
+I brought some items that I thought I would need.
+------------------------------------------------
+[00000322][ラナ,char_528]
+Well, things like lumber, nails, and building materials.
+Medicine, blankets, and emergency food...
+Also, give the children notes...
+------------------------------------------------
+[00000323][ラナ,char_528]
+I wonder if it was something like that...?
+Well, there are a lot of them, so feel free to use them if you like!
+------------------------------------------------
+[00000324][フリード,char_001 Fried]
+thank you! 
+------------------------------------------------
+[00000325][ラナ,char_528]
+It's good, it's good. We have to take care of our customers.
+Well then, I'll head back to the ship!
+------------------------------------------------
+[00000326][シャノン,char_004 Shannon]
+Yeah!
+------------------------------------------------
+[00000327][フリード,char_001 Fried]
+@fcFFAAFFAA (Thanks to Lana, the village was restored.
+Looks like it's going well...
+I have to try harder! )
+------------------------------------------------
+[00000328][ジンガ,char_005 zynga]
+Freed! everyone!
+Hurry, the pirates have appeared again!
+------------------------------------------------
+[00000329][パニス,char_002 Panis]
+Pirate? Are you coming by boat?
+------------------------------------------------
+[00000330][フリード,char_001 Fried]
+Levin again? Even though I just arrived the other day.
+------------------------------------------------
+[00000331][ジンガ,char_005 zynga]
+No, not Levin or Bacchus.
+It's new! Anyway, let's go to the beach over there!
+------------------------------------------------
+[00000332][？？？,char_601]
+Oh, you're late, aren't you?
+I've been waiting.
+------------------------------------------------
+[00000333][フリード,char_001 Fried]
+I was waiting, you know?
+------------------------------------------------
+[00000334][ベルベット,char_008 Velvet]
+Yeah. I'm Velvet. He's a somewhat well-known pirate.
+I look forward to working with you in the future.
+------------------------------------------------
+[00000335][シャノン,char_004 Shannon]
+That Velvet-san and others,
+What do you want to ask us? In this village,
+I don't think I have the kind of information you want?
+------------------------------------------------
+[00000336][ベルベット,char_008 Velvet]
+That's not necessarily the case, right?
+------------------------------------------------
+[00000337][ジンガ,char_005 zynga]
+If so, please tell me what you want to hear.
+In some cases, we may not cooperate.
+------------------------------------------------
+[00000338][フリード,char_001 Fried]
+I agree. 
+------------------------------------------------
+[00000339][シャノン,char_004 Shannon]
+Wait a minute!? Freed? Zynga?
+What, isn't that too easy on pirates?
+------------------------------------------------
+[00000340][ジンガ,char_005 zynga]
+Pirates or whatever,
+As long as it doesn't cause any trouble to the village,
+It would be better to let things go peacefully.
+------------------------------------------------
+[00000341][フリード,char_001 Fried]
+So let's listen to the story first.
+I mean, it's always like that, right?
+------------------------------------------------
+[00000342][シャノン,char_004 Shannon]
+No, no, that's true, but...
+------------------------------------------------
+[00000343][ベルベット,char_008 Velvet]
+Hehe, boys are good at listening.
+Sister, you love those kind of kids, don't you?
+Well then, I'll ask you again...
+------------------------------------------------
+[00000344][ベルベット,char_008 Velvet]
+What brings "power" to this island
+It should be there...
+i don't know?
+------------------------------------------------
+[00000345][ジンガ,char_005 zynga]
+"Power"...?
+Even if you say so.
+------------------------------------------------
+[00000346][フリード,char_001 Fried]
+There are people who ask me sometimes,
+Even if we ask you
+I don't know...
+------------------------------------------------
+[00000347][アダム,char_006 a-dam]
+Also in my database
+Not recorded.
+------------------------------------------------
+[00000348][ベルベット,char_008 Velvet]
+yes? Strange things still happen on this island
+It seems like a lot of things are happening, right?
+------------------------------------------------
+[00000349][ベルベット,char_008 Velvet]
+The appearance of a legendary angel...
+An attack by a mysterious giant.
+------------------------------------------------
+[00000350][フリード,char_001 Fried]
+What...!?
+------------------------------------------------
+[00000351][ベルベット,char_008 Velvet]
+Oh, you seem to have something on your mind?
+After all, you know something, right?
+------------------------------------------------
+[00000352][フリード,char_001 Fried]
+...Certainly, there are many legends,
+The other day, giants also attacked,
+But as for "power" or something...
+------------------------------------------------
+[00000353][ベルベット,char_008 Velvet]
+Don't you know? Really?
+Or maybe you just don't feel like talking about it?
+------------------------------------------------
+[00000354][ベルベット,char_008 Velvet]
+For example, that little lady with wings over there?
+You know something, right?
+------------------------------------------------
+[00000355][パニス,char_002 Panis]
+picture?  No. 
+------------------------------------------------
+[00000356][シャノン,char_004 Shannon]
+Panis has nothing to do with it, Panis!
+Stop getting involved!
+------------------------------------------------
+[00000357][ベルベット,char_008 Velvet]
+That's right. Forcing the child
+I'll stop it. But for everyone else...
+------------------------------------------------
+[00000358][ベルベット,char_008 Velvet]
+Just a little bit,
+I wonder if I should force myself to ask!
+------------------------------------------------
+[00000359][フリード,char_001 Fried]
+Village Chief, there's something I'd like you to tell me.
+Is it okay?
+------------------------------------------------
+[00000360][ガルゼー,char_501]
+I don't mind.
+What happened? 
+------------------------------------------------
+[00000361][フリード,char_001 Fried]
+among the pirates
+"There's something about this island that gives it strength."
+It seems like it's supposed to be...
+------------------------------------------------
+[00000362][フリード,char_001 Fried]
+What on earth does that mean?
+------------------------------------------------
+[00000363][ガルゼー,char_501]
+Something that brings power...
+Well, this island is certainly
+I'm sure it's a strange place.
+------------------------------------------------
+[00000364][ガルゼー,char_501]
+If you only know this island, you probably don't really feel it,
+Here, crops and animals
+It grows really well compared to other lands.
+------------------------------------------------
+[00000365][フリード,char_001 Fried]
+That's right……
+------------------------------------------------
+[00000366][ガルゼー,char_501]
+And, as you know,
+There are many legends and stories left on this island.
+Many pirates gather after hearing such stories.
+------------------------------------------------
+[00000367][ガルゼー,char_501]
+These people are really knowledgeable about legends and myths.
+For example, Bacchus.
+------------------------------------------------
+[00000368][ガルゼー,char_501]
+Maybe the pirates
+He's grasping something that we don't know...
+That's possible.
+------------------------------------------------
+[00000369][フリード,char_001 Fried]
+What do you mean by "grasping"?
+------------------------------------------------
+[00000370][ガルゼー,char_501]
+I don't know that much.
+However, deep within the forest of giant trees
+If you go to the ruins, or...
+------------------------------------------------
+[00000371][フリード,char_001 Fried]
+What are there in the ruins?
+------------------------------------------------
+[00000372][ガルゼー,char_501]
+There are various legends related to it.
+It is said that there are relics left behind.
+If you go there, you might find out something.
+------------------------------------------------
+[00000373][フリード,char_001 Fried]
+Deep in the forest of giant trees...
+Understood! I'll go check it out!
+------------------------------------------------
+[00000374][ジンガ,char_005 zynga]
+However, deep in the forest of giant trees,
+I had no idea a place like this existed.
+------------------------------------------------
+[00000375][シャノン,char_004 Shannon]
+It's a pretty big stone statue.
+------------------------------------------------
+[00000376][パニス,char_002 Panis]
+Hey, is this kid Adam's friend?
+------------------------------------------------
+[00000377][アダム,char_006 a-dam]
+very sorry.
+there is no data.
+------------------------------------------------
+[00000378][パニス,char_002 Panis]
+picture?
+------------------------------------------------
+[00000379][アダム,char_006 a-dam]
+Some of the systems that control my body are
+It seems to be malfunctioning.
+Therefore, some data is missing.
+------------------------------------------------
+[00000380][パニス,char_002 Panis]
+Panis, I don't understand what you're talking about.
+------------------------------------------------
+[00000381][アダム,char_006 a-dam]
+In other words, you say,
+I'm in a state where I don't remember.
+------------------------------------------------
+[00000382][パニス,char_002 Panis]
+That's right, hmm...
+------------------------------------------------
+[00000383][フリード,char_001 Fried]
+Ah, panis! Don't touch me unnecessarily...
+------------------------------------------------
+[00000384][フリード,char_001 Fried]
+Wow!
+------------------------------------------------
+[00000385][シャノン,char_004 Shannon]
+Yay! Ji-earthquake!?
+------------------------------------------------
+[00000386][パニス,char_002 Panis]
+What what?
+------------------------------------------------
+[00000387][鋼鱗丸,char_530]
+Moi! Moi moi moi!
+------------------------------------------------
+[00000388][ジンガ,char_005 zynga]
+everyone! 
+------------------------------------------------
+[00000389][シャノン,char_004 Shannon]
+It seems like it's settled down...
+------------------------------------------------
+[00000390][アダム,char_006 a-dam]
+Although the epicenter cannot be determined,
+It seems pretty close.
+------------------------------------------------
+[00000391][鋼鱗丸,char_530]
+Too...
+------------------------------------------------
+[00000392][パニス,char_002 Panis]
+I was surprised...
+------------------------------------------------
+[00000393][フリード,char_001 Fried]
+What was it just now?
+As soon as Panis touched the statue,
+It seemed like the ground was shaking.
+------------------------------------------------
+[00000394][パニス,char_002 Panis]
+Panis, aren't you shaking?
+------------------------------------------------
+[00000395][フリード,char_001 Fried]
+No, that's not what I mean...
+------------------------------------------------
+[00000396][ジンガ,char_005 zynga]
+I'm more worried about the village than that.
+The current shaking may have caused some damage.
+------------------------------------------------
+[00000397][フリード,char_001 Fried]
+I agree. 
+------------------------------------------------
+[00000398][ガルゼー,char_501]
+Really.
+That kind of thing...
+------------------------------------------------
+[00000399][フリード,char_001 Fried]
+that's right. The ground started shaking...
+------------------------------------------------
+[00000400][パニス,char_002 Panis]
+Panis, don't waver.
+------------------------------------------------
+[00000401][フリード,char_001 Fried]
+Yeah, I know.
+That's not what I'm saying.
+Anyway, village chief?
+------------------------------------------------
+[00000402][フリード,char_001 Fried]
+People in the village said it wasn't shaking at all.
+TRUE?
+------------------------------------------------
+[00000403][アダム,char_006 a-dam]
+Significant shaking has been recorded near the ruins.
+------------------------------------------------
+[00000404][ガルゼー,char_501]
+Is that so.
+This was completely peaceful.
+The ground isn't moving at all.
+------------------------------------------------
+[00000405][ジンガ,char_005 zynga]
+That would be fine...
+------------------------------------------------
+[00000406][シャノン,char_004 Shannon]
+But why is it only around those ruins?
+I wonder if it shook.
+------------------------------------------------
+[00000407][パニス,char_002 Panis]
+Panis, don't waver!
+------------------------------------------------
+[00000408][シャノン,char_004 Shannon]
+All right. 
+------------------------------------------------
+[00000409][アダム,char_006 a-dam]
+The cause is currently unknown.
+------------------------------------------------
+[00000410][ガルゼー,char_501]
+HM……
+------------------------------------------------
+[00000411][シャノン,char_004 Shannon]
+What's wrong, village chief?
+You look difficult...
+------------------------------------------------
+[00000412][ガルゼー,char_501]
+No, it's nothing.
+It's nothing, but it's a little unsettling.
+I hope nothing happens after this.
+------------------------------------------------
+[00000413][ジンガ,char_005 zynga]
+…………
+------------------------------------------------
+[00000414][ガルゼー,char_501]
+Oops, sorry. She said something strange.
+It is difficult to replace the elderly. Listen to me.
+------------------------------------------------
+[00000415][ガルゼー,char_501]
+Anyway, everyone must be tired today.
+You should go home and rest.
+------------------------------------------------
+[00000416][ガルゼー,char_501]
+Probably nothing much will happen.
+There's nothing to worry about.
+------------------------------------------------
+[00000417][フリード,char_001 Fried]
+Peter, what's wrong? In a daze.
+------------------------------------------------
+[00000418][ピーター,char_520]
+picture? I was just looking at the ruins.
+Well, something strange happened.
+------------------------------------------------
+[00000419][フリード,char_001 Fried]
+Something strange? what kind?
+------------------------------------------------
+[00000420][ピーター,char_520]
+The sky just over there, right above the ruins,
+It was glowing blue.
+------------------------------------------------
+[00000421][ピーター,char_520]
+I feel kind of creepy while watching it
+I've become so
+Yube went straight into the house...
+------------------------------------------------
+[00000422][ピーター,char_520]
+Still, I'm kind of curious,
+This morning I looked at the ruins again,
+The light was already gone.
+------------------------------------------------
+[00000423][ピーター,char_520]
+It's still not shining as you can see, right?
+------------------------------------------------
+[00000424][フリード,char_001 Fried]
+I agree. I'm curious...
+I'll go check it out at night.
+------------------------------------------------
+[00000425][シャノン,char_004 Shannon]
+Freed, is it true?
+At night, the ruins start to glow...
+------------------------------------------------
+[00000426][フリード,char_001 Fried]
+I don't know, but...
+Peter isn't the kind of guy to lie,
+You're not the type to come up with jokes like that, are you?
+------------------------------------------------
+[00000427][シャノン,char_004 Shannon]
+That's certainly true.
+------------------------------------------------
+[00000428][パニス,char_002 Panis]
+I want to see the ruins glow...
+What's it like? I wonder what it's like?
+------------------------------------------------
+[00000429][ジンガ,char_005 zynga]
+Hey! Look at that!
+------------------------------------------------
+[00000430][フリード,char_001 Fried]
+a! 
+------------------------------------------------
+[00000431][パニス,char_002 Panis]
+great! 
+------------------------------------------------
+[00000432][鋼鱗丸,char_530]
+Yes! Moi moi moi!
+------------------------------------------------
+[00000433][シャノン,char_004 Shannon]
+beautiful……
+------------------------------------------------
+[00000434][アダム,char_006 a-dam]
+The surface temperature of the crystal is
+It seems to be the same as the outside temperature.
+The source of the light is unknown.
+------------------------------------------------
+[00000435][フリード,char_001 Fried]
+What do you mean?
+------------------------------------------------
+[00000436][アダム,char_006 a-dam]
+It's not hot to the touch,
+I don't know why the light is coming out,
+about it.
+------------------------------------------------
+[00000437][パニス,char_002 Panis]
+Can I touch it?
+------------------------------------------------
+[00000438][フリード,char_001 Fried]
+It seems okay, but be careful.
+------------------------------------------------
+[00000439][パニス,char_002 Panis]
+Yeah……
+------------------------------------------------
+[00000440][シャノン,char_004 Shannon]
+Huh, Freed...?
+Jinga...?
+------------------------------------------------
+[00000441][フリード,char_001 Fried]
+what?
+------------------------------------------------
+[00000442][シャノン,char_004 Shannon]
+that……!
+------------------------------------------------
+[00000443][ジンガ,char_005 zynga]
+...! That is……!
+------------------------------------------------
+[00000444][フリード,char_001 Fried]
+Crimson moon!? Then, no way...!
+------------------------------------------------
+[00000445][ジム,char_502]
+Big brother! It's so hard!
+------------------------------------------------
+[00000446][ジンガ,char_005 zynga]
+Jim!? What happened!
+------------------------------------------------
+[00000447][ジム,char_502]
+In the cove...
+That giant appeared in the cove!
+------------------------------------------------
+[00000448][ジンガ,char_005 zynga]
+what!?
+------------------------------------------------
+[00000449][フリード,char_001 Fried]
+Let's go anyway!
+Panis! here!
+------------------------------------------------
+[00000450][パニス,char_002 Panis]
+Yeah!
+------------------------------------------------
+[00000451][シャノン,char_004 Shannon]
+Fu, Freed!? What should we do?
+What to do!?
+------------------------------------------------
+[00000452][フリード,char_001 Fried]
+No matter what you do, you have to fight!
+I can't let him into the village again.
+You're not going!
+------------------------------------------------
+[00000453][アダム,char_006 a-dam]
+roger that. 
+------------------------------------------------
+[00000454][シャノン,char_004 Shannon]
+How do you say "I'll stop you"? previously,
+The attack didn't work on him at all.
+------------------------------------------------
+[00000455][ジンガ,char_005 zynga]
+At that time, one more breath is all it takes to inflict a wound.
+By the way, that's it.
+If only there were bigger weapons...
+------------------------------------------------
+[00000456][シャノン,char_004 Shannon]
+There is no such thing!
+I'm not ready!
+What to do!?
+------------------------------------------------
+[00000457][ジンガ,char_005 zynga]
+...That cannon over there...
+------------------------------------------------
+[00000458][シャノン,char_004 Shannon]
+Cannon!? Does it move?　Can I use that?
+------------------------------------------------
+[00000459][ジンガ,char_005 zynga]
+No, I tried it before as a countermeasure against giants, but it didn't work.
+Those are just ruins.
+I wish I could use it...
+------------------------------------------------
+[00000460][シャノン,char_004 Shannon]
+That's right...!
+------------------------------------------------
+[00000461][アダム,char_006 a-dam]
+Check your device. Start the connection.
+------------------------------------------------
+[00000462][シャノン,char_004 Shannon]
+Adam?What on earth...
+------------------------------------------------
+[00000463][ジンガ,char_005 zynga]
+The cannon has started moving!?
+------------------------------------------------
+[00000464][アダム,char_006 a-dam]
+Fire control system connection completed.
+------------------------------------------------
+[00000465][シャノン,char_004 Shannon]
+Can you shoot? Can you shoot it?
+------------------------------------------------
+[00000466][アダム,char_006 a-dam]
+Yes, you can shoot.
+------------------------------------------------
+[00000467][シャノン,char_004 Shannon]
+good……
+I guess that's the case...!
+------------------------------------------------
+[00000468][フリード,char_001 Fried]
+Yeah!
+With this, I might be able to defeat him!
+Alright everyone, let's do our best and protect the village!
+------------------------------------------------
+[00000469][パニス,char_002 Panis]
+picture!?
+------------------------------------------------
+[00000470][パニス,char_002 Panis]
+Ah, that...?
+------------------------------------------------
+[00000471][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000Huh...?
+What about Freed? What about your sister?
+Everyone?
+------------------------------------------------
+[00000472][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000 Panis, what's wrong?
+It's kind of weird...
+------------------------------------------------
+[00000473][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000This song...
+------------------------------------------------
+[00000474][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000 Panis, I know.
+this……
+------------------------------------------------
+[00000475][パニス,char_002 Panis]
+@lt1@fs16@dt2@db1@dcFF000000 Huh? but……
+------------------------------------------------
+[00000476][フリード,char_001 Fried]
+Panis, what's wrong?
+...Panis?
+------------------------------------------------
+[00000477][鋼鱗丸,char_530]
+Too? Moimoi?
+------------------------------------------------
+[00000478][パニス,char_002 Panis]
+……picture?
+------------------------------------------------
+[00000479][フリード,char_001 Fried]
+Are you okay? It seemed like it was flying away.
+------------------------------------------------
+[00000480][パニス,char_002 Panis]
+No, it's okay. Panis isn't flying anywhere.
+------------------------------------------------
+[00000481][フリード,char_001 Fried]
+yes? 
+------------------------------------------------
+[00000482][ジム,char_502]
+Big brother of Zynga! Freed!
+Did you win? Did he defeat him!?
+------------------------------------------------
+[00000483][ハンス,char_510]
+I rushed to support him, but
+Are you a little late?
+------------------------------------------------
+[00000484][ジンガ,char_005 zynga]
+sorry. 
+------------------------------------------------
+[00000485][ガルゼー,char_501]
+Is that giant gone now?
+I think I can finally sleep in peace.
+------------------------------------------------
+[00000486][シャノン,char_004 Shannon]
+That's right. I'm sure it'll be okay now.
+It's okay... right? Panis?
+------------------------------------------------
+[00000487][パニス,char_002 Panis]
+Uh……
+------------------------------------------------
+[00000488][シャノン,char_004 Shannon]
+what happened?
+------------------------------------------------
+[00000489][パニス,char_002 Panis]
+you know what?I think Panis.
+------------------------------------------------
+[00000490][シャノン,char_004 Shannon]
+picture……?
+------------------------------------------------
+[00000491][ジム,char_502]
+another……? If something like that attacks again
+What should I do...
+------------------------------------------------
+[00000492][フリード,char_001 Fried]
+It's okay, Jim. I was able to defeat him this time.
+I'm sure it'll be okay next time.
+------------------------------------------------
+[00000493][ジム,char_502]
+But hey!
+------------------------------------------------
+[00000494][ジンガ,char_005 zynga]
+Don't worry about that, just head straight ahead without flinching.
+Weapons can even be used against giants.
+We proved that this time.
+------------------------------------------------
+[00000495][ジンガ,char_005 zynga]
+And thanks to Adam
+Cannons can now be used,
+Even if he comes next time, he will definitely be able to protect the village.
+------------------------------------------------
+[00000496][ハンス,char_510]
+That's right. I'm not afraid of giants anymore!
+------------------------------------------------
+[00000497][ガルゼー,char_501]
+Hmm, I don't want to attack the enemy,
+There's no need to be overly afraid.
+------------------------------------------------
+[00000498][ジム,char_502]
+Oh, really? I do not think so.
+Well, if the village chief and big brother say so...
+------------------------------------------------
+[00000499][アダム,char_006 a-dam]
+If the enemy has the same fighting power as this time,
+Defense seems possible.
+------------------------------------------------
+[00000500][フリード,char_001 Fried]
+That's right, there's nothing to be afraid of.
+If everyone works together,
+I'm sure it's a giant...
+------------------------------------------------
+[00000501][パニス,char_002 Panis]
+...Hey, Freed?
+------------------------------------------------
+[00000502][フリード,char_001 Fried]
+yeah?
+------------------------------------------------
+[00000503][パニス,char_002 Panis]
+I want to go to the place where the stones are shining.
+------------------------------------------------
+[00000504][フリード,char_001 Fried]
+Are the stones glowing?
+Oh, by any chance, do you mean crystal?
+Do you want to go to the ruins now?
+------------------------------------------------
+[00000505][パニス,char_002 Panis]
+Yeah. 
+------------------------------------------------
+[00000506][フリード,char_001 Fried]
+Understood.
+Well then, let's go.
+------------------------------------------------
+[00000507][フリード,char_001 Fried]
+@fcFFAAFFAA (But going to the ruins this late at night...
+What are you going to do? )
+------------------------------------------------
+[00000508][シャノン,char_004 Shannon]
+I suddenly want to go to the ruins.
+what happened? 
+------------------------------------------------
+[00000509][鋼鱗丸,char_530]
+Too?
+------------------------------------------------
+[00000510][フリード,char_001 Fried]
+here we go. 
+------------------------------------------------
+[00000511][ジンガ,char_005 zynga]
+Well, that's fine.
+It's not that far away.
+------------------------------------------------
+[00000512][アダム,char_006 a-dam]
+Mr. Panis, your destination is just around the corner.
+It looks like the crystal is still emitting light.
+------------------------------------------------
+[00000513][パニス,char_002 Panis]
+Yeah. 
+------------------------------------------------
+[00000514][ジンガ,char_005 zynga]
+this is……
+what the hell?
+------------------------------------------------
+[00000515][シャノン,char_004 Shannon]
+I wonder what's going on.
+When Panis starts singing,
+The crystal light suddenly became strong...
+------------------------------------------------
+[00000516][アダム,char_006 a-dam]
+I don't understand.
+there is no data.
+------------------------------------------------
+[00000517][フリード,char_001 Fried]
+I don't know either.
+I don't know but...
+------------------------------------------------
+[00000518][フリード,char_001 Fried]
+But this Panis song,
+For us somehow,
+I feel like it gives me strength.
+------------------------------------------------
+[00000519][シャノン,char_004 Shannon]
+I definitely feel like I'm feeling better
+I feel like that.
+------------------------------------------------
+[00000520][ジンガ,char_005 zynga]
+I see. 
+------------------------------------------------
+[00000521][アダム,char_006 a-dam]
+I don't understand, but...
+There seems to be some improvement in processing speed.
+------------------------------------------------
+[00000522][フリード,char_001 Fried]
+Not limited to this song, but
+Panis has a mysterious power
+It seems like he has a lot of things.
+------------------------------------------------
+[00000523][フリード,char_001 Fried]
+And that power comes from the giants
+It becomes necessary to protect the village.
+That's the way it seems to me.
+------------------------------------------------
+[00000524][フリード,char_001 Fried]
+That's why I want to protect Panis.
+To protect the village and everyone else.
+------------------------------------------------
+[00000525][ジンガ,char_005 zynga]
+Really. Honestly, I have no idea...
+------------------------------------------------
+[00000526][ジンガ,char_005 zynga]
+If you think so,
+Let's respect that decision.
+I'll lend a hand to protect Panis.
+------------------------------------------------
+[00000527][シャノン,char_004 Shannon]
+I agree with Freed.
+Because Panis is
+I saved everyone from the giants...
+------------------------------------------------
+[00000528][シャノン,char_004 Shannon]
+Above all, they are my family!
+------------------------------------------------
+[00000529][アダム,char_006 a-dam]
+I got it. 
+------------------------------------------------
+[00000530][フリード,char_001 Fried]
+Thanks guys!
+What kind of opponent will appear from now on?
+I have no idea though...
+------------------------------------------------
+[00000531][フリード,char_001 Fried]
+Let's do our best and protect Panis and everyone else!
+------------------------------------------------
+[00000532][ジンガ,char_005 zynga]
+Ou!
+------------------------------------------------
+[00000533][シャノン,char_004 Shannon]
+oh!
+------------------------------------------------
+[00000534][アダム,char_006 a-dam]
+yes!
+------------------------------------------------
+[00000535][パニス,char_002 Panis]
+oh!
+------------------------------------------------
+[00000536][鋼鱗丸,char_530]
+Too!
+------------------------------------------------
+

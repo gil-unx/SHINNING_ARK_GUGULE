@@ -1,0 +1,41 @@
+[0013]
+*****************
+[00000000]
+Do you want to save?
+--------------------------------
+[00000001]
+Cancel save. \nAre you sure?
+--------------------------------
+[00000002]
+Do you want to save?
+--------------------------------
+[00000003]
+We recommend you to save this data to a new slot ，as it is not possible to return to Azer village. @fci
+--------------------------------
+[00000004]
+Cancel save. \nAre you sure?
+--------------------------------
+[00000005]
+We recommend you to save this data to a new slot ，as it is not possible to return to Azer village. @fci
+--------------------------------
+[00000006]
+Do you want to save the clear data? \nLoading this data will open the EX chapter.
+--------------------------------
+[00000007]
+Cancel save. \nAre you sure?
+--------------------------------
+[00000008]
+SysCallConfirmsSaveSequence
+--------------------------------
+[00000009]
+SysCallConfirmsEndingSaveSequence
+--------------------------------
+[00000010]
+SysCallConfirmsGoArkSaveSequence
+--------------------------------
+[00000011]
+SysCallConfirmsSaveSequence
+--------------------------------
+[00000012]
+main
+--------------------------------

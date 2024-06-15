@@ -1,0 +1,60 @@
+[0015]
+*****************
+[00000000][カール,char_508]
+Wow!!
+------------------------------------------------
+[00000001][フリード,char_001 Fried]
+It’s dangerous!!
+------------------------------------------------
+[00000002][カール,char_508]
+Fu, Freed!? Help me!!
+------------------------------------------------
+[00000003][キルマリア,char_007 Kilmaria]
+Hey monsters!!
+An agent of the devil who disturbs people's peace...
+I am the one who will succeed!
+------------------------------------------------
+[00000004][メリー,char_509]
+Oh, there's Killmaria too!
+------------------------------------------------
+[00000005][フリード,char_001 Fried]
+Everyone, wait!
+I'll help you now!
+------------------------------------------------
+[00000006][フリード,char_001 Fried]
+Damn...no matter how many times I knock him down, he still gets back up.
+What a stubborn guy!?
+------------------------------------------------
+[00000007][キルマリア,char_007 Kilmaria]
+Mr. Freed, please leave this to me!
+I'll cleanse him and exorcise him!
+------------------------------------------------
+[00000008][フリード,char_001 Fried]
+Isn't he a really dangerous guy...
+------------------------------------------------
+[00000009][キルマリア,char_007 Kilmaria]
+good……
+my justice is
+I guess I wasn't wrong...
+------------------------------------------------
+[00000010][キルマリア,char_007 Kilmaria]
+...This is no time to be happy!
+------------------------------------------------
+[00000011][キルマリア,char_007 Kilmaria]
+For peace on this island,
+In the name of heaven and earth and justice
+I will exorcise you! Be prepared!!
+------------------------------------------------
+[00000012][キルマリア,char_007 Kilmaria]
+You did it, did not you?
+Peace on this island has been preserved!
+Justice wins!
+------------------------------------------------
+[00000013][フリード,char_001 Fried]
+Yeah! It's Kilmaria's trump card.
+------------------------------------------------
+[00000014][キルマリア,char_007 Kilmaria]
+yes!
+Thank you, Mr. Freed!
+------------------------------------------------
+

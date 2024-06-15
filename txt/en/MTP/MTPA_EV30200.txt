@@ -1,0 +1,41 @@
+[0009]
+*****************
+[00000000][マイア,char_503]
+Freed-kun.
+I want to resume classes soon.
+Could you help me fix the school?
+------------------------------------------------
+[00000001][マイア,char_503]
+The school bell is for everyone in the village.
+It also serves to tell the time, right?
+In that sense, I need to fix it as soon as possible.
+------------------------------------------------
+[00000002][フリード,char_001 Fried]
+Of course, sir!
+What can I help you with?
+------------------------------------------------
+[00000003][マイア,char_503]
+I'll ask everyone else to fix it,
+Could you guys please collect the materials?
+------------------------------------------------
+[00000004][フリード,char_001 Fried]
+Okay, I'll go right away!
+------------------------------------------------
+[00000005][マイア,char_503]
+Thank you, thanks to everyone
+School is fixed.
+------------------------------------------------
+[00000006][マイア,char_503]
+Thanks to you, it looks like classes will resume soon.
+The kids are happy too.
+------------------------------------------------
+[00000007][マイア,char_503]
+Freed-kun and Shannon-chan too,
+There's still a lot to learn, right?
+So why don't you come to school sometimes?
+------------------------------------------------
+[00000008][マイア,char_503]
+Also, Panis-chan
+Are you always welcome? Hehehehe.
+------------------------------------------------
+

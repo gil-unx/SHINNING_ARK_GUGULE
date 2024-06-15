@@ -1,0 +1,743 @@
+[0202]
+*****************
+[00000000][ベルベット,char_008 Velvet]
+Run ♪ La ♪ La ♪ Run ♪
+Run ♪ Lu ♪ Lu ♪ Run ♪
+------------------------------------------------
+[00000001][フリード,char_001 Fried]
+Velvet-san, you're in a good mood.
+------------------------------------------------
+[00000002][ベルベット,char_008 Velvet]
+Ah, Freed.
+You look like you're doing well too.
+That's right, can you come with me if you like?
+------------------------------------------------
+[00000003][フリード,char_001 Fried]
+Where are you going?
+------------------------------------------------
+[00000004][ベルベット,char_008 Velvet]
+It's at the village chief's place. He's invited to dinner.
+------------------------------------------------
+[00000005][フリード,char_001 Fried]
+Isn't that an important topic to talk about?
+Even if I go even though I'm not invited...
+------------------------------------------------
+[00000006][ベルベット,char_008 Velvet]
+It's okay.
+Isn't it more fun to eat with a group of people?
+------------------------------------------------
+[00000007][パニス,char_002 Panis]
+Panis, I'm hungry.
+------------------------------------------------
+[00000008][ベルベット,char_008 Velvet]
+hey? Welcome both of you.
+------------------------------------------------
+[00000009][パニス,char_002 Panis]
+Wow!　Rice with Soncho~♪
+------------------------------------------------
+[00000010][フリード,char_001 Fried]
+...Well, okay.
+Well, I guess I'll be invited too.
+------------------------------------------------
+[00000011][ガルゼー,char_501]
+What's wrong, Freed, do you need something?
+------------------------------------------------
+[00000012][パニス,char_002 Panis]
+Soncho, I'll take it♪
+------------------------------------------------
+[00000013][ガルゼー,char_501]
+Hello, Panis-chan.
+What does itadakimasu mean...?
+------------------------------------------------
+[00000014][パニス,char_002 Panis]
+Let's eat dinner together with Velvet♪
+------------------------------------------------
+[00000015][ガルゼー,char_501]
+what!?
+------------------------------------------------
+[00000016][ベルベット,char_008 Velvet]
+Isn't that okay, village chief?
+Along with Panis and Freed.
+------------------------------------------------
+[00000017][ガルゼー,char_501]
+What, is that so...
+It's okay.
+------------------------------------------------
+[00000018][フリード,char_001 Fried]
+@fcFFAAFFAA (village chief, are you feeling a little miffed...?
+Well, eating alone with Velvet,
+I'm sure you were looking forward to it...)
+------------------------------------------------
+[00000019][ベルベット,char_008 Velvet]
+It's nice to have lunch outside.
+Thank you for your invitation, Mayor.
+------------------------------------------------
+[00000020][ガルゼー,char_501]
+Hey.
+Thank you for coming.
+------------------------------------------------
+[00000021][パニス,char_002 Panis]
+Let's eat!
+------------------------------------------------
+[00000022][ベルベット,char_008 Velvet]
+Does the village chief always eat alone?
+------------------------------------------------
+[00000023][ガルゼー,char_501]
+Well, that happens a lot.
+------------------------------------------------
+[00000024][ベルベット,char_008 Velvet]
+So let's have fun today.
+hey? 
+------------------------------------------------
+[00000025][フリード,char_001 Fried]
+eh? 
+------------------------------------------------
+[00000026][ガルゼー,char_501]
+…………
+------------------------------------------------
+[00000027][フリード,char_001 Fried]
+@fcFFAAFFAA (After all, we are like pests...)
+------------------------------------------------
+[00000028][ガルゼー,char_501]
+Even so, it's velvet.
+You're beautiful and talented, so why are you a pirate?
+------------------------------------------------
+[00000029][ベルベット,char_008 Velvet]
+Already! If you're the village chief, you're good at it!
+------------------------------------------------
+[00000030][ガルゼー,char_501]
+No, no, hahahaha.
+------------------------------------------------
+[00000031][ベルベット,char_008 Velvet]
+I also played pirates,
+I've traveled all over the world and seen many places,
+This island is truly amazing!
+------------------------------------------------
+[00000032][ガルゼー,char_501]
+Oh, I see?
+------------------------------------------------
+[00000033][ベルベット,char_008 Velvet]
+All the men are gentlemen, kind and strong...
+------------------------------------------------
+[00000034][ガルゼー,char_501]
+Hmm... I see?
+------------------------------------------------
+[00000035][ベルベット,char_008 Velvet]
+Everyone is good to me...
+------------------------------------------------
+[00000036][ガルゼー,char_501]
+No, no...I see, I see.
+------------------------------------------------
+[00000037][ベルベット,char_008 Velvet]
+Especially the village chief. Really Su Te Ki ♪
+------------------------------------------------
+[00000038][ガルゼー,char_501]
+Guho!! Guho!!
+M-water...
+------------------------------------------------
+[00000039][ベルベット,char_008 Velvet]
+Are you okay?
+------------------------------------------------
+[00000040][フリード,char_001 Fried]
+What are you doing...
+------------------------------------------------
+[00000041][ベルベット,char_008 Velvet]
+Yes, water!
+------------------------------------------------
+[00000042][ガルゼー,char_501]
+Nggh...ngh...huh...
+Please surprise me suddenly...
+------------------------------------------------
+[00000043][ベルベット,char_008 Velvet]
+I was the one who was surprised!
+If you're the village chief, it's already...!
+------------------------------------------------
+[00000044][ガルゼー,char_501]
+No, I'm sorry...
+------------------------------------------------
+[00000045][ベルベット,char_008 Velvet]
+I did something that would surprise the village chief.
+Did I mention it?
+------------------------------------------------
+[00000046][ガルゼー,char_501]
+No, no, I was praised by a young and beautiful woman.
+Just then...
+------------------------------------------------
+[00000047][ベルベット,char_008 Velvet]
+Oh dear? I'll be wary, okay?
+------------------------------------------------
+[00000048][ガルゼー,char_501]
+nothing?
+------------------------------------------------
+[00000049][ベルベット,char_008 Velvet]
+The village chief believes that's not the case...
+There are really a lot of perverted guys in the world.
+------------------------------------------------
+[00000050][ベルベット,char_008 Velvet]
+Until now, here and there
+An old man who uses his power to make me fall in love with him.
+You came here with a bang, didn't you?
+------------------------------------------------
+[00000051][ガルゼー,char_501]
+No, I would never do something like that...
+My credo is to be kind to everyone.
+Hey, Panis-chan?
+------------------------------------------------
+[00000052][パニス,char_002 Panis]
+Yeah. 
+------------------------------------------------
+[00000053][ベルベット,char_008 Velvet]
+yes? Now, enjoy your meal!
+------------------------------------------------
+[00000054][ベルベット,char_008 Velvet]
+...What's wrong, Freed?
+I've been silent since a while ago.
+------------------------------------------------
+[00000055][フリード,char_001 Fried]
+No, it's Velvet-san after all.
+I thought he was a kind and nice person.
+------------------------------------------------
+[00000056][ベルベット,char_008 Velvet]
+What, all of a sudden... well, that's fine.
+For me, to those who are kind to me,
+The principle is to respond with kindness.
+------------------------------------------------
+[00000057][ベルベット,char_008 Velvet]
+Let's continue to get along well♪
+------------------------------------------------
+[00000058][フリード,char_001 Fried]
+Yes, nice to meet you!
+------------------------------------------------
+[00000059][ベルベット,char_008 Velvet]
+Hmm...
+------------------------------------------------
+[00000060][フリード,char_001 Fried]
+Velvet-san, what's wrong?
+------------------------------------------------
+[00000061][ベルベット,char_008 Velvet]
+Oh, Freed. I'm exploring the island.
+------------------------------------------------
+[00000062][フリード,char_001 Fried]
+Is that a map in your hand?
+------------------------------------------------
+[00000063][ベルベット,char_008 Velvet]
+that's right.
+------------------------------------------------
+[00000064][フリード,char_001 Fried]
+Let me see a little.
+------------------------------------------------
+[00000065][ベルベット,char_008 Velvet]
+No good.
+------------------------------------------------
+[00000066][フリード,char_001 Fried]
+Huh?　Just a little bit is enough!
+------------------------------------------------
+[00000067][ベルベット,char_008 Velvet]
+Are you saying no?
+It's my map.
+------------------------------------------------
+[00000068][フリード,char_001 Fried]
+Oh yeah...
+------------------------------------------------
+[00000069][フリード,char_001 Fried]
+Well, at least tell me where you got it.
+Isn't that enough?
+------------------------------------------------
+[00000070][ベルベット,char_008 Velvet]
+I didn't get it, but
+I made it myself. Me.
+------------------------------------------------
+[00000071][フリード,char_001 Fried]
+Eh!? Is it true?
+------------------------------------------------
+[00000072][ベルベット,char_008 Velvet]
+What do you mean!? I don't have a map.
+Are you saying you can't make it?
+------------------------------------------------
+[00000073][フリード,char_001 Fried]
+No, well...what can I say...
+------------------------------------------------
+[00000074][ベルベット,char_008 Velvet]
+I can't even teach such a rude child!
+------------------------------------------------
+[00000075][フリード,char_001 Fried]
+sorry! That map looks so neat,
+I thought it was made by a professional craftsman.
+------------------------------------------------
+[00000076][ベルベット,char_008 Velvet]
+No problem, if you're a pirate
+If you can't draw a map like this, you won't be able to go on land.
+------------------------------------------------
+[00000077][フリード,char_001 Fried]
+Is this a map you created by walking around it yourself?
+------------------------------------------------
+[00000078][ベルベット,char_008 Velvet]
+No, it's not.
+This map was created just by listening to various stories from the village chief,
+In this way, we actually walk around and check the accuracy.
+------------------------------------------------
+[00000079][フリード,char_001 Fried]
+Wow!
+Well then, let me help you too!
+------------------------------------------------
+[00000080][ベルベット,char_008 Velvet]
+Dear Mr.
+I have enough hands on my own.
+------------------------------------------------
+[00000081][フリード,char_001 Fried]
+Huh? "Can't you just show it to me?"
+------------------------------------------------
+[00000082][ベルベット,char_008 Velvet]
+Pirates show us their own maps.
+It's like revealing your secrets to others, right?
+That's a pointless consultation.
+------------------------------------------------
+[00000083][フリード,char_001 Fried]
+In particular, I looked into Velvet-san's hands,
+I have no idea what to do!
+------------------------------------------------
+[00000084][ベルベット,char_008 Velvet]
+Do you think you can believe that? “Yes, I see.”
+You're so sweet too...
+------------------------------------------------
+[00000085][フリード,char_001 Fried]
+...Well, just one last thing, please!
+------------------------------------------------
+[00000086][ベルベット,char_008 Velvet]
+What?
+------------------------------------------------
+[00000087][フリード,char_001 Fried]
+I have one too, like Velvet has now.
+Create an elaborate island map!
+I think it's convenient to have!
+------------------------------------------------
+[00000088][ベルベット,char_008 Velvet]
+Geez...
+------------------------------------------------
+[00000089][ベルベット,char_008 Velvet]
+I'll think about it.
+------------------------------------------------
+[00000090][フリード,char_001 Fried]
+What do you mean by thinking about it?
+------------------------------------------------
+[00000091][ベルベット,char_008 Velvet]
+Are you really worthy of being trusted by a man?
+I have to show you a little more.
+------------------------------------------------
+[00000092][フリード,char_001 Fried]
+@fcFFAAFFAA (I'm still in Velvet's eyes,
+He doesn't seem like a man worthy of trust...)
+------------------------------------------------
+[00000093][フリード,char_001 Fried]
+Understood! 
+------------------------------------------------
+[00000094][ベルベット,char_008 Velvet]
+Fufufu...
+Okay, good luck.
+------------------------------------------------
+[00000095][ベルベット,char_008 Velvet]
+Hmm...
+------------------------------------------------
+[00000096][フリード,char_001 Fried]
+that? 
+------------------------------------------------
+[00000097][ベルベット,char_008 Velvet]
+If you ask me to show you the map, I'll refuse.
+------------------------------------------------
+[00000098][フリード,char_001 Fried]
+I won't talk about that anymore.
+I wonder if he's a man I can trust.
+Let's start there, right?
+------------------------------------------------
+[00000099][ベルベット,char_008 Velvet]
+Hehehe, I know.
+See ya!
+------------------------------------------------
+[00000100][パニス,char_002 Panis]
+Velvet, you went alone?
+Isn't it dangerous?
+------------------------------------------------
+[00000101][フリード,char_001 Fried]
+Ah, that's right.
+I can't show you anything unless I'm with you...
+Let's chase!
+------------------------------------------------
+[00000102][フリード,char_001 Fried]
+see you later.
+------------------------------------------------
+[00000103][ベルベット,char_008 Velvet]
+Oh, how about a map?
+For that purpose, I would like to
+You wanted to show me, right?
+------------------------------------------------
+[00000104][フリード,char_001 Fried]
+...Yeah, honestly, that's what I was thinking.
+This is very Velvet-san,
+There's no way you can trust me. I'll start again.
+------------------------------------------------
+[00000105][ベルベット,char_008 Velvet]
+Hmm...
+I like such an honest man.
+Right on. 
+------------------------------------------------
+[00000106][フリード,char_001 Fried]
+What!? Is it okay?
+------------------------------------------------
+[00000107][ベルベット,char_008 Velvet]
+Didn't you want to see it?
+------------------------------------------------
+[00000108][フリード,char_001 Fried]
+Of course I want to see it, but
+I was surprised because it was so sudden...
+------------------------------------------------
+[00000109][ベルベット,char_008 Velvet]
+At this rate, I'll end up in your debt.
+It seems like it will happen.
+I don't like that kind of thing, so please be grateful.
+------------------------------------------------
+[00000110][フリード,char_001 Fried]
+thank you!
+Hmm, which one...
+Wow, that's really well done!
+------------------------------------------------
+[00000111][ベルベット,char_008 Velvet]
+That's what I made. Of course.
+------------------------------------------------
+[00000112][フリード,char_001 Fried]
+All the places marked with this X are ruins, right?
+Are you looking for something in the ruins?
+------------------------------------------------
+[00000113][ベルベット,char_008 Velvet]
+Maybe so.
+------------------------------------------------
+[00000114][フリード,char_001 Fried]
+But speaking of what Velvet is looking for,
+That's the "power" you always talk about, right?
+------------------------------------------------
+[00000115][ベルベット,char_008 Velvet]
+I wonder.
+------------------------------------------------
+[00000116][フリード,char_001 Fried]
+So, is this a map depicting the location of "power"?
+------------------------------------------------
+[00000117][ベルベット,char_008 Velvet]
+I hope so.
+------------------------------------------------
+[00000118][フリード,char_001 Fried]
+Hmm, the map was as elaborate as I expected...
+Is this in Velvet's hands?
+I don't really understand...
+------------------------------------------------
+[00000119][ベルベット,char_008 Velvet]
+I don't need you to understand.
+Well, it's almost over.
+------------------------------------------------
+[00000120][フリード,char_001 Fried]
+Yeah...yes, I'll give this back.
+thank you.
+------------------------------------------------
+[00000121][ベルベット,char_008 Velvet]
+see you later!
+------------------------------------------------
+[00000122][フリード,char_001 Fried]
+Velvet-san, I wonder what you're doing...?
+------------------------------------------------
+[00000123][ベルベット,char_008 Velvet]
+Hey you!
+Have you seen a man around here?
+------------------------------------------------
+[00000124][フリード,char_001 Fried]
+eh!?
+------------------------------------------------
+[00000125][ベルベット,char_008 Velvet]
+It's okay if you haven't seen it.
+He's a fast runner...
+------------------------------------------------
+[00000126][フリード,char_001 Fried]
+Wait, Velvet?
+What on earth happened!?
+------------------------------------------------
+[00000127][ベルベット,char_008 Velvet]
+It's none of your business! Shut up!!
+------------------------------------------------
+[00000128][ベルベット,char_008 Velvet]
+Shit...what happened to me...!
+------------------------------------------------
+[00000129][フリード,char_001 Fried]
+Hey, what happened?
+Velvet-san, you look amazing...
+------------------------------------------------
+[00000130][ベルベット,char_008 Velvet]
+Don't be rude!
+------------------------------------------------
+[00000131][パニス,char_002 Panis]
+That pot is scary.
+------------------------------------------------
+[00000132][ベルベット,char_008 Velvet]
+Scary...do you look that terrible?
+------------------------------------------------
+[00000133][パニス,char_002 Panis]
+Yeah.
+------------------------------------------------
+[00000134][ベルベット,char_008 Velvet]
+yes……
+Oh no...if I do...
+------------------------------------------------
+[00000135][フリード,char_001 Fried]
+Didn't you say that you were able to escape?
+------------------------------------------------
+[00000136][ベルベット,char_008 Velvet]
+...Yes, that's right.
+------------------------------------------------
+[00000137][ベルベット,char_008 Velvet]
+...What I did was that I wanted old maps.
+I was tricked by a peddler I didn't know,
+They ran away with my money!
+------------------------------------------------
+[00000138][フリード,char_001 Fried]
+Peddlers aren't people from the village, right?
+------------------------------------------------
+[00000139][ベルベット,char_008 Velvet]
+Yeah, I don't think so.
+At least it was the first face I saw today.
+------------------------------------------------
+[00000140][フリード,char_001 Fried]
+I can't leave such a person alone!
+Let me know, I'll look for it too! What kind of person was he?
+------------------------------------------------
+[00000141][ベルベット,char_008 Velvet]
+...That's enough.
+------------------------------------------------
+[00000142][フリード,char_001 Fried]
+eh!?
+------------------------------------------------
+[00000143][ベルベット,char_008 Velvet]
+It's my fault for being deceived.
+It was strange of me to trust someone I met for the first time...
+------------------------------------------------
+[00000144][フリード,char_001 Fried]
+That’s it!
+There is no way that being deceived is worse!!
+------------------------------------------------
+[00000145][ベルベット,char_008 Velvet]
+Is that so? It's not something you can believe, right?
+------------------------------------------------
+[00000146][ベルベット,char_008 Velvet]
+That's why... that's why,
+You need the strength to not give in to it...
+------------------------------------------------
+[00000147][フリード,char_001 Fried]
+Power...I can't believe it...
+------------------------------------------------
+[00000148][ベルベット,char_008 Velvet]
+So. But next time I see you, I'll beat you up,
+I'll get my money back. That and this are different stories.
+------------------------------------------------
+[00000149][ベルベット,char_008 Velvet]
+I can never forgive someone who cheats me out of money.
+------------------------------------------------
+[00000150][フリード,char_001 Fried]
+Do not do it!
+------------------------------------------------
+[00000151][ベルベット,char_008 Velvet]
+What I do without even knowing it,
+Please don't stick your neck out!
+------------------------------------------------
+[00000152][フリード,char_001 Fried]
+...!
+------------------------------------------------
+[00000153][フリード,char_001 Fried]
+……sorry……
+------------------------------------------------
+[00000154][ベルベット,char_008 Velvet]
+Huh...
+------------------------------------------------
+[00000155][ベルベット,char_008 Velvet]
+You're really honest.
+This doesn't make me look stupid for being angry.
+------------------------------------------------
+[00000156][フリード,char_001 Fried]
+Mr. Velvet...
+------------------------------------------------
+[00000157][ベルベット,char_008 Velvet]
+That's all for now.
+See you soon.
+------------------------------------------------
+[00000158][フリード,char_001 Fried]
+@fcFFAAFFAA (Velvet-san... that's the first time I've seen her...)
+------------------------------------------------
+[00000159][ベルベット,char_008 Velvet]
+Hmm...
+------------------------------------------------
+[00000160][フリード,char_001 Fried]
+@fcFFAAFFAA (Growling while looking at the map again...)
+------------------------------------------------
+[00000161][ベルベット,char_008 Velvet]
+Oh, I was wondering who it was, and it turned out to be you.
+------------------------------------------------
+[00000162][フリード,char_001 Fried]
+Velvet-san, things were bad the other day.
+------------------------------------------------
+[00000163][ベルベット,char_008 Velvet]
+...I forgot that old story.
+------------------------------------------------
+[00000164][ベルベット,char_008 Velvet]
+See ya. 
+------------------------------------------------
+[00000165][フリード,char_001 Fried]
+Oh wait...!
+------------------------------------------------
+[00000166][フリード,char_001 Fried]
+Is there “power” here?
+------------------------------------------------
+[00000167][ベルベット,char_008 Velvet]
+It's actually possible, isn't it?
+I was looking for the power of ancient civilization...
+Looks like I was in trouble here too.
+------------------------------------------------
+[00000168][フリード,char_001 Fried]
+...Hey, Velvet-san?
+Why do you want "power" so much?
+------------------------------------------------
+[00000169][ベルベット,char_008 Velvet]
+…………
+------------------------------------------------
+[00000170][フリード,char_001 Fried]
+After all, I said it the other day.
+Is it because they cheat or don't give in?
+------------------------------------------------
+[00000171][ベルベット,char_008 Velvet]
+...You keep coming at me.
+------------------------------------------------
+[00000172][フリード,char_001 Fried]
+Yeah... After all, I can't leave my friends alone.
+Besides, I said, "Don't even know me well."
+Is it Ms. Velvet?
+------------------------------------------------
+[00000173][フリード,char_001 Fried]
+So, I would like you to tell me about Velvet-san.
+------------------------------------------------
+[00000174][ベルベット,char_008 Velvet]
+Wow.
+...Well, okay. I'll talk to you.
+In some way, I'm indebted to you.
+------------------------------------------------
+[00000175][ベルベット,char_008 Velvet]
+My house was just an ordinary house you could find anywhere.
+It's just an ordinary house in the middle of nowhere.
+Except for the fact that I'm extremely poor.
+------------------------------------------------
+[00000176][ベルベット,char_008 Velvet]
+Although my parents were serious and hardworking,
+No matter how hard you work, your life will only get harder.
+I thought it was strange, but...
+------------------------------------------------
+[00000177][ベルベット,char_008 Velvet]
+Still, my clumsy parents
+All I can do is work hard...
+So...he died.
+------------------------------------------------
+[00000178][ベルベット,char_008 Velvet]
+I found out later.
+That I had been deceived by a powerful person in the village.
+In short, I had been tricked.
+------------------------------------------------
+[00000179][フリード,char_001 Fried]
+I will never forgive anyone who defrauds me of money.
+That's what I mean...
+------------------------------------------------
+[00000180][ベルベット,char_008 Velvet]
+I desperately appealed to you, but
+No one will deal with me...
+Rather, it's a matter of powerful people applying pressure through their power.
+------------------------------------------------
+[00000181][ベルベット,char_008 Velvet]
+That's what I thought at that time.
+If I or my parents had the power,
+I wish I didn't have to give in to something like this.
+------------------------------------------------
+[00000182][ベルベット,char_008 Velvet]
+I can't even stay in the village anymore than the powerful people,
+I decided to take the plunge and go out to sea.
+In search of "power" that won't give in to anything.
+------------------------------------------------
+[00000183][ベルベット,char_008 Velvet]
+It seems like the pirate business suited me.
+I would never try to scam people out of money, but
+Other than that, it's pretty boring.
+------------------------------------------------
+[00000184][ベルベット,char_008 Velvet]
+Besides, my beauty will be my weapon.
+I noticed it.
+One wink will make a man fall in love with you. It's a little bit.
+------------------------------------------------
+[00000185][ベルベット,char_008 Velvet]
+However, in the end, power has the say.
+After all, I'm a weak girl.
+There are limits to how much you can get through with wisdom and beauty.
+------------------------------------------------
+[00000186][フリード,char_001 Fried]
+So "power"...
+------------------------------------------------
+[00000187][ベルベット,char_008 Velvet]
+It doesn't matter. Anything that has "power".
+There are many ruins and folklore on this island, and there is something about ancient civilization.
+I was looking for something to see if it existed, but to no avail.
+------------------------------------------------
+[00000188][フリード,char_001 Fried]
+Oh I see……
+I, without knowing anything,
+Sorry for saying so many things.
+------------------------------------------------
+[00000189][フリード,char_001 Fried]
+However, after knowing a lot,
+Once again, Velvet's thoughts are,
+I think it's wrong.
+------------------------------------------------
+[00000190][フリード,char_001 Fried]
+It's bad to deceive people,
+To screw it down with force,
+That's definitely not good.
+------------------------------------------------
+[00000191][フリード,char_001 Fried]
+Besides, people can believe it. At least that's what I believe.
+Even if it means being betrayed hundreds of times,
+I won't stop believing.
+------------------------------------------------
+[00000192][フリード,char_001 Fried]
+I believe in Velvet-san,
+I want Velvet to believe me too.
+When you are in trouble, I will definitely help you!
+------------------------------------------------
+[00000193][ベルベット,char_008 Velvet]
+...If I could live my life believing in others like you,
+Maybe we don't need "power" in the first place.
+------------------------------------------------
+[00000194][ベルベット,char_008 Velvet]
+But hey, I said it, right?
+I was a good fit.
+After all, this is the only way to live.
+------------------------------------------------
+[00000195][ベルベット,char_008 Velvet]
+I'm sure I'll be looking for another "power" again.
+------------------------------------------------
+[00000196][ベルベット,char_008 Velvet]
+Hehehehe...
+------------------------------------------------
+[00000197][フリード,char_001 Fried]
+Hahahaha!
+------------------------------------------------
+[00000198][ベルベット,char_008 Velvet]
+Well, I'll try my best to make people trust me a little more.
+------------------------------------------------
+[00000199][フリード,char_001 Fried]
+I'd like to see Velvet like that too.
+------------------------------------------------
+[00000200][ベルベット,char_008 Velvet]
+Then you might cheat again, right?
+------------------------------------------------
+[00000201][フリード,char_001 Fried]
+No matter how many times I've been fooled,
+I will continue to believe in Velvet!
+------------------------------------------------
+

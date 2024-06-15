@@ -1,0 +1,215 @@
+[0054]
+*****************
+[00000000][ピーター,char_520]
+Sigh...
+------------------------------------------------
+[00000001][ダニエル,char_518]
+troubled……
+------------------------------------------------
+[00000002][フリード,char_001 Fried]
+What happened to both of you?
+------------------------------------------------
+[00000003][ダニエル,char_518]
+Oh, Freed?
+In fact, animals have been injured because of Panis.
+------------------------------------------------
+[00000004][ダニエル,char_518]
+I have to go find some medicine.
+Both my son and I are very busy.
+------------------------------------------------
+[00000005][フリード,char_001 Fried]
+Understood. Wait a minute!
+------------------------------------------------
+[00000006][ピーター,char_520]
+Thank you for finding medicinal herbs.
+The animals are also very happy.
+------------------------------------------------
+[00000007][ダニエル,char_518]
+Definitely, Panis guy.
+You did something stupid...
+------------------------------------------------
+[00000008][フリード,char_001 Fried]
+That's the thing...Peter...
+You remember how Panis loved the animals, right?
+------------------------------------------------
+[00000009][ピーター,char_520]
+picture?
+------------------------------------------------
+[00000010][フリード,char_001 Fried]
+That panis is
+Would you hurt an animal for no reason?
+What do you think?
+------------------------------------------------
+[00000011][ピーター,char_520]
+That may not be the case though...
+But he's actually injured...
+------------------------------------------------
+[00000012][フリード,char_001 Fried]
+Deciding that Panis is a bad guy is
+Do it after listening to what Panis has to say.
+Can I have it?
+------------------------------------------------
+[00000013][ピーター,char_520]
+but……
+------------------------------------------------
+[00000014][ダニエル,char_518]
+what? 
+------------------------------------------------
+[00000015][ピーター,char_520]
+Maybe you're reacting to Freed's story?
+...Now that I think about it, Panis...
+You took good care of these children...
+------------------------------------------------
+[00000016][ピーター,char_520]
+The song that Panis will listen to,
+I loved these kids...
+------------------------------------------------
+[00000017][ダニエル,char_518]
+HM……
+got it.
+------------------------------------------------
+[00000018][ダニエル,char_518]
+Understood.
+Let's think about Panis for a moment.
+------------------------------------------------
+[00000019][ピーター,char_520]
+I agree. 
+------------------------------------------------
+[00000020][フリード,char_001 Fried]
+thank you!
+I'm sure Panis will love it too.
+------------------------------------------------
+[00000021][ボリス,char_511]
+It hurts...
+------------------------------------------------
+[00000022][フリード,char_001 Fried]
+what happened?
+------------------------------------------------
+[00000023][ボリス,char_511]
+Oh, Freed. Sorry.
+No, my back hasn't been feeling well lately. It hurts...
+------------------------------------------------
+[00000024][ボリス,char_511]
+Panis-chan always brings medicinal herbs.
+He brought it for me,
+I never expected that kid to do something like that...
+------------------------------------------------
+[00000025][フリード,char_001 Fried]
+That's... no, I'll talk about that later.
+Wait a minute.
+I'll pick up some medicinal herbs.
+------------------------------------------------
+[00000026][フリード,char_001 Fried]
+Thank you for waiting. I picked some medicinal herbs.
+------------------------------------------------
+[00000027][ボリス,char_511]
+Oh, sorry.
+I think this will make things a lot easier.
+------------------------------------------------
+[00000028][ボリス,char_511]
+But that Panis-chan
+I had no idea she was that kind of girl...
+I still can't believe it.
+------------------------------------------------
+[00000029][フリード,char_001 Fried]
+That's what it is...
+Panis is always for Boris, who has a bad back.
+You brought me some medicinal herbs, right?
+------------------------------------------------
+[00000030][ボリス,char_511]
+Ah, that's right. If you are a kind child,
+That's what I thought...
+------------------------------------------------
+[00000031][フリード,char_001 Fried]
+How could such a kind child suddenly do such a thing?
+Isn't it weird? There's something going on with Panis.
+I guess there was...
+------------------------------------------------
+[00000032][ボリス,char_511]
+nothing……
+------------------------------------------------
+[00000033][フリード,char_001 Fried]
+I've always thought that way.
+------------------------------------------------
+[00000034][ボリス,char_511]
+...I guess so.
+Freed, you might be right.
+Indeed, that Panis-chan...
+------------------------------------------------
+[00000035][ボリス,char_511]
+What is this?
+Maybe there was...
+------------------------------------------------
+[00000036][ジム,char_502]
+Isn't he here?
+Look over there!
+------------------------------------------------
+[00000037][フリード,char_001 Fried]
+Gym? All the vigilantes are here too, did something happen?
+------------------------------------------------
+[00000038][ジム,char_502]
+The children are gone!
+If you have free time, look for it too!
+------------------------------------------------
+[00000039][フリード,char_001 Fried]
+The children...?
+That's tough! I'll look over there!
+------------------------------------------------
+[00000040][ジム,char_502]
+Freed! What happened to the children?
+------------------------------------------------
+[00000041][フリード,char_001 Fried]
+All the vigilantes took him back to the village.
+I feel safe now.
+------------------------------------------------
+[00000042][フリード,char_001 Fried]
+Those kids, for Panis
+I was out picking flowers.
+Look at this...
+------------------------------------------------
+[00000043][フリード,char_001 Fried]
+Because Panis is my favorite flower,
+He said he would give it to me when he got back...
+------------------------------------------------
+[00000044][ジム,char_502]
+Those guys...!
+------------------------------------------------
+[00000045][フリード,char_001 Fried]
+Hey, Jim. Panis is just like us,
+You were working hard for everyone in the village, weren't you?
+A friend from the village, right?
+------------------------------------------------
+[00000046][フリード,char_001 Fried]
+Those kids knew it best.
+------------------------------------------------
+[00000047][ジム,char_502]
+That's why!　
+Are you going to protect someone who would destroy the world? You are!
+------------------------------------------------
+[00000048][フリード,char_001 Fried]
+Gym. Something happened.
+------------------------------------------------
+[00000049][フリード,char_001 Fried]
+Just like Jim wants to help everyone in the village,
+Panis also wanted to help people in her hometown.
+The result was something like this...
+------------------------------------------------
+[00000050][フリード,char_001 Fried]
+But Panis' feelings,
+Could you please give it some thought?
+I'm begging you……
+------------------------------------------------
+[00000051][ジム,char_502]
+...Uh, how noisy!
+I'm not thinking about anything either.
+Because it's not true!?
+------------------------------------------------
+[00000052][ジム,char_502]
+Oh, by the way, I like panis as much as I like.
+Even though it was a hard hit...
+------------------------------------------------
+[00000053][フリード,char_001 Fried]
+Gym……
+thank you……
+------------------------------------------------
+

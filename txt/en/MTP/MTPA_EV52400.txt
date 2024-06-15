@@ -1,0 +1,81 @@
+[0023]
+*****************
+[00000000][ベルベット,char_008 Velvet]
+Freed!?
+Why are you here?
+------------------------------------------------
+[00000001][フリード,char_001 Fried]
+Velvet-san, I'll lend you a hand!
+------------------------------------------------
+[00000002][ベルベット,char_008 Velvet]
+That's fine.
+------------------------------------------------
+[00000003][フリード,char_001 Fried]
+eh!?
+------------------------------------------------
+[00000004][ベルベット,char_008 Velvet]
+Am I a pirate? Against a monster of this level
+I don't need your help.
+------------------------------------------------
+[00000005][フリード,char_001 Fried]
+but……!
+------------------------------------------------
+[00000006][ベルベット,char_008 Velvet]
+Oh already! Then do as you please!
+------------------------------------------------
+[00000007][フリード,char_001 Fried]
+Phew, I managed to defeat it.
+------------------------------------------------
+[00000008][ベルベット,char_008 Velvet]
+Even though I alone was enough...
+------------------------------------------------
+[00000009][フリード,char_001 Fried]
+After all, a woman is fighting alone,
+She can't just sit back and watch.
+------------------------------------------------
+[00000010][ベルベット,char_008 Velvet]
+I was the one who followed you without permission.
+I don't like it!
+------------------------------------------------
+[00000011][フリード,char_001 Fried]
+Sorry, that was bad...
+I don't want to get in the way of your exploration...
+------------------------------------------------
+[00000012][ベルベット,char_008 Velvet]
+Freed...
+After all that you said, did you come after me again?
+------------------------------------------------
+[00000013][フリード,char_001 Fried]
+I also forgot the old story.
+------------------------------------------------
+[00000014][ベルベット,char_008 Velvet]
+...One was taken away.
+------------------------------------------------
+[00000015][フリード,char_001 Fried]
+Sorry, I'll have to stick my neck out again!
+------------------------------------------------
+[00000016][ベルベット,char_008 Velvet]
+...I have no choice.
+Well then, please help me!
+------------------------------------------------
+[00000017][ベルベット,char_008 Velvet]
+Anyway, you seem to appear everywhere...
+------------------------------------------------
+[00000018][フリード,char_001 Fried]
+Hahaha. Because it's a small island.
+------------------------------------------------
+[00000019][ベルベット,char_008 Velvet]
+I, too, am confused on such a small island.
+I feel like an idiot.
+------------------------------------------------
+[00000020][フリード,char_001 Fried]
+But coming all the way to this place...
+Is this the “power” you’re looking for?
+------------------------------------------------
+[00000021][ベルベット,char_008 Velvet]
+……maybe.
+------------------------------------------------
+[00000022][フリード,char_001 Fried]
+eh?
+------------------------------------------------
+

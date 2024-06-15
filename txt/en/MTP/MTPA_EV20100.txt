@@ -1,0 +1,693 @@
+[0208]
+*****************
+[00000000][パニス,char_002 Panis]
+Soncho, let's play!
+------------------------------------------------
+[00000001][ガルゼー,char_501]
+Oh, Panis-chan?
+------------------------------------------------
+[00000002][フリード,char_001 Fried]
+No, Panis.
+It would be annoying if you suddenly said something like that.
+------------------------------------------------
+[00000003][ガルゼー,char_501]
+No, I don't mind.
+Panis-chan is most welcome.
+------------------------------------------------
+[00000004][フリード,char_001 Fried]
+When I was little,
+Even though I was yelled at and chased away...
+------------------------------------------------
+[00000005][ガルゼー,char_501]
+nothing? 
+------------------------------------------------
+[00000006][フリード,char_001 Fried]
+...It's nothing.
+------------------------------------------------
+[00000007][ガルゼー,char_501]
+Now, Panis-chan.
+What should I play with Soncho?
+------------------------------------------------
+[00000008][パニス,char_002 Panis]
+On the other hand, ponpon.
+------------------------------------------------
+[00000009][ガルゼー,char_501]
+Oh, will Panis-chan do it for me?
+------------------------------------------------
+[00000010][パニス,char_002 Panis]
+Yeah. Well then, let's pop it, right?
+------------------------------------------------
+[00000011][ガルゼー,char_501]
+Hmm. I'll ask you.
+------------------------------------------------
+[00000012][パニス,char_002 Panis]
+Pop, pop, pop, pop...
+------------------------------------------------
+[00000013][ガルゼー,char_501]
+Hmm...
+Panis-chan's shoulder pats,
+It feels good...
+------------------------------------------------
+[00000014][フリード,char_001 Fried]
+@fcFFAAFFAA (The village chief looks really happy...)
+------------------------------------------------
+[00000015][パニス,char_002 Panis]
+Pop, pop, pop...
+Phew, take a break.
+------------------------------------------------
+[00000016][フリード,char_001 Fried]
+Better not push yourself too hard, Panis.
+------------------------------------------------
+[00000017][パニス,char_002 Panis]
+I'll try harder!
+------------------------------------------------
+[00000018][ガルゼー,char_501]
+Oh, I see.
+Thank you, Panis-chan.
+------------------------------------------------
+[00000019][パニス,char_002 Panis]
+Hehehe♪
+------------------------------------------------
+[00000020][フリード,char_001 Fried]
+Panis, aren't you getting tired by now?
+I'll take your place.
+------------------------------------------------
+[00000021][パニス,char_002 Panis]
+Yeah……
+------------------------------------------------
+[00000022][ガルゼー,char_501]
+what?
+------------------------------------------------
+[00000023][フリード,char_001 Fried]
+Now it's time to change players! Let's go, village chief!
+------------------------------------------------
+[00000024][ガルゼー,char_501]
+Hmm...
+This works, but...
+------------------------------------------------
+[00000025][フリード,char_001 Fried]
+You're tired, village chief.
+------------------------------------------------
+[00000026][ガルゼー,char_501]
+It hurts...
+Freed, could you please be a little more gentle?
+------------------------------------------------
+[00000027][フリード,char_001 Fried]
+I mean, it's crunchy, right?
+If it's not this strong...
+------------------------------------------------
+[00000028][パニス,char_002 Panis]
+Do not do it!
+Freed, I want to do this!
+------------------------------------------------
+[00000029][フリード,char_001 Fried]
+Eh!?
+------------------------------------------------
+[00000030][ガルゼー,char_501]
+Sorry Freed,
+Please replace me with Panis-chan...
+------------------------------------------------
+[00000031][フリード,char_001 Fried]
+What, what? Already?
+------------------------------------------------
+[00000032][パニス,char_002 Panis]
+Soncho, Panis will do his best again!
+------------------------------------------------
+[00000033][ガルゼー,char_501]
+Oh yeah, this is good.
+With Panis-chan's soft hands,
+Just getting a gentle slap is just...
+------------------------------------------------
+[00000034][パニス,char_002 Panis]
+Is that so?
+Well then, I'll do it to Freed later.
+------------------------------------------------
+[00000035][ガルゼー,char_501]
+That's okay, Panis-chan!
+10 years...or 40 years earlier than Freed!
+------------------------------------------------
+[00000036][フリード,char_001 Fried]
+Even if you don't say that,
+Because I'm not crazy.
+------------------------------------------------
+[00000037][ガルゼー,char_501]
+oh yeah. Now, I have to give Panis-chan a treat.
+Is there anything you want?
+------------------------------------------------
+[00000038][パニス,char_002 Panis]
+I don't need anything.
+Panis, I was just playing with Soncho!
+------------------------------------------------
+[00000039][ガルゼー,char_501]
+Panis-chan, you say something nice.
+Soncho will be happy too.
+------------------------------------------------
+[00000040][パニス,char_002 Panis]
+Hehehe♪
+------------------------------------------------
+[00000041][フリード,char_001 Fried]
+...For me?
+------------------------------------------------
+[00000042][ガルゼー,char_501]
+Freed is probably not old enough to deserve a reward.
+------------------------------------------------
+[00000043][フリード,char_001 Fried]
+@fcFFAAFFAA (Maybe that's true, but
+I wonder what it's like to have such a different attitude...)
+------------------------------------------------
+[00000044][パニス,char_002 Panis]
+It's almost over.
+------------------------------------------------
+[00000045][ガルゼー,char_501]
+Hmm. Thank you, Panis-chan.
+------------------------------------------------
+[00000046][パニス,char_002 Panis]
+See you soon, Soncho!
+I'll do it again this time!
+------------------------------------------------
+[00000047][ガルゼー,char_501]
+Ah, Panis-chan. I'm looking forward to it!
+------------------------------------------------
+[00000048][パニス,char_002 Panis]
+Hehehe♪
+------------------------------------------------
+[00000049][フリード,char_001 Fried]
+@fcFFAAFFAA (I see, Panis can see the happy face of the village chief.
+I did it because I wanted to see it...)
+------------------------------------------------
+[00000050][パニス,char_002 Panis]
+Wow, sea! It's sea!
+------------------------------------------------
+[00000051][フリード,char_001 Fried]
+The seaside feels great no matter when I come...
+Yes, Panis, would you like to go fishing?
+------------------------------------------------
+[00000052][パニス,char_002 Panis]
+... Tree?
+------------------------------------------------
+[00000053][フリード,char_001 Fried]
+It's something I do sometimes at Zynga.
+Have you ever seen Panis?
+------------------------------------------------
+[00000054][パニス,char_002 Panis]
+ah!
+Yes, Panis, try it!
+------------------------------------------------
+[00000055][パニス,char_002 Panis]
+…………
+------------------------------------------------
+[00000056][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000057][パニス,char_002 Panis]
+……unsympathetic. 
+------------------------------------------------
+[00000058][フリード,char_001 Fried]
+Oh, hey, Panis! Where are you going?
+------------------------------------------------
+[00000059][メリー,char_509]
+Kyahahahaha♪
+------------------------------------------------
+[00000060][ロラン,char_507]
+That’s it!
+------------------------------------------------
+[00000061][カール,char_508]
+Alright, it's competition!
+------------------------------------------------
+[00000062][マイア,char_503]
+Everyone, don't go too far offshore!
+------------------------------------------------
+[00000063][パニス,char_002 Panis]
+…………
+------------------------------------------------
+[00000064][フリード,char_001 Fried]
+Panis, were you here...?
+Hello, Teacher Maia!
+------------------------------------------------
+[00000065][マイア,char_503]
+Oh, Freed-kun.
+Hello Panis-chan.
+------------------------------------------------
+[00000066][パニス,char_002 Panis]
+Hello, Sensei Maia!
+------------------------------------------------
+[00000067][ロラン,char_507]
+Oh, it's Freed!
+------------------------------------------------
+[00000068][メリー,char_509]
+Let's play together!
+------------------------------------------------
+[00000069][フリード,char_001 Fried]
+Even if you ask me to play...
+Like everyone else, I don't have a change of clothes.
+I can't swim with my clothes on.
+------------------------------------------------
+[00000070][メリー,char_509]
+So what about panis?
+------------------------------------------------
+[00000071][パニス,char_002 Panis]
+Panis, let's play together!
+------------------------------------------------
+[00000072][フリード,char_001 Fried]
+Even if you say that,
+Panis doesn't have any clothes to change either.
+------------------------------------------------
+[00000073][マイア,char_503]
+Yes, I'll give you a swimsuit if you like.
+I have one outfit that I prepared for Mary,
+It seemed a little too big.
+------------------------------------------------
+[00000074][フリード,char_001 Fried]
+okay? 
+------------------------------------------------
+[00000075][マイア,char_503]
+For now, go get changed, Panis-chan.
+------------------------------------------------
+[00000076][マイア,char_503]
+on second thoughts! 
+------------------------------------------------
+[00000077][メリー,char_509]
+Panis, see you!
+------------------------------------------------
+[00000078][カール,char_508]
+It's cuter than what Mary wears!
+------------------------------------------------
+[00000079][メリー,char_509]
+My goodness!?
+------------------------------------------------
+[00000080][フリード,char_001 Fried]
+@fcFFAAFFAA (It might look really good on you...)
+------------------------------------------------
+[00000081][ロラン,char_507]
+Well then, Panis, let's play together!
+------------------------------------------------
+[00000082][パニス,char_002 Panis]
+…………
+------------------------------------------------
+[00000083][メリー,char_509]
+Panis, are you afraid of water?
+------------------------------------------------
+[00000084][パニス,char_002 Panis]
+……Yeah.
+------------------------------------------------
+[00000085][カール,char_508]
+It's crazy!　I can't find my feet here.
+------------------------------------------------
+[00000086][ロラン,char_507]
+Come quickly!
+------------------------------------------------
+[00000087][フリード,char_001 Fried]
+Why don't you go, Panis?
+------------------------------------------------
+[00000088][パニス,char_002 Panis]
+...As expected, today is good.
+------------------------------------------------
+[00000089][メリー,char_509]
+Eh!? Let's play!
+------------------------------------------------
+[00000090][パニス,char_002 Panis]
+Sensei Maia.
+Can I have this?
+------------------------------------------------
+[00000091][マイア,char_503]
+Yes, a present for Panis-chan.
+Let's put it on and practice swimming soon.
+------------------------------------------------
+[00000092][パニス,char_002 Panis]
+Yeah!
+------------------------------------------------
+[00000093][フリード,char_001 Fried]
+@fcFFAAFFAA (Panis is afraid of water...)
+------------------------------------------------
+[00000094][パニス,char_002 Panis]
+Panis, I want to go to the sea.
+------------------------------------------------
+[00000095][フリード,char_001 Fried]
+eh!?
+------------------------------------------------
+[00000096][パニス,char_002 Panis]
+Good luck getting into the water.
+------------------------------------------------
+[00000097][フリード,char_001 Fried]
+I see, then later...
+------------------------------------------------
+[00000098][パニス,char_002 Panis]
+I want to go now!
+------------------------------------------------
+[00000099][フリード,char_001 Fried]
+Eh, wait a minute...!
+------------------------------------------------
+[00000100][パニス,char_002 Panis]
+…………
+------------------------------------------------
+[00000101][フリード,char_001 Fried]
+what happened? 
+------------------------------------------------
+[00000102][パニス,char_002 Panis]
+Shall we play with Freed too?
+------------------------------------------------
+[00000103][フリード,char_001 Fried]
+...Are you still afraid of water?
+------------------------------------------------
+[00000104][パニス,char_002 Panis]
+It's different.
+------------------------------------------------
+[00000105][フリード,char_001 Fried]
+Then let's play. Because I'm watching here.
+------------------------------------------------
+[00000106][パニス,char_002 Panis]
+Panis alone is boring.
+------------------------------------------------
+[00000107][フリード,char_001 Fried]
+Even if you say that.
+I didn't bring a swimsuit or a change of clothes.
+------------------------------------------------
+[00000108][パニス,char_002 Panis]
+Nugeba?
+------------------------------------------------
+[00000109][フリード,char_001 Fried]
+picture!?The reason why I feel so sad in a place like this...
+------------------------------------------------
+[00000110][パニス,char_002 Panis]
+The boy goes into the water in his panties.
+Sensei Maia said so.
+------------------------------------------------
+[00000111][フリード,char_001 Fried]
+No, pants are pants,
+It must be a special one, different from the one I have now...
+------------------------------------------------
+[00000112][パニス,char_002 Panis]
+Panis, I have to be with Freed.
+It's boring...
+------------------------------------------------
+[00000113][フリード,char_001 Fried]
+Panis...
+------------------------------------------------
+[00000114][パニス,char_002 Panis]
+…………
+------------------------------------------------
+[00000115][フリード,char_001 Fried]
+……I agree. 
+------------------------------------------------
+[00000116][パニス,char_002 Panis]
+Wow!
+------------------------------------------------
+[00000117][フリード,char_001 Fried]
+Look, it's not scary.
+------------------------------------------------
+[00000118][パニス,char_002 Panis]
+Yeah……
+------------------------------------------------
+[00000119][パニス,char_002 Panis]
+Wow, it's so full!
+------------------------------------------------
+[00000120][フリード,char_001 Fried]
+But it feels good, right?
+------------------------------------------------
+[00000121][パニス,char_002 Panis]
+Yeah!
+------------------------------------------------
+[00000122][フリード,char_001 Fried]
+That’s it!
+------------------------------------------------
+[00000123][パニス,char_002 Panis]
+Yay!!
+------------------------------------------------
+[00000124][フリード,char_001 Fried]
+Ahahahahaha!
+------------------------------------------------
+[00000125][パニス,char_002 Panis]
+Welcome back!!
+------------------------------------------------
+[00000126][フリード,char_001 Fried]
+Oh, let's go!
+This is not a swimsuit!
+------------------------------------------------
+[00000127][パニス,char_002 Panis]
+Hahaha!
+------------------------------------------------
+[00000128][フリード,char_001 Fried]
+This!!
+------------------------------------------------
+[00000129][パニス,char_002 Panis]
+Kyahahaha! It's fun to play with water!
+------------------------------------------------
+[00000130][フリード,char_001 Fried]
+@fcFFAAFFAA (Come to think of it, when I was little,
+Shannon and Zinga took me to the sea,
+We played in the water together...)
+------------------------------------------------
+[00000131][フリード,char_001 Fried]
+……that? 
+------------------------------------------------
+[00000132][フリード,char_001 Fried]
+Panis!? Panisu!!
+------------------------------------------------
+[00000133][パニス,char_002 Panis]
+Puhah!
+------------------------------------------------
+[00000134][フリード,char_001 Fried]
+I-are you okay? Did you get into too deep?
+------------------------------------------------
+[00000135][パニス,char_002 Panis]
+I looked it up.
+------------------------------------------------
+[00000136][フリード,char_001 Fried]
+eh!?
+------------------------------------------------
+[00000137][パニス,char_002 Panis]
+It was beautiful in the sea!
+------------------------------------------------
+[00000138][フリード,char_001 Fried]
+Even though I had just put it in the water,
+Panis is a challenger...
+------------------------------------------------
+[00000139][パニス,char_002 Panis]
+Panis, Umi, I love you!!
+------------------------------------------------
+[00000140][フリード,char_001 Fried]
+Haha, that's good.
+------------------------------------------------
+[00000141][パニス,char_002 Panis]
+Panis, I want to go to the sea again!
+------------------------------------------------
+[00000142][フリード,char_001 Fried]
+from now?
+------------------------------------------------
+[00000143][パニス,char_002 Panis]
+Yeah!
+------------------------------------------------
+[00000144][フリード,char_001 Fried]
+Well, let's go.
+------------------------------------------------
+[00000145][パニス,char_002 Panis]
+Yay, Shuppatsu!!
+------------------------------------------------
+[00000146][パニス,char_002 Panis]
+Wow!
+------------------------------------------------
+[00000147][フリード,char_001 Fried]
+That’s it!!
+------------------------------------------------
+[00000148][パニス,char_002 Panis]
+Kyahahaha!
+------------------------------------------------
+[00000149][パニス,char_002 Panis]
+…………
+------------------------------------------------
+[00000150][フリード,char_001 Fried]
+What's wrong, Panis?
+------------------------------------------------
+[00000151][パニス,char_002 Panis]
+...I can hear something.
+------------------------------------------------
+[00000152][フリード,char_001 Fried]
+...Ah, it's a children's song.
+Teacher Maia took the children out.
+I think he's teaching music lessons.
+------------------------------------------------
+[00000153][パニス,char_002 Panis]
+song……?
+------------------------------------------------
+[00000154][フリード,char_001 Fried]
+It's a nursery rhyme passed down on this island that I also learned.
+Maybe it's coming from the beach over there.
+------------------------------------------------
+[00000155][フリード,char_001 Fried]
+eh?
+------------------------------------------------
+[00000156][フリード,char_001 Fried]
+@fcFFAAFFAA (I wonder what happened? She suddenly started singing...)
+------------------------------------------------
+[00000157][フリード,char_001 Fried]
+@fcFFAAFFAA (But what?
+It feels very nostalgic...)
+------------------------------------------------
+[00000158][フリード,char_001 Fried]
+That's a nice song...
+What song is it called?
+------------------------------------------------
+[00000159][パニス,char_002 Panis]
+Well...I don't know.
+------------------------------------------------
+[00000160][パニス,char_002 Panis]
+When I heard about Doyou,
+This song came out...
+------------------------------------------------
+[00000161][フリード,char_001 Fried]
+I see……
+Did you suddenly remember a song you had forgotten?
+------------------------------------------------
+[00000162][パニス,char_002 Panis]
+...That's right.
+------------------------------------------------
+[00000163][フリード,char_001 Fried]
+I just remembered a good song,
+Let me sing again, Panis.
+------------------------------------------------
+[00000164][パニス,char_002 Panis]
+Yeah!
+------------------------------------------------
+[00000165][パニス,char_002 Panis]
+Freed! sea! 
+------------------------------------------------
+[00000166][フリード,char_001 Fried]
+Panis has really become fond of playing in the water.
+understood. 
+------------------------------------------------
+[00000167][フリード,char_001 Fried]
+Oh, I'll bring a change of clothes too, okay?
+------------------------------------------------
+[00000168][パニス,char_002 Panis]
+Freed, bring your panties too.
+------------------------------------------------
+[00000169][フリード,char_001 Fried]
+I...I'm fine with it as is.
+Surprisingly, nothing happened the other day.
+------------------------------------------------
+[00000170][フリード,char_001 Fried]
+It went so far... so far out to sea...
+------------------------------------------------
+[00000171][パニス,char_002 Panis]
+What should we do, Freed?
+------------------------------------------------
+[00000172][フリード,char_001 Fried]
+Sorry, but I'll give up on that outfit, Panis.
+------------------------------------------------
+[00000173][パニス,char_002 Panis]
+No, that's it!
+------------------------------------------------
+[00000174][フリード,char_001 Fried]
+It would be dangerous for me to swim that far out to sea.
+------------------------------------------------
+[00000175][パニス,char_002 Panis]
+These are important clothes!
+------------------------------------------------
+[00000176][フリード,char_001 Fried]
+Sorry, Panis. but……
+------------------------------------------------
+[00000177][パニス,char_002 Panis]
+No way! I'll go get Panis!
+------------------------------------------------
+[00000178][フリード,char_001 Fried]
+Are you going to fetch it, Panis...?
+------------------------------------------------
+[00000179][フリード,char_001 Fried]
+Ah! Dangerous...
+------------------------------------------------
+[00000180][フリード,char_001 Fried]
+...So, can you swim?
+When did you learn to swim?
+------------------------------------------------
+[00000181][フリード,char_001 Fried]
+Oh no, this wasn't the time to be impressed.
+I have to follow you too!
+------------------------------------------------
+[00000182][パニス,char_002 Panis]
+Phew.
+------------------------------------------------
+[00000183][フリード,char_001 Fried]
+I'm about to jump in suddenly,
+You were surprised, weren't you?
+------------------------------------------------
+[00000184][パニス,char_002 Panis]
+Ehehe. Panis could swim!
+------------------------------------------------
+[00000185][フリード,char_001 Fried]
+I was surprised too. Moreover, it was delicious.
+Maybe it wasn't that she couldn't swim,
+Maybe I just forgot how to swim.
+------------------------------------------------
+[00000186][パニス,char_002 Panis]
+That's right. I love Panis, Umi, and Daishu.
+Besides, with this coolness,
+It moves easily even in water.
+------------------------------------------------
+[00000187][フリード,char_001 Fried]
+That's right. Because it's a swimsuit.
+------------------------------------------------
+[00000188][パニス,char_002 Panis]
+Mizugi...?
+Is Mizugi a type of clothing that can be made in water?
+------------------------------------------------
+[00000189][フリード,char_001 Fried]
+that's right.
+------------------------------------------------
+[00000190][パニス,char_002 Panis]
+That's it.
+I thought Panis was clothes for playing in the water.
+------------------------------------------------
+[00000191][フリード,char_001 Fried]
+There are ways to use it like that, but
+Swimsuits are primarily for swimming.
+------------------------------------------------
+[00000192][パニス,char_002 Panis]
+Well then, Panis, let's swim one more time!
+------------------------------------------------
+[00000193][フリード,char_001 Fried]
+The sun will be setting soon, shall we go home now?
+------------------------------------------------
+[00000194][パニス,char_002 Panis]
+But my clothes are soaked.
+------------------------------------------------
+[00000195][フリード,char_001 Fried]
+Oh, I see……
+------------------------------------------------
+[00000196][フリード,char_001 Fried]
+I can't help it.
+Well then, shall we swim until our clothes are dry?
+------------------------------------------------
+[00000197][パニス,char_002 Panis]
+Wow!
+------------------------------------------------
+[00000198][フリード,char_001 Fried]
+Don't go too far offshore.
+------------------------------------------------
+[00000199][パニス,char_002 Panis]
+Freed will also be flying with you!
+------------------------------------------------
+[00000200][フリード,char_001 Fried]
+Eh... Then my clothes won't dry...
+------------------------------------------------
+[00000201][フリード,char_001 Fried]
+...But, well!
+------------------------------------------------
+[00000202][パニス,char_002 Panis]
+Good, good, good!
+------------------------------------------------
+[00000203][フリード,char_001 Fried]
+That’s it!
+------------------------------------------------
+[00000204][パニス,char_002 Panis]
+Panis too!
+------------------------------------------------
+[00000205][パニス,char_002 Panis]
+It's fun!!
+------------------------------------------------
+[00000206][フリード,char_001 Fried]
+I agree!
+------------------------------------------------
+[00000207][フリード,char_001 Fried]
+@fcFFAAFFAA (Panis really loved the sea...!)
+------------------------------------------------
+

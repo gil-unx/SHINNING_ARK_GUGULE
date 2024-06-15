@@ -1,0 +1,156 @@
+[0046]
+*****************
+[00000000]
+Return to the title screen.
+Is it OK?
+------------------------------------------------
+[00000001]
+Please enter your unit name.
+Maximum 6 characters.
+Troop names can be changed in-game.
+------------------------------------------------
+[00000002]
+Choose the difficulty level of the game.
+There is no difference in game content depending on the difficulty level.
+*Difficulty level can be changed in the options even after starting the game.
+------------------------------------------------
+[00000003]
+Casual: This is a difficulty level for people who want to enjoy scenarios.
+------------------------------------------------
+[00000004]
+Standard: Standard difficulty level.
+------------------------------------------------
+[00000005]
+At the selected difficulty level "%s"
+Start the game.
+Is it OK?
+------------------------------------------------
+[00000006]
+Unit name
+------------------------------------------------
+[00000007]
+difficulty
+------------------------------------------------
+[00000008]
+Standard
+------------------------------------------------
+[00000009]
+casual
+------------------------------------------------
+[00000010]
+Start a new game
+------------------------------------------------
+[00000011]
+Start the game from where you left off
+------------------------------------------------
+[00000012]
+install data
+------------------------------------------------
+[00000013]
+Check additional content and change game settings
+------------------------------------------------
+[00000014]
+Do you want to transfer the clear data?
+------------------------------------------------
+[00000015]
+@lt1 Please select the difficulty level of the game.
+*Difficulty level can be changed even after starting the game.
+@fcFFFF99D1: Casual @fci: Difficulty level to enjoy the scenario.
+------------------------------------------------
+[00000016]
+@lt1 Please select the difficulty level of the game.
+*Difficulty level can be changed even after starting the game.
+@fcFF00FF00: Standard @fci: Standard difficulty.
+------------------------------------------------
+[00000017]
+Ex New Game has been released.
+Inheriting the contents of clear data
+You can start a new game.
+------------------------------------------------
+[00000018]
+extra
+------------------------------------------------
+[00000019]
+Data linkage
+------------------------------------------------
+[00000020]
+password
+------------------------------------------------
+[00000021]
+Content list
+------------------------------------------------
+[00000022]
+Enter password to unlock content
+------------------------------------------------
+[00000023]
+Check released content
+------------------------------------------------
+[00000024]
+Change various game settings
+------------------------------------------------
+[00000025]
+Return to the title screen.
+Is it OK?
+------------------------------------------------
+[00000026]
+There is no linked data.
+------------------------------------------------
+[00000027]
+%s has already been released.
+------------------------------------------------
+[00000028]
+%s has been released.
+------------------------------------------------
+[00000029]
+password input
+------------------------------------------------
+[00000030]
+Password entry has been canceled.
+------------------------------------------------
+[00000031]
+there is no data
+------------------------------------------------
+[00000032]
+%s has already been released.
+------------------------------------------------
+[00000033]
+%s has been released.
+------------------------------------------------
+[00000034]
+There are no matching passwords.
+------------------------------------------------
+[00000035]
+Content list
+------------------------------------------------
+[00000036]
+character
+------------------------------------------------
+[00000037]
+Mission
+------------------------------------------------
+[00000038]
+sticker
+------------------------------------------------
+[00000039]
+Data is corrupted.
+------------------------------------------------
+[00000040]
+―
+------------------------------------------------
+[00000041]
+cancel
+------------------------------------------------
+[00000042]
+Installation in progress.
+Do not remove the recording media.
+------------------------------------------------
+[00000043]
+Fragment
+------------------------------------------------
+[00000044]
+Single shot
+------------------------------------------------
+[00000045]
+DLC
+------------------------------------------------
+

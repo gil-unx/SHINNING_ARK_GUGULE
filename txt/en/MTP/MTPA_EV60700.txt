@@ -1,0 +1,317 @@
+[0069]
+*****************
+[00000000][シャノン,char_004 Shannon]
+Sorry, Freed.
+Now...I don't know what to say.
+Let me think a little...
+------------------------------------------------
+[00000001][シャノン,char_004 Shannon]
+Freed, let's talk to the villagers.
+We need you to understand our thoughts.
+------------------------------------------------
+[00000002][シャノン,char_004 Shannon]
+Come to think of it, when I met Peter earlier,
+She looked sad that the animal was hurt.
+Would you like to go see Peter first?
+------------------------------------------------
+[00000003][シャノン,char_004 Shannon]
+See, if you talk, everyone will understand!
+I'm sure everyone is feeling anxious too!
+------------------------------------------------
+[00000004][シャノン,char_004 Shannon]
+If we keep talking like this one by one,
+I’m sure everyone else is too…!
+------------------------------------------------
+[00000005][ジンガ,char_005 zynga]
+Freed.
+I think about this village, about everyone in this village,
+I value it more than anything.
+------------------------------------------------
+[00000006][ジンガ,char_005 zynga]
+That's all I want to say.
+There's nothing else to talk about.
+...I'm sorry, Freed.
+------------------------------------------------
+[00000007][アダム,char_006 a-dam]
+Searching for enemy species.
+Tactical protocol SD103 applied.
+As soon as the elimination target is found, it will attack without warning.
+------------------------------------------------
+[00000008][キルマリア,char_007 Kilmaria]
+Mumble... Just as I thought at first...
+Mr. Panis is a devil... no, it can't be like that...
+I have to investigate further... I'm mumbling...
+------------------------------------------------
+[00000009][キルマリア,char_007 Kilmaria]
+There are still a lot of things I don't understand,
+There's one thing I'm sure of.
+------------------------------------------------
+[00000010][キルマリア,char_007 Kilmaria]
+That is, Mr. Panis is definitely not a devil.
+about it. That's what I'm telling you, so there's no doubt about it!
+------------------------------------------------
+[00000011][ベルベット,char_008 Velvet]
+...I'm thinking about something right now.
+I'm sorry, but could you please leave me alone?
+------------------------------------------------
+[00000012][ベルベット,char_008 Velvet]
+Maybe I'm tired...?
+That Bacchus
+She looked cool for just a moment...
+------------------------------------------------
+[00000013][ベルベット,char_008 Velvet]
+Looks like you're finally feeling better.
+That suits you better.
+If you're depressed, Panis won't be able to go home either, right?
+------------------------------------------------
+[00000014][ガルゼー,char_501]
+I believe in Panis-chan.
+However, because of this, the safety of the village
+You must not feel threatened.
+------------------------------------------------
+[00000015][ガルゼー,char_501]
+What on earth happened...
+------------------------------------------------
+[00000016][ジム,char_502]
+Panis guy...!
+I thought it was suspicious from the beginning!
+------------------------------------------------
+[00000017][ジム,char_502]
+Don't get me wrong!?
+I still didn't trust Panis.
+Because I didn't know!
+------------------------------------------------
+[00000018][ジム,char_502]
+just……
+I need to hear from Panis himself.
+She just can't accept it...
+------------------------------------------------
+[00000019][マイア,char_503]
+If Panis-chan,
+If he cares that he hurt me...
+------------------------------------------------
+[00000020][マイア,char_503]
+Tell me I'm fine now,
+I want to hug you...
+------------------------------------------------
+[00000021][アリーゼ,char_504]
+I want to help Panis-chan, but...
+As for the fact that he is not there...
+There's nothing I can do about it...
+------------------------------------------------
+[00000022][ダイアナ,char_505]
+Panis is not next to you...
+It's even unnatural now...
+That's strange...
+------------------------------------------------
+[00000023][ドルトン,char_506]
+I really don't think Panis is thinking anything bad,
+The fact that he hid her figure means that
+I guess she has something to feel guilty about...
+------------------------------------------------
+[00000024][ドルトン,char_506]
+I don't know what's going on anymore...
+------------------------------------------------
+[00000025][ロラン,char_507]
+Hey, Freed. Did you have a fight with Panis?
+You weren't bullying me, were you?
+If you make Panis cry, I won't forgive you!
+------------------------------------------------
+[00000026][ロラン,char_507]
+Hey, where did Panis go?
+We want to play with Panis.
+Please come back soon, Freed...
+------------------------------------------------
+[00000027][ロラン,char_507]
+If Gikaidan hadn't found me,
+What happened to us...
+------------------------------------------------
+[00000028][ロラン,char_507]
+After all, Zikaidan is amazing!
+I should grow up quickly and become a Zikaidan!
+------------------------------------------------
+[00000029][カール,char_508]
+Freed, why aren't you with Panis?
+Where did Panis go by himself?
+I'm so strong...
+------------------------------------------------
+[00000030][カール,char_508]
+Panis, you'll be back soon, right?
+I want to play with Panis...
+------------------------------------------------
+[00000031][カール,char_508]
+sorry……
+I caused trouble to everyone...
+I'm really sorry for making you sad...
+------------------------------------------------
+[00000032][メリー,char_509]
+Hey, where's Panis?
+Why aren't we together today?
+It doesn't feel right...
+------------------------------------------------
+[00000033][メリー,char_509]
+Freed seems lonely...
+I hope Panis comes back soon.
+------------------------------------------------
+[00000034][メリー,char_509]
+We can't help but go to Panis
+I wanted to give you flowers.
+------------------------------------------------
+[00000035][メリー,char_509]
+But because of that, I made everyone worry...
+really sorry.
+------------------------------------------------
+[00000036][ハンス,char_510]
+I can't forgive you if you're trying to do something with the village, but...
+I don't think Panis would do anything wrong for no reason.
+First of all, don't listen to me properly...
+------------------------------------------------
+[00000037][ボリス,char_511]
+I thought Panis was a kind and good girl, but
+She never expected something like this to happen...
+------------------------------------------------
+[00000038][ボリス,char_511]
+Ugh...maybe because I was disappointed,
+My lower back started hurting again...
+------------------------------------------------
+[00000039][ボリス,char_511]
+Well, Panis is a good girl after all.
+I can't believe that Panis would do such a thing.
+This may have happened often...
+------------------------------------------------
+[00000040][ボリス,char_511]
+I need to ask that girl some questions...
+------------------------------------------------
+[00000041][デボラ,char_512]
+No way Panis-chan,
+There's no way they'd do something like that to the village...
+I'm really sad...
+------------------------------------------------
+[00000042][ハイラム,char_513]
+Freed, you're still the same as before.
+Just do what you believe is right.
+I'm sure everything will be fine then.
+------------------------------------------------
+[00000043][リアン,char_514]
+I wonder where Panis went?
+That child is alone somewhere...
+She must be hungry...
+------------------------------------------------
+[00000044][リアン,char_514]
+At times like this, I want to be by that child's side,
+I can't do anything...!
+------------------------------------------------
+[00000045][ダリオ,char_515]
+Was that monster a member of Panis?
+That's why Panis was able to drive him away...
+I was satisfied...
+------------------------------------------------
+[00000046][ダリオ,char_515]
+Children really don't know anything about fear...
+Not a single child doubts Panis...
+------------------------------------------------
+[00000047][ダリオ,char_515]
+...If the children believe in Panis,
+I guess I'll try believing again...
+------------------------------------------------
+[00000048][ミルコ,char_516]
+I thought I had finally recovered, but
+The village is in a mess again...
+If I find that Panis guy, I'll catch him!
+------------------------------------------------
+[00000049][ミルコ,char_516]
+When I realized my children were gone,
+My legs were shaking and everything in front of me went dark.
+It's the first time I've felt so scared.
+------------------------------------------------
+[00000050][ミルコ,char_516]
+Not because of that, but
+She scolded him a little harshly.
+"Don't do anything dangerous!"
+------------------------------------------------
+[00000051][ミルコ,char_516]
+But for the sake of Panis
+They were trying to pick flowers...
+------------------------------------------------
+[00000052][ロドリゴ,char_517]
+Panis shouldn't come back to this village anymore.
+He can't leave someone who is dangerous to the village behind.
+You know it's Freed, right?
+------------------------------------------------
+[00000053][ロドリゴ,char_517]
+When I took some time to calm down,
+That Panis is the kind of guy who would destroy the world.
+I can't really imagine it...
+------------------------------------------------
+[00000054][ロドリゴ,char_517]
+Panis saved me many times,
+It's definitely true...
+------------------------------------------------
+[00000055][ロドリゴ,char_517]
+Jim seems to have changed his mind, too.
+I guess we and everyone else weren't calm after all.
+Let's think about it a little more...
+------------------------------------------------
+[00000056][ダニエル,char_518]
+The monster was summoned by Panis, right?
+If that's the case, there's no need to accept that child back into the village.
+I don't think I can do it...
+------------------------------------------------
+[00000057][ダニエル,char_518]
+It is true that Panis does many things for the village.
+Thank you for your hard work...
+Let's take a closer look.
+------------------------------------------------
+[00000058][ブレンダ,char_519]
+I'm really sorry that this has happened...
+It's like I was betrayed by my own daughter.
+I feel so sad...
+------------------------------------------------
+[00000059][ブレンダ,char_519]
+That's right.
+That kind Panis-chan,
+He can't be a bad boy.
+------------------------------------------------
+[00000060][ブレンダ,char_519]
+I'm sure it's something
+I wonder if there's something really wrong with that...
+------------------------------------------------
+[00000061][ピーター,char_520]
+The ranch is in a mess because of Panis,
+The animals were also injured...
+Why would you do such a terrible thing...
+------------------------------------------------
+[00000062][ピーター,char_520]
+But strangely, the animals
+It doesn't seem like he's angry at Panis...
+I wonder why...?
+------------------------------------------------
+[00000063][ピーター,char_520]
+If the animals believe in Panis,
+I guess I'll try believing in Panis too.
+Animals can see into people's hearts.
+------------------------------------------------
+[00000064][ラナ,char_528]
+The village is in trouble...
+But Panis is a bad girl.
+I can't believe it...
+------------------------------------------------
+[00000065][ラナ,char_528]
+Freed would take care of everyone in the village.
+I think we can get it together again!
+I will always support you!
+------------------------------------------------
+[00000066][フリード,char_001 Fried]
+The sea is rough... It's just like the village now...
+I guess it will calm down at night...
+I wonder if the day will come when this village will calm down...
+------------------------------------------------
+[00000067][フリード,char_001 Fried]
+It was on this beach that I met Panis.
+Panis illuminated by the sunlight,
+She really looked like an angel.
+------------------------------------------------
+[00000068][フリード,char_001 Fried]
+I want to meet Panis...
+------------------------------------------------
+

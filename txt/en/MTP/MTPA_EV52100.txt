@@ -1,0 +1,76 @@
+[0021]
+*****************
+[00000000][フリード,char_001 Fried]
+Uh, wow! Lots of monsters...
+------------------------------------------------
+[00000001][パニス,char_002 Panis]
+When I came to the sea, it was there.
+If you don't defeat me, you can't play!
+------------------------------------------------
+[00000002][フリード,char_001 Fried]
+That's true, but... can you do it like that?
+------------------------------------------------
+[00000003][パニス,char_002 Panis]
+Yeah, it's okay!
+------------------------------------------------
+[00000004][フリード,char_001 Fried]
+TRUE……?
+Well, I guess it's okay if that's what you're saying.
+Well then, let's just take care of this thing!
+------------------------------------------------
+[00000005][パニス,char_002 Panis]
+Yay!
+Now you can play in the sea!
+------------------------------------------------
+[00000006][フリード,char_001 Fried]
+Panis. Don't just jump out and go.
+A monster like this
+Sometimes it comes out.
+------------------------------------------------
+[00000007][パニス,char_002 Panis]
+sorry……
+From now on, I'll go with Freed properly.
+------------------------------------------------
+[00000008][フリード,char_001 Fried]
+Yeah. But why did I suddenly want to play in the water?
+------------------------------------------------
+[00000009][パニス,char_002 Panis]
+Since the weather is nice, I wanted to try this on!
+------------------------------------------------
+[00000010][フリード,char_001 Fried]
+Really. Well then, come on and play.
+------------------------------------------------
+[00000011][パニス,char_002 Panis]
+Wow!
+------------------------------------------------
+[00000012][フリード,char_001 Fried]
+Wow, so many monsters again.
+Is this beach easy to get into?
+You have to be careful……
+------------------------------------------------
+[00000013][パニス,char_002 Panis]
+We can't play unless we defeat you, Freed!
+------------------------------------------------
+[00000014][フリード,char_001 Fried]
+I agree.
+Well then, let's go, Panis!
+------------------------------------------------
+[00000015][パニス,char_002 Panis]
+Yeah! 
+------------------------------------------------
+[00000016][フリード,char_001 Fried]
+Phew, I managed to defeat them all.
+------------------------------------------------
+[00000017][パニス,char_002 Panis]
+that? 
+------------------------------------------------
+[00000018][フリード,char_001 Fried]
+eh!?
+------------------------------------------------
+[00000019][パニス,char_002 Panis]
+Ah, I was let go!!
+------------------------------------------------
+[00000020][フリード,char_001 Fried]
+Wow, I must have been washed away while fighting...
+------------------------------------------------
+

@@ -1,0 +1,365 @@
+[0096]
+*****************
+[00000000][フリード,char_001 Fried]
+...It was quite a walk from the entrance.
+Is there still a way to go?
+------------------------------------------------
+[00000001][パニス,char_002 Panis]
+Freed, look!
+It's brighter in the front.
+------------------------------------------------
+[00000002][フリード,char_001 Fried]
+Is true.
+It looks like the ceiling is collapsing ahead.
+------------------------------------------------
+[00000003][キルマリア,char_007 Kilmaria]
+This is...a ruin!
+There are ruins deep inside this cave!
+------------------------------------------------
+[00000004][シャノン,char_004 Shannon]
+There are also monsters.
+------------------------------------------------
+[00000005][フリード,char_001 Fried]
+Kilmaria-san, you want to investigate those ruins, right?
+------------------------------------------------
+[00000006][キルマリア,char_007 Kilmaria]
+Yes, of course!
+But before that, there's a monster in the way.
+Let's eliminate it!
+------------------------------------------------
+[00000007][フリード,char_001 Fried]
+Is this the last time?
+Looks like the monster is gone.
+------------------------------------------------
+[00000008][ジンガ,char_005 zynga]
+Hey, look.
+There's a hole over there.
+This cave seems to continue for a long time.
+------------------------------------------------
+[00000009][キルマリア,char_007 Kilmaria]
+Everyone, please wait!
+The first thing to do is to investigate this ruin!
+------------------------------------------------
+[00000010][フリード,char_001 Fried]
+Okay, let's quickly collect them.
+I'd like to say...but...
+Monsters are in the way.
+------------------------------------------------
+[00000011][シャノン,char_004 Shannon]
+If monsters are wandering around,
+I can't calm down and cut my hair.
+------------------------------------------------
+[00000012][ジンガ,char_005 zynga]
+That's right.
+Well then, I guess I'll chase them away.
+------------------------------------------------
+[00000013][シャノン,char_004 Shannon]
+The monster that was roaming around here
+I guess it's mostly cleaned up.
+------------------------------------------------
+[00000014][フリード,char_001 Fried]
+Yeah, it doesn't look like he's coming back any time soon.
+------------------------------------------------
+[00000015][シャノン,char_004 Shannon]
+Well then, right now,
+Let's collect the hair of the giant horned mojara and go home.
+her mother is waiting
+------------------------------------------------
+[00000016][フリード,char_001 Fried]
+This is where I turned back the other day.
+------------------------------------------------
+[00000017][キルマリア,char_007 Kilmaria]
+that's right.
+I haven't been able to investigate beyond this point.
+------------------------------------------------
+[00000018][シャノン,char_004 Shannon]
+There's another monster.
+I wonder where it comes from?
+------------------------------------------------
+[00000019][ジンガ,char_005 zynga]
+By not defeating monsters,
+I don't think I can go this far.
+------------------------------------------------
+[00000020][フリード,char_001 Fried]
+Okay. Everyone, let's take care of the monsters!
+------------------------------------------------
+[00000021][フリード,char_001 Fried]
+Okay, the monster is gone.
+Now let's move forward.
+------------------------------------------------
+[00000022][キルマリア,char_007 Kilmaria]
+This is uncharted territory.
+Everyone, let's be very careful.
+------------------------------------------------
+[00000023][シャノン,char_004 Shannon]
+Kill Maria-san is the most dangerous,
+Be careful, really...
+------------------------------------------------
+[00000024][ベルベット,char_008 Velvet]
+It's kind of creepy...
+Something seems like it's about to come out.
+------------------------------------------------
+[00000025][シャノン,char_004 Shannon]
+Don't say anything nasty.
+Panis will be scared.
+------------------------------------------------
+[00000026][フリード,char_001 Fried]
+But it's definitely creepy.
+------------------------------------------------
+[00000027][アダム,char_006 a-dam]
+A plane of unknown affiliation ahead!
+It's coming this way!
+------------------------------------------------
+[00000028][フリード,char_001 Fried]
+What did you say!?
+------------------------------------------------
+[00000029][？？？,char_601]
+Found an intruder.
+Intercept mode starts.
+------------------------------------------------
+[00000030][アダム,char_006 a-dam]
+That is……!
+------------------------------------------------
+[00000031][アダム,char_006 a-dam]
+We have confirmed the identification code of the unknown aircraft.
+Combat Orgaroid,
+The type is "Cherubim Queen E.V.E."
+------------------------------------------------
+[00000032][シャノン,char_004 Shannon]
+Adam, do you know him?
+------------------------------------------------
+[00000033][アダム,char_006 a-dam]
+That...I don't know.
+Detailed memory is missing.
+but……
+------------------------------------------------
+[00000034][ジンガ,char_005 zynga]
+Now is not the time to say that!
+It's coming!
+------------------------------------------------
+[00000035][ケルビム,char_529]
+Interception mode has started.
+Eliminate intruders.
+------------------------------------------------
+[00000036][ジンガ,char_005 zynga]
+damn it!
+That guy is strong!
+------------------------------------------------
+[00000037][フリード,char_001 Fried]
+That sturdiness is troublesome...
+------------------------------------------------
+[00000038][シャノン,char_004 Shannon]
+Hey Adam!
+Doesn't he have any weaknesses?
+------------------------------------------------
+[00000039][アダム,char_006 a-dam]
+As for me...I don't know.
+Information is missing.
+------------------------------------------------
+[00000040][ベルベット,char_008 Velvet]
+Anyway, until he shuts up
+Don't keep hitting me!
+------------------------------------------------
+[00000041][ケルビム,char_529]
+Interception mode continues.
+Eliminate intruders.
+------------------------------------------------
+[00000042][ケルビム,char_529]
+Shi...intruder...annihilation...
+Senme...tsu...
+------------------------------------------------
+[00000043][ケルビム,char_529]
+…………
+------------------------------------------------
+[00000044][フリード,char_001 Fried]
+Is it finished...?
+------------------------------------------------
+[00000045][ジンガ,char_005 zynga]
+It looks like it's stopped moving.
+------------------------------------------------
+[00000046][キルマリア,char_007 Kilmaria]
+We did it, everyone!
+Another big victory for Justice!
+------------------------------------------------
+[00000047][アダム,char_006 a-dam]
+…………
+------------------------------------------------
+[00000048][フリード,char_001 Fried]
+It was it! Mr. Hans! Are you okay?
+Firmly!
+------------------------------------------------
+[00000049][ハンス,char_510]
+oh……
+Freed? No, it's a shame...
+------------------------------------------------
+[00000050][フリード,char_001 Fried]
+Don't talk now!
+Anyway, I'll take you back to the village!
+------------------------------------------------
+[00000051][フリード,char_001 Fried]
+Well...to take Hans home.
+Maybe the monsters wandering around are a nuisance.
+I have to take care of this first!
+------------------------------------------------
+[00000052][フリード,char_001 Fried]
+Okay, there's no more trouble.
+Hans, can you walk?
+------------------------------------------------
+[00000053][ハンス,char_510]
+Oh, oh.
+If you support me, somehow...
+------------------------------------------------
+[00000054][フリード,char_001 Fried]
+Understood. Watch your step.
+------------------------------------------------
+[00000055][ベルベット,char_008 Velvet]
+Wow...this is terrible.
+It really feels like a desolate land.
+------------------------------------------------
+[00000056][シャノン,char_004 Shannon]
+Hans, you came back alive and well.
+------------------------------------------------
+[00000057][フリード,char_001 Fried]
+I wonder where the oasis Hans-san was talking about?
+There is something like a dry pond...
+------------------------------------------------
+[00000058][キルマリア,char_007 Kilmaria]
+please look!
+There are what appear to be ruins around the dried up pond!
+------------------------------------------------
+[00000059][フリード,char_001 Fried]
+Is true.
+That's different from what Hans said.
+------------------------------------------------
+[00000060][キルマリア,char_007 Kilmaria]
+Let's find out right away!
+------------------------------------------------
+[00000061][シャノン,char_004 Shannon]
+Kilmaria-san, wait!
+Before that, I have to get rid of the monsters that are in my way!
+------------------------------------------------
+[00000062][シャノン,char_004 Shannon]
+Phew, it looks like it's cleared up.
+------------------------------------------------
+[00000063][キルマリア,char_007 Kilmaria]
+There's no one in the way anymore, right?
+Let's start the investigation right away!
+------------------------------------------------
+[00000064][パニス,char_002 Panis]
+Kill Maria is gone...
+------------------------------------------------
+[00000065][フリード,char_001 Fried]
+As usual, it's progressing at a rapid pace...
+------------------------------------------------
+[00000066][フリード,char_001 Fried]
+This is the last job.
+Let's all do our best!
+------------------------------------------------
+[00000067][シャノン,char_004 Shannon]
+There are monsters roaming around.
+Shall I clean it up first?
+------------------------------------------------
+[00000068][フリード,char_001 Fried]
+It's safer that way. Let's chase it away!
+------------------------------------------------
+[00000069][ジンガ,char_005 zynga]
+Okay, the monsters are mostly taken care of.
+------------------------------------------------
+[00000070][パニス,char_002 Panis]
+Let's quickly heal Soncho's bath!
+------------------------------------------------
+[00000071][フリード,char_001 Fried]
+I agree.
+Collect a lot and make it into something great!
+------------------------------------------------
+[00000072][フリード,char_001 Fried]
+Why are you targeting Panis?
+There must be some reason!?
+Maybe it's because Panis is an ancient person?
+------------------------------------------------
+[00000073][ヴァイオラ,char_003 Viola]
+"Ancient people"...?
+Are you saying that you know what I mean?
+------------------------------------------------
+[00000074][フリード,char_001 Fried]
+picture?
+------------------------------------------------
+[00000075][ヴァイオラ,char_003 Viola]
+...No, you don't need to know.
+Just shut up and watch.
+If you get in my way...I won't show any mercy.
+------------------------------------------------
+[00000076][キルマリア,char_007 Kilmaria]
+What do you mean!?
+Are you saying that winged humans and ancient humans are unrelated?
+------------------------------------------------
+[00000077][ヴァイオラ,char_003 Viola]
+Unrelated?　That can't be true.
+That's why I came to kill you!
+------------------------------------------------
+[00000078][フリード,char_001 Fried]
+What on earth are you talking about?
+------------------------------------------------
+[00000079][フリード,char_001 Fried]
+So, Panis is an ancient person!?
+Maybe you are
+Does it have something to do with those who targeted the “Ark”?
+------------------------------------------------
+[00000080][ヴァイオラ,char_003 Viola]
+"Ark"? ...If that's what you want to think, that's up to you.
+------------------------------------------------
+[00000081][シャノン,char_004 Shannon]
+Another incomprehensible thing!
+------------------------------------------------
+[00000082][ジンガ,char_005 zynga]
+The Ark, the Ancients, and Panis...
+I don't understand it at all!
+------------------------------------------------
+[00000083][ジンガ,char_005 zynga]
+nevertheless! I'll protect my friends!
+------------------------------------------------
+[00000084][ヴァイオラ,char_003 Viola]
+Even if you resist, I will definitely kill you.
+Because that's my mission.
+------------------------------------------------
+[00000085][ヴァイオラ,char_003 Viola]
+Damn...! If this goes on……
+------------------------------------------------
+[00000086][アダム,char_006 a-dam]
+Any further fighting is pointless.
+I recommend surrender.
+------------------------------------------------
+[00000087][ヴァイオラ,char_003 Viola]
+I won't give up.
+As many times as I want...!
+------------------------------------------------
+[00000088][ヴァイオラ,char_003 Viola]
+Next time, I'll do whatever it takes...!
+------------------------------------------------
+[00000089][ジンガ,char_005 zynga]
+Did it disappear again?
+------------------------------------------------
+[00000090][フリード,char_001 Fried]
+But I was able to protect Panis...
+It was a dangerous place...
+------------------------------------------------
+[00000091][フリード,char_001 Fried]
+I'm here again...!
+It's a monster!
+------------------------------------------------
+[00000092][シャノン,char_004 Shannon]
+already!
+Because Velvet says some weird things!
+------------------------------------------------
+[00000093][ベルベット,char_008 Velvet]
+It’s my fault!?
+Wait a minute, that's...!
+------------------------------------------------
+[00000094][ジンガ,char_005 zynga]
+This is not the time to say things like that!
+It's coming!!
+------------------------------------------------
+[00000095][]
+……help me.
+------------------------------------------------
+

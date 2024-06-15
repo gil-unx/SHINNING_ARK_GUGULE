@@ -1,0 +1,329 @@
+[0085]
+*****************
+[00000000][フリード,char_001 Fried]
+So, if you talk about it, you'll understand!
+------------------------------------------------
+[00000001][バッカス,char_527]
+Noisy!
+We finally got our hideout,
+It's so easy to get robbed!
+------------------------------------------------
+[00000002][ケルビム,char_529]
+That's right, Captain.
+We must protect the hideout with all our might.
+------------------------------------------------
+[00000003][レヴィン,char_009 Levin]
+There's no point in saying anything, Freed.
+If this happens, I have no choice but to force myself to listen.
+------------------------------------------------
+[00000004][ベルベット,char_008 Velvet]
+oh yeah.
+For a brat who doesn't know the difference,
+I have to punish you!
+------------------------------------------------
+[00000005][ケルビム,char_529]
+Shift to interception mode.
+Eliminate intruders.
+------------------------------------------------
+[00000006][ケルビム,char_529]
+The starting point for the dreams I built with my friends,
+I won't give it to you guys...!
+------------------------------------------------
+[00000007][シャノン,char_004 Shannon]
+I feel like...we're becoming the bad guys...
+------------------------------------------------
+[00000008][バッカス,char_527]
+Huh, Deputy Chief...
+Are you okay……?
+------------------------------------------------
+[00000009][ケルビム,char_529]
+Don't worry. There is no irreparable damage.
+but……
+------------------------------------------------
+[00000010][ケルビム,char_529]
+Tactical system is down.
+Checking and restarting will take some time.
+Combat cannot continue.
+------------------------------------------------
+[00000011][バッカス,char_527]
+Damn it!
+I finally got my hideout...!
+------------------------------------------------
+[00000012][ケルビム,char_529]
+I'm sorry, Captain.
+------------------------------------------------
+[00000013][フリード,char_001 Fried]
+So please listen to me!
+------------------------------------------------
+[00000014][ベルベット,char_008 Velvet]
+I've finally arrived.
+Here is the secret of "power"...
+------------------------------------------------
+[00000015][フリード,char_001 Fried]
+Velvet-san, wait!
+It's dangerous if you don't look around carefully when walking.
+There are monsters too!
+------------------------------------------------
+[00000016][ベルベット,char_008 Velvet]
+I understand, that's about it.
+...You guys are already bothering me!
+Get out of there!
+------------------------------------------------
+[00000017][ベルベット,char_008 Velvet]
+Now there will be no hindrances.
+Let's start investigating!
+------------------------------------------------
+[00000018][フリード,char_001 Fried]
+Velvet, calm down!
+If you go that fast, you'll fall!
+------------------------------------------------
+[00000019][シャノン,char_004 Shannon]
+...It looks like the number of Killmaria-san has increased by one.
+------------------------------------------------
+[00000020][キルマリア,char_007 Kilmaria]
+You may find an example here.
+Let's start investigating!
+------------------------------------------------
+[00000021][フリード,char_001 Fried]
+Kilmaria, calm down.
+We have to do something about the monsters first.
+------------------------------------------------
+[00000022][キルマリア,char_007 Kilmaria]
+that's right.
+What I did was
+I just ran away.
+------------------------------------------------
+[00000023][シャノン,char_004 Shannon]
+...I guess it's always the case.
+------------------------------------------------
+[00000024][キルマリア,char_007 Kilmaria]
+Now, let's exorcise the evil monster.
+In the name of Justice!
+------------------------------------------------
+[00000025][キルマリア,char_007 Kilmaria]
+Dirty monster, go away!
+------------------------------------------------
+[00000026][ジンガ,char_005 zynga]
+Good grief.
+Looks like the monster was chased away.
+------------------------------------------------
+[00000027][フリード,char_001 Fried]
+Mr. Kilmaria,
+Now you can investigate to your heart's content.
+------------------------------------------------
+[00000028][キルマリア,char_007 Kilmaria]
+thank you.
+Let's start investigating!
+------------------------------------------------
+[00000029][ジンガ,char_005 zynga]
+As expected, the environment here is harsh.
+I haven't stopped sweating since a while ago.
+------------------------------------------------
+[00000030][ジンガ,char_005 zynga]
+Moreover, the monsters are also powerful.
+------------------------------------------------
+[00000031][フリード,char_001 Fried]
+This seems a little tough.
+------------------------------------------------
+[00000032][ジンガ,char_005 zynga]
+But if we don't clean up, we can't investigate.
+Let's do it, Freed!
+------------------------------------------------
+[00000033][ジンガ,char_005 zynga]
+Looks like that's the end of the monster.
+------------------------------------------------
+[00000034][フリード,char_001 Fried]
+I agree. 
+------------------------------------------------
+[00000035][ジンガ,char_005 zynga]
+Okay, let's investigate the ruins.
+------------------------------------------------
+[00000036][シャノン,char_004 Shannon]
+This is from the village...
+Well, it's the ruins closest to the Ark.
+------------------------------------------------
+[00000037][シャノン,char_004 Shannon]
+Since it's this close, I'm sure
+There should also be some notes about the ark left.
+------------------------------------------------
+[00000038][フリード,char_001 Fried]
+I agree.
+But before we investigate, let's get rid of the monsters!
+------------------------------------------------
+[00000039][フリード,char_001 Fried]
+Looks like the current monster is the last one.
+------------------------------------------------
+[00000040][シャノン,char_004 Shannon]
+That's right.
+Now I can start investigating.
+------------------------------------------------
+[00000041][レヴィン,char_009 Levin]
+Well, as the cutie expected,
+Do you have any notes regarding the “Ark”?
+------------------------------------------------
+[00000042][アダム,char_006 a-dam]
+Burnt ruins...
+Was I also responsible for this tragedy?
+------------------------------------------------
+[00000043][レヴィン,char_009 Levin]
+Hey, Adam, leave your worries behind.
+Now is not the time to worry.
+------------------------------------------------
+[00000044][フリード,char_001 Fried]
+that's right.
+If you want to investigate the ruins, first look for monsters.
+I have to chase them away.
+------------------------------------------------
+[00000045][アダム,char_006 a-dam]
+Understood, Mr. Freed.
+Eliminate monsters wandering around the ruins.
+------------------------------------------------
+[00000046][アダム,char_006 a-dam]
+Within the detectable range,
+It seems like there are no more monsters.
+------------------------------------------------
+[00000047][フリード,char_001 Fried]
+Understood.
+Well then, let's investigate.
+------------------------------------------------
+[00000048][アダム,char_006 a-dam]
+yes.
+So let's start investigating.
+------------------------------------------------
+[00000049][シャノン,char_004 Shannon]
+……I see.
+Anyone can come if they want to.
+If only I had the means to do so.
+------------------------------------------------
+[00000050][フリード,char_001 Fried]
+There are many ancient weapons...
+Where did it come from?
+------------------------------------------------
+[00000051][アダム,char_006 a-dam]
+Perhaps the individual that restarted when the ark departed,
+It was probably still there.
+It's surprising that I've come this far.
+------------------------------------------------
+[00000052][ヴァイオラ,char_003 Viola]
+Anyway, I have to do something about them!
+------------------------------------------------
+[00000053][フリード,char_001 Fried]
+...Whew.
+Ancient weapons are tough after all.
+------------------------------------------------
+[00000054][ヴァイオラ,char_003 Viola]
+There are no more hindrances,
+Look for example notes.
+------------------------------------------------
+[00000055][ヴァイオラ,char_003 Viola]
+...The person who wrote that...
+I wonder what he was thinking when he came to this point.
+------------------------------------------------
+[00000056][レヴィン,char_009 Levin]
+This is the last ruin that hasn't been reexamined.
+The boy's abilities and clues about "that",
+I hope I can find it.
+------------------------------------------------
+[00000057][フリード,char_001 Fried]
+…………
+------------------------------------------------
+[00000058][レヴィン,char_009 Levin]
+Don't look so worried.
+The air is getting sour.
+------------------------------------------------
+[00000059][レヴィン,char_009 Levin]
+First, let's take care of what needs to be done.
+monsters roaming around
+The first thing to do is to knock it out.
+------------------------------------------------
+[00000060][フリード,char_001 Fried]
+...Ah, that's right.
+------------------------------------------------
+[00000061][フリード,char_001 Fried]
+Okay, the monsters are gone!
+------------------------------------------------
+[00000062][レヴィン,char_009 Levin]
+You look nice now, boy.
+You have to be like that!
+------------------------------------------------
+[00000063][レヴィン,char_009 Levin]
+Now, let's investigate the ruins.
+------------------------------------------------
+[00000064][フリード,char_001 Fried]
+That's Thor...
+------------------------------------------------
+[00000065][シャノン,char_004 Shannon]
+It looks brutal.
+I understand exactly what Adam means when he says "fuck you."
+------------------------------------------------
+[00000066][アダム,char_006 a-dam]
+Performance as a weapon,
+It's more ferocious than it looks.
+Everyone, please do not let your guard down.
+------------------------------------------------
+[00000067][ヴァイオラ,char_003 Viola]
+I can't let him out.
+I have to make up my mind here.
+------------------------------------------------
+[00000068][フリード,char_001 Fried]
+Oh, I know.
+If I don't defeat him here, the island...
+No, the world is in danger.
+------------------------------------------------
+[00000069][フリード,char_001 Fried]
+Everyone, let's go!
+------------------------------------------------
+[00000070][ジンガ,char_005 zynga]
+Did you defeat it...?
+------------------------------------------------
+[00000071][キルマリア,char_007 Kilmaria]
+We did it, everyone!
+We finally did it!
+This is Justice's big victory!!
+------------------------------------------------
+[00000072][フリード,char_001 Fried]
+I did it...I did it!
+I was able to protect the world!
+------------------------------------------------
+[00000073][レヴィン,char_009 Levin]
+You're a big deal after all, boy!
+Now, let's go home and celebrate!
+------------------------------------------------
+[00000074][パニス,char_002 Panis]
+...?
+------------------------------------------------
+[00000075][シャノン,char_004 Shannon]
+Panis, what's wrong?
+------------------------------------------------
+[00000076][パニス,char_002 Panis]
+Sister, look.
+There's something written here.
+------------------------------------------------
+[00000077][ベルベット,char_008 Velvet]
+What is it?
+Where is it written?
+------------------------------------------------
+[00000078][パニス,char_002 Panis]
+Look, it's here.
+------------------------------------------------
+[00000079][ヴァイオラ,char_003 Viola]
+I'm sure this is the last thing I'll write down.
+------------------------------------------------
+[00000080][シャノン,char_004 Shannon]
+We can't read it.
+Adam, please.
+------------------------------------------------
+[00000081][アダム,char_006 a-dam]
+I got it.
+I'll read it out loud.
+------------------------------------------------
+[00000082][アダム,char_006 a-dam]
+…………
+------------------------------------------------
+[00000083][フリード,char_001 Fried]
+picture……
+------------------------------------------------
+[00000084][フリード,char_001 Fried]
+Father...Mother...
+------------------------------------------------
+

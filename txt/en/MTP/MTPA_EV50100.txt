@@ -1,0 +1,299 @@
+[0080]
+*****************
+[00000000][フリード,char_001 Fried]
+There are medicinal herbs growing around here...
+Monsters are also wandering around.
+------------------------------------------------
+[00000001][フリード,char_001 Fried]
+But is this okay?
+I need to clean up quickly and bring the herbs home.
+------------------------------------------------
+[00000002][フリード,char_001 Fried]
+Okay! let's go!
+------------------------------------------------
+[00000003][フリード,char_001 Fried]
+Apparently, there are no other monsters.
+I have to bring the medicinal herbs home soon.
+------------------------------------------------
+[00000004][フリード,char_001 Fried]
+Because Shannon and others are there,
+I think that child is okay, but...
+------------------------------------------------
+[00000005][フリード,char_001 Fried]
+Well, is this enough?
+Okay! Let's go back!
+------------------------------------------------
+[00000006][シャノン,char_004 Shannon]
+there was! 
+------------------------------------------------
+[00000007][フリード,char_001 Fried]
+Indeed, if you leave it alone,
+The village is being vandalized.
+------------------------------------------------
+[00000008][ジンガ,char_005 zynga]
+That's how it is. Are you ready?
+------------------------------------------------
+[00000009][シャノン,char_004 Shannon]
+Leave it to me!
+------------------------------------------------
+[00000010][ジンガ,char_005 zynga]
+It seems like it's all sorted out.
+------------------------------------------------
+[00000011][シャノン,char_004 Shannon]
+I'm relieved now.
+Well then, let's go home!
+------------------------------------------------
+[00000012][フリード,char_001 Fried]
+I agree. I hope it gets better...
+------------------------------------------------
+[00000013][ジンガ,char_005 zynga]
+There it is! Are you ready?
+------------------------------------------------
+[00000014][シャノン,char_004 Shannon]
+I have to clean up quickly and go home.
+I can't leave Panis alone forever.
+------------------------------------------------
+[00000015][フリード,char_001 Fried]
+picture?
+------------------------------------------------
+[00000016][シャノン,char_004 Shannon]
+What's wrong?
+------------------------------------------------
+[00000017][フリード,char_001 Fried]
+No, it's nothing.
+Zynga, I'm ready.
+------------------------------------------------
+[00000018][ジンガ,char_005 zynga]
+Okay, let's go then!
+------------------------------------------------
+[00000019][シャノン,char_004 Shannon]
+Looks like the monster is gone.
+Well then, let's hurry home!
+------------------------------------------------
+[00000020][フリード,char_001 Fried]
+Shannon, are you that worried about Panis?
+------------------------------------------------
+[00000021][シャノン,char_004 Shannon]
+I-I'm curious.
+If you leave that child alone,
+I don't know what to do...
+------------------------------------------------
+[00000022][シャノン,char_004 Shannon]
+What if I did some prank and got hurt?
+Isn't it difficult!
+------------------------------------------------
+[00000023][フリード,char_001 Fried]
+It's okay. Even panis
+I won't go that far no matter what.
+You're still as anxious as ever, sis!
+------------------------------------------------
+[00000024][シャノン,char_004 Shannon]
+It's noisy! That kid is big, but
+You do the same thing as a small child, right?
+------------------------------------------------
+[00000025][シャノン,char_004 Shannon]
+It's no good to take small children lightly!
+What will you do for me?
+Because I don't understand!
+------------------------------------------------
+[00000026][シャノン,char_004 Shannon]
+Even Freed, when he was small,
+All kinds of outrageous things
+Because you did it for me!
+------------------------------------------------
+[00000027][フリード,char_001 Fried]
+What!? It’s about me!?
+------------------------------------------------
+[00000028][ジンガ,char_005 zynga]
+Hahaha, I dug an unexpected grave.
+Before the embarrassing story is revealed,
+It seems better to go back to the village, Freed.
+------------------------------------------------
+[00000029][フリード,char_001 Fried]
+Oh, that's right...
+------------------------------------------------
+[00000030][バッカス,char_527]
+Gaaaaaaaaaaaa!
+You had such a hard time coming all the way to get fucked by me!
+------------------------------------------------
+[00000031][バッカス,char_527]
+I will defeat you today,
+Let's get some treasures from the village!
+The first chapter of the heroic tale of Pirate King Bacchus!
+------------------------------------------------
+[00000032][バッカス,char_527]
+Defeat your destined rival,
+Uproot that treasure...!
+Kuu! It's a turn of events that makes me cringe just thinking about it!
+------------------------------------------------
+[00000033][シャノン,char_004 Shannon]
+Treasure Treasure is also a shame...
+Hey! I've said it many times, but
+There's no treasure in the village!
+------------------------------------------------
+[00000034][フリード,char_001 Fried]
+Usually, he always says that and attacks me,
+In the end, they lost and ran away.
+Isn't it better to just give up?
+------------------------------------------------
+[00000035][バッカス,char_527]
+Uh, noisy, noisy!
+This time I'll make you say hee hee!
+------------------------------------------------
+[00000036][バッカス,char_527]
+It's too late to apologize after that happens!
+Be prepared!
+------------------------------------------------
+[00000037][バッカス,char_527]
+T-tsk...!
+------------------------------------------------
+[00000038][シャノン,char_004 Shannon]
+Look, I lost again.
+That's why I tell you to be careless.
+------------------------------------------------
+[00000039][バッカス,char_527]
+Oh, how noisy! I can't lose yet!
+I don't want to lose, but I'll go home for now!
+------------------------------------------------
+[00000040][バッカス,char_527]
+This time, we'll keep it a draw!
+Nice! It's a draw! A draw!
+------------------------------------------------
+[00000041][バッカス,char_527]
+I'll show you something next time!
+Remember it!
+------------------------------------------------
+[00000042][フリード,char_001 Fried]
+Ahhh... I'm gone.
+------------------------------------------------
+[00000043][ジンガ,char_005 zynga]
+How long will he be the Pirate King and treasure?
+I guess that's what you're saying...
+------------------------------------------------
+[00000044][シャノン,char_004 Shannon]
+Come on. He himself keeps dreaming about it.
+I chased him away for now,
+Shall we go home for today?
+------------------------------------------------
+[00000045][フリード,char_001 Fried]
+I agree……
+------------------------------------------------
+[00000046][ジンガ,char_005 zynga]
+That giant! What the hell are you doing!
+Our village...!
+------------------------------------------------
+[00000047][ガルゼー,char_501]
+Freed! Zynga! Shannon!
+Let everyone escape! Sorry, but in the meantime...
+------------------------------------------------
+[00000048][ジンガ,char_005 zynga]
+Understood! 
+------------------------------------------------
+[00000049][フリード,char_001 Fried]
+Panis, it's dangerous here!
+Escape with the village chiefs!
+------------------------------------------------
+[00000050][パニス,char_002 Panis]
+…………
+------------------------------------------------
+[00000051][シャノン,char_004 Shannon]
+Panis! Quickly!
+It's dangerous here!
+------------------------------------------------
+[00000052][マイア,char_503]
+Panis-chan!　Here!
+------------------------------------------------
+[00000053][ジンガ,char_005 zynga]
+A giant is coming! Be careful!
+------------------------------------------------
+[00000054][フリード,char_001 Fried]
+picture! 
+------------------------------------------------
+[00000055][ジンガ,char_005 zynga]
+No! Attacks don't work!
+------------------------------------------------
+[00000056][シャノン,char_004 Shannon]
+All my attacks are being repelled...
+------------------------------------------------
+[00000057][フリード,char_001 Fried]
+I never expected it to be this strong...
+If this continues, everyone will be killed...
+------------------------------------------------
+[00000058][パニス,char_002 Panis]
+...I have to help.
+------------------------------------------------
+[00000059][フリード,char_001 Fried]
+Panis!? Haven't you run away yet?
+Don't come here!
+------------------------------------------------
+[00000060][フリード,char_001 Fried]
+Everyone, take Panis and run!
+I spent some time...
+------------------------------------------------
+[00000061][シャノン,char_004 Shannon]
+Also, you prioritize people!
+There's no way you can do that!
+------------------------------------------------
+[00000062][ジンガ,char_005 zynga]
+Shit...!
+I'll protect Panis...!!
+------------------------------------------------
+[00000063][シャノン,char_004 Shannon]
+what? 
+------------------------------------------------
+[00000064][ジンガ,char_005 zynga]
+I do not understand.
+However, the state of the giant...
+------------------------------------------------
+[00000065][フリード,char_001 Fried]
+Is the giant suffering?
+What's going on?
+------------------------------------------------
+[00000066][ジンガ,char_005 zynga]
+The giant... has disappeared!?
+What on earth happened!?
+------------------------------------------------
+[00000067][フリード,char_001 Fried]
+Is this because of Panis' song?
+------------------------------------------------
+[00000068][シャノン,char_004 Shannon]
+What's going on?
+I don't understand...
+------------------------------------------------
+[00000069][パニス,char_002 Panis]
+...Whew.
+------------------------------------------------
+[00000070][フリード,char_001 Fried]
+Panis! Are you okay?
+You're not hurt, right?
+------------------------------------------------
+[00000071][パニス,char_002 Panis]
+Yeah, it's okay.
+------------------------------------------------
+[00000072][フリード,char_001 Fried]
+What's the song now?
+Did you beat him with your song?
+------------------------------------------------
+[00000073][パニス,char_002 Panis]
+That kid?　No, I haven't defeated you yet?
+I just asked him to come home.
+------------------------------------------------
+[00000074][フリード,char_001 Fried]
+Did you come home?
+------------------------------------------------
+[00000075][パニス,char_002 Panis]
+Yeah. Because everyone is scared.
+------------------------------------------------
+[00000076][シャノン,char_004 Shannon]
+Did you come back when I said that?
+------------------------------------------------
+[00000077][パニス,char_002 Panis]
+Yeah. So I'll definitely come again.
+------------------------------------------------
+[00000078][フリード,char_001 Fried]
+……I see.
+------------------------------------------------
+[00000079][シャノン,char_004 Shannon]
+I'll come again...
+------------------------------------------------
+

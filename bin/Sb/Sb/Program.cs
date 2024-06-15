@@ -12,10 +12,7 @@ namespace Sb
         static void Main(string[] args)
         {
 
-            MXE m = new MXE("C:\\Users\\ThinkPad\\Desktop\\SA\\MXE\\GAME_INFO_POTENTIAL.mxe");
-           // m.WriteTxt("C:\\Users\\ThinkPad\\Desktop\\SA\\MXE\\GAME_INFO_POTENTIAL.txt");
-            m.WriteMxe("C:\\Users\\ThinkPad\\Desktop\\SA\\MXE\\GAME_INFO_POTENTIAL.txt", "C:\\Users\\ThinkPad\\Desktop\\SA\\MXE\\GAME_INFO_POTENTIAL.new");
-            if (args.Length == 0)
+           if (args.Length == 0)
             {
                 ShowOptions();
             }

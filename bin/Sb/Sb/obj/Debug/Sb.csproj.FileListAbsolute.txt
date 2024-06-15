@@ -19,3 +19,10 @@ C:\Users\ThinkPad\Desktop\SA\bin\Sb\Sb\obj\Debug\Sb.csproj.AssemblyReference.cac
 C:\Users\ThinkPad\Desktop\SA\bin\Sb\Sb\obj\Debug\Sb.csproj.CoreCompileInputs.cache
 C:\Users\ThinkPad\Desktop\SA\bin\Sb\Sb\obj\Debug\Sb.exe
 C:\Users\ThinkPad\Desktop\SA\bin\Sb\Sb\obj\Debug\Sb.pdb
+C:\Users\ThinkPad\Documents\GitHub\SHINNING_ARK_GUGULE\bin\Sb\Sb\bin\Debug\Sb.exe.config
+C:\Users\ThinkPad\Documents\GitHub\SHINNING_ARK_GUGULE\bin\Sb\Sb\bin\Debug\Sb.exe
+C:\Users\ThinkPad\Documents\GitHub\SHINNING_ARK_GUGULE\bin\Sb\Sb\bin\Debug\Sb.pdb
+C:\Users\ThinkPad\Documents\GitHub\SHINNING_ARK_GUGULE\bin\Sb\Sb\obj\Debug\Sb.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Documents\GitHub\SHINNING_ARK_GUGULE\bin\Sb\Sb\obj\Debug\Sb.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Documents\GitHub\SHINNING_ARK_GUGULE\bin\Sb\Sb\obj\Debug\Sb.exe
+C:\Users\ThinkPad\Documents\GitHub\SHINNING_ARK_GUGULE\bin\Sb\Sb\obj\Debug\Sb.pdb

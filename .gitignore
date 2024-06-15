@@ -14,3 +14,6 @@ isofiles/pgdecrypt.exe
 isofiles/vkey
 *.pyc
 *.iso
+/bin/Sb/.vs
+bin/Sb/.vs/Sb/FileContentIndex/48c82d6d-4889-470f-9e1b-011d9057dce7.vsidx
+/bin/Sb/.vs/Sb

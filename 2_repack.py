@@ -2,9 +2,9 @@ from bin.python.fun import *
  
 insert_asm()
 
-#encode_file()
+encode_file()
 
-#repack_cpk()
+repack_cpk()
 
 pgdecrypt()
 
